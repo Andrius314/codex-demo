@@ -773,6 +773,73 @@ def load_youtube_transcript_via_ytdlp(video_id: str) -> str:
         "quiet": True,
         "no_warnings": True,
         "skip_download": True,
+        "extractor_args": {"youtube": {"player_client": ["android", "web", "tv_embedded"]}},
+    }
+
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(video_url, download=False)
+            if not isinstance(info, dict):
+                return ""
+
+            subtitles = info.get("subtitles") if isinstance(info.get("subtitles"), dict) else {}
+            automatic = info.get("automatic_captions") if isinstance(info.get("automatic_captions"), dict) else {}
+
+            def language_candidates(source: dict[str, Any], preferred: list[str]) -> list[dict[str, Any]]:
+                out: list[dict[str, Any]] = []
+                for pref in preferred:
+                    for lang, entries in source.items():
+                        if not isinstance(lang, str):
+                            continue
+                        if lang.lower() == pref or lang.lower().startswith(pref + "-"):
+                            if isinstance(entries, list):
+                                out.extend([entry for entry in entries if isinstance(entry, dict)])
+                return out
+
+            preferred_langs = ["lt", "en"]
+            candidates = language_candidates(subtitles, preferred_langs) + language_candidates(automatic, preferred_langs)
+
+            preferred_ext = ["json3", "json", "srv3", "srv2", "srv1", "ttml", "xml", "vtt"]
+
+            def ext_rank(entry: dict[str, Any]) -> int:
+                ext = str(entry.get("ext") or "").lower()
+                try:
+                    return preferred_ext.index(ext)
+                except ValueError:
+                    return len(preferred_ext) + 1
+
+            for entry in sorted(candidates, key=ext_rank):
+                sub_url = str(entry.get("url") or "").strip()
+                if not sub_url:
+                    continue
+                try:
+                    with ydl.urlopen(sub_url) as response:
+                        payload = response.read().decode("utf-8", errors="ignore")
+                    text = subtitle_payload_to_text(payload)
+                    if text:
+                        return text[:MAX_TRANSCRIPT_CHARS].strip()
+                except Exception:
+                    continue
+    except Exception:
+        return ""
+
+    return ""
+
+
+def load_youtube_description_via_ytdlp(video_id: str) -> str:
+    if not video_id:
+        return ""
+
+    try:
+        import yt_dlp
+    except Exception:
+        return ""
+
+    video_url = f"https://www.youtube.com/watch?v={video_id}"
+    ydl_opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
     }
 
     try:
@@ -784,47 +851,32 @@ def load_youtube_transcript_via_ytdlp(video_id: str) -> str:
     if not isinstance(info, dict):
         return ""
 
-    subtitles = info.get("subtitles") if isinstance(info.get("subtitles"), dict) else {}
-    automatic = info.get("automatic_captions") if isinstance(info.get("automatic_captions"), dict) else {}
+    parts: list[str] = []
+    description = normalize_text(str(info.get("description") or ""))
+    if description:
+        parts.append(description)
 
-    def language_candidates(source: dict[str, Any], preferred: list[str]) -> list[dict[str, Any]]:
-        out: list[dict[str, Any]] = []
-        for pref in preferred:
-            for lang, entries in source.items():
-                if not isinstance(lang, str):
-                    continue
-                if lang.lower() == pref or lang.lower().startswith(pref + "-"):
-                    if isinstance(entries, list):
-                        out.extend([entry for entry in entries if isinstance(entry, dict)])
-        return out
+    chapters = info.get("chapters")
+    if isinstance(chapters, list) and chapters:
+        chapter_lines: list[str] = []
+        for chapter in chapters[:24]:
+            if not isinstance(chapter, dict):
+                continue
+            start_time = chapter.get("start_time")
+            title = normalize_text(str(chapter.get("title") or ""))
+            if not title:
+                continue
+            if isinstance(start_time, (int, float)):
+                minutes = int(start_time // 60)
+                seconds = int(start_time % 60)
+                chapter_lines.append(f"{minutes:02d}:{seconds:02d} {title}")
+            else:
+                chapter_lines.append(title)
+        if chapter_lines:
+            parts.append("Skyriai: " + " | ".join(chapter_lines))
 
-    preferred_langs = ["lt", "en"]
-    candidates = language_candidates(subtitles, preferred_langs) + language_candidates(automatic, preferred_langs)
-
-    preferred_ext = ["json3", "json", "srv3", "srv2", "srv1", "ttml", "xml", "vtt"]
-
-    def ext_rank(entry: dict[str, Any]) -> int:
-        ext = str(entry.get("ext") or "").lower()
-        try:
-            return preferred_ext.index(ext)
-        except ValueError:
-            return len(preferred_ext) + 1
-
-    for entry in sorted(candidates, key=ext_rank):
-        sub_url = str(entry.get("url") or "").strip()
-        if not sub_url:
-            continue
-        try:
-            req = urllib.request.Request(sub_url, headers={"User-Agent": "codex-ai-news-bot/1.0"})
-            with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as response:
-                payload = response.read().decode("utf-8", errors="ignore")
-            text = subtitle_payload_to_text(payload)
-            if text:
-                return text[:MAX_TRANSCRIPT_CHARS].strip()
-        except Exception:
-            continue
-
-    return ""
+    combined = normalize_text(" ".join(parts))
+    return combined[:6000].strip()
 
 
 def load_youtube_transcript_fallback(video_id: str) -> str:
@@ -978,7 +1030,9 @@ def read_youtube_feed(feed_url: str) -> list[NewsItem]:
         if transcript_summary_lt:
             summary = transcript_summary_lt
         else:
-            summary = translate_text_to_lt(summarize_text(description, max_chars=MAX_SUMMARY_CHARS))
+            richer_description = load_youtube_description_via_ytdlp(video_id)
+            base_description = richer_description or description
+            summary = translate_text_to_lt(summarize_text(base_description, max_chars=MAX_SUMMARY_CHARS))
 
         item = item_from_raw(
             title=title,
