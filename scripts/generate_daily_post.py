@@ -616,19 +616,39 @@ def load_youtube_transcript(video_id: str) -> str:
     except Exception:
         return ""
 
-    transcript_items: list[dict[str, Any]] = []
+    transcript_items: list[Any] = []
 
+    # youtube-transcript-api >= 1.0 uses instance.fetch(...),
+    # older releases exposed classmethod get_transcript(...).
     try:
-        transcript_items = YouTubeTranscriptApi.get_transcript(video_id, languages=["lt", "en"])
+        api = YouTubeTranscriptApi()
+        fetched = api.fetch(video_id, languages=["lt", "en"])
+        if hasattr(fetched, "to_raw_data"):
+            transcript_items = list(fetched.to_raw_data())
+        else:
+            transcript_items = list(fetched)
     except Exception:
+        transcript_items = []
+
+    if not transcript_items and hasattr(YouTubeTranscriptApi, "get_transcript"):
         try:
-            transcript_items = YouTubeTranscriptApi.get_transcript(video_id)
+            transcript_items = YouTubeTranscriptApi.get_transcript(video_id, languages=["lt", "en"])
         except Exception:
-            return ""
+            try:
+                transcript_items = YouTubeTranscriptApi.get_transcript(video_id)
+            except Exception:
+                transcript_items = []
+
+    if not transcript_items:
+        return ""
 
     text_parts = []
     for item in transcript_items:
-        text = normalize_text(str(item.get("text") or ""))
+        text = ""
+        if isinstance(item, dict):
+            text = normalize_text(str(item.get("text") or ""))
+        else:
+            text = normalize_text(str(getattr(item, "text", "") or ""))
         if not text:
             continue
         if text.startswith("[") and text.endswith("]"):
