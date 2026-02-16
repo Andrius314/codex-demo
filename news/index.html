@@ -1,198 +1,472 @@
 ﻿<!doctype html>
-<html lang="en">
+<html lang="lt">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Daily News Digest</title>
+  <title>DI naujienų centras</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=IBM+Plex+Serif:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg-a: #f5f7fa;
-      --bg-b: #e5ecf4;
-      --text: #14213d;
-      --muted: #4f5d75;
-      --card: rgba(255, 255, 255, 0.85);
-      --accent: #e07a5f;
-      --accent-dark: #bf5a42;
-      --line: rgba(20, 33, 61, 0.12);
+      --ink: #1a2b3c;
+      --muted: #4f6478;
+      --bg-1: #f8f4ec;
+      --bg-2: #e4f0ff;
+      --card: rgba(255, 255, 255, 0.78);
+      --line: rgba(26, 43, 60, 0.16);
+      --brand: #0f8b8d;
+      --brand-deep: #0b5f61;
+      --accent: #ef8354;
+      --shadow: 0 18px 35px rgba(23, 38, 58, 0.12);
     }
 
     * { box-sizing: border-box; }
 
     body {
       margin: 0;
-      font-family: "Segoe UI Variable", "Trebuchet MS", sans-serif;
-      color: var(--text);
-      background:
-        radial-gradient(circle at 10% -10%, #fff8dc 0%, transparent 40%),
-        radial-gradient(circle at 90% -10%, #d9f0ff 0%, transparent 35%),
-        linear-gradient(145deg, var(--bg-a), var(--bg-b));
+      font-family: "Manrope", "Segoe UI", sans-serif;
+      color: var(--ink);
       min-height: 100vh;
+      background:
+        radial-gradient(circle at 8% 0%, #fff5da 0%, transparent 34%),
+        radial-gradient(circle at 90% 4%, #d9f3ff 0%, transparent 32%),
+        linear-gradient(160deg, var(--bg-1), var(--bg-2));
     }
 
-    .wrap {
-      max-width: 980px;
-      margin: 0 auto;
-      padding: 28px 20px 48px;
+    .layout {
+      width: min(1080px, 94vw);
+      margin: 28px auto 52px;
     }
 
     .hero {
-      background: linear-gradient(135deg, rgba(255,255,255,0.8), rgba(255,255,255,0.55));
       border: 1px solid var(--line);
-      border-radius: 18px;
+      border-radius: 22px;
+      background: linear-gradient(145deg, rgba(255,255,255,0.82), rgba(255,255,255,0.58));
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(8px);
       padding: 24px;
-      backdrop-filter: blur(6px);
+      position: relative;
+      overflow: hidden;
     }
 
-    .eyebrow {
+    .hero::after {
+      content: "";
+      position: absolute;
+      right: -34px;
+      top: -34px;
+      width: 150px;
+      height: 150px;
+      border-radius: 999px;
+      background: radial-gradient(circle at 40% 40%, rgba(239,131,84,0.34), rgba(239,131,84,0));
+      pointer-events: none;
+    }
+
+    .kicker {
       margin: 0;
-      color: var(--muted);
-      font-size: 13px;
-      letter-spacing: 0.08em;
       text-transform: uppercase;
+      font-size: 12px;
+      letter-spacing: 0.09em;
+      color: var(--muted);
+      font-weight: 700;
     }
 
     h1 {
-      margin: 8px 0 10px;
-      font-size: clamp(1.8rem, 4.5vw, 2.8rem);
-      line-height: 1.1;
+      margin: 8px 0 6px;
+      font-size: clamp(1.9rem, 5vw, 3.1rem);
+      line-height: 1.05;
+      letter-spacing: -0.02em;
     }
 
-    .meta {
+    .lead {
       margin: 0;
+      color: var(--muted);
+      font-family: "IBM Plex Serif", Georgia, serif;
+      font-style: italic;
+      font-size: 1.02rem;
+    }
+
+    .topline {
+      margin-top: 16px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
       color: var(--muted);
       font-size: 14px;
     }
 
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      padding: 6px 11px;
+      background: rgba(255,255,255,0.75);
+    }
+
+    .controls {
+      margin-top: 16px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+    }
+
+    .control {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: rgba(255,255,255,0.77);
+      padding: 10px 12px;
+    }
+
+    .control label {
+      display: block;
+      margin: 0 0 6px;
+      color: var(--muted);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      font-weight: 700;
+    }
+
+    .control input,
+    .control select {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      padding: 9px 10px;
+      font: inherit;
+      background: #fff;
+      color: var(--ink);
+    }
+
+    .links {
+      margin-top: 14px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 14px;
+      border-radius: 10px;
+      font-weight: 700;
+      text-decoration: none;
+      font-size: 14px;
+      transition: transform 0.16s ease, background 0.16s ease;
+    }
+
+    .btn-primary {
+      background: var(--brand);
+      color: #fff;
+    }
+
+    .btn-primary:hover {
+      background: var(--brand-deep);
+      transform: translateY(-1px);
+    }
+
+    .btn-secondary {
+      background: rgba(255,255,255,0.84);
+      border: 1px solid var(--line);
+      color: var(--ink);
+    }
+
+    .btn-secondary:hover {
+      border-color: var(--brand);
+      color: var(--brand-deep);
+      transform: translateY(-1px);
+    }
+
+    .state {
+      margin-top: 18px;
+      border-radius: 13px;
+      border: 1px dashed var(--line);
+      padding: 14px;
+      color: var(--muted);
+      background: rgba(255,255,255,0.62);
+    }
+
     .grid {
-      margin-top: 22px;
+      margin-top: 20px;
       display: grid;
       gap: 14px;
     }
 
     .card {
-      background: var(--card);
       border: 1px solid var(--line);
-      border-radius: 14px;
-      padding: 16px;
-      box-shadow: 0 8px 18px rgba(20, 33, 61, 0.06);
+      border-radius: 16px;
+      background: var(--card);
+      box-shadow: 0 8px 22px rgba(30, 50, 72, 0.1);
+      overflow: hidden;
+      display: grid;
+      grid-template-columns: 190px 1fr;
       transform: translateY(8px);
       opacity: 0;
-      animation: rise 0.45s ease forwards;
+      animation: fadeUp .42s ease forwards;
     }
 
-    .card h2 {
+    .thumb {
+      background: linear-gradient(150deg, #dceeff, #f9e8db);
+      min-height: 132px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .thumb span {
+      color: var(--muted);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+    }
+
+    .content {
+      padding: 14px 16px 15px;
+    }
+
+    .meta {
       margin: 0 0 8px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .pill {
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      padding: 4px 8px;
+      background: rgba(255,255,255,0.85);
+    }
+
+    .title {
+      margin: 0;
       font-size: 1.08rem;
       line-height: 1.35;
+      font-weight: 800;
     }
 
-    .card a {
-      color: var(--text);
+    .title a {
       text-decoration: none;
+      color: var(--ink);
     }
 
-    .card a:hover {
-      color: var(--accent-dark);
+    .title a:hover {
+      color: var(--brand-deep);
       text-decoration: underline;
     }
 
-    .when {
-      margin: 0 0 8px;
-      color: var(--muted);
-      font-size: 13px;
-    }
-
     .summary {
-      margin: 0;
-      line-height: 1.45;
-      color: #273654;
+      margin: 8px 0 0;
+      color: #26384b;
+      line-height: 1.48;
+      font-size: .96rem;
     }
 
-    .state {
-      margin-top: 20px;
-      padding: 14px;
-      border-radius: 12px;
-      border: 1px dashed var(--line);
+    .empty {
+      margin-top: 18px;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.68);
+      padding: 18px;
       color: var(--muted);
-      background: rgba(255,255,255,0.65);
     }
 
-    .btn {
-      display: inline-block;
-      margin-top: 14px;
-      background: var(--accent);
-      color: white;
-      text-decoration: none;
-      padding: 10px 14px;
-      border-radius: 10px;
-      font-weight: 600;
-      transition: transform 0.15s ease, background 0.15s ease;
+    @keyframes fadeUp {
+      to { opacity: 1; transform: translateY(0); }
     }
 
-    .btn:hover {
-      background: var(--accent-dark);
-      transform: translateY(-1px);
-    }
-
-    @keyframes rise {
-      to {
-        transform: translateY(0);
-        opacity: 1;
-      }
+    @media (max-width: 780px) {
+      .card { grid-template-columns: 1fr; }
+      .thumb { min-height: 170px; }
     }
   </style>
 </head>
 <body>
-  <main class="wrap">
+  <main class="layout">
     <section class="hero">
-      <p class="eyebrow">Auto-updated</p>
-      <h1 id="title">Daily News Digest</h1>
-      <p id="meta" class="meta">Loading latest feed...</p>
-      <a class="btn" href="../posts/">Open markdown posts</a>
+      <p class="kicker">Automatinis AI naujienų srautas</p>
+      <h1 id="title">DI naujienų centras</h1>
+      <p id="lead" class="lead">Įkeliama naujausia santrauka...</p>
+
+      <div class="topline">
+        <span id="updatedChip" class="chip">Atnaujinta: -</span>
+        <span id="countChip" class="chip">Įrašų: -</span>
+      </div>
+
+      <div class="controls">
+        <div class="control">
+          <label for="datePicker">Data (kalendorius)</label>
+          <input id="datePicker" type="date" />
+        </div>
+
+        <div class="control">
+          <label for="sortSelect">Rikiavimas</label>
+          <select id="sortSelect">
+            <option value="newest">Naujausios pirmiau</option>
+            <option value="oldest">Seniausios pirmiau</option>
+            <option value="source">Pagal šaltinį</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="links">
+        <a class="btn btn-primary" href="../posts/">Atidaryti markdown archyvą</a>
+        <a class="btn btn-secondary" href="./latest.json">Peržiūrėti latest.json</a>
+      </div>
     </section>
 
-    <section id="state" class="state">Loading latest.json...</section>
+    <section id="state" class="state">Skaitomas `archive.json`...</section>
     <section id="list" class="grid"></section>
   </main>
 
   <script>
-    async function loadNews() {
-      const state = document.getElementById('state');
-      const list = document.getElementById('list');
-      const title = document.getElementById('title');
-      const meta = document.getElementById('meta');
+    const els = {
+      title: document.getElementById('title'),
+      lead: document.getElementById('lead'),
+      updatedChip: document.getElementById('updatedChip'),
+      countChip: document.getElementById('countChip'),
+      datePicker: document.getElementById('datePicker'),
+      sortSelect: document.getElementById('sortSelect'),
+      state: document.getElementById('state'),
+      list: document.getElementById('list')
+    };
 
-      try {
-        const res = await fetch('./latest.json', { cache: 'no-store' });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
+    const state = {
+      archive: null,
+      selectedDate: '',
+      sort: 'newest'
+    };
 
-        const topic = data.topic || 'Technology';
-        const generatedAt = data.generated_at_utc || 'unknown';
-        const items = Array.isArray(data.items) ? data.items : [];
+    function sortItems(items, mode) {
+      const clone = [...items];
+      if (mode === 'oldest') {
+        clone.sort((a, b) => (a.published_iso || '').localeCompare(b.published_iso || ''));
+        return clone;
+      }
+      if (mode === 'source') {
+        clone.sort((a, b) => (a.source || '').localeCompare(b.source || '', 'lt'));
+        return clone;
+      }
+      clone.sort((a, b) => (b.published_iso || '').localeCompare(a.published_iso || ''));
+      return clone;
+    }
 
-        title.textContent = `Daily ${topic} News Digest`;
-        meta.textContent = `Generated at: ${generatedAt}`;
+    function digestByDate(date) {
+      if (!state.archive || !Array.isArray(state.archive.digests)) return null;
+      return state.archive.digests.find(d => d.digest_date === date) || null;
+    }
 
-        if (!items.length) {
-          state.textContent = 'No items available yet. Run the generator/workflow.';
-          return;
-        }
+    function renderItems(items) {
+      if (!items.length) {
+        els.list.innerHTML = '<article class="empty">Šiai datai įrašų nėra. Pasirink kitą datą kalendoriuje.</article>';
+        return;
+      }
 
-        state.remove();
-        list.innerHTML = items.map((item, idx) => `
-          <article class="card" style="animation-delay:${Math.min(idx * 0.06, 0.4)}s">
-            <h2><a target="_blank" rel="noopener" href="${item.link || '#'}">${item.title || 'Untitled'}</a></h2>
-            <p class="when">Published: ${item.published_utc || 'Date not provided'}</p>
-            <p class="summary">${item.summary || ''}</p>
+      els.list.innerHTML = items.map((item, index) => {
+        const title = item.title || 'Be pavadinimo';
+        const link = item.link || '#';
+        const published = item.published_lt || 'Data nenurodyta';
+        const summary = item.summary || 'Santrauka nepateikta.';
+        const source = item.source || 'Šaltinis';
+        const image = item.image_url || '';
+
+        const thumb = image
+          ? `<img loading="lazy" src="${image}" alt="${title.replace(/"/g, '&quot;')}" />`
+          : '<span>AI News</span>';
+
+        return `
+          <article class="card" style="animation-delay:${Math.min(index * 0.05, 0.4)}s">
+            <div class="thumb">${thumb}</div>
+            <div class="content">
+              <p class="meta">
+                <span class="pill">${source}</span>
+                <span class="pill">${published}</span>
+              </p>
+              <h2 class="title"><a href="${link}" target="_blank" rel="noopener">${title}</a></h2>
+              <p class="summary">${summary}</p>
+            </div>
           </article>
-        `).join('');
+        `;
+      }).join('');
+    }
+
+    function renderCurrentDigest() {
+      const digest = digestByDate(state.selectedDate);
+      if (!digest) {
+        els.countChip.textContent = 'Įrašų: 0';
+        renderItems([]);
+        return;
+      }
+
+      const items = sortItems(Array.isArray(digest.items) ? digest.items : [], state.sort);
+      const topic = state.archive.topic_lt || 'Dirbtinis intelektas ir technologijos';
+
+      els.title.textContent = `${topic}`;
+      els.lead.textContent = `Data: ${digest.digest_date}. Šaltiniai atrenkami automatiškai kasdien.`;
+      els.updatedChip.textContent = `Atnaujinta: ${digest.generated_at_utc || '-'}`;
+      els.countChip.textContent = `Įrašų: ${items.length}`;
+      renderItems(items);
+    }
+
+    function setupControls() {
+      const digests = Array.isArray(state.archive?.digests) ? state.archive.digests : [];
+      const dates = digests
+        .map(d => d.digest_date)
+        .filter(Boolean)
+        .sort((a, b) => b.localeCompare(a));
+
+      if (!dates.length) {
+        els.state.textContent = 'Archyvas tuščias. Paleisk workflow, kad būtų sugeneruoti duomenys.';
+        return;
+      }
+
+      els.state.remove();
+      els.datePicker.max = dates[0];
+      els.datePicker.min = dates[dates.length - 1];
+      state.selectedDate = dates[0];
+      els.datePicker.value = state.selectedDate;
+
+      els.datePicker.addEventListener('change', () => {
+        state.selectedDate = els.datePicker.value;
+        renderCurrentDigest();
+      });
+
+      els.sortSelect.addEventListener('change', () => {
+        state.sort = els.sortSelect.value;
+        renderCurrentDigest();
+      });
+
+      renderCurrentDigest();
+    }
+
+    async function loadArchive() {
+      try {
+        const res = await fetch('./archive.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        state.archive = await res.json();
+        setupControls();
       } catch (error) {
-        state.textContent = `Could not load latest.json (${error.message}).`;
+        els.state.textContent = `Nepavyko įkelti archyvo: ${error.message}`;
       }
     }
 
-    loadNews();
+    loadArchive();
   </script>
 </body>
 </html>

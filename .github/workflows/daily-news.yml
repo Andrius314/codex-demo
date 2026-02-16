@@ -21,20 +21,21 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate daily news markdown and json
+      - name: Generate AI daily digest
         env:
-          NEWS_TOPIC: "Technology"
-          NEWS_MAX_ITEMS: "6"
+          NEWS_TOPIC: "Dirbtinis intelektas ir technologijos"
+          NEWS_MAX_ITEMS: "10"
+          NEWS_FEEDS: "https://www.artificialintelligence-news.com/feed/,https://www.marktechpost.com/feed/,https://blog.google/technology/ai/rss/"
         run: python scripts/generate_daily_post.py
 
       - name: Commit and push if changed
         run: |
-          if [[ -n "$(git status --porcelain posts/ news/latest.json)" ]]; then
+          if [[ -n "$(git status --porcelain posts/ news/latest.json news/archive.json)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add posts/ news/latest.json
-            git commit -m "chore: add daily news digest"
+            git add posts/ news/latest.json news/archive.json
+            git commit -m "chore: atnaujinta dienos DI naujienu santrauka"
             git push
           else
-            echo "No post changes"
+            echo "No content changes"
           fi

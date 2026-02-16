@@ -1,33 +1,34 @@
 ﻿# Codex Demo Projektas
 
-Tikslas: parodyti praktini automatizavimo pavyzdi su GitHub Pages.
+Tikslas: praktinis DI ir technologijų naujienų automatizavimas GitHub Pages aplinkoje.
 
-## Struktura
-- `scripts/generate_daily_post.py` - surenka RSS naujienas ir sukuria:
-  - `posts/YYYY-MM-DD-daily-news-digest.md`
+## Kas veikia
+- `scripts/generate_daily_post.py` surenka AI/tech RSS srautus ir sugeneruoja:
+  - `posts/YYYY-MM-DD-ai-tech-news-digest.md`
   - `news/latest.json`
-- `news/index.html` - naujienu puslapis, kuris atvaizduoja `latest.json`.
-- `.github/workflows/daily-news.yml` - kasdienis GitHub Actions paleidimas.
+  - `news/archive.json`
+- `news/index.html` rodo gražų puslapį lietuvių kalba su:
+  - kalendoriumi (`type=date`) pagal santraukos datą,
+  - rikiavimu (naujausios/seniausios/pagal šaltinį),
+  - kortelėmis ir miniatiūromis (jei feed pateikia vaizdą).
+- `.github/workflows/daily-news.yml` kasdien paleidžia generatorių ir automatiškai commitina pakeitimus.
 
-## Kaip paleisti lokaliai
+## Paleidimas lokaliai
 1. `cd c:\Users\nerap\Desktop\codex-demo`
 2. `python .\scripts\generate_daily_post.py`
-3. Atidaryk `news/index.html` naršyklėje.
+3. atidaryk `news/index.html` naršyklėje.
 
-## GitHub automatizavimas
-`daily-news.yml` daro sita:
-1. Kasdien 07:00 UTC paleidzia `generate_daily_post.py`.
-2. Atnaujina `posts/` ir `news/latest.json`.
-3. Jei yra pakeitimu, padaro commit + push i ta pati repo.
+## Naudojami feed'ai
+- `https://www.artificialintelligence-news.com/feed/`
+- `https://www.marktechpost.com/feed/`
+- `https://blog.google/technology/ai/rss/`
 
-Workflow paleidimas ranka:
-- GitHub -> `Actions` -> `Daily News Digest` -> `Run workflow`.
-
-## Pritaikymas
-- Temos pavadinimas: `NEWS_TOPIC` workflow faile.
-- Feed'ai: `NEWS_FEEDS` env (per kablelius) arba `DEFAULT_FEEDS` skripte.
-- Nauju straipsniu kiekis: `NEWS_MAX_ITEMS`.
-
-## GitHub Pages URL
-Kai ijungsi Pages is `main` branch, naujienu puslapis bus:
+## Kur matyti puslapį
+Po GitHub Pages deploy:
 - `https://andrius314.github.io/codex-demo/news/`
+
+## Konfigūracija
+- Temos pavadinimas: `NEWS_TOPIC`
+- Įrašų kiekis: `NEWS_MAX_ITEMS`
+- Feed'ai (kableliais): `NEWS_FEEDS`
+- Santraukos ilgis: `NEWS_SUMMARY_CHARS`
