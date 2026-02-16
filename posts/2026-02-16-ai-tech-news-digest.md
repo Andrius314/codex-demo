@@ -6,7 +6,7 @@ categories: [ai, technologijos, youtube, automatizacija]
 ---
 
 Automatiskai sugeneruota dienos santrauka temai: **Dirbtinis intelektas ir technologijos**.
-Generavimo laikas (UTC): 2026-02-16T10:17:19Z
+Generavimo laikas (UTC): 2026-02-16T10:24:14Z
 
 ## 1. URBN išbando agentinį AI, kad automatizuotų mažmeninės prekybos ataskaitų teikimą
 Tipas: Straipsnis
