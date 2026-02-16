@@ -2,31 +2,47 @@
 
 import datetime as dt
 import email.utils
+import hashlib
 import html
 import json
 import os
 import re
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from pathlib import Path
+from typing import Any
 from urllib.parse import urlparse
 
-DEFAULT_FEEDS = [
+DEFAULT_RSS_FEEDS = [
     "https://www.artificialintelligence-news.com/feed/",
     "https://www.marktechpost.com/feed/",
     "https://blog.google/technology/ai/rss/",
 ]
+
+# Add your channel IDs or URLs via NEWS_YOUTUBE_CHANNELS env.
+# Examples: UCxxxx..., https://www.youtube.com/channel/UCxxxx..., https://www.youtube.com/@handle
+DEFAULT_YOUTUBE_CHANNELS: list[str] = []
 
 DEFAULT_TOPIC = "Dirbtinis intelektas ir technologijos"
 POSTS_DIR = Path("posts")
 NEWS_DIR = Path("news")
 LATEST_JSON_PATH = NEWS_DIR / "latest.json"
 ARCHIVE_JSON_PATH = NEWS_DIR / "archive.json"
-MAX_ITEMS = int(os.getenv("NEWS_MAX_ITEMS", "10"))
+GENERATED_IMAGES_DIR = NEWS_DIR / "generated-images"
+
+MAX_ITEMS = int(os.getenv("NEWS_MAX_ITEMS", "12"))
 TIMEOUT_SECONDS = int(os.getenv("NEWS_TIMEOUT", "20"))
-MAX_SUMMARY_CHARS = int(os.getenv("NEWS_SUMMARY_CHARS", "260"))
+MAX_SUMMARY_CHARS = int(os.getenv("NEWS_SUMMARY_CHARS", "320"))
 MAX_ARCHIVE_DIGESTS = int(os.getenv("NEWS_MAX_ARCHIVE_DIGESTS", "120"))
+MAX_YT_PER_CHANNEL = int(os.getenv("NEWS_MAX_YOUTUBE_PER_CHANNEL", "2"))
+MIN_VIDEO_ITEMS = int(os.getenv("NEWS_MIN_VIDEO_ITEMS", "2"))
+MAX_TRANSCRIPT_CHARS = int(os.getenv("NEWS_MAX_TRANSCRIPT_CHARS", "2400"))
+TRANSLATE_TO_LT = os.getenv("NEWS_TRANSLATE_LT", "true").strip().lower() != "false"
+IMAGE_MODE = os.getenv("NEWS_IMAGE_MODE", "generated").strip().lower()  # generated|source|hybrid
+
+TRANSLATION_CACHE: dict[str, str] = {}
 
 
 @dataclass
@@ -35,19 +51,21 @@ class NewsItem:
     link: str
     published_iso: str
     published_lt: str
-    summary: str
+    summary_lt: str
     source: str
+    source_image_url: str
     image_url: str
+    kind: str  # article|video
+    video_id: str
 
 
 def strip_html(text: str) -> str:
-    no_tags = re.sub(r"<[^>]+>", " ", text)
+    no_tags = re.sub(r"<[^>]+>", " ", text or "")
     no_spaces = re.sub(r"\s+", " ", no_tags)
     return html.unescape(no_spaces).strip()
 
 
 def clean_mojibake(text: str) -> str:
-    # Common malformed UTF-8 sequences observed in some feeds.
     replacements = {
         "ā€": "'",
         "ā€™": "'",
@@ -56,18 +74,92 @@ def clean_mojibake(text: str) -> str:
         "ā€”": "-",
         "ā€“": "-",
         "Ā£": "£",
+        "Â£": "£",
+        "Â": "",
     }
-    result = text
+    cleaned = text
     for old, new in replacements.items():
-        result = result.replace(old, new)
-    return result
+        cleaned = cleaned.replace(old, new)
+    return cleaned
 
 
-def extract_image_from_html(raw_html: str) -> str:
-    if not raw_html:
+def normalize_text(text: str) -> str:
+    return clean_mojibake(strip_html(text))
+
+
+def chunk_text(text: str, max_chunk_len: int = 1200) -> list[str]:
+    words = text.split()
+    if not words:
+        return []
+
+    chunks: list[str] = []
+    current: list[str] = []
+    current_len = 0
+
+    for word in words:
+        if current_len + len(word) + 1 > max_chunk_len and current:
+            chunks.append(" ".join(current))
+            current = [word]
+            current_len = len(word)
+        else:
+            current.append(word)
+            current_len += len(word) + 1
+
+    if current:
+        chunks.append(" ".join(current))
+    return chunks
+
+
+def translate_chunk_google_free(text: str, target_lang: str = "lt") -> str:
+    if not text:
         return ""
-    match = re.search(r"<img[^>]+src=[\"']([^\"']+)[\"']", raw_html, re.IGNORECASE)
-    return (match.group(1).strip() if match else "")
+
+    cache_key = f"{target_lang}:{text}"
+    if cache_key in TRANSLATION_CACHE:
+        return TRANSLATION_CACHE[cache_key]
+
+    params = {
+        "client": "gtx",
+        "sl": "auto",
+        "tl": target_lang,
+        "dt": "t",
+        "q": text,
+    }
+    url = "https://translate.googleapis.com/translate_a/single?" + urllib.parse.urlencode(params)
+    req = urllib.request.Request(url, headers={"User-Agent": "codex-ai-news-bot/1.0"})
+
+    with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as response:
+        payload = json.loads(response.read().decode("utf-8", errors="ignore"))
+
+    translated = ""
+    if isinstance(payload, list) and payload:
+        first = payload[0]
+        if isinstance(first, list):
+            translated = "".join(part[0] for part in first if isinstance(part, list) and part and isinstance(part[0], str))
+
+    translated = normalize_text(translated)
+    if not translated:
+        translated = text
+
+    TRANSLATION_CACHE[cache_key] = translated
+    return translated
+
+
+def translate_text_to_lt(text: str) -> str:
+    cleaned = normalize_text(text)
+    if not cleaned:
+        return ""
+
+    if not TRANSLATE_TO_LT:
+        return cleaned
+
+    try:
+        chunks = chunk_text(cleaned, max_chunk_len=1000)
+        translated_chunks = [translate_chunk_google_free(chunk, target_lang="lt") for chunk in chunks]
+        result = normalize_text(" ".join(translated_chunks))
+        return result if result else cleaned
+    except Exception:
+        return cleaned
 
 
 def parse_date(raw: str) -> dt.datetime | None:
@@ -101,38 +193,16 @@ def format_date_lt(parsed: dt.datetime | None) -> str:
 
 def normalized_source(feed_url: str, feed_title: str) -> str:
     if feed_title.strip():
-        return feed_title.strip()
+        return normalize_text(feed_title)
     domain = urlparse(feed_url).netloc
     return domain.replace("www.", "") if domain else "Saltinis"
 
 
-def item_from_raw(
-    title: str,
-    link: str,
-    published_raw: str,
-    summary_raw_html: str,
-    source: str,
-    image_url: str,
-) -> NewsItem:
-    parsed = parse_date(published_raw)
-    summary = strip_html(summary_raw_html)
-    if not summary:
-        summary = "Santrauka nepateikta saltinyje."
-
-    clean_title = clean_mojibake(strip_html(title)) or "Be pavadinimo"
-    clean_link = link.strip()
-    clean_image_url = image_url.strip()
-    clean_summary = clean_mojibake(summary)
-
-    return NewsItem(
-        title=clean_title,
-        link=clean_link,
-        published_iso=parsed.strftime("%Y-%m-%dT%H:%M:%SZ") if parsed else "",
-        published_lt=format_date_lt(parsed),
-        summary=clean_summary[:MAX_SUMMARY_CHARS].rstrip(),
-        source=source,
-        image_url=clean_image_url,
-    )
+def extract_image_from_html(raw_html: str) -> str:
+    if not raw_html:
+        return ""
+    match = re.search(r"<img[^>]+src=[\"']([^\"']+)[\"']", raw_html, re.IGNORECASE)
+    return (match.group(1).strip() if match else "")
 
 
 def image_from_rss_item(item: ET.Element, summary_html: str) -> str:
@@ -147,7 +217,8 @@ def image_from_rss_item(item: ET.Element, summary_html: str) -> str:
         tag_name = node.tag.lower()
         if tag_name.endswith("thumbnail") or tag_name.endswith("content"):
             url = (node.attrib.get("url") or "").strip()
-            if url and ("image" in (node.attrib.get("type") or "").lower() or tag_name.endswith("thumbnail")):
+            node_type = (node.attrib.get("type") or "").lower()
+            if url and ("image" in node_type or tag_name.endswith("thumbnail")):
                 return url
 
     return extract_image_from_html(summary_html)
@@ -164,12 +235,180 @@ def image_from_atom_entry(entry: ET.Element, atom_ns: str, summary_html: str) ->
     return extract_image_from_html(summary_html)
 
 
-def read_feed(url: str) -> list[NewsItem]:
-    req = urllib.request.Request(
-        url,
-        headers={"User-Agent": "codex-demo-ai-news-bot/1.0"},
+def summarize_text(text: str, max_chars: int = MAX_SUMMARY_CHARS) -> str:
+    cleaned = normalize_text(text)
+    if not cleaned:
+        return "Santrauka nepateikta saltinyje."
+
+    sentences = [segment.strip() for segment in re.split(r"(?<=[.!?])\s+", cleaned) if segment.strip()]
+    if not sentences:
+        return cleaned[:max_chars].rstrip()
+
+    picked: list[str] = []
+    size = 0
+    for sentence in sentences:
+        if len(sentence) < 25:
+            continue
+        if size + len(sentence) + 1 > max_chars:
+            break
+        picked.append(sentence)
+        size += len(sentence) + 1
+        if len(picked) >= 3:
+            break
+
+    if not picked:
+        return cleaned[:max_chars].rstrip()
+    return " ".join(picked).strip()
+
+
+def slugify(text: str) -> str:
+    lowered = normalize_text(text).lower()
+    ascii_like = (
+        lowered.replace("ą", "a")
+        .replace("č", "c")
+        .replace("ę", "e")
+        .replace("ė", "e")
+        .replace("į", "i")
+        .replace("š", "s")
+        .replace("ų", "u")
+        .replace("ū", "u")
+        .replace("ž", "z")
+    )
+    safe = re.sub(r"[^a-z0-9]+", "-", ascii_like).strip("-")
+    return safe[:56] if safe else "naujiena"
+
+
+def wrap_for_svg(text: str, line_len: int = 28, max_lines: int = 4) -> list[str]:
+    words = text.split()
+    lines: list[str] = []
+    current: list[str] = []
+    current_len = 0
+
+    for word in words:
+        if current_len + len(word) + 1 > line_len and current:
+            lines.append(" ".join(current))
+            current = [word]
+            current_len = len(word)
+            if len(lines) >= max_lines:
+                break
+        else:
+            current.append(word)
+            current_len += len(word) + 1
+
+    if current and len(lines) < max_lines:
+        lines.append(" ".join(current))
+
+    if not lines:
+        lines = ["DI naujienos"]
+
+    if len(lines) == max_lines and len(words) > 0:
+        lines[-1] = (lines[-1][: max(0, line_len - 3)] + "...") if len(lines[-1]) >= line_len else lines[-1]
+
+    return lines
+
+
+def generated_colors(seed_text: str) -> tuple[str, str]:
+    digest = hashlib.sha256(seed_text.encode("utf-8", errors="ignore")).hexdigest()
+    hue = int(digest[:2], 16)
+    hue2 = (hue + 38) % 255
+    c1 = f"#{hue:02x}7abf"
+    c2 = f"#{hue2:02x}4f8f"
+    return c1, c2
+
+
+def generate_svg_image(item: NewsItem, digest_date: str, index: int) -> str:
+    GENERATED_IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+
+    safe_slug = slugify(item.title)
+    filename = f"{digest_date}-{index:02d}-{safe_slug}.svg"
+    path = GENERATED_IMAGES_DIR / filename
+
+    c1, c2 = generated_colors(item.title + item.source)
+    lines = wrap_for_svg(item.title, line_len=30, max_lines=4)
+
+    title_svg = ""
+    for idx, line in enumerate(lines):
+        y = 84 + idx * 34
+        title_svg += f'<text x="36" y="{y}" font-family="Manrope, Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff">{html.escape(line)}</text>'
+
+    source_text = html.escape(item.source)
+    date_text = html.escape(item.published_lt)
+    kind_text = "YouTube" if item.kind == "video" else "RSS"
+
+    svg = (
+        "<svg xmlns='http://www.w3.org/2000/svg' width='1280' height='720' viewBox='0 0 1280 720'>"
+        "<defs>"
+        f"<linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='{c1}'/><stop offset='100%' stop-color='{c2}'/></linearGradient>"
+        "</defs>"
+        "<rect width='1280' height='720' fill='url(#bg)'/>"
+        "<circle cx='1140' cy='-30' r='260' fill='rgba(255,255,255,0.16)'/>"
+        "<circle cx='-40' cy='740' r='280' fill='rgba(255,255,255,0.14)'/>"
+        "<rect x='28' y='28' width='1224' height='664' rx='28' fill='rgba(0,0,0,0.12)' stroke='rgba(255,255,255,0.22)'/>"
+        "<text x='36' y='54' font-family='Manrope, Arial, sans-serif' font-size='20' font-weight='700' fill='rgba(255,255,255,0.95)'>DI naujienu santrauka</text>"
+        f"{title_svg}"
+        f"<text x='36' y='640' font-family='Manrope, Arial, sans-serif' font-size='20' fill='rgba(255,255,255,0.95)'>Saltinis: {source_text}</text>"
+        f"<text x='36' y='672' font-family='Manrope, Arial, sans-serif' font-size='18' fill='rgba(255,255,255,0.9)'>Data: {date_text}</text>"
+        f"<text x='1130' y='672' text-anchor='end' font-family='Manrope, Arial, sans-serif' font-size='18' font-weight='700' fill='rgba(255,255,255,0.9)'>{kind_text}</text>"
+        "</svg>"
     )
 
+    path.write_text(svg, encoding="utf-8")
+    return f"generated-images/{filename}"
+
+
+def cleanup_digest_images(digest_date: str) -> None:
+    if not GENERATED_IMAGES_DIR.exists():
+        return
+    prefix = f"{digest_date}-"
+    for path in GENERATED_IMAGES_DIR.glob(f"{prefix}*.svg"):
+        try:
+            path.unlink()
+        except OSError:
+            pass
+
+
+def choose_image(source_image_url: str, generated_image_url: str) -> str:
+    mode = IMAGE_MODE if IMAGE_MODE in {"generated", "source", "hybrid"} else "generated"
+    if mode == "source":
+        return source_image_url or generated_image_url
+    if mode == "hybrid":
+        return source_image_url or generated_image_url
+    return generated_image_url
+
+
+def item_from_raw(
+    title: str,
+    link: str,
+    published_raw: str,
+    summary_raw_html: str,
+    source: str,
+    source_image_url: str,
+    kind: str = "article",
+    video_id: str = "",
+) -> NewsItem:
+    parsed = parse_date(published_raw)
+    summary_en = summarize_text(summary_raw_html, max_chars=MAX_SUMMARY_CHARS)
+
+    title_clean = normalize_text(title) or "Be pavadinimo"
+    summary_lt = translate_text_to_lt(summary_en)
+    title_lt = translate_text_to_lt(title_clean)
+
+    return NewsItem(
+        title=title_lt,
+        link=link.strip(),
+        published_iso=parsed.strftime("%Y-%m-%dT%H:%M:%SZ") if parsed else "",
+        published_lt=format_date_lt(parsed),
+        summary_lt=summary_lt,
+        source=source,
+        source_image_url=source_image_url.strip(),
+        image_url="",
+        kind=kind,
+        video_id=video_id,
+    )
+
+
+def read_rss_feed(url: str) -> list[NewsItem]:
+    req = urllib.request.Request(url, headers={"User-Agent": "codex-ai-news-bot/1.0"})
     with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as response:
         content = response.read()
 
@@ -179,13 +418,12 @@ def read_feed(url: str) -> list[NewsItem]:
     channel_title = root.findtext("./channel/title") or ""
     source = normalized_source(url, channel_title)
 
-    # RSS 2.0
     for item in root.findall("./channel/item"):
         title = item.findtext("title") or ""
         link = item.findtext("link") or ""
         published_raw = item.findtext("pubDate") or item.findtext("published") or ""
         summary_html = item.findtext("description") or item.findtext("content") or ""
-        image_url = image_from_rss_item(item, summary_html)
+        source_image_url = image_from_rss_item(item, summary_html)
 
         items.append(
             item_from_raw(
@@ -194,14 +432,14 @@ def read_feed(url: str) -> list[NewsItem]:
                 published_raw=published_raw,
                 summary_raw_html=summary_html,
                 source=source,
-                image_url=image_url,
+                source_image_url=source_image_url,
+                kind="article",
             )
         )
 
     if items:
         return items
 
-    # Atom fallback
     atom_ns = "{http://www.w3.org/2005/Atom}"
     feed_title = root.findtext(f"./{atom_ns}title") or ""
     source = normalized_source(url, feed_title)
@@ -219,7 +457,7 @@ def read_feed(url: str) -> list[NewsItem]:
                 link = href
                 break
 
-        image_url = image_from_atom_entry(entry, atom_ns, summary_html)
+        source_image_url = image_from_atom_entry(entry, atom_ns, summary_html)
 
         items.append(
             item_from_raw(
@@ -228,20 +466,195 @@ def read_feed(url: str) -> list[NewsItem]:
                 published_raw=published_raw,
                 summary_raw_html=summary_html,
                 source=source,
-                image_url=image_url,
+                source_image_url=source_image_url,
+                kind="article",
             )
         )
 
     return items
 
 
-def selected_feeds() -> list[str]:
+def parse_youtube_video_id(url: str) -> str:
+    if not url:
+        return ""
+
+    try:
+        parsed = urllib.parse.urlparse(url)
+        if parsed.netloc.endswith("youtu.be"):
+            return parsed.path.strip("/")
+
+        query = urllib.parse.parse_qs(parsed.query)
+        if "v" in query and query["v"]:
+            return query["v"][0]
+
+        m = re.search(r"/shorts/([A-Za-z0-9_-]{6,})", parsed.path)
+        if m:
+            return m.group(1)
+    except Exception:
+        return ""
+
+    return ""
+
+
+def extract_channel_id_from_url(channel_url: str) -> str:
+    m = re.search(r"/channel/(UC[\w-]{20,30})", channel_url)
+    if m:
+        return m.group(1)
+
+    # Try resolving @handle or custom path by loading channel HTML.
+    try:
+        req = urllib.request.Request(channel_url, headers={"User-Agent": "codex-ai-news-bot/1.0"})
+        with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as response:
+            html_text = response.read().decode("utf-8", errors="ignore")
+        m2 = re.search(r'"channelId":"(UC[\w-]{20,30})"', html_text)
+        if m2:
+            return m2.group(1)
+    except Exception:
+        return ""
+
+    return ""
+
+
+def youtube_feed_from_channel_token(token: str) -> str:
+    clean = token.strip()
+    if not clean:
+        return ""
+
+    if clean.startswith("https://www.youtube.com/feeds/videos.xml"):
+        return clean
+
+    if re.fullmatch(r"UC[\w-]{20,30}", clean):
+        return f"https://www.youtube.com/feeds/videos.xml?channel_id={clean}"
+
+    if clean.startswith("http") and "youtube.com" in clean:
+        cid = extract_channel_id_from_url(clean)
+        if cid:
+            return f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
+
+    return ""
+
+
+def load_youtube_channels() -> list[str]:
+    env_value = os.getenv("NEWS_YOUTUBE_CHANNELS", "").strip()
+    raw_tokens = [part.strip() for part in re.split(r"[,\n]", env_value) if part.strip()] if env_value else DEFAULT_YOUTUBE_CHANNELS
+
+    feed_urls: list[str] = []
+    for token in raw_tokens:
+        feed_url = youtube_feed_from_channel_token(token)
+        if feed_url:
+            feed_urls.append(feed_url)
+    return feed_urls
+
+
+def load_youtube_transcript(video_id: str) -> str:
+    if not video_id:
+        return ""
+
+    try:
+        from youtube_transcript_api import YouTubeTranscriptApi
+    except Exception:
+        return ""
+
+    transcript_items: list[dict[str, Any]] = []
+
+    try:
+        transcript_items = YouTubeTranscriptApi.get_transcript(video_id, languages=["lt", "en"])
+    except Exception:
+        try:
+            transcript_items = YouTubeTranscriptApi.get_transcript(video_id)
+        except Exception:
+            return ""
+
+    text_parts = []
+    for item in transcript_items:
+        text = normalize_text(str(item.get("text") or ""))
+        if not text:
+            continue
+        if text.startswith("[") and text.endswith("]"):
+            continue
+        text_parts.append(text)
+
+    merged = " ".join(text_parts)
+    return merged[:MAX_TRANSCRIPT_CHARS].strip()
+
+
+def summarize_transcript_to_lt(transcript_text: str) -> str:
+    if not transcript_text:
+        return ""
+
+    base = summarize_text(transcript_text, max_chars=max(320, MAX_SUMMARY_CHARS + 100))
+    return translate_text_to_lt(base)
+
+
+def read_youtube_feed(feed_url: str) -> list[NewsItem]:
+    req = urllib.request.Request(feed_url, headers={"User-Agent": "codex-ai-news-bot/1.0"})
+    with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as response:
+        content = response.read()
+
+    root = ET.fromstring(content)
+    atom_ns = "{http://www.w3.org/2005/Atom}"
+    media_ns = "{http://search.yahoo.com/mrss/}"
+
+    channel_title = root.findtext(f"./{atom_ns}title") or "YouTube"
+    source = normalize_text(channel_title)
+
+    items: list[NewsItem] = []
+    for entry in root.findall(f"./{atom_ns}entry")[:MAX_YT_PER_CHANNEL]:
+        title = entry.findtext(f"{atom_ns}title") or ""
+        published_raw = entry.findtext(f"{atom_ns}published") or entry.findtext(f"{atom_ns}updated") or ""
+
+        link = ""
+        for link_node in entry.findall(f"{atom_ns}link"):
+            rel = (link_node.attrib.get("rel") or "alternate").lower()
+            href = (link_node.attrib.get("href") or "").strip()
+            if rel in ("alternate", "") and href:
+                link = href
+                break
+
+        video_id = parse_youtube_video_id(link)
+        description = ""
+        group = entry.find(f"{media_ns}group")
+        if group is not None:
+            description = group.findtext(f"{media_ns}description") or ""
+        if not description:
+            description = entry.findtext(f"{atom_ns}summary") or ""
+
+        thumbnail = ""
+        if group is not None:
+            thumb = group.find(f"{media_ns}thumbnail")
+            if thumb is not None:
+                thumbnail = (thumb.attrib.get("url") or "").strip()
+
+        transcript_text = load_youtube_transcript(video_id)
+        transcript_summary_lt = summarize_transcript_to_lt(transcript_text)
+        if transcript_summary_lt:
+            summary = transcript_summary_lt
+        else:
+            summary = translate_text_to_lt(summarize_text(description, max_chars=MAX_SUMMARY_CHARS))
+
+        item = item_from_raw(
+            title=title,
+            link=link,
+            published_raw=published_raw,
+            summary_raw_html=summary,
+            source=source,
+            source_image_url=thumbnail,
+            kind="video",
+            video_id=video_id,
+        )
+        item.summary_lt = summary
+        items.append(item)
+
+    return items
+
+
+def selected_rss_feeds() -> list[str]:
     env_value = os.getenv("NEWS_FEEDS", "").strip()
     if not env_value:
-        return DEFAULT_FEEDS
+        return DEFAULT_RSS_FEEDS
 
     parts = [part.strip() for part in re.split(r"[,\n]", env_value) if part.strip()]
-    return parts or DEFAULT_FEEDS
+    return parts or DEFAULT_RSS_FEEDS
 
 
 def dedupe(items: list[NewsItem]) -> list[NewsItem]:
@@ -259,15 +672,56 @@ def dedupe(items: list[NewsItem]) -> list[NewsItem]:
     return output
 
 
+def choose_digest_items(items: list[NewsItem], max_items: int, min_videos: int) -> list[NewsItem]:
+    if max_items <= 0:
+        return []
+
+    selected = items[:max_items]
+    if min_videos <= 0:
+        return selected
+
+    current_video_count = sum(1 for item in selected if item.kind == "video")
+    if current_video_count >= min_videos:
+        return selected
+
+    existing_keys = {(item.link or item.title).strip().lower() for item in selected}
+    extra_videos = [
+        item
+        for item in items[max_items:]
+        if item.kind == "video" and (item.link or item.title).strip().lower() not in existing_keys
+    ]
+
+    for video in extra_videos:
+        replace_index = None
+        for idx in range(len(selected) - 1, -1, -1):
+            if selected[idx].kind != "video":
+                replace_index = idx
+                break
+
+        if replace_index is None:
+            break
+
+        selected[replace_index] = video
+        current_video_count += 1
+        if current_video_count >= min_videos:
+            break
+
+    selected.sort(key=lambda current: current.published_iso, reverse=True)
+    return selected
+
+
 def item_to_payload(item: NewsItem) -> dict[str, str]:
     return {
         "title": item.title,
         "link": item.link,
         "published_iso": item.published_iso,
         "published_lt": item.published_lt,
-        "summary": item.summary,
+        "summary": item.summary_lt,
         "source": item.source,
+        "source_image_url": item.source_image_url,
         "image_url": item.image_url,
+        "kind": item.kind,
+        "video_id": item.video_id,
     }
 
 
@@ -277,7 +731,7 @@ def build_post(items: list[NewsItem], topic: str, digest_date: str, generated_at
         "layout: post",
         f'title: "DI ir technologiju naujienu santrauka - {digest_date}"',
         f"date: {digest_date} 07:00:00 +0000",
-        "categories: [ai, technologijos, automatizacija]",
+        "categories: [ai, technologijos, youtube, automatizacija]",
         "---",
         "",
         f"Automatiskai sugeneruota dienos santrauka temai: **{topic}**.",
@@ -287,15 +741,17 @@ def build_post(items: list[NewsItem], topic: str, digest_date: str, generated_at
 
     for index, item in enumerate(items, start=1):
         safe_title = item.title.replace("|", "-")
-        safe_summary = item.summary.replace("|", "-")
+        safe_summary = item.summary_lt.replace("|", "-")
+        item_type = "YouTube video" if item.kind == "video" else "Straipsnis"
 
         lines.extend(
             [
                 f"## {index}. [{safe_title}]({item.link})",
+                f"Tipas: {item_type}",
                 f"Saltinis: {item.source}",
                 f"Publikuota: {item.published_lt}",
                 "",
-                f"Santrauka: {safe_summary}",
+                f"Santrauka LT: {safe_summary}",
                 "",
             ]
         )
@@ -303,21 +759,18 @@ def build_post(items: list[NewsItem], topic: str, digest_date: str, generated_at
     return "\n".join(lines).strip() + "\n"
 
 
-def build_latest_payload(
-    items: list[NewsItem],
-    topic: str,
-    digest_date: str,
-    generated_at: str,
-) -> dict[str, object]:
+def build_latest_payload(items: list[NewsItem], topic: str, digest_date: str, generated_at: str) -> dict[str, Any]:
     return {
         "topic_lt": topic,
         "digest_date": digest_date,
         "generated_at_utc": generated_at,
+        "translate_to_lt": TRANSLATE_TO_LT,
+        "image_mode": IMAGE_MODE,
         "items": [item_to_payload(item) for item in items],
     }
 
 
-def load_archive(topic: str) -> dict[str, object]:
+def load_archive(topic: str) -> dict[str, Any]:
     if not ARCHIVE_JSON_PATH.exists():
         return {"topic_lt": topic, "updated_at_utc": "", "digests": []}
 
@@ -329,10 +782,7 @@ def load_archive(topic: str) -> dict[str, object]:
     if not isinstance(data, dict):
         return {"topic_lt": topic, "updated_at_utc": "", "digests": []}
 
-    digests = data.get("digests")
-    if not isinstance(digests, list):
-        digests = []
-
+    digests = data.get("digests") if isinstance(data.get("digests"), list) else []
     return {
         "topic_lt": str(data.get("topic_lt") or topic),
         "updated_at_utc": str(data.get("updated_at_utc") or ""),
@@ -340,12 +790,7 @@ def load_archive(topic: str) -> dict[str, object]:
     }
 
 
-def upsert_archive_digest(
-    archive: dict[str, object],
-    digest_date: str,
-    generated_at: str,
-    items: list[NewsItem],
-) -> None:
+def upsert_archive_digest(archive: dict[str, Any], digest_date: str, generated_at: str, items: list[NewsItem]) -> None:
     digest_payload = {
         "digest_date": digest_date,
         "generated_at_utc": generated_at,
@@ -368,13 +813,14 @@ def output_path(digest_date: str) -> Path:
     return POSTS_DIR / f"{digest_date}-ai-tech-news-digest.md"
 
 
-def write_json(path: Path, payload: dict[str, object]) -> None:
+def write_json(path: Path, payload: dict[str, Any]) -> None:
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def main() -> int:
     topic = os.getenv("NEWS_TOPIC", DEFAULT_TOPIC).strip() or DEFAULT_TOPIC
-    feeds = selected_feeds()
+    rss_feeds = selected_rss_feeds()
+    youtube_feeds = load_youtube_channels()
 
     now_utc = dt.datetime.now(dt.timezone.utc)
     digest_date = now_utc.date().isoformat()
@@ -383,11 +829,17 @@ def main() -> int:
     collected: list[NewsItem] = []
     errors: list[str] = []
 
-    for feed in feeds:
+    for feed in rss_feeds:
         try:
-            collected.extend(read_feed(feed))
+            collected.extend(read_rss_feed(feed))
         except Exception as exc:  # noqa: BLE001
-            errors.append(f"{feed}: {exc}")
+            errors.append(f"RSS {feed}: {exc}")
+
+    for feed in youtube_feeds:
+        try:
+            collected.extend(read_youtube_feed(feed))
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"YouTube {feed}: {exc}")
 
     unique_items = dedupe(collected)
     if not unique_items:
@@ -398,8 +850,14 @@ def main() -> int:
 
     POSTS_DIR.mkdir(parents=True, exist_ok=True)
     NEWS_DIR.mkdir(parents=True, exist_ok=True)
+    GENERATED_IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
-    post_items = unique_items[:MAX_ITEMS]
+    post_items = choose_digest_items(unique_items, MAX_ITEMS, MIN_VIDEO_ITEMS)
+    cleanup_digest_images(digest_date)
+
+    for idx, item in enumerate(post_items, start=1):
+        generated_image_url = generate_svg_image(item, digest_date=digest_date, index=idx)
+        item.image_url = choose_image(item.source_image_url, generated_image_url)
 
     post_path = output_path(digest_date)
     post_text = build_post(post_items, topic, digest_date, generated_at)
@@ -417,6 +875,12 @@ def main() -> int:
     print(f"Issaugota {len(post_items)} irasu i {post_path}")
     print(f"Atnaujinta {LATEST_JSON_PATH}")
     print(f"Atnaujinta {ARCHIVE_JSON_PATH}")
+    print(f"Sugeneruota iliustraciju kataloge: {GENERATED_IMAGES_DIR}")
+
+    if youtube_feeds:
+        print(f"YouTube feed'u skaicius: {len(youtube_feeds)}")
+    else:
+        print("YouTube feed'u nerasta. Nurodyk NEWS_YOUTUBE_CHANNELS aplinkos kintamaji.")
 
     if errors:
         print("Dalis saltiniu nepasiekiami:")

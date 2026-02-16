@@ -21,19 +21,27 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip youtube-transcript-api
+
       - name: Generate AI daily digest
         env:
           NEWS_TOPIC: "Dirbtinis intelektas ir technologijos"
-          NEWS_MAX_ITEMS: "10"
+          NEWS_MAX_ITEMS: "12"
+          NEWS_MIN_VIDEO_ITEMS: "2"
+          NEWS_IMAGE_MODE: "generated"
+          NEWS_TRANSLATE_LT: "true"
+          NEWS_MAX_YOUTUBE_PER_CHANNEL: "1"
           NEWS_FEEDS: "https://www.artificialintelligence-news.com/feed/,https://www.marktechpost.com/feed/,https://blog.google/technology/ai/rss/"
+          NEWS_YOUTUBE_CHANNELS: "UCbfYPyITQ-7l4upoX8nvctg,UCSHZKyawb77ixDdsGog4iWA,UCZHmQk67mSJgfCCTn7xBfew,UCXZCJLdBC09xxGZ6gcdrc6A"
         run: python scripts/generate_daily_post.py
 
       - name: Commit and push if changed
         run: |
-          if [[ -n "$(git status --porcelain posts/ news/latest.json news/archive.json)" ]]; then
+          if [[ -n "$(git status --porcelain posts/ news/latest.json news/archive.json news/generated-images/)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add posts/ news/latest.json news/archive.json
+            git add posts/ news/latest.json news/archive.json news/generated-images/
             git commit -m "chore: atnaujinta dienos DI naujienu santrauka"
             git push
           else
