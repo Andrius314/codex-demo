@@ -6,7 +6,7 @@ categories: [ai, technologijos, youtube, automatizacija]
 ---
 
 Automatiskai sugeneruota dienos santrauka temai: **Dirbtinis intelektas ir technologijos**.
-Generavimo laikas (UTC): 2026-02-16T09:40:06Z
+Generavimo laikas (UTC): 2026-02-16T09:42:50Z
 
 ## 1. „Google DeepMind“ siūlo naują pažangaus AI delegacijos sistemą, kad būtų apsaugotas besiformuojantis agentų tinklas ateities ekonomikai
 Tipas: Straipsnis
@@ -38,7 +38,7 @@ Nuoroda: https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-desi
 Svarbiausi punktai:
 
 - Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir nuolat mokosi laikui bėgant.
-- Sistemą projektuojame taip, kad išliktų naudotojų pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.
+- Sistemą projektuojame taip, kad išliktų naudotojo pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.
 - Kaina: Labiau panasu i mokama sprendima.
 - Veikimo budas: Panasu, kad veikia online (naršyklė/API).
 
@@ -211,25 +211,7 @@ Svarbiausi punktai:
 - Prieinamumas: Neaptikta siame saltinyje.
 - Kur isbandyti: Galima tikrinti cia: https://www.youtube.com/watch?v=B2GMI0UgN_U
 
-## 11. Pataisykite naudodami „ChatGPT“.
-Tipas: YouTube video
-Saltinis: OpenAI
-Publikuota: 2026-02-13 23:43 UTC
-Nuoroda: https://www.youtube.com/watch?v=PHKpsVIdAcc
-
-Svarbiausi punktai:
-
-- Patobulinkite savo įgūdžius ir eikite į kelią su ChatGPT.
-
-- Kaina: Neaptikta siame saltinyje.
-- Kainos detales: Neaptikta siame saltinyje.
-- Veikimo budas: Neaptikta siame saltinyje.
-- Online limitai: Neaptikta siame saltinyje.
-- Lokalios sistemos poreikiai: Neaptikta siame saltinyje.
-- Prieinamumas: Neaptikta siame saltinyje.
-- Kur isbandyti: Galima tikrinti cia: https://www.youtube.com/watch?v=PHKpsVIdAcc
-
-## 12. „Exa AI“ pristato „Exa Instant“: iki 200 ms neuronų paieškos variklis, sukurtas siekiant pašalinti kliūtis realaus laiko agentų darbo eigoms
+## 11. „Exa AI“ pristato „Exa Instant“: iki 200 ms neuronų paieškos variklis, sukurtas siekiant pašalinti kliūtis realaus laiko agentų darbo eigoms
 Tipas: Straipsnis
 Saltinis: MarkTechPost
 Publikuota: 2026-02-13 21:29 UTC
@@ -250,3 +232,22 @@ Svarbiausi punktai:
 - Lokalios sistemos poreikiai: Neaptikta siame saltinyje.
 - Prieinamumas: Panasu, kad jau galima bandyti.
 - Kur isbandyti: Galima tikrinti cia: https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/
+
+## 12. [Išsamus vadovas] Visas CTGAN + SDV vamzdynas, skirtas aukštos kokybės sintetiniams duomenims
+Tipas: Straipsnis
+Saltinis: MarkTechPost
+Publikuota: 2026-02-13 20:40 UTC
+Nuoroda: https://www.marktechpost.com/2026/02/13/in-depth-guide-the-complete-ctgan-sdv-pipeline-for-high-fidelity-synthetic-data/
+
+Svarbiausi punktai:
+
+- Šioje pamokoje mes sukuriame pilną gamybos lygio sintetinių duomenų vamzdyną naudodami CTGAN ir SDV ekosistemą.
+- Pradedame nuo neapdorotų mišraus tipo lentelių duomenų ir palaipsniui pereiname prie riboto generavimo, sąlyginio atrankos, statistinio patvirtinimo ir tolesnio naudingumo testavimo.
+
+- Kaina: Neaptikta siame saltinyje.
+- Kainos detales: Neaptikta siame saltinyje.
+- Veikimo budas: Neaptikta siame saltinyje.
+- Online limitai: Neaptikta siame saltinyje.
+- Lokalios sistemos poreikiai: Neaptikta siame saltinyje.
+- Prieinamumas: Neaptikta siame saltinyje.
+- Kur isbandyti: Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/
