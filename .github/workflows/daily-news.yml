@@ -33,7 +33,7 @@ jobs:
           NEWS_TRANSLATE_LT: "true"
           NEWS_MAX_YOUTUBE_PER_CHANNEL: "1"
           NEWS_FEEDS: "https://www.artificialintelligence-news.com/feed/,https://www.marktechpost.com/feed/,https://blog.google/technology/ai/rss/"
-          NEWS_YOUTUBE_CHANNELS: "UCbfYPyITQ-7l4upoX8nvctg,UCSHZKyawb77ixDdsGog4iWA,UCZHmQk67mSJgfCCTn7xBfew,UCXZCJLdBC09xxGZ6gcdrc6A"
+          NEWS_YOUTUBE_CHANNELS: "UCIgnGlGkVRhd4qNFcEwLL4A,UCbfYPyITQ-7l4upoX8nvctg,UCZHmQk67mSJgfCCTn7xBfew,UCXZCJLdBC09xxGZ6gcdrc6A"
         run: python scripts/generate_daily_post.py
 
       - name: Commit and push if changed

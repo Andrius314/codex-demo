@@ -10,10 +10,10 @@ import re
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
 
 DEFAULT_RSS_FEEDS = [
     "https://www.artificialintelligence-news.com/feed/",
@@ -23,7 +23,21 @@ DEFAULT_RSS_FEEDS = [
 
 # Add your channel IDs or URLs via NEWS_YOUTUBE_CHANNELS env.
 # Examples: UCxxxx..., https://www.youtube.com/channel/UCxxxx..., https://www.youtube.com/@handle
-DEFAULT_YOUTUBE_CHANNELS: list[str] = []
+DEFAULT_YOUTUBE_CHANNELS: list[str] = [
+    "UCIgnGlGkVRhd4qNFcEwLL4A",  # theAIsearch
+    "UCbfYPyITQ-7l4upoX8nvctg",  # Two Minute Papers
+    "UCZHmQk67mSJgfCCTn7xBfew",  # OpenAI
+    "UCXZCJLdBC09xxGZ6gcdrc6A",  # Google DeepMind
+]
+
+KNOWN_YOUTUBE_HANDLES = {
+    "@theaisearch": "UCIgnGlGkVRhd4qNFcEwLL4A",
+    "@twominutepapers": "UCbfYPyITQ-7l4upoX8nvctg",
+    "@openai": "UCZHmQk67mSJgfCCTn7xBfew",
+    "@googledeepmind": "UCXZCJLdBC09xxGZ6gcdrc6A",
+}
+
+UNKNOWN_LT = "Neaptikta siame saltinyje."
 
 DEFAULT_TOPIC = "Dirbtinis intelektas ir technologijos"
 POSTS_DIR = Path("posts")
@@ -39,6 +53,8 @@ MAX_ARCHIVE_DIGESTS = int(os.getenv("NEWS_MAX_ARCHIVE_DIGESTS", "120"))
 MAX_YT_PER_CHANNEL = int(os.getenv("NEWS_MAX_YOUTUBE_PER_CHANNEL", "2"))
 MIN_VIDEO_ITEMS = int(os.getenv("NEWS_MIN_VIDEO_ITEMS", "2"))
 MAX_TRANSCRIPT_CHARS = int(os.getenv("NEWS_MAX_TRANSCRIPT_CHARS", "2400"))
+MAX_ARTICLE_FETCH_BYTES = int(os.getenv("NEWS_MAX_ARTICLE_FETCH_BYTES", "320000"))
+MAX_ARTICLE_CONTEXT_CHARS = int(os.getenv("NEWS_MAX_ARTICLE_CONTEXT_CHARS", "7000"))
 TRANSLATE_TO_LT = os.getenv("NEWS_TRANSLATE_LT", "true").strip().lower() != "false"
 IMAGE_MODE = os.getenv("NEWS_IMAGE_MODE", "generated").strip().lower()  # generated|source|hybrid
 
@@ -57,6 +73,8 @@ class NewsItem:
     image_url: str
     kind: str  # article|video
     video_id: str
+    bullets_lt: list[str] = field(default_factory=list)
+    practical: dict[str, str] = field(default_factory=dict)
 
 
 def strip_html(text: str) -> str:
@@ -85,6 +103,33 @@ def clean_mojibake(text: str) -> str:
 
 def normalize_text(text: str) -> str:
     return clean_mojibake(strip_html(text))
+
+
+def ensure_sentence(text: str) -> str:
+    value = normalize_text(text)
+    if not value:
+        return ""
+    if value[-1] not in ".!?":
+        return value + "."
+    return value
+
+
+def split_sentences(text: str) -> list[str]:
+    cleaned = normalize_text(text)
+    if not cleaned:
+        return []
+    return [segment.strip() for segment in re.split(r"(?<=[.!?])\s+", cleaned) if segment.strip()]
+
+
+def contains_any(text_lower: str, keywords: list[str]) -> bool:
+    return any(keyword in text_lower for keyword in keywords)
+
+
+def shorten_text(value: str, max_len: int = 220) -> str:
+    clean = normalize_text(value)
+    if len(clean) <= max_len:
+        return clean
+    return clean[: max_len - 3].rstrip() + "..."
 
 
 def chunk_text(text: str, max_chunk_len: int = 1200) -> list[str]:
@@ -240,7 +285,7 @@ def summarize_text(text: str, max_chars: int = MAX_SUMMARY_CHARS) -> str:
     if not cleaned:
         return "Santrauka nepateikta saltinyje."
 
-    sentences = [segment.strip() for segment in re.split(r"(?<=[.!?])\s+", cleaned) if segment.strip()]
+    sentences = split_sentences(cleaned)
     if not sentences:
         return cleaned[:max_chars].rstrip()
 
@@ -501,6 +546,12 @@ def extract_channel_id_from_url(channel_url: str) -> str:
     if m:
         return m.group(1)
 
+    handle_match = re.search(r"/@([A-Za-z0-9_.-]+)", channel_url)
+    if handle_match:
+        handle = f"@{handle_match.group(1).lower()}"
+        if handle in KNOWN_YOUTUBE_HANDLES:
+            return KNOWN_YOUTUBE_HANDLES[handle]
+
     # Try resolving @handle or custom path by loading channel HTML.
     try:
         req = urllib.request.Request(channel_url, headers={"User-Agent": "codex-ai-news-bot/1.0"})
@@ -509,6 +560,9 @@ def extract_channel_id_from_url(channel_url: str) -> str:
         m2 = re.search(r'"channelId":"(UC[\w-]{20,30})"', html_text)
         if m2:
             return m2.group(1)
+        m3 = re.search(r'"externalId":"(UC[\w-]{20,30})"', html_text)
+        if m3:
+            return m3.group(1)
     except Exception:
         return ""
 
@@ -526,6 +580,11 @@ def youtube_feed_from_channel_token(token: str) -> str:
     if re.fullmatch(r"UC[\w-]{20,30}", clean):
         return f"https://www.youtube.com/feeds/videos.xml?channel_id={clean}"
 
+    if clean.startswith("@"):
+        mapped = KNOWN_YOUTUBE_HANDLES.get(clean.lower(), "")
+        if mapped:
+            return f"https://www.youtube.com/feeds/videos.xml?channel_id={mapped}"
+
     if clean.startswith("http") and "youtube.com" in clean:
         cid = extract_channel_id_from_url(clean)
         if cid:
@@ -539,9 +598,11 @@ def load_youtube_channels() -> list[str]:
     raw_tokens = [part.strip() for part in re.split(r"[,\n]", env_value) if part.strip()] if env_value else DEFAULT_YOUTUBE_CHANNELS
 
     feed_urls: list[str] = []
+    seen: set[str] = set()
     for token in raw_tokens:
         feed_url = youtube_feed_from_channel_token(token)
-        if feed_url:
+        if feed_url and feed_url not in seen:
+            seen.add(feed_url)
             feed_urls.append(feed_url)
     return feed_urls
 
@@ -710,7 +771,285 @@ def choose_digest_items(items: list[NewsItem], max_items: int, min_videos: int) 
     return selected
 
 
-def item_to_payload(item: NewsItem) -> dict[str, str]:
+def extract_links_from_html(raw_html: str, base_url: str) -> list[str]:
+    links = re.findall(r"href=[\"']([^\"']+)[\"']", raw_html, flags=re.IGNORECASE)
+    out: list[str] = []
+    seen: set[str] = set()
+
+    for link in links:
+        absolute = urljoin(base_url, link)
+        if not absolute.startswith("http"):
+            continue
+        if absolute in seen:
+            continue
+        seen.add(absolute)
+        out.append(absolute)
+        if len(out) >= 40:
+            break
+
+    return out
+
+
+def fetch_article_context(url: str) -> tuple[str, list[str]]:
+    if not url.startswith("http"):
+        return "", []
+
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (compatible; codex-ai-news-bot/1.0)",
+                "Accept-Language": "en-US,en;q=0.9",
+            },
+        )
+        with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as response:
+            raw = response.read(MAX_ARTICLE_FETCH_BYTES)
+
+        decoded = raw.decode("utf-8", errors="ignore")
+        cleaned = re.sub(r"<script[^>]*>.*?</script>", " ", decoded, flags=re.IGNORECASE | re.DOTALL)
+        cleaned = re.sub(r"<style[^>]*>.*?</style>", " ", cleaned, flags=re.IGNORECASE | re.DOTALL)
+        cleaned = re.sub(r"<noscript[^>]*>.*?</noscript>", " ", cleaned, flags=re.IGNORECASE | re.DOTALL)
+
+        links = extract_links_from_html(cleaned, base_url=url)
+
+        meta_desc = ""
+        meta_match = re.search(
+            r'<meta[^>]+(?:name=["\']description["\']|property=["\']og:description["\'])[^>]+content=["\']([^"\']+)["\']',
+            cleaned,
+            flags=re.IGNORECASE,
+        )
+        if meta_match:
+            meta_desc = normalize_text(meta_match.group(1))
+
+        paragraph_matches = re.findall(r"<p[^>]*>(.*?)</p>", cleaned, flags=re.IGNORECASE | re.DOTALL)
+        paragraphs = [normalize_text(match) for match in paragraph_matches]
+        noise_keywords = ["twitter", "linkedin", "reddit", "privacy", "cookie", "menu", "subscribe", "advertise", "naujienu centras"]
+        paragraphs = [
+            p
+            for p in paragraphs
+            if len(p) > 40 and len(p.split()) >= 8 and not contains_any(p.lower(), noise_keywords)
+        ][:6]
+
+        combined = []
+        if meta_desc:
+            combined.append(meta_desc)
+        combined.extend(paragraphs)
+        if not combined:
+            combined.append(normalize_text(cleaned))
+
+        text = " ".join(combined)
+        return text[:MAX_ARTICLE_CONTEXT_CHARS], links
+    except Exception:
+        return "", []
+
+
+def extract_price_values(text: str) -> list[str]:
+    pattern = re.compile(
+        r"(?:USD|EUR|GBP|\$|€|£)\s?\d+(?:[\.,]\d{1,2})?(?:\s*(?:/|per)?\s*(?:month|mo|year|yr|user|seat|m\.)?)?",
+        re.IGNORECASE,
+    )
+    found: list[str] = []
+    seen: set[str] = set()
+
+    for match in pattern.finditer(text):
+        token = normalize_text(match.group(0))
+        key = token.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        found.append(token)
+        if len(found) >= 4:
+            break
+
+    return found
+
+
+def find_sentence_with_keywords(text: str, keywords: list[str]) -> str:
+    for sentence in split_sentences(text):
+        if contains_any(sentence.lower(), keywords):
+            return sentence
+    return ""
+
+
+def detect_pricing(text: str) -> tuple[str, str]:
+    low = text.lower()
+    free_keywords = ["free", "open source", "open-source", "nemokam", "no cost"]
+    paid_keywords = ["paid", "subscription", "pricing", "plan", "mokam", "license", "pro plan", "enterprise"]
+
+    free_hit = contains_any(low, free_keywords)
+    paid_hit = contains_any(low, paid_keywords)
+    prices = extract_price_values(text)
+
+    if free_hit and (paid_hit or prices):
+        headline = "Yra nemokamas ir mokamas variantas."
+    elif free_hit:
+        headline = "Paminetas nemokamas arba atviro kodo variantas."
+    elif paid_hit or prices:
+        headline = "Labiau panasu i mokama sprendima."
+    else:
+        headline = UNKNOWN_LT
+
+    details = ", ".join(prices) if prices else ""
+    return headline, (shorten_text(details) if details else UNKNOWN_LT)
+
+
+def detect_run_mode(text: str) -> str:
+    low = text.lower()
+    online_keys = ["web", "browser", "cloud", "hosted", "api", "online", "saas", "playground"]
+    local_keys = ["local", "on-device", "on device", "offline", "download", "self-hosted", "self hosted", "gpu", "vram"]
+
+    has_online = contains_any(low, online_keys)
+    has_local = contains_any(low, local_keys)
+
+    if has_online and has_local:
+        return "Veikia tiek online, tiek lokaliai."
+    if has_online:
+        return "Panasu, kad veikia online (naršyklė/API)."
+    if has_local:
+        return "Panasu, kad skirta lokaliam paleidimui."
+    return UNKNOWN_LT
+
+
+def detect_online_limits(text: str) -> str:
+    keywords = [
+        "rate limit",
+        "quota",
+        "limit",
+        "per day",
+        "per hour",
+        "requests",
+        "messages",
+        "tokens",
+        "waitlist",
+        "beta access",
+        "preview",
+    ]
+    sentence = find_sentence_with_keywords(text, keywords)
+    if not sentence:
+        return UNKNOWN_LT
+    return shorten_text(translate_text_to_lt(sentence))
+
+
+def detect_local_requirements(text: str) -> str:
+    pattern = re.compile(
+        r"(?:\d+\s?(?:GB|GiB)\s?(?:VRAM|RAM)|RTX\s?\d{3,4}|NVIDIA\s+GPU|CUDA)",
+        re.IGNORECASE,
+    )
+    matches = pattern.findall(text)
+
+    if not matches:
+        return UNKNOWN_LT
+
+    values: list[str] = []
+    seen: set[str] = set()
+    for match in matches:
+        key = match.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        values.append(normalize_text(match))
+        if len(values) >= 6:
+            break
+
+    return shorten_text("Aptikta: " + ", ".join(values))
+
+
+def detect_availability(text: str) -> str:
+    low = text.lower()
+    if contains_any(low, ["coming soon", "soon", "upcoming"]):
+        return "Dar neissleista arba arteja."
+    if contains_any(low, ["waitlist", "invite", "request access"]):
+        return "Reikia prieigos (waitlist/invite)."
+    if contains_any(low, ["beta", "preview", "alpha"]):
+        return "Prieinama kaip beta/preview."
+    if contains_any(low, ["available now", "launched", "released", "generally available", "now available"]):
+        return "Panasu, kad jau galima bandyti."
+    return UNKNOWN_LT
+
+
+def choose_try_url(links: list[str], fallback: str) -> str:
+    priorities = ["try", "demo", "playground", "signup", "start", "download", "app", "studio", "github", "huggingface", "docs"]
+    for key in priorities:
+        for link in links:
+            if key in link.lower():
+                return link
+    return fallback if fallback else (links[0] if links else "")
+
+
+def build_practical_info(item: NewsItem, context_text: str, links: list[str]) -> dict[str, str]:
+    pricing_headline, pricing_details = detect_pricing(context_text)
+    run_mode = detect_run_mode(context_text)
+    online_limits = detect_online_limits(context_text)
+    local_requirements = detect_local_requirements(context_text)
+    availability = detect_availability(context_text)
+    try_url = choose_try_url(links, item.link)
+
+    return {
+        "kaina": pricing_headline,
+        "kainos_detales": pricing_details,
+        "veikimo_budas": run_mode,
+        "online_limitai": online_limits,
+        "lokalus_reikalavimai": local_requirements,
+        "prieinamumas": availability,
+        "kur_isbandyti": f"Galima tikrinti cia: {try_url}" if try_url else UNKNOWN_LT,
+        "try_url": try_url,
+    }
+
+
+def build_bullets(item: NewsItem, practical: dict[str, str]) -> list[str]:
+    bullets: list[str] = []
+
+    for sentence in split_sentences(item.summary_lt):
+        line = ensure_sentence(sentence)
+        if not line:
+            continue
+        bullets.append(line)
+        if len(bullets) >= 3:
+            break
+
+    extras = [
+        f"Kaina: {practical.get('kaina', UNKNOWN_LT)}",
+        f"Veikimo budas: {practical.get('veikimo_budas', UNKNOWN_LT)}",
+        f"Prieinamumas: {practical.get('prieinamumas', UNKNOWN_LT)}",
+    ]
+    for extra in extras:
+        if UNKNOWN_LT.lower() in extra.lower():
+            continue
+        bullets.append(ensure_sentence(extra))
+        if len(bullets) >= 6:
+            break
+
+    if not bullets:
+        bullets.append("Detalesnes santraukos nepavyko sugeneruoti.")
+
+    deduped: list[str] = []
+    seen: set[str] = set()
+    for bullet in bullets:
+        key = bullet.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(bullet)
+    return deduped[:6]
+
+
+def enrich_item_details(item: NewsItem) -> None:
+    context_parts = [item.summary_lt]
+    links = [item.link] if item.link else []
+
+    if item.kind == "article" and item.link:
+        article_text, article_links = fetch_article_context(item.link)
+        if article_text:
+            context_parts.append(article_text)
+        links.extend(article_links)
+
+    context_text = normalize_text(" ".join(part for part in context_parts if part))
+    practical = build_practical_info(item, context_text, links)
+    item.practical = practical
+    item.bullets_lt = build_bullets(item, practical)
+
+
+def item_to_payload(item: NewsItem) -> dict[str, Any]:
     return {
         "title": item.title,
         "link": item.link,
@@ -722,6 +1061,8 @@ def item_to_payload(item: NewsItem) -> dict[str, str]:
         "image_url": item.image_url,
         "kind": item.kind,
         "video_id": item.video_id,
+        "bullets_lt": item.bullets_lt,
+        "practical": item.practical,
     }
 
 
@@ -741,17 +1082,35 @@ def build_post(items: list[NewsItem], topic: str, digest_date: str, generated_at
 
     for index, item in enumerate(items, start=1):
         safe_title = item.title.replace("|", "-")
-        safe_summary = item.summary_lt.replace("|", "-")
         item_type = "YouTube video" if item.kind == "video" else "Straipsnis"
+        practical = item.practical
 
         lines.extend(
             [
-                f"## {index}. [{safe_title}]({item.link})",
+                f"## {index}. {safe_title}",
                 f"Tipas: {item_type}",
                 f"Saltinis: {item.source}",
                 f"Publikuota: {item.published_lt}",
+                f"Nuoroda: {item.link}",
                 "",
-                f"Santrauka LT: {safe_summary}",
+                "Svarbiausi punktai:",
+                "",
+            ]
+        )
+
+        for bullet in item.bullets_lt[:6]:
+            lines.append(f"- {bullet}")
+
+        lines.extend(
+            [
+                "",
+                f"- Kaina: {practical.get('kaina', UNKNOWN_LT)}",
+                f"- Kainos detales: {practical.get('kainos_detales', UNKNOWN_LT)}",
+                f"- Veikimo budas: {practical.get('veikimo_budas', UNKNOWN_LT)}",
+                f"- Online limitai: {practical.get('online_limitai', UNKNOWN_LT)}",
+                f"- Lokalios sistemos poreikiai: {practical.get('lokalus_reikalavimai', UNKNOWN_LT)}",
+                f"- Prieinamumas: {practical.get('prieinamumas', UNKNOWN_LT)}",
+                f"- Kur isbandyti: {practical.get('kur_isbandyti', UNKNOWN_LT)}",
                 "",
             ]
         )
@@ -853,6 +1212,10 @@ def main() -> int:
     GENERATED_IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
     post_items = choose_digest_items(unique_items, MAX_ITEMS, MIN_VIDEO_ITEMS)
+
+    for item in post_items:
+        enrich_item_details(item)
+
     cleanup_digest_images(digest_date)
 
     for idx, item in enumerate(post_items, start=1):

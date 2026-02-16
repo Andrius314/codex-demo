@@ -12,7 +12,13 @@ Tikslas: praktinis DI ir technologijų naujienų automatizavimas GitHub Pages ap
   - kalendoriumi pagal datą,
   - rikiavimu,
   - filtru (Visi / YouTube / Straipsniai),
-  - kortelėmis su automatiniais viršeliais.
+  - kortelėmis su automatiniais viršeliais,
+  - `Plačiau` bloku su bullet pointais ir praktine info:
+    - ar nemokama/mokama ir kainos užuominos,
+    - ar veikia online ar lokaliai,
+    - online limitai,
+    - lokalūs reikalavimai,
+    - ar jau galima bandyti ir kur.
 - `.github/workflows/daily-news.yml` kasdien paleidžia generatorių, commitina ir pushina naują turinį.
 
 ## YouTube + straipsniai
@@ -25,8 +31,8 @@ Konfigūracija per env:
   - arba `https://www.youtube.com/@handle`.
 
 Numatytas workflow pavyzdys jau naudoja kelis AI kanalų ID:
+- `UCIgnGlGkVRhd4qNFcEwLL4A` (`@theAIsearch`)
 - `UCbfYPyITQ-7l4upoX8nvctg`
-- `UCSHZKyawb77ixDdsGog4iWA`
 - `UCZHmQk67mSJgfCCTn7xBfew`
 - `UCXZCJLdBC09xxGZ6gcdrc6A`
 

@@ -263,21 +263,76 @@
       font-weight: 800;
     }
 
-    .title a {
-      color: var(--ink);
-      text-decoration: none;
-    }
-
-    .title a:hover {
-      color: var(--brand-deep);
-      text-decoration: underline;
-    }
-
     .summary {
       margin: 8px 0 0;
       line-height: 1.48;
       color: #27394c;
       font-size: .95rem;
+    }
+
+    .details {
+      margin-top: 10px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: rgba(255,255,255,0.8);
+      padding: 6px 9px;
+    }
+
+    .details summary {
+      cursor: pointer;
+      font-weight: 700;
+      color: #1e516f;
+      outline: none;
+    }
+
+    .details[open] summary {
+      margin-bottom: 8px;
+    }
+
+    .bullets {
+      margin: 0 0 10px;
+      padding-left: 18px;
+      color: #274057;
+      line-height: 1.45;
+    }
+
+    .bullets li {
+      margin-bottom: 4px;
+    }
+
+    .facts {
+      display: grid;
+      gap: 6px;
+      margin-bottom: 8px;
+    }
+
+    .fact {
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .fact strong {
+      color: var(--ink);
+      font-weight: 700;
+    }
+
+    .source-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      border-radius: 8px;
+      padding: 8px 10px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.9);
+      color: #0b4c6f;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .source-btn:hover {
+      border-color: var(--brand);
+      color: var(--brand-deep);
     }
 
     .empty {
@@ -394,6 +449,15 @@
       return state.archive.digests.find(d => d.digest_date === date) || null;
     }
 
+    function esc(value) {
+      return String(value ?? '')
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#39;');
+    }
+
     function renderItems(items) {
       if (!items.length) {
         els.list.innerHTML = '<article class="empty">Šiai datai ar filtrui įrašų nėra. Pasirink kitą datą arba pakeisk filtrą.</article>';
@@ -409,10 +473,17 @@
         const kind = item.kind || 'article';
         const kindLabel = kind === 'video' ? 'YouTube' : 'Straipsnis';
         const image = item.image_url || '';
+        const bullets = Array.isArray(item.bullets_lt) ? item.bullets_lt : [];
+        const practical = item.practical || {};
+        const tryUrl = practical.try_url || link;
 
         const thumb = image
-          ? `<img loading="lazy" src="${image}" alt="${title.replace(/"/g, '&quot;')}" />`
+          ? `<img loading="lazy" src="${esc(image)}" alt="${esc(title)}" />`
           : '<span>DI NEWS</span>';
+
+        const bulletsHtml = bullets.length
+          ? `<ul class="bullets">${bullets.map(b => `<li>${esc(b)}</li>`).join('')}</ul>`
+          : '<ul class="bullets"><li>Santrauka nepateikta.</li></ul>';
 
         return `
           <article class="card" style="animation-delay:${Math.min(index * 0.05, 0.42)}s">
@@ -420,11 +491,25 @@
             <div class="content">
               <p class="meta">
                 <span class="pill ${kind === 'video' ? 'video' : ''}">${kindLabel}</span>
-                <span class="pill">${source}</span>
-                <span class="pill">${published}</span>
+                <span class="pill">${esc(source)}</span>
+                <span class="pill">${esc(published)}</span>
               </p>
-              <h2 class="title"><a href="${link}" target="_blank" rel="noopener">${title}</a></h2>
-              <p class="summary">${summary}</p>
+              <h2 class="title">${esc(title)}</h2>
+              <p class="summary">${esc(summary)}</p>
+              <details class="details">
+                <summary>Plačiau</summary>
+                ${bulletsHtml}
+                <div class="facts">
+                  <div class="fact"><strong>Kaina:</strong> ${esc(practical.kaina || 'Neaptikta')}</div>
+                  <div class="fact"><strong>Kainos detalės:</strong> ${esc(practical.kainos_detales || 'Neaptikta')}</div>
+                  <div class="fact"><strong>Veikimo būdas:</strong> ${esc(practical.veikimo_budas || 'Neaptikta')}</div>
+                  <div class="fact"><strong>Online limitai:</strong> ${esc(practical.online_limitai || 'Neaptikta')}</div>
+                  <div class="fact"><strong>Lokalūs reikalavimai:</strong> ${esc(practical.lokalus_reikalavimai || 'Neaptikta')}</div>
+                  <div class="fact"><strong>Prieinamumas:</strong> ${esc(practical.prieinamumas || 'Neaptikta')}</div>
+                  <div class="fact"><strong>Kur išbandyti:</strong> ${esc(practical.kur_isbandyti || 'Neaptikta')}</div>
+                </div>
+                <a class="source-btn" href="${esc(tryUrl)}" target="_blank" rel="noopener">Atidaryti šaltinį</a>
+              </details>
             </div>
           </article>
         `;
