@@ -607,6 +607,269 @@ def load_youtube_channels() -> list[str]:
     return feed_urls
 
 
+def extract_json_object_after_marker(raw_text: str, marker: str) -> str:
+    idx = raw_text.find(marker)
+    if idx < 0:
+        return ""
+
+    start = raw_text.find("{", idx)
+    if start < 0:
+        return ""
+
+    depth = 0
+    in_string = False
+    escaped = False
+
+    for pos in range(start, len(raw_text)):
+        ch = raw_text[pos]
+        if in_string:
+            if escaped:
+                escaped = False
+            elif ch == "\\":
+                escaped = True
+            elif ch == '"':
+                in_string = False
+            continue
+
+        if ch == '"':
+            in_string = True
+        elif ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return raw_text[start : pos + 1]
+
+    return ""
+
+
+def parse_caption_tracks_from_watch_html(raw_html: str) -> list[dict[str, Any]]:
+    if not raw_html:
+        return []
+
+    markers = [
+        "ytInitialPlayerResponse = ",
+        "var ytInitialPlayerResponse = ",
+        '"ytInitialPlayerResponse":',
+    ]
+
+    for marker in markers:
+        obj_text = extract_json_object_after_marker(raw_html, marker)
+        if not obj_text:
+            continue
+        try:
+            data = json.loads(obj_text)
+            captions = data.get("captions") if isinstance(data, dict) else {}
+            renderer = captions.get("playerCaptionsTracklistRenderer") if isinstance(captions, dict) else {}
+            tracks = renderer.get("captionTracks") if isinstance(renderer, dict) else []
+            if isinstance(tracks, list):
+                return [item for item in tracks if isinstance(item, dict)]
+        except Exception:
+            continue
+
+    # Regex fallback for cases where initial player response parsing fails.
+    patterns = [
+        r'"captionTracks"\s*:\s*(\[[\s\S]*?\])\s*,\s*"audioTracks"',
+        r'"captionTracks"\s*:\s*(\[[\s\S]*?\])\s*,\s*"translationLanguages"',
+        r'"captionTracks"\s*:\s*(\[[\s\S]*?\])',
+    ]
+
+    for pattern in patterns:
+        match = re.search(pattern, raw_html)
+        if not match:
+            continue
+
+        raw_json = match.group(1).strip()
+        try:
+            parsed = json.loads(raw_json)
+            if isinstance(parsed, list):
+                return [item for item in parsed if isinstance(item, dict)]
+        except Exception:
+            continue
+
+    return []
+
+
+def choose_caption_track(tracks: list[dict[str, Any]]) -> dict[str, Any] | None:
+    if not tracks:
+        return None
+
+    preferred_langs = ["lt", "en"]
+
+    def score(track: dict[str, Any]) -> tuple[int, int]:
+        language = str(track.get("languageCode") or "").lower()
+        for idx, pref in enumerate(preferred_langs):
+            if language == pref or language.startswith(pref + "-"):
+                return (idx, 0)
+        return (len(preferred_langs) + 1, 1)
+
+    ordered = sorted(tracks, key=score)
+    return ordered[0] if ordered else None
+
+
+def subtitle_payload_to_text(payload: str) -> str:
+    body = payload.strip()
+    if not body:
+        return ""
+
+    text_parts: list[str] = []
+    if body.startswith("{") or body.startswith("["):
+        try:
+            data = json.loads(body)
+            events = data.get("events") if isinstance(data, dict) else []
+            for event in events or []:
+                if not isinstance(event, dict):
+                    continue
+                segs = event.get("segs")
+                if not isinstance(segs, list):
+                    continue
+                segment = "".join(str(seg.get("utf8") or "") for seg in segs if isinstance(seg, dict))
+                cleaned = normalize_text(segment)
+                if cleaned:
+                    text_parts.append(cleaned)
+        except Exception:
+            return ""
+    elif body.startswith("<"):
+        try:
+            root = ET.fromstring(body)
+            for node in root.findall(".//text"):
+                cleaned = normalize_text(node.text or "")
+                if cleaned:
+                    text_parts.append(cleaned)
+        except Exception:
+            return ""
+    else:
+        # VTT/plain fallback.
+        lines = []
+        for raw_line in body.splitlines():
+            line = normalize_text(raw_line)
+            if not line:
+                continue
+            if line.upper().startswith("WEBVTT"):
+                continue
+            if "-->" in line:
+                continue
+            if re.fullmatch(r"\d+", line):
+                continue
+            if line.startswith("NOTE"):
+                continue
+            lines.append(line)
+        text_parts.extend(lines)
+
+    return " ".join(text_parts).strip()
+
+
+def load_youtube_transcript_via_ytdlp(video_id: str) -> str:
+    if not video_id:
+        return ""
+
+    try:
+        import yt_dlp
+    except Exception:
+        return ""
+
+    video_url = f"https://www.youtube.com/watch?v={video_id}"
+    ydl_opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+    }
+
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(video_url, download=False)
+    except Exception:
+        return ""
+
+    if not isinstance(info, dict):
+        return ""
+
+    subtitles = info.get("subtitles") if isinstance(info.get("subtitles"), dict) else {}
+    automatic = info.get("automatic_captions") if isinstance(info.get("automatic_captions"), dict) else {}
+
+    def language_candidates(source: dict[str, Any], preferred: list[str]) -> list[dict[str, Any]]:
+        out: list[dict[str, Any]] = []
+        for pref in preferred:
+            for lang, entries in source.items():
+                if not isinstance(lang, str):
+                    continue
+                if lang.lower() == pref or lang.lower().startswith(pref + "-"):
+                    if isinstance(entries, list):
+                        out.extend([entry for entry in entries if isinstance(entry, dict)])
+        return out
+
+    preferred_langs = ["lt", "en"]
+    candidates = language_candidates(subtitles, preferred_langs) + language_candidates(automatic, preferred_langs)
+
+    preferred_ext = ["json3", "json", "srv3", "srv2", "srv1", "ttml", "xml", "vtt"]
+
+    def ext_rank(entry: dict[str, Any]) -> int:
+        ext = str(entry.get("ext") or "").lower()
+        try:
+            return preferred_ext.index(ext)
+        except ValueError:
+            return len(preferred_ext) + 1
+
+    for entry in sorted(candidates, key=ext_rank):
+        sub_url = str(entry.get("url") or "").strip()
+        if not sub_url:
+            continue
+        try:
+            req = urllib.request.Request(sub_url, headers={"User-Agent": "codex-ai-news-bot/1.0"})
+            with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as response:
+                payload = response.read().decode("utf-8", errors="ignore")
+            text = subtitle_payload_to_text(payload)
+            if text:
+                return text[:MAX_TRANSCRIPT_CHARS].strip()
+        except Exception:
+            continue
+
+    return ""
+
+
+def load_youtube_transcript_fallback(video_id: str) -> str:
+    if not video_id:
+        return ""
+
+    watch_url = f"https://www.youtube.com/watch?v={video_id}"
+    try:
+        req = urllib.request.Request(watch_url, headers={"User-Agent": "codex-ai-news-bot/1.0"})
+        with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as response:
+            raw_html = response.read().decode("utf-8", errors="ignore")
+    except Exception:
+        return ""
+
+    tracks = parse_caption_tracks_from_watch_html(raw_html)
+    chosen = choose_caption_track(tracks)
+    if not chosen:
+        return ""
+
+    base_url = str(chosen.get("baseUrl") or "")
+    base_url = html.unescape(base_url).replace("\\u0026", "&")
+    if not base_url:
+        return ""
+
+    attempts: list[str] = []
+    separator = "&" if "?" in base_url else "?"
+    if "tlang=" not in base_url:
+        attempts.append(f"{base_url}{separator}tlang=lt&fmt=json3")
+    attempts.append(f"{base_url}{separator}fmt=json3")
+    attempts.append(base_url)
+
+    for sub_url in attempts:
+        try:
+            req = urllib.request.Request(sub_url, headers={"User-Agent": "codex-ai-news-bot/1.0"})
+            with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as response:
+                payload = response.read().decode("utf-8", errors="ignore")
+            text = subtitle_payload_to_text(payload)
+            if text:
+                return text[:MAX_TRANSCRIPT_CHARS].strip()
+        except Exception:
+            continue
+
+    return ""
+
+
 def load_youtube_transcript(video_id: str) -> str:
     if not video_id:
         return ""
@@ -640,7 +903,11 @@ def load_youtube_transcript(video_id: str) -> str:
                 transcript_items = []
 
     if not transcript_items:
-        return ""
+        ytdlp_text = load_youtube_transcript_via_ytdlp(video_id)
+        if ytdlp_text:
+            return ytdlp_text[:MAX_TRANSCRIPT_CHARS].strip()
+        fallback_text = load_youtube_transcript_fallback(video_id)
+        return fallback_text[:MAX_TRANSCRIPT_CHARS].strip()
 
     text_parts = []
     for item in transcript_items:
