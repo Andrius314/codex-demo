@@ -6,7 +6,7 @@ categories: [ai, technologijos, automatizacija]
 ---
 
 Automatiskai sugeneruota dienos santrauka temai: **Dirbtinis intelektas ir technologijos**.
-Generavimo laikas (UTC): 2026-02-16T08:14:03Z
+Generavimo laikas (UTC): 2026-02-16T08:14:21Z
 
 ## 1. [Google DeepMind Proposes New Framework for Intelligent AI Delegation to Secure the Emerging Agentic Web for Future Economies](https://www.marktechpost.com/2026/02/15/google-deepmind-proposes-new-framework-for-intelligent-ai-delegation-to-secure-the-emerging-agentic-web-for-future-economies/)
 Saltinis: MarkTechPost
