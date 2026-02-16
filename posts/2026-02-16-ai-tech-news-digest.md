@@ -6,7 +6,7 @@ categories: [ai, technologijos, youtube, automatizacija]
 ---
 
 Automatiskai sugeneruota dienos santrauka temai: **Dirbtinis intelektas ir technologijos**.
-Generavimo laikas (UTC): 2026-02-16T10:28:25Z
+Generavimo laikas (UTC): 2026-02-16T10:30:49Z
 
 ## 1. URBN išbando agentinį AI, kad automatizuotų mažmeninės prekybos ataskaitų teikimą
 Tipas: Straipsnis
@@ -58,7 +58,7 @@ Nuoroda: https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-desi
 Svarbiausi punktai:
 
 - Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir nuolat mokosi laikui bėgant.
-- Sistemą projektuojame taip, kad išliktų naudotojo pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.
+- Sistemą projektuojame taip, kad išliktų naudotojų pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.
 - Kaina: Labiau panasu i mokama sprendima.
 - Veikimo budas: Panasu, kad veikia online (naršyklė/API).
 
@@ -161,7 +161,9 @@ Nuoroda: https://www.youtube.com/watch?v=hsQA5TSHZ7I
 
 Svarbiausi punktai:
 
-- DIDELĖS AI NAUJIENOS: Seedance 2.0, Qwen Image 2.0, Gemini Deep Think, GLM5, SoulX Singer #ai #ainews #aitools #aivideo #agi #singularity Ačiū mūsų rėmėjui Murekai.
+- AI niekada nemiega ir ši savaitė buvo visiškai beprotiška.
+- Pagaliau turime balso klonerį, galintį dainuoti.
+- Šis AI gali automatiškai dubliuoti vaizdo įrašus į skirtingas kalbas.
 
 - Kaina: Neaptikta siame saltinyje.
 - Kainos detales: Neaptikta siame saltinyje.
@@ -221,7 +223,9 @@ Nuoroda: https://www.youtube.com/watch?v=B2GMI0UgN_U
 
 Svarbiausi punktai:
 
-- Įgyvendinkite šią idėją, kad ir kokia laukinė ji atrodytų, su ChatGPT 🎧: The Letter Live at The Fillmore, autorius Joe Cocker.
+- Man reikia, kad tie stalai būtų padengti.
+- Ei, Semai, ar gali įsitikinti, kad šis stalviršis yra nepriekaištingas?
+- >> Ei, Vinnie, man reikia tavęs tose [muzikos] dėžutėse.
 
 - Kaina: Neaptikta siame saltinyje.
 - Kainos detales: Neaptikta siame saltinyje.
@@ -231,24 +235,20 @@ Svarbiausi punktai:
 - Prieinamumas: Neaptikta siame saltinyje.
 - Kur isbandyti: Galima tikrinti cia: https://www.youtube.com/watch?v=B2GMI0UgN_U
 
-## 12. „Exa AI“ pristato „Exa Instant“: iki 200 ms neuronų paieškos variklis, sukurtas siekiant pašalinti kliūtis realaus laiko agentų darbo eigoms
-Tipas: Straipsnis
-Saltinis: MarkTechPost
-Publikuota: 2026-02-13 21:29 UTC
-Nuoroda: https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/
+## 12. Pataisykite naudodami „ChatGPT“.
+Tipas: YouTube video
+Saltinis: OpenAI
+Publikuota: 2026-02-13 23:43 UTC
+Nuoroda: https://www.youtube.com/watch?v=PHKpsVIdAcc
 
 Svarbiausi punktai:
 
-- Didelių kalbų modelių (LLM) pasaulyje greitis yra vienintelė funkcija, kuri turi reikšmės, kai išspręstas tikslumas.
-- Žmogui tinka laukti 1 sekundę paieškos rezultato.
-- AI agentas, atliekantis 10 nuoseklių paieškų, kad išspręstų sudėtingą užduotį, 1 sekundės delsa vienai paieškai sukuria 10 sekundžių delsą.
-- Veikimo budas: Panasu, kad veikia online (naršyklė/API).
-- Prieinamumas: Panasu, kad jau galima bandyti.
+- Patobulinkite savo įgūdžius ir eikite į kelią su ChatGPT.
 
 - Kaina: Neaptikta siame saltinyje.
 - Kainos detales: Neaptikta siame saltinyje.
-- Veikimo budas: Panasu, kad veikia online (naršyklė/API).
+- Veikimo budas: Neaptikta siame saltinyje.
 - Online limitai: Neaptikta siame saltinyje.
 - Lokalios sistemos poreikiai: Neaptikta siame saltinyje.
-- Prieinamumas: Panasu, kad jau galima bandyti.
-- Kur isbandyti: Galima tikrinti cia: https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/
+- Prieinamumas: Neaptikta siame saltinyje.
+- Kur isbandyti: Galima tikrinti cia: https://www.youtube.com/watch?v=PHKpsVIdAcc

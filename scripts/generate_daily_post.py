@@ -1517,6 +1517,90 @@ def write_json(path: Path, payload: dict[str, Any]) -> None:
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def load_previous_item_map() -> dict[str, dict[str, Any]]:
+    out: dict[str, dict[str, Any]] = {}
+
+    if LATEST_JSON_PATH.exists():
+        try:
+            latest = json.loads(LATEST_JSON_PATH.read_text(encoding="utf-8"))
+            items = latest.get("items") if isinstance(latest, dict) else []
+            if isinstance(items, list):
+                for item in items:
+                    if not isinstance(item, dict):
+                        continue
+                    link = normalize_text(str(item.get("link") or "")).strip().lower()
+                    if not link:
+                        continue
+                    out[link] = item
+        except Exception:
+            pass
+
+    if ARCHIVE_JSON_PATH.exists():
+        try:
+            archive = json.loads(ARCHIVE_JSON_PATH.read_text(encoding="utf-8"))
+            digests = archive.get("digests") if isinstance(archive, dict) else []
+            if isinstance(digests, list):
+                for digest in digests[:10]:
+                    if not isinstance(digest, dict):
+                        continue
+                    items = digest.get("items")
+                    if not isinstance(items, list):
+                        continue
+                    for item in items:
+                        if not isinstance(item, dict):
+                            continue
+                        link = normalize_text(str(item.get("link") or "")).strip().lower()
+                        if not link or link in out:
+                            continue
+                        out[link] = item
+        except Exception:
+            pass
+
+    return out
+
+
+def summary_quality_score(text: str) -> int:
+    cleaned = normalize_text(text)
+    if not cleaned:
+        return 0
+
+    score = len(cleaned)
+    sentence_count = len(split_sentences(cleaned))
+    hashtag_count = cleaned.count("#")
+
+    if sentence_count <= 1:
+        score -= 60
+    if hashtag_count >= 2:
+        score -= 80
+    if len(cleaned.split()) < 18:
+        score -= 40
+
+    return score
+
+
+def apply_previous_video_summaries(items: list[NewsItem], previous_items: dict[str, dict[str, Any]]) -> None:
+    if not previous_items:
+        return
+
+    for item in items:
+        if item.kind != "video":
+            continue
+        key = normalize_text(item.link).strip().lower()
+        if not key:
+            continue
+        previous = previous_items.get(key)
+        if not previous:
+            continue
+
+        current_summary = item.summary_lt
+        previous_summary = normalize_text(str(previous.get("summary") or ""))
+        if not previous_summary:
+            continue
+
+        if summary_quality_score(previous_summary) >= summary_quality_score(current_summary) + 40:
+            item.summary_lt = previous_summary
+
+
 def main() -> int:
     topic = os.getenv("NEWS_TOPIC", DEFAULT_TOPIC).strip() or DEFAULT_TOPIC
     rss_feeds = selected_rss_feeds()
@@ -1552,7 +1636,9 @@ def main() -> int:
     NEWS_DIR.mkdir(parents=True, exist_ok=True)
     GENERATED_IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
+    previous_items = load_previous_item_map()
     post_items = choose_digest_items(unique_items, MAX_ITEMS, MIN_VIDEO_ITEMS)
+    apply_previous_video_summaries(post_items, previous_items)
 
     for item in post_items:
         enrich_item_details(item)
