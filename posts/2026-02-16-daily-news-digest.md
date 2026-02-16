@@ -7,8 +7,8 @@ categories: [news, automation]
 
 Automated daily digest for **Technology**.
 
-## 1. [Starmer pledges crackdown on 'addictive elements' of social media](https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss)
-Published: 2026-02-16 04:52 UTC
+## 1. [Starmer pledges to close loopholes in social media crackdown](https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss)
+Published: 2026-02-16 06:52 UTC
 
 The government's new plans will mean no online platform will get a "free pass" on children's safety on the internet, the prime minister says.
 

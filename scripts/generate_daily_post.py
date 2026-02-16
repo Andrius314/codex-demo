@@ -3,6 +3,7 @@
 import datetime as dt
 import email.utils
 import html
+import json
 import os
 import re
 import urllib.request
@@ -18,6 +19,8 @@ DEFAULT_FEEDS = [
 
 DEFAULT_TOPIC = "Technology"
 POSTS_DIR = Path("posts")
+NEWS_DIR = Path("news")
+LATEST_JSON_PATH = NEWS_DIR / "latest.json"
 MAX_ITEMS = int(os.getenv("NEWS_MAX_ITEMS", "6"))
 TIMEOUT_SECONDS = int(os.getenv("NEWS_TIMEOUT", "20"))
 
@@ -162,6 +165,23 @@ def build_post(items: list[NewsItem], topic: str) -> str:
     return "\n".join(lines).strip() + "\n"
 
 
+def build_latest_json(items: list[NewsItem], topic: str) -> str:
+    payload = {
+        "topic": topic,
+        "generated_at_utc": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "items": [
+            {
+                "title": item.title,
+                "link": item.link,
+                "published_utc": fmt_date(item.published),
+                "summary": (item.summary or "No summary available from feed.")[:220].rstrip(),
+            }
+            for item in items
+        ],
+    }
+    return json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+
+
 def output_path() -> Path:
     today = dt.datetime.now(dt.timezone.utc).date().isoformat()
     return POSTS_DIR / f"{today}-daily-news-digest.md"
@@ -189,12 +209,16 @@ def main() -> int:
         return 1
 
     POSTS_DIR.mkdir(parents=True, exist_ok=True)
+    NEWS_DIR.mkdir(parents=True, exist_ok=True)
+
     post_items = unique_items[:MAX_ITEMS]
     post_text = build_post(post_items, topic)
     path = output_path()
     path.write_text(post_text, encoding="utf-8")
+    LATEST_JSON_PATH.write_text(build_latest_json(post_items, topic), encoding="utf-8")
 
     print(f"Saved {len(post_items)} items to {path}")
+    print(f"Updated {LATEST_JSON_PATH}")
     if errors:
         print("Feeds with errors:")
         for err in errors:

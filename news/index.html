@@ -1,0 +1,198 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily News Digest</title>
+  <style>
+    :root {
+      --bg-a: #f5f7fa;
+      --bg-b: #e5ecf4;
+      --text: #14213d;
+      --muted: #4f5d75;
+      --card: rgba(255, 255, 255, 0.85);
+      --accent: #e07a5f;
+      --accent-dark: #bf5a42;
+      --line: rgba(20, 33, 61, 0.12);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Segoe UI Variable", "Trebuchet MS", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 10% -10%, #fff8dc 0%, transparent 40%),
+        radial-gradient(circle at 90% -10%, #d9f0ff 0%, transparent 35%),
+        linear-gradient(145deg, var(--bg-a), var(--bg-b));
+      min-height: 100vh;
+    }
+
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 28px 20px 48px;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, rgba(255,255,255,0.8), rgba(255,255,255,0.55));
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 24px;
+      backdrop-filter: blur(6px);
+    }
+
+    .eyebrow {
+      margin: 0;
+      color: var(--muted);
+      font-size: 13px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 8px 0 10px;
+      font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+      line-height: 1.1;
+    }
+
+    .meta {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .grid {
+      margin-top: 22px;
+      display: grid;
+      gap: 14px;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 16px;
+      box-shadow: 0 8px 18px rgba(20, 33, 61, 0.06);
+      transform: translateY(8px);
+      opacity: 0;
+      animation: rise 0.45s ease forwards;
+    }
+
+    .card h2 {
+      margin: 0 0 8px;
+      font-size: 1.08rem;
+      line-height: 1.35;
+    }
+
+    .card a {
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    .card a:hover {
+      color: var(--accent-dark);
+      text-decoration: underline;
+    }
+
+    .when {
+      margin: 0 0 8px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .summary {
+      margin: 0;
+      line-height: 1.45;
+      color: #273654;
+    }
+
+    .state {
+      margin-top: 20px;
+      padding: 14px;
+      border-radius: 12px;
+      border: 1px dashed var(--line);
+      color: var(--muted);
+      background: rgba(255,255,255,0.65);
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 14px;
+      background: var(--accent);
+      color: white;
+      text-decoration: none;
+      padding: 10px 14px;
+      border-radius: 10px;
+      font-weight: 600;
+      transition: transform 0.15s ease, background 0.15s ease;
+    }
+
+    .btn:hover {
+      background: var(--accent-dark);
+      transform: translateY(-1px);
+    }
+
+    @keyframes rise {
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <p class="eyebrow">Auto-updated</p>
+      <h1 id="title">Daily News Digest</h1>
+      <p id="meta" class="meta">Loading latest feed...</p>
+      <a class="btn" href="../posts/">Open markdown posts</a>
+    </section>
+
+    <section id="state" class="state">Loading latest.json...</section>
+    <section id="list" class="grid"></section>
+  </main>
+
+  <script>
+    async function loadNews() {
+      const state = document.getElementById('state');
+      const list = document.getElementById('list');
+      const title = document.getElementById('title');
+      const meta = document.getElementById('meta');
+
+      try {
+        const res = await fetch('./latest.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+
+        const topic = data.topic || 'Technology';
+        const generatedAt = data.generated_at_utc || 'unknown';
+        const items = Array.isArray(data.items) ? data.items : [];
+
+        title.textContent = `Daily ${topic} News Digest`;
+        meta.textContent = `Generated at: ${generatedAt}`;
+
+        if (!items.length) {
+          state.textContent = 'No items available yet. Run the generator/workflow.';
+          return;
+        }
+
+        state.remove();
+        list.innerHTML = items.map((item, idx) => `
+          <article class="card" style="animation-delay:${Math.min(idx * 0.06, 0.4)}s">
+            <h2><a target="_blank" rel="noopener" href="${item.link || '#'}">${item.title || 'Untitled'}</a></h2>
+            <p class="when">Published: ${item.published_utc || 'Date not provided'}</p>
+            <p class="summary">${item.summary || ''}</p>
+          </article>
+        `).join('');
+      } catch (error) {
+        state.textContent = `Could not load latest.json (${error.message}).`;
+      }
+    }
+
+    loadNews();
+  </script>
+</body>
+</html>
