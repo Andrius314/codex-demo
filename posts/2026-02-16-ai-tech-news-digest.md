@@ -6,7 +6,7 @@ categories: [ai, technologijos, youtube, automatizacija]
 ---
 
 Automatiskai sugeneruota dienos santrauka temai: **Dirbtinis intelektas ir technologijos**.
-Generavimo laikas (UTC): 2026-02-16T10:30:49Z
+Generavimo laikas (UTC): 2026-02-16T10:34:38Z
 
 ## 1. URBN išbando agentinį AI, kad automatizuotų mažmeninės prekybos ataskaitų teikimą
 Tipas: Straipsnis
@@ -58,7 +58,7 @@ Nuoroda: https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-desi
 Svarbiausi punktai:
 
 - Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir nuolat mokosi laikui bėgant.
-- Sistemą projektuojame taip, kad išliktų naudotojų pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.
+- Sistemą projektuojame taip, kad išliktų naudotojo pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.
 - Kaina: Labiau panasu i mokama sprendima.
 - Veikimo budas: Panasu, kad veikia online (naršyklė/API).
 
@@ -235,20 +235,24 @@ Svarbiausi punktai:
 - Prieinamumas: Neaptikta siame saltinyje.
 - Kur isbandyti: Galima tikrinti cia: https://www.youtube.com/watch?v=B2GMI0UgN_U
 
-## 12. Pataisykite naudodami „ChatGPT“.
-Tipas: YouTube video
-Saltinis: OpenAI
-Publikuota: 2026-02-13 23:43 UTC
-Nuoroda: https://www.youtube.com/watch?v=PHKpsVIdAcc
+## 12. „Exa AI“ pristato „Exa Instant“: iki 200 ms neuronų paieškos variklis, sukurtas siekiant pašalinti kliūtis realaus laiko agentų darbo eigoms
+Tipas: Straipsnis
+Saltinis: MarkTechPost
+Publikuota: 2026-02-13 21:29 UTC
+Nuoroda: https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/
 
 Svarbiausi punktai:
 
-- Patobulinkite savo įgūdžius ir eikite į kelią su ChatGPT.
+- Didelių kalbų modelių (LLM) pasaulyje greitis yra vienintelė funkcija, kuri turi reikšmės, kai išspręstas tikslumas.
+- Žmogui tinka laukti 1 sekundę paieškos rezultato.
+- AI agentas, atliekantis 10 nuoseklių paieškų, kad išspręstų sudėtingą užduotį, 1 sekundės delsa vienai paieškai sukuria 10 sekundžių delsą.
+- Veikimo budas: Panasu, kad veikia online (naršyklė/API).
+- Prieinamumas: Panasu, kad jau galima bandyti.
 
 - Kaina: Neaptikta siame saltinyje.
 - Kainos detales: Neaptikta siame saltinyje.
-- Veikimo budas: Neaptikta siame saltinyje.
+- Veikimo budas: Panasu, kad veikia online (naršyklė/API).
 - Online limitai: Neaptikta siame saltinyje.
 - Lokalios sistemos poreikiai: Neaptikta siame saltinyje.
-- Prieinamumas: Neaptikta siame saltinyje.
-- Kur isbandyti: Galima tikrinti cia: https://www.youtube.com/watch?v=PHKpsVIdAcc
+- Prieinamumas: Panasu, kad jau galima bandyti.
+- Kur isbandyti: Galima tikrinti cia: https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/

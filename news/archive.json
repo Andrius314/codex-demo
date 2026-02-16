@@ -1,10 +1,10 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-02-16T10:30:49Z",
+  "updated_at_utc": "2026-02-16T10:34:38Z",
   "digests": [
     {
       "digest_date": "2026-02-16",
-      "generated_at_utc": "2026-02-16T10:30:49Z",
+      "generated_at_utc": "2026-02-16T10:34:38Z",
       "item_count": 12,
       "items": [
         {
@@ -67,7 +67,7 @@
           "link": "https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-design-a-stateful-tutor-agent-with-long-term-memory-semantic-recall-and-adaptive-practice-generation/",
           "published_iso": "2026-02-16T06:02:57Z",
           "published_lt": "2026-02-16 06:02 UTC",
-          "summary": "Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir nuolat mokosi laikui bėgant. Sistemą projektuojame taip, kad išliktų naudotojų pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.",
+          "summary": "Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir nuolat mokosi laikui bėgant. Sistemą projektuojame taip, kad išliktų naudotojo pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.",
           "source": "MarkTechPost",
           "source_image_url": "",
           "image_url": "generated-images/2026-02-16-03-kodavimo-igyvendinimas-skirtas-sukurti-busena-turinti-mo.svg",
@@ -75,7 +75,7 @@
           "video_id": "",
           "bullets_lt": [
             "Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir nuolat mokosi laikui bėgant.",
-            "Sistemą projektuojame taip, kad išliktų naudotojų pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.",
+            "Sistemą projektuojame taip, kad išliktų naudotojo pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.",
             "Kaina: Labiau panasu i mokama sprendima.",
             "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
           ],
@@ -312,28 +312,32 @@
           }
         },
         {
-          "title": "Pataisykite naudodami „ChatGPT“.",
-          "link": "https://www.youtube.com/watch?v=PHKpsVIdAcc",
-          "published_iso": "2026-02-13T23:43:29Z",
-          "published_lt": "2026-02-13 23:43 UTC",
-          "summary": "Patobulinkite savo įgūdžius ir eikite į kelią su ChatGPT.",
-          "source": "OpenAI",
-          "source_image_url": "https://i1.ytimg.com/vi/PHKpsVIdAcc/hqdefault.jpg",
-          "image_url": "generated-images/2026-02-16-12-pataisykite-naudodami-chatgpt.svg",
-          "kind": "video",
-          "video_id": "PHKpsVIdAcc",
+          "title": "„Exa AI“ pristato „Exa Instant“: iki 200 ms neuronų paieškos variklis, sukurtas siekiant pašalinti kliūtis realaus laiko agentų darbo eigoms",
+          "link": "https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/",
+          "published_iso": "2026-02-13T21:29:53Z",
+          "published_lt": "2026-02-13 21:29 UTC",
+          "summary": "Didelių kalbų modelių (LLM) pasaulyje greitis yra vienintelė funkcija, kuri turi reikšmės, kai išspręstas tikslumas. Žmogui tinka laukti 1 sekundę paieškos rezultato. AI agentas, atliekantis 10 nuoseklių paieškų, kad išspręstų sudėtingą užduotį, 1 sekundės delsa vienai paieškai sukuria 10 sekundžių delsą.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-25-150x150.png",
+          "image_url": "generated-images/2026-02-16-12-exa-ai-pristato-exa-instant-iki-200-ms-neuronu-paieskos-.svg",
+          "kind": "article",
+          "video_id": "",
           "bullets_lt": [
-            "Patobulinkite savo įgūdžius ir eikite į kelią su ChatGPT."
+            "Didelių kalbų modelių (LLM) pasaulyje greitis yra vienintelė funkcija, kuri turi reikšmės, kai išspręstas tikslumas.",
+            "Žmogui tinka laukti 1 sekundę paieškos rezultato.",
+            "AI agentas, atliekantis 10 nuoseklių paieškų, kad išspręstų sudėtingą užduotį, 1 sekundės delsa vienai paieškai sukuria 10 sekundžių delsą.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
           ],
           "practical": {
             "kaina": "Neaptikta siame saltinyje.",
             "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
             "online_limitai": "Neaptikta siame saltinyje.",
             "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=PHKpsVIdAcc",
-            "try_url": "https://www.youtube.com/watch?v=PHKpsVIdAcc"
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/",
+            "try_url": "https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/"
           }
         }
       ]
