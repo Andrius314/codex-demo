@@ -6,7 +6,7 @@ categories: [ai, technologijos, youtube, automatizacija]
 ---
 
 Automatiskai sugeneruota dienos santrauka temai: **Dirbtinis intelektas ir technologijos**.
-Generavimo laikas (UTC): 2026-02-16T10:24:14Z
+Generavimo laikas (UTC): 2026-02-16T10:28:25Z
 
 ## 1. URBN išbando agentinį AI, kad automatizuotų mažmeninės prekybos ataskaitų teikimą
 Tipas: Straipsnis
@@ -49,7 +49,7 @@ Svarbiausi punktai:
 - Prieinamumas: Neaptikta siame saltinyje.
 - Kur isbandyti: Galima tikrinti cia: https://www.marktechpost.com/2026/02/15/google-deepmind-proposes-new-framework-for-intelligent-ai-delegation-to-secure-the-emerging-agentic-web-for-future-economies/
 
-## 3. Kodavimo įgyvendinimas, skirtas sukurti būseną turintį mokytojo agentą su ilgalaike atmintimi, semantiniu atsišaukimu ir adaptyvios praktikos generavimu
+## 3. Kodavimo įgyvendinimas, skirtas sukurti būseną turintį mokytojo agentą, turintį ilgalaikę atmintį, semantinį atsišaukimą ir adaptyvios praktikos generavimą
 Tipas: Straipsnis
 Saltinis: MarkTechPost
 Publikuota: 2026-02-16 06:02 UTC
@@ -57,8 +57,8 @@ Nuoroda: https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-desi
 
 Svarbiausi punktai:
 
-- Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir laikui bėgant nuolat mokosi.
-- Sistemą suprojektuojame taip, kad išliktų naudotojo pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.
+- Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir nuolat mokosi laikui bėgant.
+- Sistemą projektuojame taip, kad išliktų naudotojo pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.
 - Kaina: Labiau panasu i mokama sprendima.
 - Veikimo budas: Panasu, kad veikia online (naršyklė/API).
 
@@ -70,7 +70,7 @@ Svarbiausi punktai:
 - Prieinamumas: Neaptikta siame saltinyje.
 - Kur isbandyti: Galima tikrinti cia: https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-design-a-stateful-tutor-agent-with-long-term-memory-semantic-recall-and-adaptive-practice-generation/
 
-## 4. Moonshot AI pristato Kimi Claw: Native OpenClaw svetainėje Kimi.com su 5 000 bendruomenės įgūdžių ir 40 GB saugyklos debesyje dabar
+## 4. Moonshot AI pristato Kimi Claw: Native OpenClaw svetainėje Kimi.com su 5000 bendruomenės įgūdžių ir 40 GB saugyklos debesyje dabar
 Tipas: Straipsnis
 Saltinis: MarkTechPost
 Publikuota: 2026-02-15 20:33 UTC
@@ -180,7 +180,7 @@ Nuoroda: https://www.marktechpost.com/2026/02/14/google-ai-introduces-the-webmcp
 Svarbiausi punktai:
 
 - „Google“ oficialiai paverčia „Chrome“ AI agentų žaidimų aikštele.
-- Daugelį metų dirbtinio intelekto „naršyklės“ rėmėsi netvarkingu procesu: daromos svetainių ekrano kopijos, vykdomi jų regėjimo modeliai ir spėjama, kur spustelėti.
+- Daugelį metų dirbtinio intelekto „naršyklės“ rėmėsi netvarkingu procesu: daromos svetainių ekrano kopijos, vykdomi regėjimo modeliai ir spėjama, kur spustelėti.
 - Šis metodas yra lėtas, lengvai genda ir sunaudoja daug skaičiavimo.
 - Veikimo budas: Panasu, kad veikia online (naršyklė/API).
 - Prieinamumas: Prieinama kaip beta/preview.
@@ -193,7 +193,7 @@ Svarbiausi punktai:
 - Prieinamumas: Prieinama kaip beta/preview.
 - Kur isbandyti: Galima tikrinti cia: https://www.marktechpost.com/2026/02/14/google-ai-introduces-the-webmcp-to-enable-direct-and-structured-website-interactions-for-new-ai-agents/
 
-## 10. Kaip sukurti savarankiškai besiorganizuojančią agento atminties sistemą ilgalaikiam AI samprotavimui
+## 10. Kaip sukurti savarankišką agento atminties sistemą ilgalaikiam AI samprotavimui
 Tipas: Straipsnis
 Saltinis: MarkTechPost
 Publikuota: 2026-02-14 20:00 UTC
@@ -201,7 +201,7 @@ Nuoroda: https://www.marktechpost.com/2026/02/14/how-to-build-a-self-organizing-
 
 Svarbiausi punktai:
 
-- Šioje mokymo programoje mes sukuriame savaime besitvarkančią agento atminties sistemą, kuri neapsiriboja neapdorotos pokalbių istorijos saugojimu, o sąveiką susistemina į nuolatinius, reikšmingus žinių vienetus.
+- Šioje mokymo programoje sukuriame savaime besitvarkančią agento atminties sistemą, kuri neapsiriboja neapdorotos pokalbių istorijos saugojimu, o struktūrizuoja sąveiką į nuolatinius, reikšmingus žinių vienetus.
 - Kaina: Labiau panasu i mokama sprendima.
 - Veikimo budas: Panasu, kad veikia online (naršyklė/API).
 
