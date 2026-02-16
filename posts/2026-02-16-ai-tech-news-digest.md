@@ -6,7 +6,7 @@ categories: [ai, technologijos, youtube, automatizacija]
 ---
 
 Automatiskai sugeneruota dienos santrauka temai: **Dirbtinis intelektas ir technologijos**.
-Generavimo laikas (UTC): 2026-02-16T08:57:09Z
+Generavimo laikas (UTC): 2026-02-16T08:57:56Z
 
 ## 1. [„Google DeepMind“ siūlo naują pažangaus AI delegacijos sistemą, kad būtų apsaugotas besiformuojantis agentų tinklas ateities ekonomikai](https://www.marktechpost.com/2026/02/15/google-deepmind-proposes-new-framework-for-intelligent-ai-delegation-to-secure-the-emerging-agentic-web-for-future-economies/)
 Tipas: Straipsnis
@@ -15,14 +15,14 @@ Publikuota: 2026-02-16 07:04 UTC
 
 Santrauka LT: AI pramonė šiuo metu yra apsėsta „agentų“ – autonominių programų, kurios atlieka daugiau nei tik pokalbius. Tačiau dauguma dabartinių kelių agentų sistemų priklauso nuo trapios, sunkiai užkoduotos euristikos, kuri nepavyksta pasikeitus aplinkai. „Google DeepMind“ tyrėjai pasiūlė naują sprendimą.
 
-## 2. [Kodavimo įgyvendinimas, skirtas sukurti būseną turintį mokytojo agentą, turintį ilgalaikę atmintį, semantinį atsišaukimą ir adaptyvios praktikos generavimą](https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-design-a-stateful-tutor-agent-with-long-term-memory-semantic-recall-and-adaptive-practice-generation/)
+## 2. [Kodavimo įgyvendinimas, skirtas sukurti būseną turintį mokytojo agentą su ilgalaike atmintimi, semantiniu atsišaukimu ir adaptyvios praktikos generavimu](https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-design-a-stateful-tutor-agent-with-long-term-memory-semantic-recall-and-adaptive-practice-generation/)
 Tipas: Straipsnis
 Saltinis: MarkTechPost
 Publikuota: 2026-02-16 06:02 UTC
 
-Santrauka LT: Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir nuolat mokosi laikui bėgant. Sistemą projektuojame taip, kad išliktų naudotojų pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.
+Santrauka LT: Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir laikui bėgant nuolat mokosi. Sistemą suprojektuojame taip, kad išliktų naudotojo pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.
 
-## 3. [Moonshot AI pristato Kimi Claw: Native OpenClaw svetainėje Kimi.com su 5000 bendruomenės įgūdžių ir 40 GB saugyklos debesyje dabar](https://www.marktechpost.com/2026/02/15/moonshot-ai-launches-kimi-claw-native-openclaw-on-kimi-com-with-5000-community-skills-and-40gb-cloud-storage-now/)
+## 3. [Moonshot AI pristato Kimi Claw: Native OpenClaw svetainėje Kimi.com su 5 000 bendruomenės įgūdžių ir 40 GB saugyklos debesyje dabar](https://www.marktechpost.com/2026/02/15/moonshot-ai-launches-kimi-claw-native-openclaw-on-kimi-com-with-5000-community-skills-and-40gb-cloud-storage-now/)
 Tipas: Straipsnis
 Saltinis: MarkTechPost
 Publikuota: 2026-02-15 20:33 UTC
@@ -55,14 +55,14 @@ Tipas: Straipsnis
 Saltinis: MarkTechPost
 Publikuota: 2026-02-15 03:01 UTC
 
-Santrauka LT: „Google“ oficialiai paverčia „Chrome“ AI agentų žaidimų aikštele. Daugelį metų dirbtinio intelekto „naršyklės“ rėmėsi netvarkingu procesu: daromos svetainių ekrano kopijos, vykdomi regėjimo modeliai ir spėjama, kur spustelėti. Šis metodas yra lėtas, lengvai genda ir sunaudoja daug skaičiavimo.
+Santrauka LT: „Google“ oficialiai paverčia „Chrome“ AI agentų žaidimų aikštele. Daugelį metų dirbtinio intelekto „naršyklės“ rėmėsi netvarkingu procesu: daromos svetainių ekrano kopijos, vykdomi jų regėjimo modeliai ir spėjama, kur spustelėti. Šis metodas yra lėtas, lengvai genda ir sunaudoja daug skaičiavimo.
 
-## 8. [Kaip sukurti savarankišką agento atminties sistemą ilgalaikiam AI samprotavimui](https://www.marktechpost.com/2026/02/14/how-to-build-a-self-organizing-agent-memory-system-for-long-term-ai-reasoning/)
+## 8. [Kaip sukurti savarankiškai besiorganizuojančią agento atminties sistemą ilgalaikiam AI samprotavimui](https://www.marktechpost.com/2026/02/14/how-to-build-a-self-organizing-agent-memory-system-for-long-term-ai-reasoning/)
 Tipas: Straipsnis
 Saltinis: MarkTechPost
 Publikuota: 2026-02-14 20:00 UTC
 
-Santrauka LT: Šioje mokymo programoje sukuriame savaime besitvarkančią agento atminties sistemą, kuri neapsiriboja neapdorotos pokalbių istorijos saugojimu, o struktūrizuoja sąveiką į nuolatinius, reikšmingus žinių vienetus.
+Santrauka LT: Šioje mokymo programoje mes sukuriame savaime besitvarkančią agento atminties sistemą, kuri neapsiriboja neapdorotos pokalbių istorijos saugojimu, o sąveiką susistemina į nuolatinius, reikšmingus žinių vienetus.
 
 ## 9. [Pradėkite tai naudodami ChatGPT](https://www.youtube.com/watch?v=B2GMI0UgN_U)
 Tipas: YouTube video
@@ -83,9 +83,9 @@ Tipas: Straipsnis
 Saltinis: MarkTechPost
 Publikuota: 2026-02-13 20:40 UTC
 
-Santrauka LT: Šioje pamokoje mes sukuriame pilną gamybos lygio sintetinių duomenų vamzdyną, naudodami CTGAN ir SDV ekosistemą. Pradedame nuo neapdorotų mišraus tipo lentelių duomenų ir palaipsniui pereiname prie riboto generavimo, sąlyginio atrankos, statistinio patvirtinimo ir tolesnio naudingumo testavimo.
+Santrauka LT: Šioje pamokoje mes sukuriame pilną gamybos lygio sintetinių duomenų vamzdyną naudodami CTGAN ir SDV ekosistemą. Pradedame nuo neapdorotų mišraus tipo lentelių duomenų ir palaipsniui pereiname prie riboto generavimo, sąlyginio atrankos, statistinio patvirtinimo ir tolesnio naudingumo testavimo.
 
-## 12. [„Kyutai“ išleidžia „Hibiki-Zero“: A3B parametrų vienalaikio kalbos vertimo modelį naudojant GRPO sustiprinimo mokymąsi be jokių žodžių lygiu suderintų duomenų](https://www.marktechpost.com/2026/02/13/kyutai-releases-hibiki-zero-a3b-parameter-simultaneous-speech-to-speech-translation-model-using-grpo-reinforcement-learning-without-any-word-level-aligned-data/)
+## 12. [„Kyutai“ išleidžia „Hibiki-Zero“: A3B parametrų vienalaikio kalbos vertimo modelis, naudojant GRPO sustiprinimo mokymąsi be jokių žodžių lygiu suderintų duomenų](https://www.marktechpost.com/2026/02/13/kyutai-releases-hibiki-zero-a3b-parameter-simultaneous-speech-to-speech-translation-model-using-grpo-reinforcement-learning-without-any-word-level-aligned-data/)
 Tipas: Straipsnis
 Saltinis: MarkTechPost
 Publikuota: 2026-02-13 18:05 UTC
