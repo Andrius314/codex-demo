@@ -1,10 +1,117 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-02-16",
-  "generated_at_utc": "2026-02-16T10:34:38Z",
+  "digest_date": "2026-02-17",
+  "generated_at_utc": "2026-02-17T07:45:48Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Kaip sukurti „Žmogaus kilpoje“ planą ir vykdyti dirbtinio intelekto agentus su aišku vartotojo patvirtinimu naudojant „LangGraph“ ir „Streamlit“",
+      "link": "https://www.marktechpost.com/2026/02/16/how-to-build-human-in-the-loop-plan-and-execute-ai-agents-with-explicit-user-approval-using-langgraph-and-streamlit/",
+      "published_iso": "2026-02-16T22:01:30Z",
+      "published_lt": "2026-02-16 22:01 UTC",
+      "summary": "Šioje mokymo programoje sukuriame tiesioginį kelionių užsakymo agentą, kuris vartotoją traktuoja kaip komandos draugą, o ne kaip pasyvų stebėtoją. Sistemą suprojektuojame taip, kad agentas pirmiausia atvirai motyvuotų, sudarydamas struktūrinį kelionės planą, o paskui sąmoningai pristabdo prieš imdamasis kokių nors veiksmų.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-17-01-kaip-sukurti-zmogaus-kilpoje-plana-ir-vykdyti-dirbtinio-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje sukuriame tiesioginį kelionių užsakymo agentą, kuris vartotoją traktuoja kaip komandos draugą, o ne kaip pasyvų stebėtoją.",
+        "Sistemą suprojektuojame taip, kad agentas pirmiausia atvirai motyvuotų, sudarydamas struktūrinį kelionės planą, o paskui sąmoningai pristabdo prieš imdamasis kokių nors veiksmų.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/16/how-to-build-human-in-the-loop-plan-and-execute-ai-agents-with-explicit-user-approval-using-langgraph-and-streamlit/",
+        "try_url": "https://www.marktechpost.com/2026/02/16/how-to-build-human-in-the-loop-plan-and-execute-ai-agents-with-explicit-user-approval-using-langgraph-and-streamlit/"
+      }
+    },
+    {
+      "title": "„Alibaba Qwen Team“ išleido „Qwen3.5-397B MoE“ modelį su 17B aktyvių parametrų ir 1 mln. žetonų kontekstu AI agentams",
+      "link": "https://www.marktechpost.com/2026/02/16/alibaba-qwen-team-releases-qwen3-5-397b-moe-model-with-17b-active-parameters-and-1m-token-context-for-ai-agents/",
+      "published_iso": "2026-02-16T18:53:19Z",
+      "published_lt": "2026-02-16 18:53 UTC",
+      "summary": "„Alibaba Cloud“ ką tik atnaujino atvirojo kodo kraštovaizdį. Šiandien Qwen komanda išleido Qwen3.5, naujausios kartos savo didelės kalbos modelių (LLM) šeimą. Galingiausia versija yra Qwen3.5-397B-A17B.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-16-at-10.47.42-AM-1-150x150.png",
+      "image_url": "generated-images/2026-02-17-02-alibaba-qwen-team-isleido-qwen3-5-397b-moe-modeli-su-17b.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Alibaba Cloud“ ką tik atnaujino atvirojo kodo kraštovaizdį.",
+        "Šiandien Qwen komanda išleido Qwen3.5, naujausios kartos savo didelės kalbos modelių (LLM) šeimą.",
+        "Galingiausia versija yra Qwen3.5-397B-A17B.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/16/alibaba-qwen-team-releases-qwen3-5-397b-moe-model-with-17b-active-parameters-and-1m-token-context-for-ai-agents/",
+        "try_url": "https://www.marktechpost.com/2026/02/16/alibaba-qwen-team-releases-qwen3-5-397b-moe-model-with-17b-active-parameters-and-1m-token-context-for-ai-agents/"
+      }
+    },
+    {
+      "title": "Bankininkystės AI daugelyje „NatWest“ verslo funkcijų",
+      "link": "https://www.artificialintelligence-news.com/news/banking-ai-in-multiple-business-functions-at-natwest/",
+      "published_iso": "2026-02-16T12:20:06Z",
+      "published_lt": "2026-02-16 12:20 UTC",
+      "summary": "NatWest Group išplėtė dirbtinio intelekto naudojimą keliose savo veiklos srityse, nurodydama klientų aptarnavimą, dokumentų valdymą savo turto valdymo padalinyje ir programinės įrangos kūrimą.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-17-03-bankininkystes-ai-daugelyje-natwest-verslo-funkciju.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "NatWest Group išplėtė dirbtinio intelekto naudojimą keliose savo veiklos srityse, nurodydama klientų aptarnavimą, dokumentų valdymą savo turto valdymo padalinyje ir programinės įrangos kūrimą."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.4",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.4"
+      }
+    },
+    {
+      "title": "Debenhams bando agentinę AI prekybą per PayPal integraciją",
+      "link": "https://www.artificialintelligence-news.com/news/debenhams-pilots-agentic-ai-commerce-paypal-integration/",
+      "published_iso": "2026-02-16T12:04:46Z",
+      "published_lt": "2026-02-16 12:04 UTC",
+      "summary": "„Debenhams“ bando dirbtinio intelekto prekybą per „PayPal“ integraciją, kad sumažintų mobiliųjų įrenginių trintį ir padėtų išspręsti mažmenininkams pažįstamą problemą. Atsisakymas atsiskaityti mobiliuoju telefonu išlieka nuolatiniu skaitmeninių mažmenininkų pajamų nutekėjimu.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-17-04-debenhams-bando-agentine-ai-prekyba-per-paypal-integraci.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Debenhams“ bando dirbtinio intelekto prekybą per „PayPal“ integraciją, kad sumažintų mobiliųjų įrenginių trintį ir padėtų išspręsti mažmenininkams pažįstamą problemą.",
+        "Atsisakymas atsiskaityti mobiliuoju telefonu išlieka nuolatiniu skaitmeninių mažmenininkų pajamų nutekėjimu."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.4",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.4"
+      }
+    },
     {
       "title": "URBN išbando agentinį AI, kad automatizuotų mažmeninės prekybos ataskaitų teikimą",
       "link": "https://www.artificialintelligence-news.com/news/urbn-tests-agentic-ai-to-automate-retail-reporting/",
@@ -13,7 +120,7 @@
       "summary": "Mažmeninės prekybos sprendimai dažnai priklauso nuo savaitinių veiklos ataskaitų, tačiau šių ataskaitų sudarymas gali užtrukti valandų valandas. (URBN) išbando naują metodą, naudodama agentines AI sistemas, kad automatiškai generuotų tas ataskaitas, keičiant įprastą personalo analizę į programinę įrangą.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-16-01-urbn-isbando-agentini-ai-kad-automatizuotu-mazmenines-pr.svg",
+      "image_url": "generated-images/2026-02-17-05-urbn-isbando-agentini-ai-kad-automatizuotu-mazmenines-pr.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -40,7 +147,7 @@
       "summary": "AI pramonė šiuo metu yra apsėsta „agentų“ – autonominių programų, kurios atlieka daugiau nei tik pokalbius. Tačiau dauguma dabartinių kelių agentų sistemų priklauso nuo trapios, sunkiai užkoduotos euristikos, kuri nepavyksta pasikeitus aplinkai. „Google DeepMind“ tyrėjai pasiūlė naują sprendimą.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-16-02-google-deepmind-siulo-nauja-pazangaus-ai-delegacijos-sis.svg",
+      "image_url": "generated-images/2026-02-17-06-google-deepmind-siulo-nauja-pazangaus-ai-delegacijos-sis.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -68,7 +175,7 @@
       "summary": "Šioje mokymo programoje mes sukuriame visapusišką asmeninį mokytojo agentą, kuris peržengia trumpalaikes pokalbių sąveikas ir nuolat mokosi laikui bėgant. Sistemą projektuojame taip, kad išliktų naudotojo pageidavimai, sektų silpnas mokymosi sritis ir atsakydami selektyviai prisimintume tik atitinkamą praeities kontekstą.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-16-03-kodavimo-igyvendinimas-skirtas-sukurti-busena-turinti-mo.svg",
+      "image_url": "generated-images/2026-02-17-07-kodavimo-igyvendinimas-skirtas-sukurti-busena-turinti-mo.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -96,7 +203,7 @@
       "summary": "„Moonshot AI“ oficialiai pristatė „OpenClaw“ sistemos galią tiesiai į naršyklę. Naujai pakeistas Kimi Claw prekės ženklas dabar yra kimi.com, suteikiantis kūrėjams ir duomenų mokslininkams nuolatinę, visą parą veikiančią AI agento aplinką. Šis naujinimas perkelia projektą iš vietinės sąrankos į vietinę debesies galią.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-16-04-moonshot-ai-pristato-kimi-claw-native-openclaw-svetainej.svg",
+      "image_url": "generated-images/2026-02-17-08-moonshot-ai-pristato-kimi-claw-native-openclaw-svetainej.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -117,32 +224,6 @@
       }
     },
     {
-      "title": "Naujasis NVIDIA AI nuotraukas paverčia realybe",
-      "link": "https://www.youtube.com/watch?v=WNsSzX0L4Es",
-      "published_iso": "2026-02-15T14:41:41Z",
-      "published_lt": "2026-02-15 14:41 UTC",
-      "summary": "❤️ Apžiūrėkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://research.nvidia.com/labs/sil/projects/ppisp/ Mūsų Patreonas, jei norite mus paremti: https://www.patreon.com/TwoMinutePapers, kuriems mūsų generatoriai norėtų padėkoti 🙏",
-      "source": "Two Minute Papers",
-      "source_image_url": "https://i4.ytimg.com/vi/WNsSzX0L4Es/hqdefault.jpg",
-      "image_url": "generated-images/2026-02-16-05-naujasis-nvidia-ai-nuotraukas-pavercia-realybe.svg",
-      "kind": "video",
-      "video_id": "WNsSzX0L4Es",
-      "bullets_lt": [
-        "❤️ Apžiūrėkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://research.nvidia.com/labs/sil/projects/ppisp/ Mūsų Patreonas, jei norite mus paremti: https://www.patreon.com/TwoMinutePapers, kuriems mūsų generatoriai norėtų padėkoti 🙏.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=WNsSzX0L4Es",
-        "try_url": "https://www.youtube.com/watch?v=WNsSzX0L4Es"
-      }
-    },
-    {
       "title": "Susipažinkite su „Kani-TTS-2“: 400M Param atvirojo kodo teksto į kalbą modelis, veikiantis 3 GB VRAM su balso klonavimo palaikymu",
       "link": "https://www.marktechpost.com/2026/02/15/meet-kani-tts-2-a-400m-param-open-source-text-to-speech-model-that-runs-in-3gb-vram-with-voice-cloning-support/",
       "published_iso": "2026-02-15T08:17:46Z",
@@ -150,7 +231,7 @@
       "summary": "Generatyvaus garso peizažas keičiasi efektyvumo link. Nineninesix.ai komanda išleido naują atvirojo kodo varžovą Kani-TTS-2. Šis modelis žymi nukrypimą nuo sunkių, brangiai kainuojančių TTS sistemų.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-16-06-susipazinkite-su-kani-tts-2-400m-param-atvirojo-kodo-tek.svg",
+      "image_url": "generated-images/2026-02-17-09-susipazinkite-su-kani-tts-2-400m-param-atvirojo-kodo-tek.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -180,7 +261,7 @@
       "summary": "„OpenClaw“ yra asmeninis AI asistentas, veikiantis jūsų įrenginiuose ir bendraujantis per jūsų jau naudojamas programas, tokias kaip „WhatsApp“, „Telegram“, „Slack“, „Discord“ ir kt.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/image-7-150x150.png",
-      "image_url": "generated-images/2026-02-16-07-darbo-su-openclaw-pradzia-ir-prijungimas-prie-whatsapp.svg",
+      "image_url": "generated-images/2026-02-17-10-darbo-su-openclaw-pradzia-ir-prijungimas-prie-whatsapp.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -200,33 +281,6 @@
       }
     },
     {
-      "title": "Seedance 2.0, RIP OpenClaw, Minimax M2.5, Google dominuoja, GLM-5, AI dainavimas, naujas TTS: AI NAUJIENOS",
-      "link": "https://www.youtube.com/watch?v=hsQA5TSHZ7I",
-      "published_iso": "2026-02-15T03:29:06Z",
-      "published_lt": "2026-02-15 03:29 UTC",
-      "summary": "AI niekada nemiega ir ši savaitė buvo visiškai beprotiška. Pagaliau turime balso klonerį, galintį dainuoti. Šis AI gali automatiškai dubliuoti vaizdo įrašus į skirtingas kalbas.",
-      "source": "AI Search",
-      "source_image_url": "https://i1.ytimg.com/vi/hsQA5TSHZ7I/hqdefault.jpg",
-      "image_url": "generated-images/2026-02-16-08-seedance-2-0-rip-openclaw-minimax-m2-5-google-dominuoja-.svg",
-      "kind": "video",
-      "video_id": "hsQA5TSHZ7I",
-      "bullets_lt": [
-        "AI niekada nemiega ir ši savaitė buvo visiškai beprotiška.",
-        "Pagaliau turime balso klonerį, galintį dainuoti.",
-        "Šis AI gali automatiškai dubliuoti vaizdo įrašus į skirtingas kalbas."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=hsQA5TSHZ7I",
-        "try_url": "https://www.youtube.com/watch?v=hsQA5TSHZ7I"
-      }
-    },
-    {
       "title": "„Google AI“ pristato WebMCP, kad įgalintų tiesioginę ir struktūrizuotą svetainių sąveiką naujiems AI agentams",
       "link": "https://www.marktechpost.com/2026/02/14/google-ai-introduces-the-webmcp-to-enable-direct-and-structured-website-interactions-for-new-ai-agents/",
       "published_iso": "2026-02-15T03:01:03Z",
@@ -234,7 +288,7 @@
       "summary": "„Google“ oficialiai paverčia „Chrome“ AI agentų žaidimų aikštele. Daugelį metų dirbtinio intelekto „naršyklės“ rėmėsi netvarkingu procesu: daromos svetainių ekrano kopijos, vykdomi regėjimo modeliai ir spėjama, kur spustelėti. Šis metodas yra lėtas, lengvai genda ir sunaudoja daug skaičiavimo.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-16-09-google-ai-pristato-webmcp-kad-igalintu-tiesiogine-ir-str.svg",
+      "image_url": "generated-images/2026-02-17-11-google-ai-pristato-webmcp-kad-igalintu-tiesiogine-ir-str.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -263,7 +317,7 @@
       "summary": "Šioje mokymo programoje sukuriame savaime besitvarkančią agento atminties sistemą, kuri neapsiriboja neapdorotos pokalbių istorijos saugojimu, o struktūrizuoja sąveiką į nuolatinius, reikšmingus žinių vienetus.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-16-10-kaip-sukurti-savarankiska-agento-atminties-sistema-ilgal.svg",
+      "image_url": "generated-images/2026-02-17-12-kaip-sukurti-savarankiska-agento-atminties-sistema-ilgal.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -280,62 +334,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/14/how-to-build-a-self-organizing-agent-memory-system-for-long-term-ai-reasoning/",
         "try_url": "https://www.marktechpost.com/2026/02/14/how-to-build-a-self-organizing-agent-memory-system-for-long-term-ai-reasoning/"
-      }
-    },
-    {
-      "title": "Pradėkite tai naudodami ChatGPT",
-      "link": "https://www.youtube.com/watch?v=B2GMI0UgN_U",
-      "published_iso": "2026-02-13T23:43:33Z",
-      "published_lt": "2026-02-13 23:43 UTC",
-      "summary": "Man reikia, kad tie stalai būtų padengti. Ei, Semai, ar gali įsitikinti, kad šis stalviršis yra nepriekaištingas? >> Ei, Vinnie, man reikia tavęs tose [muzikos] dėžutėse.",
-      "source": "OpenAI",
-      "source_image_url": "https://i3.ytimg.com/vi/B2GMI0UgN_U/hqdefault.jpg",
-      "image_url": "generated-images/2026-02-16-11-pradekite-tai-naudodami-chatgpt.svg",
-      "kind": "video",
-      "video_id": "B2GMI0UgN_U",
-      "bullets_lt": [
-        "Man reikia, kad tie stalai būtų padengti.",
-        "Ei, Semai, ar gali įsitikinti, kad šis stalviršis yra nepriekaištingas?",
-        ">> Ei, Vinnie, man reikia tavęs tose [muzikos] dėžutėse."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=B2GMI0UgN_U",
-        "try_url": "https://www.youtube.com/watch?v=B2GMI0UgN_U"
-      }
-    },
-    {
-      "title": "„Exa AI“ pristato „Exa Instant“: iki 200 ms neuronų paieškos variklis, sukurtas siekiant pašalinti kliūtis realaus laiko agentų darbo eigoms",
-      "link": "https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/",
-      "published_iso": "2026-02-13T21:29:53Z",
-      "published_lt": "2026-02-13 21:29 UTC",
-      "summary": "Didelių kalbų modelių (LLM) pasaulyje greitis yra vienintelė funkcija, kuri turi reikšmės, kai išspręstas tikslumas. Žmogui tinka laukti 1 sekundę paieškos rezultato. AI agentas, atliekantis 10 nuoseklių paieškų, kad išspręstų sudėtingą užduotį, 1 sekundės delsa vienai paieškai sukuria 10 sekundžių delsą.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-25-150x150.png",
-      "image_url": "generated-images/2026-02-16-12-exa-ai-pristato-exa-instant-iki-200-ms-neuronu-paieskos-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Didelių kalbų modelių (LLM) pasaulyje greitis yra vienintelė funkcija, kuri turi reikšmės, kai išspręstas tikslumas.",
-        "Žmogui tinka laukti 1 sekundę paieškos rezultato.",
-        "AI agentas, atliekantis 10 nuoseklių paieškų, kad išspręstų sudėtingą užduotį, 1 sekundės delsa vienai paieškai sukuria 10 sekundžių delsą.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/",
-        "try_url": "https://www.marktechpost.com/2026/02/13/exa-ai-introduces-exa-instant-a-sub-200ms-neural-search-engine-designed-to-eliminate-bottlenecks-for-real-time-agentic-workflows/"
       }
     }
   ]
