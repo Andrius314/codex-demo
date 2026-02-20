@@ -1,10 +1,173 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-02-19",
-  "generated_at_utc": "2026-02-19T07:45:14Z",
+  "digest_date": "2026-02-20",
+  "generated_at_utc": "2026-02-20T07:43:22Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "NVIDIA išleido Dynamo v0.9.0: didžiulį infrastruktūros remontą su FlashIndexer, kelių modalų palaikymu ir pašalintais NATS ir ETCD",
+      "link": "https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/",
+      "published_iso": "2026-02-20T06:51:30Z",
+      "published_lt": "2026-02-20 06:51 UTC",
+      "summary": "NVIDIA ką tik išleido Dynamo v0.9.0. Tai pats reikšmingiausias paskirstytos išvadų sistemos infrastruktūros atnaujinimas iki šiol. Šis naujinimas supaprastina didelio masto modelių diegimą ir valdymą.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-20-01-nvidia-isleido-dynamo-v0-9-0-didziuli-infrastrukturos-re.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "NVIDIA ką tik išleido Dynamo v0.9.0.",
+        "Tai pats reikšmingiausias paskirstytos išvadų sistemos infrastruktūros atnaujinimas iki šiol.",
+        "Šis naujinimas supaprastina didelio masto modelių diegimą ir valdymą.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Į šį leidimą įtraukta tiesioginė FlashIndexer peržiūra.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/",
+        "try_url": "https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/"
+      }
+    },
+    {
+      "title": "Kaip sukurti skaidrius AI agentus: atsekamas sprendimų priėmimas naudojant audito seką ir žmogiškuosius vartus",
+      "link": "https://www.marktechpost.com/2026/02/19/how-to-build-transparent-ai-agents-traceable-decision-making-with-audit-trails-and-human-gates/",
+      "published_iso": "2026-02-20T06:28:08Z",
+      "published_lt": "2026-02-20 06:28 UTC",
+      "summary": "Šioje mokymo programoje sukuriame stiklo dėžės agento darbo eigą, kuri leidžia atsekti, tikrinti kiekvieną sprendimą ir aiškiai valdyti žmogaus pritarimą. Sukuriame sistemą taip, kad kiekviena mintis, veiksmas ir stebėjimas būtų registruojamas į klastojimo akivaizdžią audito knygą, tuo pačiu užtikrinant dinaminius leidimus didelės rizikos operacijoms.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-20-02-kaip-sukurti-skaidrius-ai-agentus-atsekamas-sprendimu-pr.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje sukuriame stiklo dėžės agento darbo eigą, kuri leidžia atsekti, tikrinti kiekvieną sprendimą ir aiškiai valdyti žmogaus pritarimą.",
+        "Sukuriame sistemą taip, kad kiekviena mintis, veiksmas ir stebėjimas būtų registruojamas į klastojimo akivaizdžią audito knygą, tuo pačiu užtikrinant dinaminius leidimus didelės rizikos operacijoms."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Stiklinės dėžės agentų sistemų kūrimas su audituojamomis sprendimų kilpomis, žmogaus patvirtinimo vartais ir akivaizdžiu valdymu sort_keys=Tiesa, separatoriai=(\",\", \":\"), secure_ascii=False) klasė AuditLedger: def __i...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/19/how-to-build-transparent-ai-agents-traceable-decision-making-with-audit-trails-and-human-gates/",
+        "try_url": "https://www.marktechpost.com/2026/02/19/how-to-build-transparent-ai-agents-traceable-decision-making-with-audit-trails-and-human-gates/"
+      }
+    },
+    {
+      "title": "„Google AI“ išleido „Gemini 3.1 Pro“ su 1 milijono žetonų kontekstu ir 77,1 procento ARC-AGI-2 samprotavimu dirbtinio intelekto agentams",
+      "link": "https://www.marktechpost.com/2026/02/19/google-ai-releases-gemini-3-1-pro-with-1-million-token-context-and-77-1-percent-arc-agi-2-reasoning-for-ai-agents/",
+      "published_iso": "2026-02-19T21:06:08Z",
+      "published_lt": "2026-02-19 21:06 UTC",
+      "summary": "„Google“ oficialiai įjungė „Gemini“ erą išleisdama „Gemini 3.1 Pro“ – pirmąjį „Gemini 3“ serijos versijos atnaujinimą. Šis leidimas nėra tik nedidelis pataisymas; tai tikslinis streikas „agentinei“ AI rinkai, daugiausia dėmesio skiriant samprotavimo stabilumui, programinės įrangos inžinerijai ir įrankių naudojimo patikimumui.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/image-16-150x150.png",
+      "image_url": "generated-images/2026-02-20-03-google-ai-isleido-gemini-3-1-pro-su-1-milijono-zetonu-ko.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“ oficialiai įjungė „Gemini“ erą išleisdama „Gemini 3.1 Pro“ – pirmąjį „Gemini 3“ serijos versijos atnaujinimą.",
+        "Šis leidimas nėra tik nedidelis pataisymas; tai tikslinis streikas „agentinei“ AI rinkai, daugiausia dėmesio skiriant samprotavimo stabilumui, programinės įrangos inžinerijai ir įrankių naudojimo patikimumui.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "„Gemini 3.1 Pro Preview“ palaiko didžiulį 1 mln. prieigos rakto įvesties konteksto langą.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/19/google-ai-releases-gemini-3-1-pro-with-1-million-token-context-and-77-1-percent-arc-agi-2-reasoning-for-ai-agents/",
+        "try_url": "https://www.marktechpost.com/2026/02/19/google-ai-releases-gemini-3-1-pro-with-1-million-token-context-and-77-1-percent-arc-agi-2-reasoning-for-ai-agents/"
+      }
+    },
+    {
+      "title": "Kodavimo įgyvendinimas, skirtas sukurti neperšaunamas agentų darbo eigas naudojant PydanticAI naudojant griežtas schemas, įrankių įpurškimą ir modelio agnostinį vykdymą",
+      "link": "https://www.marktechpost.com/2026/02/19/a-coding-implementation-to-build-bulletproof-agentic-workflows-with-pydanticai-using-strict-schemas-tool-injection-and-model-agnostic-execution/",
+      "published_iso": "2026-02-19T20:05:59Z",
+      "published_lt": "2026-02-19 20:05 UTC",
+      "summary": "Šioje mokymo programoje sukuriame gamybai paruoštą agentinę darbo eigą, kuri teikia pirmenybę patikimumui, o ne geriausių pastangų generavimui, kiekviename žingsnyje taikydami griežtus, įvestus išvestis.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-20-04-kodavimo-igyvendinimas-skirtas-sukurti-nepersaunamas-age.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje sukuriame gamybai paruoštą agentinę darbo eigą, kuri teikia pirmenybę patikimumui, o ne geriausių pastangų generavimui, kiekviename žingsnyje taikydami griežtus, įvestus išvestis.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Paklauskite naudotojo galiojančio bilieto_id.\") keys = [\"id\", \"title\", \"customer\", \"priority\", \"category\", \"status\", \"created_at\", \"updated_at\"] return dict(zip(raktai, eilutė)) @agent.tool def list_open_tickets(ctx):...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/19/a-coding-implementation-to-build-bulletproof-agentic-workflows-with-pydanticai-using-strict-schemas-tool-injection-and-model-agnostic-execution/",
+        "try_url": "https://www.marktechpost.com/2026/02/19/a-coding-implementation-to-build-bulletproof-agentic-workflows-with-pydanticai-using-strict-schemas-tool-injection-and-model-agnostic-execution/"
+      }
+    },
+    {
+      "title": "Kaip AI atnaujina įmonės iždo valdymą",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-upgrades-enterprise-treasury-management/",
+      "published_iso": "2026-02-19T13:48:55Z",
+      "published_lt": "2026-02-19 13:48 UTC",
+      "summary": "Pritaikius dirbtinį intelektą įmonių iždo valdymui, įmonės gali atsisakyti neautomatinių automatizuotų duomenų srautų skaičiuoklių. Įmonių finansų skyriai patiria spaudimą dėl rinkos nepastovumo, reguliavimo reikalavimų ir skaitmeninių finansų reikalavimų.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-20-05-kaip-ai-atnaujina-imones-izdo-valdyma.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Pritaikius dirbtinį intelektą įmonių iždo valdymui, įmonės gali atsisakyti neautomatinių automatizuotų duomenų srautų skaičiuoklių.",
+        "Įmonių finansų skyriai patiria spaudimą dėl rinkos nepastovumo, reguliavimo reikalavimų ir skaitmeninių finansų reikalavimų.",
+        "Kaina: Labiau panasu i mokama sprendima."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+      }
+    },
+    {
+      "title": "DBS pilotų sistema, leidžianti AI agentams atlikti mokėjimus už klientus",
+      "link": "https://www.artificialintelligence-news.com/news/dbs-pilots-system-that-lets-ai-agents-make-payments-for-customers/",
+      "published_iso": "2026-02-19T10:00:00Z",
+      "published_lt": "2026-02-19 10:00 UTC",
+      "summary": "Dirbtinis intelektas artėja prie taško, kur jis gali veikti, o ne patarti. Naujasis DBS banko bandomasis projektas parodo, kaip šis pakeitimas netrukus gali paveikti kasdienius mokėjimus, nes finansų institucijos pradeda testuoti sistemas, leidžiančias dirbtinio intelekto agentams užbaigti pirkimus klientų vardu.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-20-06-dbs-pilotu-sistema-leidzianti-ai-agentams-atlikti-mokeji.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Dirbtinis intelektas artėja prie taško, kur jis gali veikti, o ne patarti.",
+        "Naujasis DBS banko bandomasis projektas parodo, kaip šis pakeitimas netrukus gali paveikti kasdienius mokėjimus, nes finansų institucijos pradeda testuoti sistemas, leidžiančias dirbtinio intelekto agentams užbaigti pirkimus klientų vardu.",
+        "Prieinamumas: Dar neissleista arba arteja."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Mokėjimo informacija yra ženklinama, o operacijos pereina per emitento valdomus patvirtinimo srautus, skirtus tapatybei ir išlaidų limitams patvirtinti.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Dar neissleista arba arteja.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+      }
+    },
     {
       "title": "„Zyphra“ išleido ZUNA: 380M parametrų BCI pagrindo modelį EEG duomenims, skatinantį neinvazinį minties į tekstą kūrimą",
       "link": "https://www.marktechpost.com/2026/02/18/zyphra-releases-zuna-a-380m-parameter-bci-foundation-model-for-eeg-data-advancing-noninvasive-thought-to-text-development/",
@@ -13,7 +176,7 @@
       "summary": "Smegenų ir kompiuterių sąsajos (BCI) pagaliau išgyvena „pagrindinio modelio“ momentą. „Zyphra“, tyrimų laboratorija, orientuota į didelio masto modelius, neseniai išleido ZUNA – 380M parametrų pagrindo modelį, skirtą specialiai EEG signalams.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/image-14-150x150.png",
-      "image_url": "generated-images/2026-02-19-01-zyphra-isleido-zuna-380m-parametru-bci-pagrindo-modeli-e.svg",
+      "image_url": "generated-images/2026-02-20-07-zyphra-isleido-zuna-380m-parametru-bci-pagrindo-modeli-e.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -32,14 +195,14 @@
       }
     },
     {
-      "title": "„Jokios technologijos nesvajoja daugiau nei dirbtinis intelektas“",
+      "title": "„Jokios technologijos nesvajoja daugiau nei AI“",
       "link": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
       "published_iso": "2026-02-19T04:30:00Z",
       "published_lt": "2026-02-19 04:30 UTC",
       "summary": "Generalinio direktoriaus Sundaro Pichai pastabos 2026 m. AI Impact Summit atidarymo ceremonijoje",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Google_2.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-02-19-02-jokios-technologijos-nesvajoja-daugiau-nei-dirbtinis-int.svg",
+      "image_url": "generated-images/2026-02-20-08-jokios-technologijos-nesvajoja-daugiau-nei-ai.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -54,8 +217,8 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260203-1735",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260203-1735"
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731"
       }
     },
     {
@@ -66,7 +229,7 @@
       "summary": "Žvilgsnis į partnerystes ir investicijas, kurias „Google“ paskelbė 2026 m. AI Impact Summit susitikime.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-02-19-03-ai-impact-summit-2026-m.svg",
+      "image_url": "generated-images/2026-02-20-09-ai-impact-summit-2026-m.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -81,8 +244,8 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260203-1735",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260203-1735"
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731"
       }
     },
     {
@@ -93,7 +256,7 @@
       "summary": "Šiame vadove mes sukuriame visą vaizdo dokumentų gavimo vamzdyną naudodami „ColPali“. Mes sutelkiame dėmesį į tai, kad sąranka būtų tvirta, spręsdami įprastus priklausomybės konfliktus ir užtikrindami, kad aplinka išliktų stabili.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-19-04-mokomoji-medziaga-vaizdinio-dokumentu-gavimo-vamzdyno-su.svg",
+      "image_url": "generated-images/2026-02-20-10-mokomoji-medziaga-vaizdinio-dokumentu-gavimo-vamzdyno-su.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -120,7 +283,7 @@
       "summary": "„Neįtikėtinas slėnis“ yra paskutinė generatyvaus vaizdo įrašo riba. Mes matėme dirbtinio intelekto avatarus, kurie gali kalbėti, tačiau jiems dažnai trūksta žmogaus sąveikos sielos. Jie kenčia nuo sustingusių judesių ir emocinio konteksto trūkumo.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-18-at-3.02.24-PM-150x150.png",
-      "image_url": "generated-images/2026-02-19-05-tavus-pristato-phoenix-4-gauso-difuzijos-modeli-kuris-re.svg",
+      "image_url": "generated-images/2026-02-20-11-tavus-pristato-phoenix-4-gauso-difuzijos-modeli-kuris-re.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -141,77 +304,18 @@
       }
     },
     {
-      "title": "„Google DeepMind“ išleido „Lyria 3“: pažangios muzikos kartos AI modelį, kuris nuotraukas ir tekstą paverčia pasirinktiniais takeliais su dainų tekstais ir vokalu",
-      "link": "https://www.marktechpost.com/2026/02/18/google-deepmind-releases-lyria-3-an-advanced-music-generation-ai-model-that-turns-photos-and-text-into-custom-tracks-with-included-lyrics-and-vocals/",
-      "published_iso": "2026-02-18T20:10:18Z",
-      "published_lt": "2026-02-18 20:10 UTC",
-      "summary": "„Google DeepMind“ vėl peržengia generatyvaus AI ribas. Šį kartą dėmesys sutelkiamas ne į tekstą ar vaizdus. „Google“ komanda neseniai pristatė „Lyria 3“ – pažangiausią iki šiol muzikos kartos modelį.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-40.png",
-      "image_url": "generated-images/2026-02-19-06-google-deepmind-isleido-lyria-3-pazangios-muzikos-kartos.svg",
-      "kind": "article",
-      "video_id": "",
+      "title": "Tradicinis X-Mas Stream",
+      "link": "https://www.youtube.com/watch?v=Dr6jw-WAd9E",
+      "published_iso": "2025-12-29T03:44:20Z",
+      "published_lt": "2025-12-29 03:44 UTC",
+      "summary": "Letsgooo",
+      "source": "Yannic Kilcher",
+      "source_image_url": "https://i1.ytimg.com/vi/Dr6jw-WAd9E/hqdefault.jpg",
+      "image_url": "generated-images/2026-02-20-12-tradicinis-x-mas-stream.svg",
+      "kind": "video",
+      "video_id": "Dr6jw-WAd9E",
       "bullets_lt": [
-        "„Google DeepMind“ vėl peržengia generatyvaus AI ribas.",
-        "Šį kartą dėmesys sutelkiamas ne į tekstą ar vaizdus.",
-        "„Google“ komanda neseniai pristatė „Lyria 3“ – pažangiausią iki šiol muzikos kartos modelį.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/18/google-deepmind-releases-lyria-3-an-advanced-music-generation-ai-model-that-turns-photos-and-text-into-custom-tracks-with-included-lyrics-and-vocals/",
-        "try_url": "https://www.marktechpost.com/2026/02/18/google-deepmind-releases-lyria-3-an-advanced-music-generation-ai-model-that-turns-photos-and-text-into-custom-tracks-with-included-lyrics-and-vocals/"
-      }
-    },
-    {
-      "title": "Naujas būdas išreikšti save: Dvyniai dabar gali kurti muziką",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
-      "published_iso": "2026-02-18T16:00:00Z",
-      "published_lt": "2026-02-18 16:00 UTC",
-      "summary": "Lyria 3 dabar pasiekiama programėlėje Gemini. Kurkite pasirinktinius aukštos kokybės 30 sekundžių takelius iš teksto ir vaizdų.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0217_KeywordHeaderFinalc.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-02-19-07-naujas-budas-isreiksti-save-dvyniai-dabar-gali-kurti-muz.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Lyria 3 dabar pasiekiama programėlėje Gemini.",
-        "Kurkite pasirinktinius aukštos kokybės 30 sekundžių takelius iš teksto ir vaizdų.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
-        "try_url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"
-      }
-    },
-    {
-      "title": "Kaip finansų institucijos įtraukia AI sprendimų priėmimą",
-      "link": "https://www.artificialintelligence-news.com/news/how-financial-institutions-embedding-ai-decision-making/",
-      "published_iso": "2026-02-18T15:02:14Z",
-      "published_lt": "2026-02-18 15:02 UTC",
-      "summary": "Finansų sektoriaus lyderiams baigėsi generatyvaus AI eksperimentinis etapas, o 2026 m. pagrindinis dėmesys skiriamas veiklos integracijai. Nors ankstyvas pritaikymas buvo sutelktas į turinio generavimą ir efektyvumą izoliuotose darbo eigose, dabar reikalaujama, kad šios galimybės būtų pramoninės.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-02-19-08-kaip-finansu-institucijos-itraukia-ai-sprendimu-priemima.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Finansų sektoriaus lyderiams baigėsi generatyvaus AI eksperimentinis etapas, o 2026 m.",
-        "pagrindinis dėmesys skiriamas veiklos integracijai.",
-        "Nors ankstyvas pritaikymas buvo sutelktas į turinio generavimą ir efektyvumą izoliuotose darbo eigose, dabar reikalaujama, kad šios galimybės būtų pramoninės."
+        "Letsgooo."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -220,115 +324,8 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
-      }
-    },
-    {
-      "title": "„Infosys AI“ diegimo sistema siūlo verslo lyderiams patarimus",
-      "link": "https://www.artificialintelligence-news.com/news/infosys-ai-implementation-framework-offers-business-leaders-guidance/",
-      "published_iso": "2026-02-18T11:08:00Z",
-      "published_lt": "2026-02-18 11:08 UTC",
-      "summary": "Kaip didelis technologijų paslaugų teikėjas, veikiantis įvairiose pramonės šakose, „Infosys“ yra vienas iš pavadinimų, kurie greitai ateina į galvą, kai sprendimus priimantys asmenys svarsto galimus konsultacijų ir praktinio bet kokio AI projekto – atskiro ar visos organizacijos – projekto teikėjus.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-02-19-09-infosys-ai-diegimo-sistema-siulo-verslo-lyderiams-patari.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Kaip didelis technologijų paslaugų teikėjas, veikiantis įvairiose pramonės šakose, „Infosys“ yra vienas iš pavadinimų, kurie greitai ateina į galvą, kai sprendimus priimantys asmenys svarsto galimus konsultacijų ir praktinio bet kokio AI projekto – atskiro ar visos organizacijos – projekto teikėjus.",
-        "Kaina: Labiau panasu i mokama sprendima."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
-      }
-    },
-    {
-      "title": "AI Impact Summit 2026: kaip mes bendradarbiaujame, kad dirbtinis intelektas veiktų visiems",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "published_iso": "2026-02-18T10:30:00Z",
-      "published_lt": "2026-02-18 10:30 UTC",
-      "summary": "Naujų „Google“ pasaulinių partnerysčių ir finansavimo pranešimų apžvalga AI Impact Summit susitikime Indijoje.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Summit-Hero.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-02-19-10-ai-impact-summit-2026-kaip-mes-bendradarbiaujame-kad-dir.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Naujų „Google“ pasaulinių partnerysčių ir finansavimo pranešimų apžvalga AI Impact Summit susitikime Indijoje.",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "$15",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260203-1735",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260203-1735"
-      }
-    },
-    {
-      "title": "„Google“ pristato „Jetpack Compose Glimmer“: naują erdvinės vartotojo sąsajos sistemą, sukurtą specialiai naujos kartos dirbtinio intelekto akiniams",
-      "link": "https://www.marktechpost.com/2026/02/18/google-introduces-jetpack-compose-glimmer-a-new-spatial-ui-framework-designed-specifically-for-the-next-generation-of-ai-glasses/",
-      "published_iso": "2026-02-18T09:02:36Z",
-      "published_lt": "2026-02-18 09:02 UTC",
-      "summary": "„Google“ peržengia stačiakampio ekrano ribas. Daugiau nei 10 metų „Google“ dizaineriai tyrinėjo, kaip sukurti skaidrių ekranų sąsajas. Rezultatas – „Jetpack Compose Glimmer“ – projektavimo sistema, sukurta specialiai AI akiniams.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-02-19-11-google-pristato-jetpack-compose-glimmer-nauja-erdvines-v.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google“ peržengia stačiakampio ekrano ribas.",
-        "Daugiau nei 10 metų „Google“ dizaineriai tyrinėjo, kaip sukurti skaidrių ekranų sąsajas.",
-        "Rezultatas – „Jetpack Compose Glimmer“ – projektavimo sistema, sukurta specialiai AI akiniams."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/18/google-introduces-jetpack-compose-glimmer-a-new-spatial-ui-framework-designed-specifically-for-the-next-generation-of-ai-glasses/",
-        "try_url": "https://www.marktechpost.com/2026/02/18/google-introduces-jetpack-compose-glimmer-a-new-spatial-ui-framework-designed-specifically-for-the-next-generation-of-ai-glasses/"
-      }
-    },
-    {
-      "title": "„Cohere“ išleidžia mažytę „Aya“: 3B parametrų mažos kalbos modelį, kuris palaiko 70 kalbų ir veikia vietoje net telefone",
-      "link": "https://www.marktechpost.com/2026/02/17/cohere-releases-tiny-aya-a-3b-parameter-small-language-model-that-supports-70-languages-and-runs-locally-even-on-a-phone/",
-      "published_iso": "2026-02-18T06:33:54Z",
-      "published_lt": "2026-02-18 06:33 UTC",
-      "summary": "„Cohere AI Labs“ išleido „Tiny Aya“ – mažų kalbų modelių (SLM) šeimą, kuri iš naujo apibrėžia daugiakalbį našumą. Nors daugelis modelių keičiasi didinant parametrus, „Tiny Aya“ naudoja 3,35 B parametrų architektūrą, kad pateiktų pažangiausią vertimą ir generavimą į 70 kalbų.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/image-12-150x150.png",
-      "image_url": "generated-images/2026-02-19-12-cohere-isleidzia-mazyte-aya-3b-parametru-mazos-kalbos-mo.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Cohere AI Labs“ išleido „Tiny Aya“ – mažų kalbų modelių (SLM) šeimą, kuri iš naujo apibrėžia daugiakalbį našumą.",
-        "Nors daugelis modelių keičiasi didinant parametrus, „Tiny Aya“ naudoja 3,35 B parametrų architektūrą, kad pateiktų pažangiausią vertimą ir generavimą į 70 kalbų.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Pagrindinės specifikacijos apima: Modelis buvo iš anksto apmokytas naudoti 6T žetonus, naudojant Warmup-Stable-Decay (WSD) grafiką.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/17/cohere-releases-tiny-aya-a-3b-parameter-small-language-model-that-supports-70-languages-and-runs-locally-even-on-a-phone/",
-        "try_url": "https://www.marktechpost.com/2026/02/17/cohere-releases-tiny-aya-a-3b-parameter-small-language-model-that-supports-70-languages-and-runs-locally-even-on-a-phone/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=Dr6jw-WAd9E",
+        "try_url": "https://www.youtube.com/watch?v=Dr6jw-WAd9E"
       }
     }
   ]
