@@ -1,10 +1,149 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-02-23",
-  "generated_at_utc": "2026-02-23T07:50:01Z",
+  "digest_date": "2026-02-24",
+  "generated_at_utc": "2026-02-24T07:47:02Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "„Composio Open Sources Agent Orchestrator“, padėsiantis dirbtinio intelekto kūrėjams sukurti keičiamo dydžio kelių agentų darbo eigas ne tik tradicines „ReAct“ kilpas",
+      "link": "https://www.marktechpost.com/2026/02/23/composio-open-sources-agent-orchestrator-to-help-ai-developers-build-scalable-multi-agent-workflows-beyond-the-traditional-react-loops/",
+      "published_iso": "2026-02-24T05:56:53Z",
+      "published_lt": "2026-02-24 05:56 UTC",
+      "summary": "Pastaruosius metus AI kūrėjai rėmėsi ReAct (Reasoning + Acting) modeliu – paprasta kilpa, kai LLM galvoja, pasirenka įrankį ir vykdo. Tačiau, kaip žino bet kuris programinės įrangos inžinierius, kuris bandė perkelti šiuos agentus į gamybą, paprastos kilpos yra trapios.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-23-at-9.56.01-PM-1-150x150.png",
+      "image_url": "generated-images/2026-02-24-01-composio-open-sources-agent-orchestrator-padesiantis-dir.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Pastaruosius metus AI kūrėjai rėmėsi ReAct (Reasoning + Acting) modeliu – paprasta kilpa, kai LLM galvoja, pasirenka įrankį ir vykdo.",
+        "Tačiau, kaip žino bet kuris programinės įrangos inžinierius, kuris bandė perkelti šiuos agentus į gamybą, paprastos kilpos yra trapios.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Jei agentui suteiksite prieigą prie 100 įrankių, tų įrankių dokumentacija sunaudos tūkstančius žetonų, supainiodama modelį ir padidindama haliucinuotų parametrų tikimybę.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/23/composio-open-sources-agent-orchestrator-to-help-ai-developers-build-scalable-multi-agent-workflows-beyond-the-traditional-react-loops/",
+        "try_url": "https://www.marktechpost.com/2026/02/23/composio-open-sources-agent-orchestrator-to-help-ai-developers-build-scalable-multi-agent-workflows-beyond-the-traditional-react-loops/"
+      }
+    },
+    {
+      "title": "Be paprastų API užklausų: kaip „OpenAI WebSocket“ režimas pakeičia žaidimą mažo delsos balsu maitinamam AI patirčiai",
+      "link": "https://www.marktechpost.com/2026/02/23/beyond-simple-api-requests-how-openais-websocket-mode-changes-the-game-for-low-latency-voice-powered-ai-experiences/",
+      "published_iso": "2026-02-23T23:35:40Z",
+      "published_lt": "2026-02-23 23:35 UTC",
+      "summary": "Generative AI pasaulyje delsa yra didžiausias panardinimo žudikas.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-24-02-be-paprastu-api-uzklausu-kaip-openai-websocket-rezimas-p.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Generative AI pasaulyje delsa yra didžiausias panardinimo žudikas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Be paprastų API užklausų: kaip „OpenAI WebSocket“ režimas pakeičia žaidimą, kad būtų galima naudoti mažai delsos balsu maitinamą AI patirtį „OpenAI“ sutraukė šį krūvą naudodama Realtime API .",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/23/beyond-simple-api-requests-how-openais-websocket-mode-changes-the-game-for-low-latency-voice-powered-ai-experiences/",
+        "try_url": "https://www.marktechpost.com/2026/02/23/beyond-simple-api-requests-how-openais-websocket-mode-changes-the-game-for-low-latency-voice-powered-ai-experiences/"
+      }
+    },
+    {
+      "title": "Kaip sukurti gamybos lygio klientų aptarnavimo automatizavimo vamzdyną naudojant „Griptape“ naudojant deterministinius įrankius ir agentų samprotavimus",
+      "link": "https://www.marktechpost.com/2026/02/23/how-to-build-a-production-grade-customer-support-automation-pipeline-with-griptape-using-deterministic-tools-and-agentic-reasoning/",
+      "published_iso": "2026-02-23T23:02:09Z",
+      "published_lt": "2026-02-23 23:02 UTC",
+      "summary": "Šioje mokymo programoje sukuriame pažangią Griptape klientų aptarnavimo automatizavimo sistemą, kuri deterministinius įrankius derina su agentiniais samprotavimais, kad būtų galima apdoroti realaus pasaulio palaikymo bilietus nuo galo iki galo.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-24-03-kaip-sukurti-gamybos-lygio-klientu-aptarnavimo-automatiz.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje sukuriame pažangią Griptape klientų aptarnavimo automatizavimo sistemą, kuri deterministinius įrankius derina su agentiniais samprotavimais, kad būtų galima apdoroti realaus pasaulio palaikymo bilietus nuo galo iki galo.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/23/how-to-build-a-production-grade-customer-support-automation-pipeline-with-griptape-using-deterministic-tools-and-agentic-reasoning/",
+        "try_url": "https://www.marktechpost.com/2026/02/23/how-to-build-a-production-grade-customer-support-automation-pipeline-with-griptape-using-deterministic-tools-and-agentic-reasoning/"
+      }
+    },
+    {
+      "title": "„Mastercard“ AI mokėjimo demonstracinė versija nukreipta į agento vadovaujamą prekybą",
+      "link": "https://www.artificialintelligence-news.com/news/mastercard-ai-payment-demo-points-to-agent-led-commerce/",
+      "published_iso": "2026-02-23T10:00:00Z",
+      "published_lt": "2026-02-23 10:00 UTC",
+      "summary": "Neseniai atlikta „Mastercard“ demonstracija rodo, kad mokėjimo sistemos gali žengti į ateitį, kai pirkimą užbaigs programinės įrangos agentai, o ne žmonės. 2026 m. Indijos AI Impact Summit metu „Mastercard“ parodė tai, ką apibūdino kaip savo pirmąjį visiškai autentišką „agentinės komercijos“ sandorį.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-24-04-mastercard-ai-mokejimo-demonstracine-versija-nukreipta-i.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Neseniai atlikta „Mastercard“ demonstracija rodo, kad mokėjimo sistemos gali žengti į ateitį, kai pirkimą užbaigs programinės įrangos agentai, o ne žmonės.",
+        "2026 m.",
+        "Indijos AI Impact Summit metu „Mastercard“ parodė tai, ką apibūdino kaip savo pirmąjį visiškai autentišką „agentinės komercijos“ sandorį.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Dar neissleista arba arteja."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Jei AI agentai gali veikti neviršydami nustatytų ribų, pvz., išlaidų viršutinės ribos arba prekybininko apribojimų, atsiskaitymas gali pasikeisti iš vartotojo sąveikos į foninę darbo eigą.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Dar neissleista arba arteja.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/mastercard-ai-payment-demo-points-to-agent-led-commerce/",
+        "try_url": "https://www.artificialintelligence-news.com/news/mastercard-ai-payment-demo-points-to-agent-led-commerce/"
+      }
+    },
+    {
+      "title": "Kaip Amul naudoja AI pieno ūkį, kad pirmoje vietoje būtų 36 milijonai ūkininkų",
+      "link": "https://www.artificialintelligence-news.com/news/amul-ai-dairy-farming-platform-india/",
+      "published_iso": "2026-02-23T09:00:00Z",
+      "published_lt": "2026-02-23 09:00 UTC",
+      "summary": "AI pienininkystė kol kas buvo ambicingiausia – ne Silicio slėnio laboratorijoje ar Europos žemės ūkio technologijų miestelyje, o Gudžarato kaimuose, Indijoje, kur 36 tūkst. (3,6 mln.) moterų pieno gamintojų dabar aptarnauja AI padėjėja, vardu Sarlaben.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-02-24-05-kaip-amul-naudoja-ai-pieno-uki-kad-pirmoje-vietoje-butu-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "AI pienininkystė kol kas buvo ambicingiausia – ne Silicio slėnio laboratorijoje ar Europos žemės ūkio technologijų miestelyje, o Gudžarato kaimuose, Indijoje, kur 36 tūkst.",
+        "(3,6 mln.) moterų pieno gamintojų dabar aptarnauja AI padėjėja, vardu Sarlaben.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+      }
+    },
     {
       "title": "„Hitachi“ lažinasi dėl pramonės patirties, kad laimėtų fizines AI lenktynes",
       "link": "https://www.artificialintelligence-news.com/news/hitachi-physical-ai-industrial-expertise/",
@@ -13,7 +152,7 @@
       "summary": "Fizinis AI – dirbtinio intelekto šaka, valdanti robotus ir pramonines mašinas realiame pasaulyje – turi hierarchijos problemą. Viršuje „OpenAI“ ir „Google“ keičia daugiarūšio pagrindo modelius. Viduryje „Nvidia“ kuria platformas ir įrankius fiziniam AI vystymui.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-23-01-hitachi-lazinasi-del-pramones-patirties-kad-laimetu-fizi.svg",
+      "image_url": "generated-images/2026-02-24-06-hitachi-lazinasi-del-pramones-patirties-kad-laimetu-fizi.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -37,22 +176,22 @@
       "link": "https://www.marktechpost.com/2026/02/22/taalas-is-replacing-programmable-gpus-with-hardwired-ai-chips-to-achieve-17000-tokens-per-second-for-ubiquitous-inference/",
       "published_iso": "2026-02-23T06:33:53Z",
       "published_lt": "2026-02-23 06:33 UTC",
-      "summary": "Didelės svarbos AI infrastruktūros pasaulyje pramonė veikė remdamasi vienintele prielaida: lankstumas yra karalius. Kuriame bendrosios paskirties GPU, nes dirbtinio intelekto modeliai keičiasi kiekvieną savaitę ir mums reikia programuojamo silicio, kuris galėtų prisitaikyti prie kito mokslinių tyrimų proveržio.",
+      "summary": "Didelės svarbos AI infrastruktūros pasaulyje pramonė veikė remdamasi vienintele prielaida: lankstumas yra karalius. Kuriame bendrosios paskirties GPU, nes dirbtinio intelekto modeliai keičiasi kiekvieną savaitę, o mums reikia programuojamo silicio, kuris galėtų prisitaikyti prie kito mokslinių tyrimų proveržio.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-10.32.46-PM-150x150.png",
-      "image_url": "generated-images/2026-02-23-02-taalas-programuojamus-gpu-pakeicia-laidiniais-ai-lustais.svg",
+      "image_url": "generated-images/2026-02-24-07-taalas-programuojamus-gpu-pakeicia-laidiniais-ai-lustais.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "Didelės svarbos AI infrastruktūros pasaulyje pramonė veikė remdamasi vienintele prielaida: lankstumas yra karalius.",
-        "Kuriame bendrosios paskirties GPU, nes dirbtinio intelekto modeliai keičiasi kiekvieną savaitę ir mums reikia programuojamo silicio, kuris galėtų prisitaikyti prie kito mokslinių tyrimų proveržio.",
+        "Kuriame bendrosios paskirties GPU, nes dirbtinio intelekto modeliai keičiasi kiekvieną savaitę, o mums reikia programuojamo silicio, kuris galėtų prisitaikyti prie kito mokslinių tyrimų proveržio.",
         "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Taalas keičia programuojamus GPU laidiniais AI lustais, kad pasiektų 17 000 žetonų per sekundę, kad būtų galima daryti visur esančias išvadas. Tačiau Toronte įsikūręs startuolis Taalas mano, kad dirbtinį intelektą sta...",
+        "online_limitai": "Taalas pakeičia programuojamus GPU laidiniais AI lustais, kad pasiektų 17 000 žetonų per sekundę, kad būtų galima daryti visur esančias išvadas. Tačiau Toronte įsikūręs startuolis Taalas mano, kad dirbtinį intelektą s...",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/22/taalas-is-replacing-programmable-gpus-with-hardwired-ai-chips-to-achieve-17000-tokens-per-second-for-ubiquitous-inference/",
@@ -67,7 +206,7 @@
       "summary": "Sukurti paieškos papildytos kartos (RAG) dujotiekį paprasta; sukurti tokį, kuris nekeltų haliucinacijų per 10 K auditą, yra beveik neįmanomas.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-8.00.29-PM-1-150x150.png",
-      "image_url": "generated-images/2026-02-23-03-vectifyai-pristato-mafin-2-5-ir-pageindex-pasiekiamas-98.svg",
+      "image_url": "generated-images/2026-02-24-08-vectifyai-pristato-mafin-2-5-ir-pageindex-pasiekiamas-98.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -94,7 +233,7 @@
       "summary": "Šiame vadove mes sutelkiame dėmesį į skaidraus ir išmatuojamo vertinimo dujotiekį didelėms kalbos modelių programoms naudojant TruLens. Užuot laikę LLM kaip juodąsias dėžes, mes įtaisome kiekvieną programos etapą taip, kad įvestis, tarpiniai žingsniai ir išėjimai būtų užfiksuoti kaip struktūriniai pėdsakai.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-23-04-kodavimo-vadovas-skirtas-llm-taikomuju-programu-naudojan.svg",
+      "image_url": "generated-images/2026-02-24-09-kodavimo-vadovas-skirtas-llm-taikomuju-programu-naudojan.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -121,7 +260,7 @@
       "summary": "„ByteDance Seed“ neseniai atmetė tyrimą, kuris gali pakeisti mąstymo AI kūrimą. Daugelį metų kūrėjai ir AI tyrėjai stengėsi „šaltai paleisti“ didelių kalbų modelius (LLM) į ilgos minties grandinės (Long CoT) modelius. Dauguma modelių pasimeta arba nesugeba perkelti šablonų kelių žingsnių samprotavimo metu.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-22-at-12.48.03-PM-1-150x150.png",
-      "image_url": "generated-images/2026-02-23-05-pamirskite-raktiniu-zodziu-imitacija-bytedance-ai-atvaiz.svg",
+      "image_url": "generated-images/2026-02-24-10-pamirskite-raktiniu-zodziu-imitacija-bytedance-ai-atvaiz.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -141,14 +280,14 @@
       }
     },
     {
-      "title": "Naujas „Google“ dirbtinio intelekto tyrimas siūlo gilaus mąstymo santykį, kad pagerintų LLM tikslumą ir per pusę sumažintų bendras išvadų išlaidas",
+      "title": "Naujasis „Google“ dirbtinio intelekto tyrimas siūlo gilaus mąstymo santykį, kad pagerintų LLM tikslumą ir per pusę sumažintų bendras išvadų išlaidas",
       "link": "https://www.marktechpost.com/2026/02/21/a-new-google-ai-research-proposes-deep-thinking-ratio-to-improve-llm-accuracy-while-cutting-total-inference-costs-by-half/",
       "published_iso": "2026-02-22T04:53:19Z",
       "published_lt": "2026-02-22 04:53 UTC",
       "summary": "Pastaruosius kelerius metus dirbtinio intelekto pasaulis laikėsi paprastos taisyklės: jei norite, kad didelės kalbos modelis (LLM) išspręstų sunkesnę problemą, pailginkite jo minčių grandinę (CoT). Tačiau nauji Virdžinijos universiteto ir „Google“ tyrimai įrodo, kad „ilgai mąstyti“ nėra tas pats, kas „stipriai mąstyti“.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-21-at-8.52.04-PM-1-150x150.png",
-      "image_url": "generated-images/2026-02-23-06-naujas-google-dirbtinio-intelekto-tyrimas-siulo-gilaus-m.svg",
+      "image_url": "generated-images/2026-02-24-11-naujasis-google-dirbtinio-intelekto-tyrimas-siulo-gilaus.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -167,14 +306,14 @@
       }
     },
     {
-      "title": "Kaip sukurti agentinę darbo eigą, skirtą įrankiu grindžiamam maršruto optimizavimui naudojant deterministinį skaičiavimą ir struktūrizuotas išvestis",
+      "title": "Kaip sukurti agentinę darbo eigą, skirtą įrankiais pagrįsto maršruto optimizavimui naudojant deterministinį skaičiavimą ir struktūrizuotas išvestis",
       "link": "https://www.marktechpost.com/2026/02/21/how-to-design-an-agentic-workflow-for-tool-driven-route-optimization-with-deterministic-computation-and-structured-outputs/",
       "published_iso": "2026-02-21T22:24:00Z",
       "published_lt": "2026-02-21 22:24 UTC",
       "summary": "Šiame vadove mes sukuriame gamybos stiliaus maršruto optimizavimo agentą logistikos išsiuntimo centrui, naudodami naujausias „LangChain“ agento API.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-02-23-07-kaip-sukurti-agentine-darbo-eiga-skirta-irankiu-grindzia.svg",
+      "image_url": "generated-images/2026-02-24-12-kaip-sukurti-agentine-darbo-eiga-skirta-irankiais-pagris.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -190,145 +329,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/21/how-to-design-an-agentic-workflow-for-tool-driven-route-optimization-with-deterministic-computation-and-structured-outputs/",
         "try_url": "https://www.marktechpost.com/2026/02/21/how-to-design-an-agentic-workflow-for-tool-driven-route-optimization-with-deterministic-computation-and-structured-outputs/"
-      }
-    },
-    {
-      "title": "Ar yra „Palantir“ bendruomenės leidimas? Susipažinkite su „OpenPlanter“: atvirojo kodo rekursinis AI agentas jūsų mikro stebėjimo atvejams",
-      "link": "https://www.marktechpost.com/2026/02/21/is-there-a-community-edition-of-palantir-meet-openplanter-an-open-source-recursive-ai-agent-for-your-micro-surveillance-use-cases/",
-      "published_iso": "2026-02-21T21:10:24Z",
-      "published_lt": "2026-02-21 21:10 UTC",
-      "summary": "Galios pusiausvyra skaitmeniniame amžiuje keičiasi. Nors vyriausybės ir didelės korporacijos jau seniai naudojo duomenis asmenims sekti, naujas atvirojo kodo projektas „OpenPlanter“ grąžina šią galią visuomenei.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-02-23-08-ar-yra-palantir-bendruomenes-leidimas-susipazinkite-su-o.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Galios pusiausvyra skaitmeniniame amžiuje keičiasi.",
-        "Nors vyriausybės ir didelės korporacijos jau seniai naudojo duomenis asmenims sekti, naujas atvirojo kodo projektas „OpenPlanter“ grąžina šią galią visuomenei.",
-        "Kaina: Yra nemokamas ir mokamas variantas."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/21/is-there-a-community-edition-of-palantir-meet-openplanter-an-open-source-recursive-ai-agent-for-your-micro-surveillance-use-cases/",
-        "try_url": "https://www.marktechpost.com/2026/02/21/is-there-a-community-edition-of-palantir-meet-openplanter-an-open-source-recursive-ai-agent-for-your-micro-surveillance-use-cases/"
-      }
-    },
-    {
-      "title": "Aukštos kokybės vaizdo generavimo, valdymo ir redagavimo naudojant HuggingFace difuzorius kodavimo vadovas",
-      "link": "https://www.marktechpost.com/2026/02/20/a-coding-guide-to-high-quality-image-generation-control-and-editing-using-huggingface-diffusers/",
-      "published_iso": "2026-02-21T00:55:24Z",
-      "published_lt": "2026-02-21 00:55 UTC",
-      "summary": "Šiame vadove mes kuriame praktinę vaizdų generavimo darbo eigą naudodami Difuzorių biblioteką. Pradedame nuo aplinkos stabilizavimo, tada generuojame aukštos kokybės vaizdus iš tekstinių raginimų naudodami „Stable Diffusion“ su optimizuotu planuokliu.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-02-23-09-aukstos-kokybes-vaizdo-generavimo-valdymo-ir-redagavimo-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šiame vadove mes kuriame praktinę vaizdų generavimo darbo eigą naudodami Difuzorių biblioteką.",
-        "Pradedame nuo aplinkos stabilizavimo, tada generuojame aukštos kokybės vaizdus iš tekstinių raginimų naudodami „Stable Diffusion“ su optimizuotu planuokliu.",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Aptikta: cuda",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/20/a-coding-guide-to-high-quality-image-generation-control-and-editing-using-huggingface-diffusers/",
-        "try_url": "https://www.marktechpost.com/2026/02/20/a-coding-guide-to-high-quality-image-generation-control-and-editing-using-huggingface-diffusers/"
-      }
-    },
-    {
-      "title": "Kaip sukurti Šveicarijos armijos peilių tyrimo agentą naudojant įrankius AI, žiniatinklio paiešką, PDF analizę, viziją ir automatizuotą ataskaitų teikimą",
-      "link": "https://www.marktechpost.com/2026/02/20/how-to-design-a-swiss-army-knife-research-agent-with-tool-using-ai-web-search-pdf-analysis-vision-and-automated-reporting/",
-      "published_iso": "2026-02-20T22:05:04Z",
-      "published_lt": "2026-02-20 22:05 UTC",
-      "summary": "Šiame vadove mes sukuriame „Šveicarijos armijos peilio“ tyrimo agentą, kuris yra kur kas daugiau nei paprastas pokalbių bendravimas ir aktyviai sprendžia kelių etapų tyrimo problemas iki galo.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-02-23-10-kaip-sukurti-sveicarijos-armijos-peiliu-tyrimo-agenta-na.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šiame vadove mes sukuriame „Šveicarijos armijos peilio“ tyrimo agentą, kuris yra kur kas daugiau nei paprastas pokalbių bendravimas ir aktyviai sprendžia kelių etapų tyrimo problemas iki galo.",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Kaip sukurti Šveicarijos armijos peilių tyrimo agentą su įrankiu naudojant dirbtinį intelektą, žiniatinklio paiešką, PDF analizę, viziją ir automatines ataskaitas %pip -q install -U smolagents openai trafilatura duckd...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/20/how-to-design-a-swiss-army-knife-research-agent-with-tool-using-ai-web-search-pdf-analysis-vision-and-automated-reporting/",
-        "try_url": "https://www.marktechpost.com/2026/02/20/how-to-design-a-swiss-army-knife-research-agent-with-tool-using-ai-web-search-pdf-analysis-vision-and-automated-reporting/"
-      }
-    },
-    {
-      "title": "NVIDIA išleido „DreamDojo“: atvirojo kodo robotų pasaulio modelį, apmokytą 44 711 valandų realaus pasaulio žmonių vaizdo duomenų",
-      "link": "https://www.marktechpost.com/2026/02/20/nvidia-releases-dreamdojo-an-open-source-robot-world-model-trained-on-44711-hours-of-real-world-human-video-data/",
-      "published_iso": "2026-02-20T20:30:46Z",
-      "published_lt": "2026-02-20 20:30 UTC",
-      "summary": "Kurti treniruoklius robotams buvo ilgalaikis iššūkis. Tradiciniams varikliams reikia rankinio fizikos kodavimo ir tobulų 3D modelių. NVIDIA tai keičia naudodama „DreamDojo“, visiškai atviro kodo apibendrinamą robotų pasaulio modelį.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-20-at-12.22.37-PM-1-150x150.png",
-      "image_url": "generated-images/2026-02-23-11-nvidia-isleido-dreamdojo-atvirojo-kodo-robotu-pasaulio-m.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Kurti treniruoklius robotams buvo ilgalaikis iššūkis.",
-        "Tradiciniams varikliams reikia rankinio fizikos kodavimo ir tobulų 3D modelių.",
-        "NVIDIA tai keičia naudodama „DreamDojo“, visiškai atviro kodo apibendrinamą robotų pasaulio modelį.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/20/nvidia-releases-dreamdojo-an-open-source-robot-world-model-trained-on-44711-hours-of-real-world-human-video-data/",
-        "try_url": "https://www.marktechpost.com/2026/02/20/nvidia-releases-dreamdojo-an-open-source-robot-world-model-trained-on-44711-hours-of-real-world-human-video-data/"
-      }
-    },
-    {
-      "title": "AI tyrinėjimas APAC mažmeninės prekybos sektoriuje",
-      "link": "https://www.artificialintelligence-news.com/news/exploring-ai-in-the-apac-retail-sector/",
-      "published_iso": "2026-02-20T17:19:04Z",
-      "published_lt": "2026-02-20 17:19 UTC",
-      "summary": "AI APAC mažmeninės prekybos sektoriuje pereina nuo analizės ir bandomųjų versijų prie darbo eigos ir kasdienių operacijų. Tankios miesto parduotuvės, didelis darbo jėgos trūkumas ir konkurencingos greitosios prekybos ekosistemos skatina įsisavinimą.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-02-23-12-ai-tyrinejimas-apac-mazmenines-prekybos-sektoriuje.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "AI APAC mažmeninės prekybos sektoriuje pereina nuo analizės ir bandomųjų versijų prie darbo eigos ir kasdienių operacijų.",
-        "Tankios miesto parduotuvės, didelis darbo jėgos trūkumas ir konkurencingos greitosios prekybos ekosistemos skatina įsisavinimą.",
-        "Kaina: Labiau panasu i mokama sprendima."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
       }
     }
   ]
