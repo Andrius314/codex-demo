@@ -1,7 +1,341 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-02-25T07:48:45Z",
+  "updated_at_utc": "2026-02-26T07:47:55Z",
   "digests": [
+    {
+      "digest_date": "2026-02-26",
+      "generated_at_utc": "2026-02-26T07:47:55Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„Tailscale“ ir „LM Studio“ pristato „LM nuorodą“, kad suteiktų šifruotą tiesioginę prieigą prie jūsų privačių GPU aparatūros išteklių",
+          "link": "https://www.marktechpost.com/2026/02/25/tailscale-and-lm-studio-introduce-lm-link-to-provide-encrypted-point-to-point-access-to-your-private-gpu-hardware-assets/",
+          "published_iso": "2026-02-26T04:29:40Z",
+          "published_lt": "2026-02-26 04:29 UTC",
+          "summary": "Šiuolaikinio AI kūrėjo produktyvumas dažnai siejamas su fizine vieta. Tikėtina, kad namuose ar biure turite „Big Rig“ – darbo stotį, dūzgiančią su NVIDIA RTX kortelėmis – ir „Travel Rig“ – elegantišką nešiojamąjį kompiuterį, kuris puikiai tinka kavinėms, bet sunkiai valdo net kvantuotą „Llama-3“ variantą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-26-01-tailscale-ir-lm-studio-pristato-lm-nuoroda-kad-suteiktu-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiuolaikinio AI kūrėjo produktyvumas dažnai siejamas su fizine vieta.",
+            "Tikėtina, kad namuose ar biure turite „Big Rig“ – darbo stotį, dūzgiančią su NVIDIA RTX kortelėmis – ir „Travel Rig“ – elegantišką nešiojamąjį kompiuterį, kuris puikiai tinka kavinėms, bet sunkiai valdo net kvantuotą „Llama-3“ variantą.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/25/tailscale-and-lm-studio-introduce-lm-link-to-provide-encrypted-point-to-point-access-to-your-private-gpu-hardware-assets/",
+            "try_url": "https://www.marktechpost.com/2026/02/25/tailscale-and-lm-studio-introduce-lm-link-to-provide-encrypted-point-to-point-access-to-your-private-gpu-hardware-assets/"
+          }
+        },
+        {
+          "title": "Kaip sukurti elastingą vektorinę duomenų bazę su nuoseklia maišos, dalijimosi ir tiesioginio skambėjimo vizualizacija RAG sistemoms",
+          "link": "https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/",
+          "published_iso": "2026-02-26T02:58:14Z",
+          "published_lt": "2026-02-26 02:58 UTC",
+          "summary": "Šiame vadove mes sukuriame elastingą vektorių duomenų bazės simuliatorių, kuris atspindi, kaip šiuolaikinės RAG sistemos įterpia skeveldras paskirstytuose saugojimo mazguose. Diegiame nuoseklų maišą su virtualiais mazgais, kad užtikrintume subalansuotą vietą ir minimalų pertvarkymą, kai sistema keičiasi.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-26-02-kaip-sukurti-elastinga-vektorine-duomenu-baze-su-nuosekl.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove mes sukuriame elastingą vektorių duomenų bazės simuliatorių, kuris atspindi, kaip šiuolaikinės RAG sistemos įterpia skeveldras paskirstytuose saugojimo mazguose.",
+            "Diegiame nuoseklų maišą su virtualiais mazgais, kad užtikrintume subalansuotą vietą ir minimalų pertvarkymą, kai sistema keičiasi.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Naujas ETH Ciuricho tyrimas įrodo, kad jūsų dirbtinio intelekto kodavimo agentai žlunga, nes jūsų AGENTS.md failai yra pernelyg išsamūs",
+          "link": "https://www.marktechpost.com/2026/02/25/new-eth-zurich-study-proves-your-ai-coding-agents-are-failing-because-your-agents-md-files-are-too-detailed/",
+          "published_iso": "2026-02-26T00:28:41Z",
+          "published_lt": "2026-02-26 00:28 UTC",
+          "summary": "Didelio našumo AI pasaulyje „Context Engineering“ tapo naujausia riba, leidžiančia išspausti LLM našumą.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-25-at-4.25.26-PM-1-150x150.png",
+          "image_url": "generated-images/2026-02-26-03-naujas-eth-ciuricho-tyrimas-irodo-kad-jusu-dirbtinio-int.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Didelio našumo AI pasaulyje „Context Engineering“ tapo naujausia riba, leidžiančia išspausti LLM našumą."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Agentai stebėtinai gerai patys atranda failų struktūras; skaitant rankinį sąrašą tiesiog sunaudojami samprotavimų ženklai ir pridedama „psichikos“ išlaidų.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/25/new-eth-zurich-study-proves-your-ai-coding-agents-are-failing-because-your-agents-md-files-are-too-detailed/",
+            "try_url": "https://www.marktechpost.com/2026/02/25/new-eth-zurich-study-proves-your-ai-coding-agents-are-failing-because-your-agents-md-files-are-too-detailed/"
+          }
+        },
+        {
+          "title": "Peržiūrėkite visą vaizdą ir raskite išvaizdą naudodami „Circle to Search“.",
+          "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+          "published_iso": "2026-02-25T18:00:00Z",
+          "published_lt": "2026-02-25 18:00 UTC",
+          "summary": "Atnaujinome „Circle“ į paiešką, kad dabar galėtumėte tyrinėti kelis elementus viename vaizde.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FTL__Try_On_Blog_header.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-02-26-04-perziurekite-visa-vaizda-ir-raskite-isvaizda-naudodami-c.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Atnaujinome „Circle“ į paiešką, kad dabar galėtumėte tyrinėti kelis elementus viename vaizde.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731"
+          }
+        },
+        {
+          "title": "Išmanesnis „Android“ „Samsung Galaxy S26“.",
+          "link": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+          "published_iso": "2026-02-25T18:00:00Z",
+          "published_lt": "2026-02-25 18:00 UTC",
+          "summary": "Renginyje „Samsung Unpacked 2026“ pademonstravome, kaip „Samsung Galaxy S26“ įrenginiai įgyja naujausias „Android“ dirbtinio intelekto funkcijas.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2096x1182_withoutte.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-02-26-05-ismanesnis-android-samsung-galaxy-s26.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Renginyje „Samsung Unpacked 2026“ pademonstravome, kaip „Samsung Galaxy S26“ įrenginiai įgyja naujausias „Android“ dirbtinio intelekto funkcijas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Dabar turime išankstinę peržiūrą, kaip atlikti šias užduotis.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731"
+          }
+        },
+        {
+          "title": "„Nokia“ ir AWS bandomasis AI automatizavimas, skirtas 5G tinklo pjaustymui realiuoju laiku",
+          "link": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
+          "published_iso": "2026-02-25T10:00:00Z",
+          "published_lt": "2026-02-25 10:00 UTC",
+          "summary": "Telekomunikacijų tinklai netrukus gali pradėti prisitaikyti realiuoju laiku, nes operatoriai išbando sistemas, leidžiančias dirbtinio intelekto agentams valdyti srautą ir paslaugų kokybę. AI netrukus gali priimti operatyvinius sprendimus.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-26-06-nokia-ir-aws-bandomasis-ai-automatizavimas-skirtas-5g-ti.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Telekomunikacijų tinklai netrukus gali pradėti prisitaikyti realiuoju laiku, nes operatoriai išbando sistemas, leidžiančias dirbtinio intelekto agentams valdyti srautą ir paslaugų kokybę.",
+            "AI netrukus gali priimti operatyvinius sprendimus.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Prieinamumas: Dar neissleista arba arteja."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Nors pjaustymas yra 5G standarto dalis, dažnai reikėjo planuoti rankiniu būdu ir nustatyti fiksuotas konfigūracijas, o tai riboja, kaip greitai tinklai gali reaguoti į besikeičiančią paklausą.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Dar neissleista arba arteja.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+          }
+        },
+        {
+          "title": "Naujoji „Liquid AI“ hibridinė architektūra LFM2-24B-A2B sujungia dėmesį su konvoliucijomis, kad išspręstų šiuolaikinių LLM kliūtis.",
+          "link": "https://www.marktechpost.com/2026/02/25/liquid-ais-new-lfm2-24b-a2b-hybrid-architecture-blends-attention-with-convolutions-to-solve-the-scaling-bottlenecks-of-modern-llms/",
+          "published_iso": "2026-02-25T08:37:55Z",
+          "published_lt": "2026-02-25 08:37 UTC",
+          "summary": "Generacinės AI lenktynės jau seniai buvo žaidimas „didžiu, tuo geriau“. Tačiau pramonei pasiekus energijos suvartojimo ir atminties kliūčių ribas, pokalbis nuo neapdorotų parametrų skaičiavimo pereina prie architektūrinio efektyvumo.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-25-at-12.30.37-AM-1-150x150.png",
+          "image_url": "generated-images/2026-02-26-07-naujoji-liquid-ai-hibridine-architektura-lfm2-24b-a2b-su.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Generacinės AI lenktynės jau seniai buvo žaidimas „didžiu, tuo geriau“.",
+            "Tačiau pramonei pasiekus energijos suvartojimo ir atminties kliūčių ribas, pokalbis nuo neapdorotų parametrų skaičiavimo pereina prie architektūrinio efektyvumo.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/25/liquid-ais-new-lfm2-24b-a2b-hybrid-architecture-blends-attention-with-convolutions-to-solve-the-scaling-bottlenecks-of-modern-llms/",
+            "try_url": "https://www.marktechpost.com/2026/02/25/liquid-ais-new-lfm2-24b-a2b-hybrid-architecture-blends-attention-with-convolutions-to-solve-the-scaling-bottlenecks-of-modern-llms/"
+          }
+        },
+        {
+          "title": "Meta AI atvirųjų šaltinių GCM geresniam GPU klasterio stebėjimui, kad būtų užtikrintas didelio našumo AI mokymas ir aparatinės įrangos patikimumas",
+          "link": "https://www.marktechpost.com/2026/02/24/meta-ai-open-sources-gcm-for-better-gpu-cluster-monitoring-to-ensure-high-performance-ai-training-and-hardware-reliability/",
+          "published_iso": "2026-02-25T00:31:25Z",
+          "published_lt": "2026-02-25 00:31 UTC",
+          "summary": "Kol technologijų žmonės yra apsėsti dėl naujausių lamų kontrolės punktų, duomenų centrų rūsiuose vyksta daug aštresnė kova. Dirbtinio intelekto modeliams padidėjus iki trilijonų parametrų, klasteriai, reikalingi jiems išmokyti, tapo vienomis sudėtingiausių ir pažeidžiamiausių mašinų planetoje.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-24-at-4.29.51-PM-1-150x150.png",
+          "image_url": "generated-images/2026-02-26-08-meta-ai-atviruju-saltiniu-gcm-geresniam-gpu-klasterio-st.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kol technologijų žmonės yra apsėsti dėl naujausių lamų kontrolės punktų, duomenų centrų rūsiuose vyksta daug aštresnė kova.",
+            "Dirbtinio intelekto modeliams padidėjus iki trilijonų parametrų, klasteriai, reikalingi jiems išmokyti, tapo vienomis sudėtingiausių ir pažeidžiamiausių mašinų planetoje.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Aptikta: NVIDIA GPU",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/24/meta-ai-open-sources-gcm-for-better-gpu-cluster-monitoring-to-ensure-high-performance-ai-training-and-hardware-reliability/",
+            "try_url": "https://www.marktechpost.com/2026/02/24/meta-ai-open-sources-gcm-for-better-gpu-cluster-monitoring-to-ensure-high-performance-ai-training-and-hardware-reliability/"
+          }
+        },
+        {
+          "title": "Kodavimo įgyvendinimas, imituojantis praktinį Bizantijos gedimų toleravimą naudojant asyncio, kenkėjiškus mazgus ir delsos analizę",
+          "link": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/",
+          "published_iso": "2026-02-24T23:12:32Z",
+          "published_lt": "2026-02-24 23:12 UTC",
+          "summary": "Šiame vadove mes įdiegiame visapusį praktinio Bizantijos gedimų tolerancijos (PBFT) simuliatorių, naudodami asyncio. Modeliuojame realų paskirstytą tinklą su asinchroniniu pranešimų perdavimu, konfigūruojamais vėlavimais ir Bizantijos mazgais, kurie sąmoningai nukrypsta nuo protokolo.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-26-09-kodavimo-igyvendinimas-imituojantis-praktini-bizantijos-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove mes įdiegiame visapusį praktinio Bizantijos gedimų tolerancijos (PBFT) simuliatorių, naudodami asyncio.",
+            "Modeliuojame realų paskirstytą tinklą su asinchroniniu pranešimų perdavimu, konfigūruojamais vėlavimais ir Bizantijos mazgais, kurie sąmoningai nukrypsta nuo protokolo.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Tinklo pranešimus ir parametrus formalizuojame naudodami duomenų klases, kad užtikrintume struktūruotą, nuoseklų ryšį.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/",
+            "try_url": "https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/"
+          }
+        },
+        {
+          "title": "„Alibaba Qwen“ komanda išleido „Qwen 3.5“ vidutinių modelių seriją: gamybos galią, įrodančią, kad mažesni AI modeliai yra protingesni",
+          "link": "https://www.marktechpost.com/2026/02/24/alibaba-qwen-team-releases-qwen-3-5-medium-model-series-a-production-powerhouse-proving-that-smaller-ai-models-are-smarter/",
+          "published_iso": "2026-02-24T19:33:29Z",
+          "published_lt": "2026-02-24 19:33 UTC",
+          "summary": "Didžiųjų kalbos modelių (LLM) kūrimą apibrėžė neapdoroto masto siekis. Didėjantis parametrų skaičius iki trilijonų iš pradžių lėmė našumo padidėjimą, taip pat atsirado didelių infrastruktūros išlaidų ir mažėjo ribinis naudingumas.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/JK1-1-150x150.jpeg",
+          "image_url": "generated-images/2026-02-26-10-alibaba-qwen-komanda-isleido-qwen-3-5-vidutiniu-modeliu-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Didžiųjų kalbos modelių (LLM) kūrimą apibrėžė neapdoroto masto siekis.",
+            "Didėjantis parametrų skaičius iki trilijonų iš pradžių lėmė našumo padidėjimą, taip pat atsirado didelių infrastruktūros išlaidų ir mažėjo ribinis naudingumas.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/24/alibaba-qwen-team-releases-qwen-3-5-medium-model-series-a-production-powerhouse-proving-that-smaller-ai-models-are-smarter/",
+            "try_url": "https://www.marktechpost.com/2026/02/24/alibaba-qwen-team-releases-qwen-3-5-medium-model-series-a-production-powerhouse-proving-that-smaller-ai-models-are-smarter/"
+          }
+        },
+        {
+          "title": "Antropinis: Claude'as susiduria su „pramoninio masto“ AI modelio distiliavimu",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/",
+          "published_iso": "2026-02-24T15:56:35Z",
+          "published_lt": "2026-02-24 15:56 UTC",
+          "summary": "„Anthropic“ išsamiai išdėstė tris „pramoninio masto“ AI modelių distiliavimo kampanijas, kurias vykdo užsienio laboratorijos, skirtas išgauti Claude'o sugebėjimus. Šie konkurentai sugeneravo daugiau nei 16 milijonų mainų naudodami maždaug 24 000 apgaulingų paskyrų.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-26-11-antropinis-claude-as-susiduria-su-pramoninio-masto-ai-mo.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Anthropic“ išsamiai išdėstė tris „pramoninio masto“ AI modelių distiliavimo kampanijas, kurias vykdo užsienio laboratorijos, skirtas išgauti Claude'o sugebėjimus.",
+            "Šie konkurentai sugeneravo daugiau nei 16 milijonų mainų naudodami maždaug 24 000 apgaulingų paskyrų."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+          }
+        },
+        {
+          "title": "Kaip atjungti debesys pagerina AI duomenų valdymą",
+          "link": "https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/",
+          "published_iso": "2026-02-24T14:42:44Z",
+          "published_lt": "2026-02-24 14:42 UTC",
+          "summary": "Atjungtais debesimis siekiama pagerinti AI duomenų valdymą, nes įmonės iš naujo apgalvoja savo infrastruktūrą pagal griežtesnius reguliavimo lūkesčius. Veiklos tęstinumo užtikrinimas izoliuotoje aplinkoje tampa vis svarbiau verslui.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-26-12-kaip-atjungti-debesys-pagerina-ai-duomenu-valdyma.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Atjungtais debesimis siekiama pagerinti AI duomenų valdymą, nes įmonės iš naujo apgalvoja savo infrastruktūrą pagal griežtesnius reguliavimo lūkesčius.",
+            "Veiklos tęstinumo užtikrinimas izoliuotoje aplinkoje tampa vis svarbiau verslui.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-02-25",
       "generated_at_utc": "2026-02-25T07:48:45Z",
