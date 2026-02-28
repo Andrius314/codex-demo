@@ -1,7 +1,338 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-02-27T07:41:13Z",
+  "updated_at_utc": "2026-02-28T07:21:59Z",
   "digests": [
+    {
+      "digest_date": "2026-02-28",
+      "generated_at_utc": "2026-02-28T07:21:59Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„Google DeepMind“ pristato vieningus latentus (UL): mašininio mokymosi sistemą, kuri bendrai sureguliuoja latentinius duomenis, naudojant difuzijos pirminį ir dekoderį",
+          "link": "https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/",
+          "published_iso": "2026-02-28T03:58:20Z",
+          "published_lt": "2026-02-28 03:58 UTC",
+          "summary": "Dabartinė „Generative AI“ trajektorija labai priklauso nuo latentinės difuzijos modelių (LDM), kad būtų galima valdyti didelės raiškos sintezės skaičiavimo išlaidas. Suglaudinus duomenis į žemesnio matmens latentinę erdvę, modeliai gali efektyviai keisti mastelį.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-7.57.11-PM-150x150.png",
+          "image_url": "generated-images/2026-02-28-01-google-deepmind-pristato-vieningus-latentus-ul-masininio.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Dabartinė „Generative AI“ trajektorija labai priklauso nuo latentinės difuzijos modelių (LDM), kad būtų galima valdyti didelės raiškos sintezės skaičiavimo išlaidas.",
+            "Suglaudinus duomenis į žemesnio matmens latentinę erdvę, modeliai gali efektyviai keisti mastelį."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/",
+            "try_url": "https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/"
+          }
+        },
+        {
+          "title": "Kodavimo įgyvendinimas, skirtas sukurti hierarchinio planavimo AI agentą, naudojant atvirojo kodo LLM su įrankių vykdymu ir struktūrizuotu kelių agentų samprotavimu",
+          "link": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
+          "published_iso": "2026-02-28T02:18:20Z",
+          "published_lt": "2026-02-28 02:18 UTC",
+          "summary": "Šioje mokymo programoje mes sukuriame hierarchinį planavimo agentą naudodami atvirojo kodo nurodymų modelį. Kuriame struktūrizuotą kelių agentų architektūrą, kurią sudaro planuotojo agentas, vykdytojo agentas ir agregatoriaus agentas, kur kiekvienas komponentas atlieka specializuotą vaidmenį sprendžiant sudėtingas užduotis.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-28-02-kodavimo-igyvendinimas-skirtas-sukurti-hierarchinio-plan.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje mes sukuriame hierarchinį planavimo agentą naudodami atvirojo kodo nurodymų modelį.",
+            "Kuriame struktūrizuotą kelių agentų architektūrą, kurią sudaro planuotojo agentas, vykdytojo agentas ir agregatoriaus agentas, kur kiekvienas komponentas atlieka specializuotą vaidmenį sprendžiant sudėtingas užduotis.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "def llm_chat(system: str, user: str, max_new_tokens: int = 500, temperatūra: float = 0,3) -> str: messages = [ {\"role\": \"system\", \"content\": system.strip()}, {\"role\": \"user\", \"content\": user.strippt()} tokenizer.apply...",
+            "lokalus_reikalavimai": "Aptikta: cuda",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
+            "try_url": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/"
+          }
+        },
+        {
+          "title": "Kaip sukurti interaktyvias geografines informacijos suvestines naudojant „Folium“ su šilumos žemėlapiais, choropletais, laiko animacija, žymeklių grupavimu ir išplėstiniais interaktyviais papildiniais",
+          "link": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/",
+          "published_iso": "2026-02-27T23:56:00Z",
+          "published_lt": "2026-02-27 23:56 UTC",
+          "summary": "Šioje „Folium“ mokymo programoje sukuriame visą interaktyvių žemėlapių rinkinį, kuris veikia „Colab“ arba bet kurioje vietinėje „Python“ sąrankoje. Mes tyrinėjame kelis bazinių schemų stilius, kuriame turtingus žymeklius su HTML iššokančiaisiais langais ir vizualizuojame erdvinį tankį naudodami šilumos žemėlapius.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-28-03-kaip-sukurti-interaktyvias-geografines-informacijos-suve.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje „Folium“ mokymo programoje sukuriame visą interaktyvių žemėlapių rinkinį, kuris veikia „Colab“ arba bet kurioje vietinėje „Python“ sąrankoje.",
+            "Mes tyrinėjame kelis bazinių schemų stilius, kuriame turtingus žymeklius su HTML iššokančiaisiais langais ir vizualizuojame erdvinį tankį naudodami šilumos žemėlapius.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Kurkite interaktyvias geoerdvines informacijos suvestines naudodami „Folium“ su šilumos žemėlapiais, choropletais, laiko animacija, žymeklio klasterizavimu importuoti foliją iš folio importavimo papildinių iš folium.p...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/",
+            "try_url": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
+          }
+        },
+        {
+          "title": "„Sakana AI“ pristato „Doc-to-LoRA“ ir „Text-to-LoRA“: hipertinklus, kurie akimirksniu perkelia ilgus kontekstus ir pritaiko LLM naudojant „Zero-Shot“ natūralią kalbą",
+          "link": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/",
+          "published_iso": "2026-02-27T17:53:54Z",
+          "published_lt": "2026-02-27 17:53 UTC",
+          "summary": "Didžiųjų kalbų modelių (LLM) tinkinimas šiuo metu yra reikšmingas inžinerinis kompromisas tarp kontekstinio mokymosi (ICL) lankstumo ir kontekstinio distiliavimo (CD) arba prižiūrimo tikslaus derinimo (SFT) efektyvumo.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-9.45.25-AM-1-150x150.png",
+          "image_url": "generated-images/2026-02-28-04-sakana-ai-pristato-doc-to-lora-ir-text-to-lora-hipertink.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Didžiųjų kalbų modelių (LLM) tinkinimas šiuo metu yra reikšmingas inžinerinis kompromisas tarp kontekstinio mokymosi (ICL) lankstumo ir kontekstinio distiliavimo (CD) arba prižiūrimo tikslaus derinimo (SFT) efektyvumo."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "„Doc-to-LoRA“ ir „Text-to-LoRA“: hipertinklai, kurie akimirksniu įtraukia ilgus kontekstus ir pritaiko LLM naudojant „Zero-Shot“ natūralią kalbą AI kūrėjams pagrindinis standartinio LLM pritaikymo apribojimas yra papi...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/",
+            "try_url": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
+          }
+        },
+        {
+          "title": "Agentinio AI atnaujinimas, skirtas finansų darbo eigoms",
+          "link": "https://www.artificialintelligence-news.com/news/upgrading-agentic-ai-for-finance-workflows/",
+          "published_iso": "2026-02-27T13:15:38Z",
+          "published_lt": "2026-02-27 13:15 UTC",
+          "summary": "Šiandienos technologijų lyderių prioritetu tebėra pagrindinis finansinių darbų eigos pasitikėjimo agentiniu AI didinimas. Per pastaruosius dvejus metus įmonės suskubo įtraukti automatizuotus agentus į realias darbo eigas, apimančias klientų aptarnavimą ir biuro operacijas.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-28-05-agentinio-ai-atnaujinimas-skirtas-finansu-darbo-eigoms.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiandienos technologijų lyderių prioritetu tebėra pagrindinis finansinių darbų eigos pasitikėjimo agentiniu AI didinimas.",
+            "Per pastaruosius dvejus metus įmonės suskubo įtraukti automatizuotus agentus į realias darbo eigas, apimančias klientų aptarnavimą ir biuro operacijas.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+          }
+        },
+        {
+          "title": "Dėl prasto AI įdiegimo gali būti sumažinta darbo jėga",
+          "link": "https://www.artificialintelligence-news.com/news/ai-workflows-need-human-in-the-loop-say-datatonic/",
+          "published_iso": "2026-02-27T12:05:00Z",
+          "published_lt": "2026-02-27 12:05 UTC",
+          "summary": "Daugelis organizacijų ardo verslo pagrindus – produktyvumą, konkurencingumą ir efektyvumą. Remiantis debesų duomenimis ir dirbtinio intelekto konsultacijomis, Datatonic, taip nutinka dėl prasto žmogaus ir AI bendradarbiavimo įgyvendinimo.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-28-06-del-prasto-ai-idiegimo-gali-buti-sumazinta-darbo-jega.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Daugelis organizacijų ardo verslo pagrindus – produktyvumą, konkurencingumą ir efektyvumą.",
+            "Remiantis debesų duomenimis ir dirbtinio intelekto konsultacijomis, Datatonic, taip nutinka dėl prasto žmogaus ir AI bendradarbiavimo įgyvendinimo.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Tačiau kai kurie tyrimai rodo, kad kai kurios iniciatyvos tebėra bandomojoje stadijoje dėl riboto vartotojų pasitikėjimo.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+          }
+        },
+        {
+          "title": "„Goldman Sachs“ ir „Deutsche Bank“ išbando agentinį AI prekybos stebėjimui",
+          "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-and-deutsche-bank-test-agentic-ai-for-trade-surveillance/",
+          "published_iso": "2026-02-27T10:00:00Z",
+          "published_lt": "2026-02-27 10:00 UTC",
+          "summary": "Bankai išbando naujo tipo dirbtinį intelektą, pavyzdžiui, agentinį AI, kuris daro daugiau nei ieško raktinių žodžių ar laikosi iš anksto nustatytų taisyklių. Užuot pasikliavę tik statiniais perspėjimais, kai kurie prekybos centrai pradeda naudoti sistemas, sukurtas tam, kad mąstytų realiuoju laiku ir pažymėtų elgesį, kurį gali prireikti peržiūrėti.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-28-07-goldman-sachs-ir-deutsche-bank-isbando-agentini-ai-preky.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Bankai išbando naujo tipo dirbtinį intelektą, pavyzdžiui, agentinį AI, kuris daro daugiau nei ieško raktinių žodžių ar laikosi iš anksto nustatytų taisyklių.",
+            "Užuot pasikliavę tik statiniais perspėjimais, kai kurie prekybos centrai pradeda naudoti sistemas, sukurtas tam, kad mąstytų realiuoju laiku ir pažymėtų elgesį, kurį gali prireikti peržiūrėti."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+          }
+        },
+        {
+          "title": "ASML didelio NA EUV įrankiai atlaisvina naujos kartos AI lustų kilimo ir tūpimo taką",
+          "link": "https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/",
+          "published_iso": "2026-02-27T06:00:00Z",
+          "published_lt": "2026-02-27 06:00 UTC",
+          "summary": "Mašina, kuri leis sukurti rytojaus AI lustus, ką tik paskelbta paruošta masinei gamybai – ir oficialiai prasidėjo kito pramonės šuolio laikrodis.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-28-08-asml-didelio-na-euv-irankiai-atlaisvina-naujos-kartos-ai.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Mašina, kuri leis sukurti rytojaus AI lustus, ką tik paskelbta paruošta masinei gamybai – ir oficialiai prasidėjo kito pramonės šuolio laikrodis.",
+            "Kaina: Labiau panasu i mokama sprendima."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+          }
+        },
+        {
+          "title": "„Perplexity“ ką tik išleistas pplx įterpimas: nauji SOTA Qwen3 dvikrypčiai įterpimo modeliai, skirti žiniatinklio masto paieškos užduotims",
+          "link": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/",
+          "published_iso": "2026-02-27T04:01:41Z",
+          "published_lt": "2026-02-27 04:01 UTC",
+          "summary": "Perplexity išleido pplx-embed – daugiakalbių įterpimo modelių kolekciją, optimizuotą didelio masto paieškos užduotims atlikti. Šie modeliai skirti valdyti žiniatinklio masto duomenų triukšmą ir sudėtingumą, o tai yra gamybai paruošta alternatyva patentuotoms įterpimo API.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-8.01.04-PM-1-150x150.png",
+          "image_url": "generated-images/2026-02-28-09-perplexity-ka-tik-isleistas-pplx-iterpimas-nauji-sota-qw.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Perplexity išleido pplx-embed – daugiakalbių įterpimo modelių kolekciją, optimizuotą didelio masto paieškos užduotims atlikti.",
+            "Šie modeliai skirti valdyti žiniatinklio masto duomenų triukšmą ir sudėtingumą, o tai yra gamybai paruošta alternatyva patentuotoms įterpimo API.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Tai leidžia modeliui vienu metu apdoroti visus žetonus iš eilės, todėl gaunamas išsamesnis paslėptos būsenos vaizdas.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/",
+            "try_url": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/"
+          }
+        },
+        {
+          "title": "„Microsoft Research“ pristato CORPGEN, skirtą valdyti kelių horizontų užduotis autonominiams AI agentams, naudojantiems hierarchinį planavimą ir atmintį",
+          "link": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/",
+          "published_iso": "2026-02-27T00:32:08Z",
+          "published_lt": "2026-02-27 00:32 UTC",
+          "summary": "„Microsoft“ mokslininkai pristatė CORPGEN – architektūros agnostinę sistemą, skirtą realaus organizacinio darbo sudėtingumui valdyti pasitelkiant savarankiškus skaitmeninius darbuotojus.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-4.24.07-PM-150x150.png",
+          "image_url": "generated-images/2026-02-28-10-microsoft-research-pristato-corpgen-skirta-valdyti-keliu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Microsoft“ mokslininkai pristatė CORPGEN – architektūros agnostinę sistemą, skirtą realaus organizacinio darbo sudėtingumui valdyti pasitelkiant savarankiškus skaitmeninius darbuotojus.",
+            "Kaina: Labiau panasu i mokama sprendima."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/",
+            "try_url": "https://www.marktechpost.com/2026/02/26/microsoft-research-introduces-corpgen-to-manage-multi-horizon-tasks-for-autonomous-ai-agents-using-hierarchical-planning-and-memory/"
+          }
+        },
+        {
+          "title": "„Google“ ir Masačusetso AI centras pradeda naują AI mokymo iniciatyvą Sandraugai.",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+          "published_iso": "2026-02-26T18:55:00Z",
+          "published_lt": "2026-02-26 18:55 UTC",
+          "summary": "„Google“ bendradarbiauja su Masačusetso AI centru, kad kiekvienam „Baystater“ suteiktų nemokamą prieigą prie „Google“ AI mokymų.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-02-28-11-google-ir-masacusetso-ai-centras-pradeda-nauja-ai-mokymo.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google“ bendradarbiauja su Masačusetso AI centru, kad kiekvienam „Baystater“ suteiktų nemokamą prieigą prie „Google“ AI mokymų.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731"
+          }
+        },
+        {
+          "title": "„Google AI“ ką tik išleido „Nano-Banana 2“: naujas AI modelis, pasižymintis pažangiu dalyko nuoseklumu ir po sekundės 4K vaizdo sintezės našumu",
+          "link": "https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/",
+          "published_iso": "2026-02-26T18:04:53Z",
+          "published_lt": "2026-02-26 18:04 UTC",
+          "summary": "Eskaluojamose „mažesnio, greitesnio, pigesnio“ AI lenktynėse „Google“ tiesiog numetė didžiulę naudingąją apkrovą. Technologijų milžinas oficialiai pristatė „Nano-Banana 2“ (techniškai pavadintą „Gemini 3.1 Flash Image“).",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-02-28-12-google-ai-ka-tik-isleido-nano-banana-2-naujas-ai-modelis.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Eskaluojamose „mažesnio, greitesnio, pigesnio“ AI lenktynėse „Google“ tiesiog numetė didžiulę naudingąją apkrovą.",
+            "Technologijų milžinas oficialiai pristatė „Nano-Banana 2“ (techniškai pavadintą „Gemini 3.1 Flash Image“).",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/",
+            "try_url": "https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-02-27",
       "generated_at_utc": "2026-02-27T07:41:13Z",
