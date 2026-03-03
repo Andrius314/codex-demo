@@ -1,10 +1,144 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-03-02",
-  "generated_at_utc": "2026-03-02T07:44:25Z",
+  "digest_date": "2026-03-03",
+  "generated_at_utc": "2026-03-03T07:38:03Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Kodavimo vadovas, kaip sukurti keičiamo dydžio visapusišką analizės ir mašininio mokymosi vamzdyną milijonuose eilučių naudojant „Vaex“",
+      "link": "https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/",
+      "published_iso": "2026-03-03T03:23:03Z",
+      "published_lt": "2026-03-03 03:23 UTC",
+      "summary": "Šioje mokymo programoje mes suprojektuojame visapusišką gamybos stiliaus analizės ir modeliavimo dujotiekį naudodami „Vaex“, kad efektyviai veiktų milijonuose eilučių, neįtraukdami duomenų į atmintį.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-03-01-kodavimo-vadovas-kaip-sukurti-keiciamo-dydzio-visapusisk.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje mes suprojektuojame visapusišką gamybos stiliaus analizės ir modeliavimo dujotiekį naudodami „Vaex“, kad efektyviai veiktų milijonuose eilučių, neįtraukdami duomenų į atmintį.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "encoder = vaex.ml.LabelEncoder(features=[\"miestas\"]) df = encoder.fit_transform(df) city_map = encoder.labels_[\"miestas\"] inv_city_map = {v:k for k,v in city_map.items()} p_9 n_5bycome) = df.percentile_approx(\"pajamos...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/",
+        "try_url": "https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/"
+      }
+    },
+    {
+      "title": "„Alibaba“ ką tik išleido „Qwen 3.5 Small“ modelius: 0,8–9 B parametrų šeima, sukurta įrenginio programoms",
+      "link": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/",
+      "published_iso": "2026-03-03T02:21:07Z",
+      "published_lt": "2026-03-03 02:21 UTC",
+      "summary": "„Alibaba“ „Qwen“ komanda išleido „Qwen3.5 Small Model Series“ – didelių kalbų modelių (LLM), kurių parametrai svyruoja nuo 0,8B iki 9B, rinkinį.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-03-02-alibaba-ka-tik-isleido-qwen-3-5-small-modelius-0-8-9-b-p.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Alibaba“ „Qwen“ komanda išleido „Qwen3.5 Small Model Series“ – didelių kalbų modelių (LLM), kurių parametrai svyruoja nuo 0,8B iki 9B, rinkinį.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Šis natūralus metodas leidžia modeliui apdoroti vaizdinius ir tekstinius žetonus toje pačioje latentinėje erdvėje nuo ankstyvųjų mokymo etapų.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/",
+        "try_url": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/"
+      }
+    },
+    {
+      "title": "Susipažinkite su NullClaw: 678 KB Zig AI Agent Framework, veikiantis 1 MB RAM ir paleidžiamas per dvi milisekundes",
+      "link": "https://www.marktechpost.com/2026/03/02/meet-nullclaw-the-678-kb-zig-ai-agent-framework-running-on-1-mb-ram-and-booting-in-two-milliseconds/",
+      "published_iso": "2026-03-02T19:12:29Z",
+      "published_lt": "2026-03-02 19:12 UTC",
+      "summary": "Dabartinėje AI aplinkoje agentinės sistemos paprastai remiasi aukšto lygio valdomomis kalbomis, tokiomis kaip Python arba Go. Nors šios ekosistemos siūlo daug bibliotekų, jos sukuria daug papildomų išlaidų, susijusių su vykdymo laiku, virtualiomis mašinomis ir šiukšlių surinkėjais.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-03-03-susipazinkite-su-nullclaw-678-kb-zig-ai-agent-framework-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Dabartinėje AI aplinkoje agentinės sistemos paprastai remiasi aukšto lygio valdomomis kalbomis, tokiomis kaip Python arba Go.",
+        "Nors šios ekosistemos siūlo daug bibliotekų, jos sukuria daug papildomų išlaidų, susijusių su vykdymo laiku, virtualiomis mašinomis ir šiukšlių surinkėjais.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/02/meet-nullclaw-the-678-kb-zig-ai-agent-framework-running-on-1-mb-ram-and-booting-in-two-milliseconds/",
+        "try_url": "https://www.marktechpost.com/2026/03/02/meet-nullclaw-the-678-kb-zig-ai-agent-framework-running-on-1-mb-ram-and-booting-in-two-milliseconds/"
+      }
+    },
+    {
+      "title": "MWC 2026: „SK Telecom“ pateikia planą atkurti savo branduolį aplink AI",
+      "link": "https://www.artificialintelligence-news.com/news/mwc-2026-sk-telecom-lays-out-plan-to-rebuild-its-core-around-ai/",
+      "published_iso": "2026-03-02T10:00:00Z",
+      "published_lt": "2026-03-02 10:00 UTC",
+      "summary": "MWC 2026 Barselonoje „SK Telecom“ apibūdino, kaip ji atkuria dirbtinį intelektą – nuo ​​tinklo branduolio iki klientų aptarnavimo skyrių. Perėjimas neapsiriboja naujų AI įrankių pridėjimu.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-03-04-mwc-2026-sk-telecom-pateikia-plana-atkurti-savo-branduol.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "MWC 2026 Barselonoje „SK Telecom“ apibūdino, kaip ji atkuria dirbtinį intelektą – nuo ​​tinklo branduolio iki klientų aptarnavimo skyrių.",
+        "Perėjimas neapsiriboja naujų AI įrankių pridėjimu.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+      }
+    },
+    {
+      "title": "AI pritaikymas finansinėse paslaugose pasiekė negrįžtamą tašką",
+      "link": "https://www.artificialintelligence-news.com/news/ai-adoption-in-financial-services/",
+      "published_iso": "2026-03-02T10:00:00Z",
+      "published_lt": "2026-03-02 10:00 UTC",
+      "summary": "Dirbtinio intelekto pritaikymas finansinėse paslaugose iš tikrųjų tapo visuotinis, o institucijos, kurios vis dar laiko tai eksperimentu, dabar yra nuošalesnės.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-03-05-ai-pritaikymas-finansinese-paslaugose-pasieke-negriztama.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Dirbtinio intelekto pritaikymas finansinėse paslaugose iš tikrųjų tapo visuotinis, o institucijos, kurios vis dar laiko tai eksperimentu, dabar yra nuošalesnės.",
+        "Kaina: Labiau panasu i mokama sprendima."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.5"
+      }
+    },
     {
       "title": "„FireRedTeam“ išleido „FireRed-OCR-2B“, naudodamas GRPO, kad išspręstų struktūrines haliucinacijas lentelėse ir LaTeX programinės įrangos kūrėjams",
       "link": "https://www.marktechpost.com/2026/03/01/fireredteam-releases-firered-ocr-2b-utilizing-grpo-to-solve-structural-hallucinations-in-tables-and-latex-for-software-developers/",
@@ -13,7 +147,7 @@
       "summary": "Dokumentų skaitmeninimas jau seniai buvo kelių etapų problema: pirmiausia aptinkamas maketas, tada ištraukiamas tekstas ir galiausiai bandoma rekonstruoti struktūrą. Didelių matymo kalbos modelių (LVLM) atveju tai dažnai sukelia „struktūrines haliucinacijas“ – netvarkingas eilutes, sugalvotas formules arba neuždarą sintaksę.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-02-01-fireredteam-isleido-firered-ocr-2b-naudodamas-grpo-kad-i.svg",
+      "image_url": "generated-images/2026-03-03-06-fireredteam-isleido-firered-ocr-2b-naudodamas-grpo-kad-i.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -40,7 +174,7 @@
       "summary": "Šiame vadove mes sukuriame pažangų paaiškinamą AI analizės dujotiekį naudodami SHAP-IQ, kad suprastume funkcijų svarbą ir sąveikos efektus tiesiai mūsų Python aplinkoje.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-02-02-kaip-sukurti-paaiskinama-ai-analizes-vamzdyna-naudojant-.svg",
+      "image_url": "generated-images/2026-03-03-07-kaip-sukurti-paaiskinama-ai-analizes-vamzdyna-naudojant-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -60,18 +194,18 @@
       }
     },
     {
-      "title": "„Google AI“ pristato STATIC: retą matricos sistemą, užtikrinančią 948 kartus greitesnį suvaržytą dekodavimą, skirtą LLM pagrindu sukurtam generaciniam atkūrimui",
+      "title": "„Google AI“ pristato STATIC: nedidelę matricos sistemą, užtikrinančią 948 kartus greitesnį suvaržytą dekodavimą, skirtą LLM pagrindu sukurtam generaciniam atkūrimui",
       "link": "https://www.marktechpost.com/2026/03/01/google-ai-introduces-static-a-sparse-matrix-framework-delivering-948x-faster-constrained-decoding-for-llm-based-generative-retrieval/",
       "published_iso": "2026-03-01T21:47:04Z",
       "published_lt": "2026-03-01 21:47 UTC",
-      "summary": "Pramoninių rekomendacijų sistemose perėjimas prie generatyvaus paieškos (GR) pakeičia tradicinę įterpimu pagrįstą artimiausio kaimyno paiešką didelių kalbų modeliais (LLM). Šie modeliai vaizduoja elementus kaip semantinius ID (SID) – atskiras žetonų sekas, o gavimą traktuoja kaip autoregresinio dekodavimo užduotį.",
+      "summary": "Pramoninėse rekomendacijų sistemose perėjimas prie generatyvaus paieškos (GR) pakeičia tradicinę įterpimu pagrįstą artimiausio kaimyno paiešką didelių kalbų modeliais (LLM). Šie modeliai vaizduoja elementus kaip semantinius ID (SID) – atskiras žetonų sekas, o gavimą traktuoja kaip autoregresinio dekodavimo užduotį.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-01-at-1.41.07-PM-150x150.png",
-      "image_url": "generated-images/2026-03-02-03-google-ai-pristato-static-reta-matricos-sistema-uztikrin.svg",
+      "image_url": "generated-images/2026-03-03-08-google-ai-pristato-static-nedidele-matricos-sistema-uzti.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Pramoninių rekomendacijų sistemose perėjimas prie generatyvaus paieškos (GR) pakeičia tradicinę įterpimu pagrįstą artimiausio kaimyno paiešką didelių kalbų modeliais (LLM).",
+        "Pramoninėse rekomendacijų sistemose perėjimas prie generatyvaus paieškos (GR) pakeičia tradicinę įterpimu pagrįstą artimiausio kaimyno paiešką didelių kalbų modeliais (LLM).",
         "Šie modeliai vaizduoja elementus kaip semantinius ID (SID) – atskiras žetonų sekas, o gavimą traktuoja kaip autoregresinio dekodavimo užduotį.",
         "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
       ],
@@ -94,7 +228,7 @@
       "summary": "Šioje mokymo programoje sukuriame pažangią kelių agentų ryšio sistemą, naudodami struktūrizuotą pranešimų magistralės architektūrą, kurią palaiko „LangGraph“ ir „Pydantic“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-02-04-kaip-sukurti-gamybinio-lygio-keliu-agentu-komunikacijos-.svg",
+      "image_url": "generated-images/2026-03-03-09-kaip-sukurti-gamybinio-lygio-keliu-agentu-komunikacijos-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -105,7 +239,7 @@
         "kaina": "Labiau panasu i mokama sprendima.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "We implement three specialized agents, a […] !pip -q install -U \"pydantic==2.12.3\" !pip -q install -U langgraph langchain-core networkx matplotlib !pip -q install -U langgraph-checkpoint-sqlite import os import json i...",
+        "online_limitai": "Įdiegiame tris specializuotus agentus: […] !pip -q install -U \"pydantic==2.12.3\" !pip -q install -U langgraph langchain-core networkx matplotlib !pip -q install -U langgraph-checkpoint-sqlite import os import json imp...",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/01/how-to-design-a-production-grade-multi-agent-communication-system-using-langgraph-structured-message-bus-acp-logging-and-persistent-shared-state-architecture/",
@@ -113,14 +247,14 @@
       }
     },
     {
-      "title": "„Alibaba“ komandos atvirojo kodo „CoPaw“: didelio našumo asmeninio agento darbo stotis, skirta kūrėjams, siekiant išplėsti kelių kanalų AI darbo eigą ir atmintį",
+      "title": "„Alibaba Team“ atvirojo kodo „CoPaw“: didelio našumo asmeninio agento darbo stotis, skirta kūrėjams, siekiant išplėsti kelių kanalų AI darbo eigą ir atmintį",
       "link": "https://www.marktechpost.com/2026/03/01/alibaba-team-open-sources-copaw-a-high-performance-personal-agent-workstation-for-developers-to-scale-multi-channel-ai-workflows-and-memory/",
       "published_iso": "2026-03-01T10:03:56Z",
       "published_lt": "2026-03-01 10:03 UTC",
       "summary": "Pramonei pereinant nuo paprasto didelės kalbos modelio (LLM) išvadų prie autonominių agentų sistemų, kūrėjų iššūkiai pasikeitė. Tai jau ne tik modelis; kalbama apie aplinką, kurioje tas modelis veikia.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-02-05-alibaba-komandos-atvirojo-kodo-copaw-didelio-nasumo-asme.svg",
+      "image_url": "generated-images/2026-03-03-10-alibaba-team-atvirojo-kodo-copaw-didelio-nasumo-asmenini.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -141,32 +275,6 @@
       }
     },
     {
-      "title": "Išsamus kodavimo vadovas, skirtas MLflow eksperimentų stebėjimui, hiperparametrų optimizavimui, modelio įvertinimui ir tiesioginio modelio diegimui",
-      "link": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/",
-      "published_iso": "2026-03-01T09:16:26Z",
-      "published_lt": "2026-03-01 09:16 UTC",
-      "summary": "Šioje mokymo programoje mes sukuriame visą gamybos lygio ML eksperimentavimo ir diegimo darbo eigą naudodami MLflow. Pradedame nuo specialaus MLflow stebėjimo serverio paleidimo su struktūrine užpakaline programa ir artefaktų saugykla, leidžiančia stebėti eksperimentus keičiamo dydžio ir atkuriamu būdu.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-02-06-issamus-kodavimo-vadovas-skirtas-mlflow-eksperimentu-ste.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje mokymo programoje mes sukuriame visą gamybos lygio ML eksperimentavimo ir diegimo darbo eigą naudodami MLflow.",
-        "Pradedame nuo specialaus MLflow stebėjimo serverio paleidimo su struktūrine užpakaline programa ir artefaktų saugykla, leidžiančia stebėti eksperimentus keičiamo dydžio ir atkuriamu būdu."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Išsamus MLflow eksperimento stebėjimo, hiperparametrų optimizavimo, modelio įvertinimo ir tiesioginio modelio diegimo kodavimo vadovas !pip -q install \"mlflow>=3.0.0\" scikit-learn pandas numpy matplotlib užklausos imp...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/",
-        "try_url": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/"
-      }
-    },
-    {
       "title": "AI waifus realiuoju laiku, Qwen 3.5, nuolatinė atmintis, kelių žaidėjų žaidimas, nauji vaizdo modeliai: AI NAUJIENOS",
       "link": "https://www.youtube.com/watch?v=8grIT-xK50M",
       "published_iso": "2026-03-01T03:28:36Z",
@@ -174,7 +282,7 @@
       "summary": "DIDELĖS AI NAUJIENOS: Qwen 3.5, Solaris, Quiver Arrow 1.0, LavaSR, Doc to Lora ir dar daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Gamma.",
       "source": "AI Search",
       "source_image_url": "https://i1.ytimg.com/vi/8grIT-xK50M/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-02-07-ai-waifus-realiuoju-laiku-qwen-3-5-nuolatine-atmintis-ke.svg",
+      "image_url": "generated-images/2026-03-03-11-ai-waifus-realiuoju-laiku-qwen-3-5-nuolatine-atmintis-ke.svg",
       "kind": "video",
       "video_id": "8grIT-xK50M",
       "bullets_lt": [
@@ -192,112 +300,6 @@
       }
     },
     {
-      "title": "„Google DeepMind“ pristato vieningus latentus (UL): mašininio mokymosi sistemą, kuri bendrai sureguliuoja latentinius duomenis, naudojant difuzijos pirminį ir dekoderį",
-      "link": "https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/",
-      "published_iso": "2026-02-28T03:58:20Z",
-      "published_lt": "2026-02-28 03:58 UTC",
-      "summary": "Dabartinė „Generative AI“ trajektorija labai priklauso nuo latentinės difuzijos modelių (LDM), kad būtų galima valdyti didelės skiriamosios gebos sintezės skaičiavimo išlaidas. Suglaudinus duomenis į žemesnio matmens latentinę erdvę, modeliai gali efektyviai keisti mastelį.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-7.57.11-PM-150x150.png",
-      "image_url": "generated-images/2026-03-02-08-google-deepmind-pristato-vieningus-latentus-ul-masininio.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Dabartinė „Generative AI“ trajektorija labai priklauso nuo latentinės difuzijos modelių (LDM), kad būtų galima valdyti didelės skiriamosios gebos sintezės skaičiavimo išlaidas.",
-        "Suglaudinus duomenis į žemesnio matmens latentinę erdvę, modeliai gali efektyviai keisti mastelį."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/",
-        "try_url": "https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/"
-      }
-    },
-    {
-      "title": "Kodavimo įgyvendinimas, skirtas sukurti hierarchinio planavimo AI agentą, naudojant atvirojo kodo LLM su įrankių vykdymu ir struktūrizuotu kelių agentų samprotavimu",
-      "link": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
-      "published_iso": "2026-02-28T02:18:20Z",
-      "published_lt": "2026-02-28 02:18 UTC",
-      "summary": "Šioje mokymo programoje mes sukuriame hierarchinį planavimo agentą naudodami atvirojo kodo nurodymų modelį. Kuriame struktūrizuotą kelių agentų architektūrą, kurią sudaro planuotojo agentas, vykdytojo agentas ir agregatoriaus agentas, kur kiekvienas komponentas atlieka specializuotą vaidmenį sprendžiant sudėtingas užduotis.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-02-09-kodavimo-igyvendinimas-skirtas-sukurti-hierarchinio-plan.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje mokymo programoje mes sukuriame hierarchinį planavimo agentą naudodami atvirojo kodo nurodymų modelį.",
-        "Kuriame struktūrizuotą kelių agentų architektūrą, kurią sudaro planuotojo agentas, vykdytojo agentas ir agregatoriaus agentas, kur kiekvienas komponentas atlieka specializuotą vaidmenį sprendžiant sudėtingas užduotis.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "def llm_chat(system: str, user: str, max_new_tokens: int = 500, temperatūra: float = 0,3) -> str: messages = [ {\"role\": \"system\", \"content\": system.strip()}, {\"role\": \"user\", \"content\": user.strippt()} tokenizer.apply...",
-        "lokalus_reikalavimai": "Aptikta: cuda",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
-        "try_url": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/"
-      }
-    },
-    {
-      "title": "Kaip sukurti interaktyvias geografines informacijos suvestines naudojant „Folium“ su šilumos žemėlapiais, choropletais, laiko animacija, žymeklių grupavimu ir išplėstiniais interaktyviais papildiniais",
-      "link": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/",
-      "published_iso": "2026-02-27T23:56:00Z",
-      "published_lt": "2026-02-27 23:56 UTC",
-      "summary": "Šioje „Folium“ mokymo programoje sukuriame visą interaktyvių žemėlapių rinkinį, kuris veikia „Colab“ arba bet kurioje vietinėje „Python“ sąrankoje. Mes tyrinėjame kelis bazinių schemų stilius, kuriame turtingus žymeklius su HTML iššokančiaisiais langais ir vizualizuojame erdvinį tankį naudodami šilumos žemėlapius.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-02-10-kaip-sukurti-interaktyvias-geografines-informacijos-suve.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje „Folium“ mokymo programoje sukuriame visą interaktyvių žemėlapių rinkinį, kuris veikia „Colab“ arba bet kurioje vietinėje „Python“ sąrankoje.",
-        "Mes tyrinėjame kelis bazinių schemų stilius, kuriame turtingus žymeklius su HTML iššokančiaisiais langais ir vizualizuojame erdvinį tankį naudodami šilumos žemėlapius.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Kurkite interaktyvias geoerdvines informacijos suvestines naudodami „Folium“ su šilumos žemėlapiais, choropletais, laiko animacija, žymeklio klasterizavimu importuoti foliją iš folio importavimo papildinių iš folium.p...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/",
-        "try_url": "https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/"
-      }
-    },
-    {
-      "title": "„Sakana AI“ pristato „Doc-to-LoRA“ ir „Text-to-LoRA“: hipertinklus, kurie akimirksniu perkelia ilgus kontekstus ir pritaiko LLM naudojant „Zero-Shot“ natūralią kalbą",
-      "link": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/",
-      "published_iso": "2026-02-27T17:53:54Z",
-      "published_lt": "2026-02-27 17:53 UTC",
-      "summary": "Didelių kalbų modelių (LLM) tinkinimas šiuo metu yra reikšmingas inžinerinis kompromisas tarp kontekstinio mokymosi (ICL) lankstumo ir kontekstinio distiliavimo (CD) arba prižiūrimo tikslaus derinimo (SFT) efektyvumo.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-9.45.25-AM-1-150x150.png",
-      "image_url": "generated-images/2026-03-02-11-sakana-ai-pristato-doc-to-lora-ir-text-to-lora-hipertink.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Didelių kalbų modelių (LLM) tinkinimas šiuo metu yra reikšmingas inžinerinis kompromisas tarp kontekstinio mokymosi (ICL) lankstumo ir kontekstinio distiliavimo (CD) arba prižiūrimo tikslaus derinimo (SFT) efektyvumo."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "„Doc-to-LoRA“ ir „Text-to-LoRA“: hipertinklai, kurie akimirksniu įtraukia ilgus kontekstus ir pritaiko LLM naudojant „Zero-Shot“ natūralią kalbą AI kūrėjams pagrindinis standartinio LLM pritaikymo apribojimas yra papi...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/",
-        "try_url": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/"
-      }
-    },
-    {
       "title": "OpenClaw kūrėjo Peterio Steinbergerio patarimai kūrėjams",
       "link": "https://www.youtube.com/shorts/-RDPAPjDnp8",
       "published_iso": "2026-02-24T18:00:07Z",
@@ -305,7 +307,7 @@
       "summary": "Žiūrėkite visą seriją: https://www.youtube.com/watch?v=9jgcT0Fqt7U",
       "source": "OpenAI",
       "source_image_url": "https://i2.ytimg.com/vi/-RDPAPjDnp8/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-02-12-openclaw-kurejo-peterio-steinbergerio-patarimai-kurejams.svg",
+      "image_url": "generated-images/2026-03-03-12-openclaw-kurejo-peterio-steinbergerio-patarimai-kurejams.svg",
       "kind": "video",
       "video_id": "-RDPAPjDnp8",
       "bullets_lt": [
