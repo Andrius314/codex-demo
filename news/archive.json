@@ -1,7 +1,344 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-03-07T07:24:15Z",
+  "updated_at_utc": "2026-03-08T07:27:10Z",
   "digests": [
+    {
+      "digest_date": "2026-03-08",
+      "generated_at_utc": "2026-03-08T07:27:10Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "Naujos kartos agentinio AI kūrimas: visa kognityvinių planų valdomų vykdymo agentų sistema su atminties įrankiais ir patvirtinimu",
+          "link": "https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/",
+          "published_iso": "2026-03-08T06:46:10Z",
+          "published_lt": "2026-03-08 06:46 UTC",
+          "summary": "Šiame vadove mes sukuriame visą pažinimo planą ir vykdymo agento sistemą. Mes apibrėžiame struktūrinius tapatybės, tikslų, planavimo, atminties, patvirtinimo ir įrankių prieigos planus ir naudojame juos kurdami agentus, kurie ne tik reaguoja, bet ir planuoja, vykdo, patvirtina ir sistemingai tobulina savo rezultatus.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-08-01-naujos-kartos-agentinio-ai-kurimas-visa-kognityviniu-pla.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove mes sukuriame visą pažinimo planą ir vykdymo agento sistemą.",
+            "Mes apibrėžiame struktūrinius tapatybės, tikslų, planavimo, atminties, patvirtinimo ir įrankių prieigos planus ir naudojame juos kurdami agentus, kurie ne tik reaguoja, bet ir planuoja, vykdo, patvirtina ir sistemingai tobulina savo rezultatus.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/",
+            "try_url": "https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/"
+          }
+        },
+        {
+          "title": "Kaip sukurti pažangos stebėjimą naudojant išplėstinį tqdm async, lygiagrečiai, pandai, registravimo ir didelio našumo darbo eigoms",
+          "link": "https://www.marktechpost.com/2026/03/07/how-to-build-progress-monitoring-using-advanced-tqdm-for-async-parallel-pandas-logging-and-high-performance-workflows/",
+          "published_iso": "2026-03-08T04:18:22Z",
+          "published_lt": "2026-03-08 04:18 UTC",
+          "summary": "Šiame vadove mes nuodugniai tyrinėjame tqdm ir parodome, kaip sukuriame galingą pažangos stebėjimą realiuoju laiku šiuolaikinėse Python darbo eigose.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-08-02-kaip-sukurti-pazangos-stebejima-naudojant-isplestini-tqd.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove mes nuodugniai tyrinėjame tqdm ir parodome, kaip sukuriame galingą pažangos stebėjimą realiuoju laiku šiuolaikinėse Python darbo eigose.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "!pip -q install -U tqdm importavimo laikas, matematika, atsitiktinis, asyncio, hashlib, registravimas importuoti pandas kaip pd importavimo užklausas iš tqdm.auto importuoti tqdm, trange iš tqdm.contrib.concurrent imp...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/07/how-to-build-progress-monitoring-using-advanced-tqdm-for-async-parallel-pandas-logging-and-high-performance-workflows/",
+            "try_url": "https://www.marktechpost.com/2026/03/07/how-to-build-progress-monitoring-using-advanced-tqdm-for-async-parallel-pandas-logging-and-high-performance-workflows/"
+          }
+        },
+        {
+          "title": "Naujasis Yann LeCun AI dokumentas teigia, kad AGI yra neteisingai apibrėžtas ir vietoj to pristatomas superžmogiškas prisitaikantis intelektas (SAI)",
+          "link": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/",
+          "published_iso": "2026-03-08T03:57:57Z",
+          "published_lt": "2026-03-08 03:57 UTC",
+          "summary": "Ką daryti, jei AI pramonė optimizuoja tikslą, kurio negalima aiškiai apibrėžti ar patikimai išmatuoti? Tai yra pagrindinis argumentas naujame Yann LeCun ir jo komandos straipsnyje, kuriame teigiama, kad dirbtinis bendrasis intelektas tapo perkrautu terminu, nenuosekliai vartojamu akademinėje bendruomenėje ir pramonėje.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-08-03-naujasis-yann-lecun-ai-dokumentas-teigia-kad-agi-yra-net.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Ką daryti, jei AI pramonė optimizuoja tikslą, kurio negalima aiškiai apibrėžti ar patikimai išmatuoti?",
+            "Tai yra pagrindinis argumentas naujame Yann LeCun ir jo komandos straipsnyje, kuriame teigiama, kad dirbtinis bendrasis intelektas tapo perkrautu terminu, nenuosekliai vartojamu akademinėje bendruomenėje ir pramonėje.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Tačiau už šio diapazono ribų žmogaus gebėjimai yra riboti, ir daugeliu atvejų mašinos jau pranoksta mus.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/",
+            "try_url": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/"
+          }
+        },
+        {
+          "title": "Kaip naujasis „DeepMind“ AI numato tai, ko jis negali matyti",
+          "link": "https://www.youtube.com/watch?v=ssbHkYB0jYM",
+          "published_iso": "2026-03-07T14:42:18Z",
+          "published_lt": "2026-03-07 14:42 UTC",
+          "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://d4rt-paper.github.io/ Mūsų Gauso medžiagų sintezės dokumentas: https://users.cg.tuwien.ac.at/zsolnai/gfx/gaussynet: https://x.com/GoogleDeepMind/status/201435280842680752",
+          "source": "Two Minute Papers",
+          "source_image_url": "https://i4.ytimg.com/vi/ssbHkYB0jYM/hqdefault.jpg",
+          "image_url": "generated-images/2026-03-08-04-kaip-naujasis-deepmind-ai-numato-tai-ko-jis-negali-matyt.svg",
+          "kind": "video",
+          "video_id": "ssbHkYB0jYM",
+          "bullets_lt": [
+            "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://d4rt-paper.github.io/ Mūsų Gauso medžiagų sintezės dokumentas: https://users.cg.tuwien.ac.at/zsolnai/gfx/gaussynet: https://x.com/GoogleDeepMind/status/201435280842680752.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=ssbHkYB0jYM",
+            "try_url": "https://www.youtube.com/watch?v=ssbHkYB0jYM"
+          }
+        },
+        {
+          "title": "„Google“ pristato „TensorFlow 2.21“ ir „LiteRT“: greitesnis GPU našumas, naujas NPU pagreitis ir sklandūs „PyTorch Edge“ diegimo naujinimai",
+          "link": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/",
+          "published_iso": "2026-03-07T04:32:53Z",
+          "published_lt": "2026-03-07 04:32 UTC",
+          "summary": "„Google“ oficialiai išleido „TensorFlow 2.21“. Svarbiausias šio leidimo atnaujinimas yra „LiteRT“ perkėlimas iš peržiūros etapo į visiškai paruoštą gamybai. „LiteRT“ yra universali įrenginio išvadų sistema, oficialiai pakeičianti „TensorFlow Lite“ (TFLite).",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-08-05-google-pristato-tensorflow-2-21-ir-litert-greitesnis-gpu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google“ oficialiai išleido „TensorFlow 2.21“.",
+            "Svarbiausias šio leidimo atnaujinimas yra „LiteRT“ perkėlimas iš peržiūros etapo į visiškai paruoštą gamybai.",
+            "„LiteRT“ yra universali įrenginio išvadų sistema, oficialiai pakeičianti „TensorFlow Lite“ (TFLite).",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Svarbiausias šio leidimo atnaujinimas yra „LiteRT“ perkėlimas iš peržiūros etapo į visiškai paruoštą gamybai.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/",
+            "try_url": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/"
+          }
+        },
+        {
+          "title": "„Microsoft“ išleido „Phi-4-Reasoning-Vision-15B“: kompaktišką daugiarūšį matematikos, gamtos mokslų ir GUI supratimo modelį",
+          "link": "https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/",
+          "published_iso": "2026-03-06T23:53:26Z",
+          "published_lt": "2026-03-06 23:53 UTC",
+          "summary": "„Microsoft“ išleido Phi-4-reasoning-vision-15B – 15 milijardų parametrų atvirojo svorio daugiarūšio samprotavimo modelį, skirtą vaizdo ir teksto užduotims, kurioms reikalingas suvokimas ir atrankinis samprotavimas.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-06-at-3.45.47-PM-150x150.png",
+          "image_url": "generated-images/2026-03-08-06-microsoft-isleido-phi-4-reasoning-vision-15b-kompaktiska.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Microsoft“ išleido Phi-4-reasoning-vision-15B – 15 milijardų parametrų atvirojo svorio daugiarūšio samprotavimo modelį, skirtą vaizdo ir teksto užduotims, kurioms reikalingas suvokimas ir atrankinis samprotavimas.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Šioje sąrankoje regos koduotuvas pirmiausia konvertuoja vaizdus į vaizdinius prieigos raktus, tada tie atpažinimo ženklai projektuojami į kalbos modelį įterpiant erdvę ir apdorojami iš anksto parengtu kalbos modeliu.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/",
+            "try_url": "https://www.marktechpost.com/2026/03/06/microsoft-releases-phi-4-reasoning-vision-15b-a-compact-multimodal-model-for-math-science-and-gui-understanding/"
+          }
+        },
+        {
+          "title": "Gamybos stiliaus „NetworKit 11.2.1“ kodavimo pamoka, skirta didelio masto grafikų analizei, bendruomenėms, branduoliams ir išskaidymui",
+          "link": "https://www.marktechpost.com/2026/03/06/a-production-style-networkit-11-2-1-coding-tutorial-for-large-scale-graph-analytics-communities-cores-and-sparsification/",
+          "published_iso": "2026-03-06T23:20:23Z",
+          "published_lt": "2026-03-06 23:20 UTC",
+          "summary": "Šioje mokymo programoje įdiegiame gamybinio lygio didelio masto grafikų analizės dujotiekį „NetworKit“, daugiausia dėmesio skiriant greičiui, atminties efektyvumui ir versijos saugioms API „NetworKit 11.2.1“.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-08-07-gamybos-stiliaus-networkit-11-2-1-kodavimo-pamoka-skirta.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje įdiegiame gamybinio lygio didelio masto grafikų analizės dujotiekį „NetworKit“, daugiausia dėmesio skiriant greičiui, atminties efektyvumui ir versijos saugioms API „NetworKit 11.2.1“.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/06/a-production-style-networkit-11-2-1-coding-tutorial-for-large-scale-graph-analytics-communities-cores-and-sparsification/",
+            "try_url": "https://www.marktechpost.com/2026/03/06/a-production-style-networkit-11-2-1-coding-tutorial-for-large-scale-graph-analytics-communities-cores-and-sparsification/"
+          }
+        },
+        {
+          "title": "SUKONSTATAU PILNAI AUTOMATINIS MANPLAINER",
+          "link": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+          "published_iso": "2026-03-06T22:07:33Z",
+          "published_lt": "2026-03-06 22:07 UTC",
+          "summary": "Visą informaciją apie GTC ir DGX Spark Raffle rasite čia: https://www.ykilcher.com/gtc Nuorodos: Pagrindinis puslapis: https://ykilcher.com Prekės: https://ykilcher.com/merch YouTube: https://www.youtube.com/c/yannickilcher Twitter: https://twitter.com/ykilcher Discord: https://ykilcher.com/discord: https://ykilcher.com/.",
+          "source": "Yannic Kilcher",
+          "source_image_url": "https://i1.ytimg.com/vi/xHi8PUIVyoo/hqdefault.jpg",
+          "image_url": "generated-images/2026-03-08-08-sukonstatau-pilnai-automatinis-manplainer.svg",
+          "kind": "video",
+          "video_id": "xHi8PUIVyoo",
+          "bullets_lt": [
+            "Visą informaciją apie GTC ir DGX Spark Raffle rasite čia: https://www.ykilcher.com/gtc Nuorodos: Pagrindinis puslapis: https://ykilcher.com Prekės: https://ykilcher.com/merch YouTube: https://www.youtube.com/c/yannickilcher Twitter: https://twitter.com/ykilcher Discord: https://ykilcher.com/discord: https://ykilcher.com/.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=xHi8PUIVyoo",
+            "try_url": "https://www.youtube.com/watch?v=xHi8PUIVyoo"
+          }
+        },
+        {
+          "title": "„OpenAI“ pristato Codex Security tyrimų peržiūroje, skirtoje kontekstą suvokiančio pažeidžiamumo aptikimui, patvirtinimui ir pataisų generavimui įvairiose kodų bazėse",
+          "link": "https://www.marktechpost.com/2026/03/06/openai-introduces-codex-security-in-research-preview-for-context-aware-vulnerability-detection-validation-and-patch-generation-across-codebases/",
+          "published_iso": "2026-03-06T20:49:07Z",
+          "published_lt": "2026-03-06 20:49 UTC",
+          "summary": "OpenAI pristatė Codex Security – programų saugos agentą, kuris analizuoja kodų bazę, patvirtina galimus pažeidžiamumus ir siūlo pataisymus, kuriuos kūrėjai gali peržiūrėti prieš pataisydami. Dabar produktas pristatomas kaip tyrimų peržiūra ChatGPT Enterprise, Business ir Edu klientams per Codex žiniatinklį.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-21.png",
+          "image_url": "generated-images/2026-03-08-09-openai-pristato-codex-security-tyrimu-perziuroje-skirtoj.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "OpenAI pristatė Codex Security – programų saugos agentą, kuris analizuoja kodų bazę, patvirtina galimus pažeidžiamumus ir siūlo pataisymus, kuriuos kūrėjai gali peržiūrėti prieš pataisydami.",
+            "Dabar produktas pristatomas kaip tyrimų peržiūra ChatGPT Enterprise, Business ir Edu klientams per Codex žiniatinklį.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "„OpenAI“ pristato „Codex Security“ tyrimų peržiūrą, skirtą konteksto pažeidžiamumo aptikimui ir pataisų generavimui visose kodų bazėse Naujienų centro naujienų centro „Premium“ turinys Skaitykite mūsų išskirtinius str...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/06/openai-introduces-codex-security-in-research-preview-for-context-aware-vulnerability-detection-validation-and-patch-generation-across-codebases/",
+            "try_url": "https://www.marktechpost.com/2026/03/06/openai-introduces-codex-security-in-research-preview-for-context-aware-vulnerability-detection-validation-and-patch-generation-across-codebases/"
+          }
+        },
+        {
+          "title": "„Google AI“ išleido „Android Bench“: „Android“ kūrimo LLM vertinimo sistemą ir lyderių lentelę",
+          "link": "https://www.marktechpost.com/2026/03/06/google-ai-releases-android-bench-an-evaluation-framework-and-leaderboard-for-llms-in-android-development/",
+          "published_iso": "2026-03-06T19:53:05Z",
+          "published_lt": "2026-03-06 19:53 UTC",
+          "summary": "„Google“ oficialiai išleido „Android Bench“ – naują pirmaujančiųjų sąrašo ir vertinimo sistemą, skirtą įvertinti, kaip didelių kalbų modeliai (LLM) atlieka būtent „Android“ kūrimo užduotis. Duomenų rinkinys, metodika ir bandymų rinkinys buvo sukurti atvirojo kodo ir yra viešai prieinami „GitHub“.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-08-10-google-ai-isleido-android-bench-android-kurimo-llm-verti.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google“ oficialiai išleido „Android Bench“ – naują pirmaujančiųjų sąrašo ir vertinimo sistemą, skirtą įvertinti, kaip didelių kalbų modeliai (LLM) atlieka būtent „Android“ kūrimo užduotis.",
+            "Duomenų rinkinys, metodika ir bandymų rinkinys buvo sukurti atvirojo kodo ir yra viešai prieinami „GitHub“.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/06/google-ai-releases-android-bench-an-evaluation-framework-and-leaderboard-for-llms-in-android-development/",
+            "try_url": "https://www.marktechpost.com/2026/03/06/google-ai-releases-android-bench-an-evaluation-framework-and-leaderboard-for-llms-in-android-development/"
+          }
+        },
+        {
+          "title": "Kaip mūsų atvirojo kodo AI modelis SpeciesNet padeda skatinti laukinės gamtos apsaugą",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+          "published_iso": "2026-03-06T18:00:00Z",
+          "published_lt": "2026-03-06 18:00 UTC",
+          "summary": "„SpeciesNet“ – mūsų atvirojo kodo AI modelio, padedančio žmonėms visame pasaulyje apsaugoti ir tausoti laukinę gamtą – apžvalga.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/specieshero_v2.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-03-08-11-kaip-musu-atvirojo-kodo-ai-modelis-speciesnet-padeda-ska.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„SpeciesNet“ – mūsų atvirojo kodo AI modelio, padedančio žmonėms visame pasaulyje apsaugoti ir tausoti laukinę gamtą – apžvalga.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260219-1731"
+          }
+        },
+        {
+          "title": "Išmaniosios automatikos mastelio keitimas nepažeidžiant tiesioginės darbo eigos",
+          "link": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/",
+          "published_iso": "2026-03-06T13:15:41Z",
+          "published_lt": "2026-03-06 13:15 UTC",
+          "summary": "Išmaniosios automatikos mastelio keitimas be trikdžių reikalauja sutelkti dėmesį į architektūrinį elastingumą, o ne tik diegti daugiau robotų. Pažangiosios automatikos konferencijoje pramonės lyderiai susirinko išnagrinėti, kodėl daugelis automatizavimo iniciatyvų stringa po bandomųjų etapų.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-08-12-ismaniosios-automatikos-mastelio-keitimas-nepazeidziant-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Išmaniosios automatikos mastelio keitimas be trikdžių reikalauja sutelkti dėmesį į architektūrinį elastingumą, o ne tik diegti daugiau robotų.",
+            "Pažangiosios automatikos konferencijoje pramonės lyderiai susirinko išnagrinėti, kodėl daugelis automatizavimo iniciatyvų stringa po bandomųjų etapų."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.6",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.6"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-03-07",
       "generated_at_utc": "2026-03-07T07:24:15Z",
