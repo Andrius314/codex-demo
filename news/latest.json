@@ -1,10 +1,147 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-03-12",
-  "generated_at_utc": "2026-03-12T07:41:54Z",
+  "digest_date": "2026-03-13",
+  "generated_at_utc": "2026-03-13T07:40:47Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Matrica ateina...",
+      "link": "https://www.youtube.com/watch?v=ZqRtR6Z2U6U",
+      "published_iso": "2026-03-13T02:21:26Z",
+      "published_lt": "2026-03-13 02:21 UTC",
+      "summary": "Žmogaus neuronų augimas, norint žaisti vaizdo žaidimus. #ai #ainews #agi Ačiū mūsų rėmėjui Manus. Naudokite mano nuorodą, kad gautumėte 1000 nemokamų kreditų: https://manus.im/redeem?c=A1SG12D5 0:00 Dabartinio AI būklė 1:17 Kodėl smegenų lustai?",
+      "source": "AI Search",
+      "source_image_url": "https://i3.ytimg.com/vi/ZqRtR6Z2U6U/hqdefault.jpg",
+      "image_url": "generated-images/2026-03-13-01-matrica-ateina.svg",
+      "kind": "video",
+      "video_id": "ZqRtR6Z2U6U",
+      "bullets_lt": [
+        "Žmogaus neuronų augimas, norint žaisti vaizdo žaidimus.",
+        "#ai #ainews #agi Ačiū mūsų rėmėjui Manus.",
+        "Naudokite mano nuorodą, kad gautumėte 1000 nemokamų kreditų: https://manus.im/redeem?c=A1SG12D5 0:00 Dabartinio AI būklė 1:17 Kodėl smegenų lustai?",
+        "Kaina: Yra nemokamas ir mokamas variantas."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=ZqRtR6Z2U6U",
+        "try_url": "https://www.youtube.com/watch?v=ZqRtR6Z2U6U"
+      }
+    },
+    {
+      "title": "Kaip sukurti savarankišką mašininio mokymosi tyrimų kilpą „Google Colab“, naudojant Andrej Karpathy automatinio tyrimo sistemą, skirtą hiperparametrų atradimui ir eksperimentų stebėjimui",
+      "link": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/",
+      "published_iso": "2026-03-12T22:46:41Z",
+      "published_lt": "2026-03-12 22:46 UTC",
+      "summary": "Šioje mokymo programoje įdiegiame „Colab“ paruoštą „AutoResearch“ sistemos versiją, kurią iš pradžių pasiūlė Andrejus Karpathy.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-13-02-kaip-sukurti-savarankiska-masininio-mokymosi-tyrimu-kilp.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje įdiegiame „Colab“ paruoštą „AutoResearch“ sistemos versiją, kurią iš pradžių pasiūlė Andrejus Karpathy.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "importuoti os, sys, subprocess, json, re, atsitiktinis, shutil, laikas iš pathlib importo Kelias def pip_install(pkg): subprocess.check_call([sys.executable, \"-m\", \"pip\", \"install\", \"-q\", pkg]) for pkg in [ \"numpy\", \"...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/",
+        "try_url": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
+      }
+    },
+    {
+      "title": "Stanfordo mokslininkai išleido „OpenJarvis“: pirmąją vietinę sistemą, skirtą asmeniniams AI agentams įrenginyje kurti su įrankiais, atmintimi ir mokymusi",
+      "link": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+      "published_iso": "2026-03-12T21:21:04Z",
+      "published_lt": "2026-03-12 21:21 UTC",
+      "summary": "Stanfordo mokslininkai pristatė OpenJarvis – atvirojo kodo sistemą, skirtą asmeniniams AI agentams, kurie veikia tik įrenginyje, kurti. Projektas sukurtas iš Stanfordo Scaling Intelligence Lab ir pristatomas kaip tyrimų platforma ir diegimui paruošta infrastruktūra vietinėms AI sistemoms.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-12-at-2.19.48-PM-1-150x150.png",
+      "image_url": "generated-images/2026-03-13-03-stanfordo-mokslininkai-isleido-openjarvis-pirmaja-vietin.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Stanfordo mokslininkai pristatė OpenJarvis – atvirojo kodo sistemą, skirtą asmeniniams AI agentams, kurie veikia tik įrenginyje, kurti.",
+        "Projektas sukurtas iš Stanfordo Scaling Intelligence Lab ir pristatomas kaip tyrimų platforma ir diegimui paruošta infrastruktūra vietinėms AI sistemoms.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Šis dizainas kelia susirūpinimą dėl delsos, pasikartojančių išlaidų ir duomenų eksponavimo, ypač padėjėjams / agentams, kurie dirba per asmeninius failus, pranešimus ir nuolatinį vartotojo kontekstą.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+        "try_url": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/"
+      }
+    },
+    {
+      "title": "Šis fizikos proveržis atrodo neįmanomas",
+      "link": "https://www.youtube.com/watch?v=RDQ4vHAPNls",
+      "published_iso": "2026-03-12T18:16:27Z",
+      "published_lt": "2026-03-12 18:16 UTC",
+      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį galite rasti čia: https://xuan-li.github.io/pdf/publications/li2024dynamicduo.pdf Šaltiniai: https://www.youtube.com/watch?v=CfEg7fucVYg Mūsų noras, kad mus palaikytų: https://www.patreon.com/TwoMinutePapers 🙏 Norėtume",
+      "source": "Two Minute Papers",
+      "source_image_url": "https://i3.ytimg.com/vi/RDQ4vHAPNls/hqdefault.jpg",
+      "image_url": "generated-images/2026-03-13-04-sis-fizikos-proverzis-atrodo-neimanomas.svg",
+      "kind": "video",
+      "video_id": "RDQ4vHAPNls",
+      "bullets_lt": [
+        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį galite rasti čia: https://xuan-li.github.io/pdf/publications/li2024dynamicduo.pdf Šaltiniai: https://www.youtube.com/watch?v=CfEg7fucVYg Mūsų noras, kad mus palaikytų: https://www.patreon.com/TwoMinutePapers 🙏 Norėtume.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=RDQ4vHAPNls",
+        "try_url": "https://www.youtube.com/watch?v=RDQ4vHAPNls"
+      }
+    },
+    {
+      "title": "Kaip kelių agentų AI ekonomika įtakoja verslo automatizavimą",
+      "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
+      "published_iso": "2026-03-12T15:01:20Z",
+      "published_lt": "2026-03-12 15:01 UTC",
+      "summary": "Kelių agentų dirbtinio intelekto ekonomikos valdymas dabar lemia šiuolaikinių verslo automatizavimo darbo eigos finansinį gyvybingumą. Organizacijos, peržengiančios standartines pokalbių sąsajas į kelių agentų programas, susiduria su dviem pagrindiniais apribojimais.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-13-05-kaip-keliu-agentu-ai-ekonomika-itakoja-verslo-automatiza.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Kelių agentų dirbtinio intelekto ekonomikos valdymas dabar lemia šiuolaikinių verslo automatizavimo darbo eigos finansinį gyvybingumą.",
+        "Organizacijos, peržengiančios standartines pokalbių sąsajas į kelių agentų programas, susiduria su dviem pagrindiniais apribojimais.",
+        "Kaina: Labiau panasu i mokama sprendima."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Konteksto sprogimas veikia kaip antroji kliūtis; Šios išplėstinės darbo eigos sukuria iki 1500 procentų daugiau žetonų nei standartiniai formatai, nes kiekviena sąveika reikalauja iš naujo siųsti visą sistemos istorij...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
+      }
+    },
     {
       "title": "Kaip AI padeda pagerinti širdies sveikatą Australijos kaime",
       "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
@@ -13,7 +150,7 @@
       "summary": "Nauja Google AI iniciatyva siekiama pagerinti žmonių, gyvenančių atokiose Australijos bendruomenėse, širdies sveikatos rezultatus.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIHealth_v2_2096x1182_02.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-03-12-01-kaip-ai-padeda-pagerinti-sirdies-sveikata-australijos-ka.svg",
+      "image_url": "generated-images/2026-03-13-06-kaip-ai-padeda-pagerinti-sirdies-sveikata-australijos-ka.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -32,18 +169,45 @@
       }
     },
     {
+      "title": "FIFA atkuria pasaulio futbolo operacijas naudojant dirbtinį intelektą. Pasaulio čempionatas – tik pirmasis išbandymas",
+      "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
+      "published_iso": "2026-03-12T08:00:00Z",
+      "published_lt": "2026-03-12 08:00 UTC",
+      "summary": "Kai Romy Gai, FIFA vyriausiasis verslo pareigūnas, apibūdino operatyvinį iššūkį surengti 48 komandų pasaulio čempionatą Kanadoje, Meksikoje ir JAV, jis nekalbėjo apie technologijas. Jis kalbėjo apie sudėtingumą.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-13-07-fifa-atkuria-pasaulio-futbolo-operacijas-naudojant-dirbt.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Kai Romy Gai, FIFA vyriausiasis verslo pareigūnas, apibūdino operatyvinį iššūkį surengti 48 komandų pasaulio čempionatą Kanadoje, Meksikoje ir JAV, jis nekalbėjo apie technologijas.",
+        "Jis kalbėjo apie sudėtingumą.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
+      }
+    },
+    {
       "title": "Kaip sukurti srautinio perdavimo sprendimų agentą su daliniu samprotavimu, perplanavimu internetu ir reaktyviu vidutinio vykdymo pritaikymu dinaminėje aplinkoje",
       "link": "https://www.marktechpost.com/2026/03/11/how-to-design-a-streaming-decision-agent-with-partial-reasoning-online-replanning-and-reactive-mid-execution-adaptation-in-dynamic-environments/",
       "published_iso": "2026-03-11T23:44:44Z",
       "published_lt": "2026-03-11 23:44 UTC",
-      "summary": "Šioje mokymo programoje mes sukuriame srautinio perdavimo sprendimų agentą, kuris mąsto ir veikia internetinėje, besikeičiančioje aplinkoje, nuolat perduodamas saugius, dalinius motyvus pagrįstus naujinius.",
+      "summary": "Šioje mokymo programoje sukuriame srautinio perdavimo sprendimų agentą, kuris mąsto ir veikia internetinėje, kintančioje aplinkoje, nuolat perduodamas saugius, dalinius argumentų atnaujinimus.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-12-02-kaip-sukurti-srautinio-perdavimo-sprendimu-agenta-su-dal.svg",
+      "image_url": "generated-images/2026-03-13-08-kaip-sukurti-srautinio-perdavimo-sprendimu-agenta-su-dal.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Šioje mokymo programoje mes sukuriame srautinio perdavimo sprendimų agentą, kuris mąsto ir veikia internetinėje, besikeičiančioje aplinkoje, nuolat perduodamas saugius, dalinius motyvus pagrįstus naujinius.",
+        "Šioje mokymo programoje sukuriame srautinio perdavimo sprendimų agentą, kuris mąsto ir veikia internetinėje, kintančioje aplinkoje, nuolat perduodamas saugius, dalinius argumentų atnaujinimus.",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Veikia tiek online, tiek lokaliai."
       ],
@@ -63,16 +227,16 @@
       "link": "https://www.youtube.com/watch?v=gZQQR_tDGuM",
       "published_iso": "2026-03-11T20:11:20Z",
       "published_lt": "2026-03-11 20:11 UTC",
-      "summary": "„Rakuten“ valdo vieną didžiausių pasaulyje skaitmeninių ekosistemų elektroninės prekybos, „fintech“ ir mobiliųjų paslaugų srityje. Shipping fast without sacrificing reliability is critical. Komandos naudoja „OpenAI Codex“, kad palaikytų atsaką į incidentus, kodo peržiūrą ir kūrimo darbo eigą.",
+      "summary": "„Rakuten“ valdo vieną didžiausių pasaulyje skaitmeninių ekosistemų elektroninės prekybos, „fintech“ ir mobiliųjų paslaugų srityje. Labai svarbu greitai pristatyti, neprarandant patikimumo. Komandos naudoja OpenAI Codex reagavimo į incidentus, kodo peržiūros ir kūrimo darbo eigoms palaikyti.",
       "source": "OpenAI",
       "source_image_url": "https://i4.ytimg.com/vi/gZQQR_tDGuM/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-12-03-rakuten-problemas-issprendzia-dvigubai-greiciau-su-codex.svg",
+      "image_url": "generated-images/2026-03-13-09-rakuten-problemas-issprendzia-dvigubai-greiciau-su-codex.svg",
       "kind": "video",
       "video_id": "gZQQR_tDGuM",
       "bullets_lt": [
         "„Rakuten“ valdo vieną didžiausių pasaulyje skaitmeninių ekosistemų elektroninės prekybos, „fintech“ ir mobiliųjų paslaugų srityje.",
-        "Shipping fast without sacrificing reliability is critical.",
-        "Komandos naudoja „OpenAI Codex“, kad palaikytų atsaką į incidentus, kodo peržiūrą ir kūrimo darbo eigą."
+        "Labai svarbu greitai pristatyti, neprarandant patikimumo.",
+        "Komandos naudoja OpenAI Codex reagavimo į incidentus, kodo peržiūros ir kūrimo darbo eigoms palaikyti."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -90,15 +254,15 @@
       "link": "https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/",
       "published_iso": "2026-03-11T18:19:24Z",
       "published_lt": "2026-03-11 18:19 UTC",
-      "summary": "Atotrūkis tarp patentuotų modelių ir labai skaidrių atvirojo kodo modelių mažėja greičiau nei bet kada. NVIDIA oficialiai atitraukė uždangą Nemotron 3 Super – stulbinančiam 120 milijardų parametrų samprotavimo modeliui, sukurtam specialiai sudėtingoms kelių agentų programoms.",
+      "summary": "Atotrūkis tarp patentuotų modelių ir labai skaidrių atvirojo kodo modelių mažėja greičiau nei bet kada. NVIDIA oficialiai atitraukė uždangą Nemotron 3 Super – stulbinančiam 120 milijardų parametrų modelio, sukurto specialiai sudėtingoms kelių agentų programoms.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-9-150x150.png",
-      "image_url": "generated-images/2026-03-12-04-nvidia-isleido-nemotron-3-super-120b-parametru-atvirojo-.svg",
+      "image_url": "generated-images/2026-03-13-10-nvidia-isleido-nemotron-3-super-120b-parametru-atvirojo-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "Atotrūkis tarp patentuotų modelių ir labai skaidrių atvirojo kodo modelių mažėja greičiau nei bet kada.",
-        "NVIDIA oficialiai atitraukė uždangą Nemotron 3 Super – stulbinančiam 120 milijardų parametrų samprotavimo modeliui, sukurtam specialiai sudėtingoms kelių agentų programoms.",
+        "NVIDIA oficialiai atitraukė uždangą Nemotron 3 Super – stulbinančiam 120 milijardų parametrų modelio, sukurto specialiai sudėtingoms kelių agentų programoms.",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
         "Prieinamumas: Panasu, kad jau galima bandyti."
@@ -119,14 +283,14 @@
       "link": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
       "published_iso": "2026-03-11T16:50:56Z",
       "published_lt": "2026-03-11 16:50 UTC",
-      "summary": "Virtualūs modeliavimo duomenys skatina fizinio dirbtinio intelekto vystymą įvairiose įmonėse, vadovaujant tokioms iniciatyvoms kaip Ai2 MolmoBot. Nurodymas aparatinei įrangai sąveikauti su realiu pasauliu istoriškai priklausė nuo labai brangių ir rankiniu būdu surinktų demonstracijų.",
+      "summary": "Virtualūs modeliavimo duomenys skatina fizinio AI plėtrą įvairiose įmonėse, vadovaujant tokioms iniciatyvoms kaip Ai2 MolmoBot. Nurodymas aparatinei įrangai sąveikauti su realiu pasauliu istoriškai priklausė nuo labai brangių ir rankiniu būdu surinktų demonstracijų.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-12-05-ai2-fizinio-ai-kurimas-naudojant-virtualius-modeliavimo-.svg",
+      "image_url": "generated-images/2026-03-13-11-ai2-fizinio-ai-kurimas-naudojant-virtualius-modeliavimo-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Virtualūs modeliavimo duomenys skatina fizinio dirbtinio intelekto vystymą įvairiose įmonėse, vadovaujant tokioms iniciatyvoms kaip Ai2 MolmoBot.",
+        "Virtualūs modeliavimo duomenys skatina fizinio AI plėtrą įvairiose įmonėse, vadovaujant tokioms iniciatyvoms kaip Ai2 MolmoBot.",
         "Nurodymas aparatinei įrangai sąveikauti su realiu pasauliu istoriškai priklausė nuo labai brangių ir rankiniu būdu surinktų demonstracijų."
       ],
       "practical": {
@@ -148,7 +312,7 @@
       "summary": "„ADLINK Technology“ pasirašė strateginį aljansą ir bendrą plėtros sutartį su „Under Control Robotics“, robotikos startuolio „Noble Machines“ įmone.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-12-06-nauja-partneryste-siulanti-ismaniuosius-robotus-pavojing.svg",
+      "image_url": "generated-images/2026-03-13-12-nauja-partneryste-siulanti-ismaniuosius-robotus-pavojing.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -164,164 +328,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
         "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
-      }
-    },
-    {
-      "title": "Manulife perkelia AI agentus į pagrindines finansines darbo eigas",
-      "link": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
-      "published_iso": "2026-03-11T10:00:00Z",
-      "published_lt": "2026-03-11 10:00 UTC",
-      "summary": "Didelės finansų įmonės daugelį metų išbandė dirbtinį intelektą mažuose projektuose, dažnai apsiribodamos duomenų analize ar klientų aptarnavimo įrankiais. Atrodo, kad kitas etapas apima kažką labiau veikiančio: sistemos, kurios gali imtis veiksmų verslo darbo eigoje.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-12-07-manulife-perkelia-ai-agentus-i-pagrindines-finansines-da.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Didelės finansų įmonės daugelį metų išbandė dirbtinį intelektą mažuose projektuose, dažnai apsiribodamos duomenų analize ar klientų aptarnavimo įrankiais.",
-        "Atrodo, kad kitas etapas apima kažką labiau veikiančio: sistemos, kurios gali imtis veiksmų verslo darbo eigoje.",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "$1",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "AI naujienos yra „TechForge“ leidinių serijos dalis. Didelės finansų įmonės daugelį metų išbandė dirbtinį intelektą mažuose projektuose, dažnai apsiribodamos duomenų analize ar klientų aptarnavimo įrankiais.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
-      }
-    },
-    {
-      "title": "Kaip fizinė AI integracija pagreitina transporto priemonių naujoves",
-      "link": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
-      "published_iso": "2026-03-11T09:52:15Z",
-      "published_lt": "2026-03-11 09:52 UTC",
-      "summary": "Fizinio AI integravimas į transporto priemones tebėra pagrindinis automobilių gamintojų, norinčių paspartinti naujoves, tikslas.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-12-08-kaip-fizine-ai-integracija-pagreitina-transporto-priemon.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Fizinio AI integravimas į transporto priemones tebėra pagrindinis automobilių gamintojų, norinčių paspartinti naujoves, tikslas."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
-      }
-    },
-    {
-      "title": "„Google AI“ pristato „Gemini Embedding 2“: daugiarūšio įterpimo modelį, leidžiantį įterpti tekstą, vaizdus, ​​vaizdo įrašus, garsą ir dokumentus į įterpimo erdvę",
-      "link": "https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/",
-      "published_iso": "2026-03-11T07:18:20Z",
-      "published_lt": "2026-03-11 07:18 UTC",
-      "summary": "„Google“ išplėtė savo „Gemini“ modelių šeimą išleisdama „Gemini Embedding 2“.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-12.17.20-AM-1-150x150.png",
-      "image_url": "generated-images/2026-03-12-09-google-ai-pristato-gemini-embedding-2-daugiarusio-iterpi.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google“ išplėtė savo „Gemini“ modelių šeimą išleisdama „Gemini Embedding 2“.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Techninės šių įvesties ribos apibrėžiamos taip: Apdorojant šias įvestis natūraliai, „Gemini Embedding 2“ užfiksuoja semantinius ryšius tarp vaizdo kadro vaizdo įraše ir žodinio dialogo garso takelyje, projektuodamas j...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/",
-        "try_url": "https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/"
-      }
-    },
-    {
-      "title": "„Fish Audio“ išleido „Fish Audio S2“: naujos kartos išraiškingą tekstą į kalbą (TTS) su neįtikėtinai valdomomis emocijomis",
-      "link": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/",
-      "published_iso": "2026-03-11T04:58:33Z",
-      "published_lt": "2026-03-11 04:58 UTC",
-      "summary": "Teksto į kalbą (TTS) kraštovaizdis tolsta nuo modulinių vamzdynų link integruotų didelių garso modelių (LAM).",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-12-10-fish-audio-isleido-fish-audio-s2-naujos-kartos-israiskin.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Teksto į kalbą (TTS) kraštovaizdis tolsta nuo modulinių vamzdynų link integruotų didelių garso modelių (LAM).",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Šioje sąrankoje neapdorotas garsas suspaudžiamas į atskirus prieigos raktus keliuose sluoksniuose (kodų knygelėse).",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/",
-        "try_url": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/"
-      }
-    },
-    {
-      "title": "Kaip sukurti savarankiškai kuriantį metaagentą, kuris automatiškai konstruoja, sukuria ir tobulina konkrečioms užduotims skirtus AI agentus",
-      "link": "https://www.marktechpost.com/2026/03/10/how-to-build-a-self-designing-meta-agent-that-automatically-constructs-instantiates-and-refines-task-specific-ai-agents/",
-      "published_iso": "2026-03-11T04:23:22Z",
-      "published_lt": "2026-03-11 04:23 UTC",
-      "summary": "Šioje pamokoje mes sukuriame metaagentą, kuris automatiškai kuria kitus agentus pagal paprastą užduoties aprašą. Diegiame sistemą, kuri analizuoja užduotį, parenka įrankius, atminties architektūrą, sukonfigūruoja planuotoją ir tada sukuria visiškai veikiančią agento vykdymo laiką.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-12-11-kaip-sukurti-savarankiskai-kurianti-metaagenta-kuris-aut.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje pamokoje mes sukuriame metaagentą, kuris automatiškai kuria kitus agentus pagal paprastą užduoties aprašą.",
-        "Diegiame sistemą, kuri analizuoja užduotį, parenka įrankius, atminties architektūrą, sukonfigūruoja planuotoją ir tada sukuria visiškai veikiančią agento vykdymo laiką.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "class LocalLLM: def __init__(self, model_name: str = \"google/flan-t5-small\", įrenginys: int = -1): self.model_name = modelio_pavadinimas self.device = įrenginio self._pipe = Nėra savęs._fallback = Klaidinga, jei ne _H...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/10/how-to-build-a-self-designing-meta-agent-that-automatically-constructs-instantiates-and-refines-task-specific-ai-agents/",
-        "try_url": "https://www.marktechpost.com/2026/03/10/how-to-build-a-self-designing-meta-agent-that-automatically-constructs-instantiates-and-refines-task-specific-ai-agents/"
-      }
-    },
-    {
-      "title": "Geriausias vietinis AI vaizdo generatorius su garsu yra čia!",
-      "link": "https://www.youtube.com/watch?v=KaQbt6NYrzY",
-      "published_iso": "2026-03-11T02:30:18Z",
-      "published_lt": "2026-03-11 02:30 UTC",
-      "summary": "LTX-2.3 diegimo pamoka ir apžvalga.",
-      "source": "AI Search",
-      "source_image_url": "https://i4.ytimg.com/vi/KaQbt6NYrzY/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-12-12-geriausias-vietinis-ai-vaizdo-generatorius-su-garsu-yra-.svg",
-      "kind": "video",
-      "video_id": "KaQbt6NYrzY",
-      "bullets_lt": [
-        "LTX-2.3 diegimo pamoka ir apžvalga."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=KaQbt6NYrzY",
-        "try_url": "https://www.youtube.com/watch?v=KaQbt6NYrzY"
       }
     }
   ]
