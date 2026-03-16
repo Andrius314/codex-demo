@@ -1,23 +1,190 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-03-15",
-  "generated_at_utc": "2026-03-15T07:40:50Z",
+  "digest_date": "2026-03-16",
+  "generated_at_utc": "2026-03-16T08:04:44Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Moonshot AI išleido 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔 pakeitimą fiksuotu likutiniu maišymu, skirtu maišymui.",
+      "link": "https://www.marktechpost.com/2026/03/15/moonshot-ai-releases-%f0%9d%91%a8%f0%9d%92%95%f0%9d%92%95%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%95%f0%9d%92%8a%f0%9d%92%90%f0%9d%92%8f-%f0%9d%91%b9%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%85/",
+      "published_iso": "2026-03-16T06:48:39Z",
+      "published_lt": "2026-03-16 06:48 UTC",
+      "summary": "Liekamosios jungtys yra viena mažiausiai abejonių keliančių šiuolaikinio transformatoriaus dizaino dalių. „PreNorm“ architektūroje kiekvienas sluoksnis grąžina savo išvestį į veikiančią paslėptą būseną, todėl optimizavimas išlieka stabilus ir leidžia treniruoti giluminius modelius.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-15-at-11.45.00-PM-1-150x150.png",
+      "image_url": "generated-images/2026-03-16-01-moonshot-ai-isleido-pakeitima-fiksuotu-likutiniu-maisymu.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Liekamosios jungtys yra viena mažiausiai abejonių keliančių šiuolaikinio transformatoriaus dizaino dalių.",
+        "„PreNorm“ architektūroje kiekvienas sluoksnis grąžina savo išvestį į veikiančią paslėptą būseną, todėl optimizavimas išlieka stabilus ir leidžia treniruoti giluminius modelius.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/moonshot-ai-releases-%f0%9d%91%a8%f0%9d%92%95%f0%9d%92%95%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%95%f0%9d%92%8a%f0%9d%92%90%f0%9d%92%8f-%f0%9d%91%b9%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%85/",
+        "try_url": "https://www.marktechpost.com/2026/03/15/moonshot-ai-releases-%f0%9d%91%a8%f0%9d%92%95%f0%9d%92%95%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%95%f0%9d%92%8a%f0%9d%92%90%f0%9d%92%8f-%f0%9d%91%b9%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%85/"
+      }
+    },
+    {
+      "title": "IBM AI išleido „Granite 4.0 1B Speech“ kaip kompaktišką daugiakalbį kalbos modelį, skirtą „Edge AI“ ir vertimo vamzdynams",
+      "link": "https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/",
+      "published_iso": "2026-03-16T04:57:26Z",
+      "published_lt": "2026-03-16 04:57 UTC",
+      "summary": "IBM išleido Granite 4.0 1B Speech – kompaktišką kalbos kalbos modelį, skirtą daugiakalbei automatiniam kalbos atpažinimui (ASR) ir dvikrypčiui automatiniam kalbos vertimui (AST).",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-16-02-ibm-ai-isleido-granite-4-0-1b-speech-kaip-kompaktiska-da.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "IBM išleido Granite 4.0 1B Speech – kompaktišką kalbos kalbos modelį, skirtą daugiakalbei automatiniam kalbos atpažinimui (ASR) ir dvikrypčiui automatiniam kalbos vertimui (AST).",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/",
+        "try_url": "https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/"
+      }
+    },
+    {
+      "title": "Kodavimo įgyvendinimas kuriant įmonės AI valdymo sistemą naudojant „OpenClaw Gateway“ politikos variklius, patvirtinimo darbo eigas ir audituojamo agento vykdymą",
+      "link": "https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/",
+      "published_iso": "2026-03-15T22:12:45Z",
+      "published_lt": "2026-03-15 22:12 UTC",
+      "summary": "Šioje pamokoje mes kuriame įmonės lygio AI valdymo sistemą naudodami OpenClaw ir Python. Pradedame nuo OpenClaw vykdymo laiko nustatymo ir OpenClaw Gateway paleidimo, kad mūsų Python aplinka galėtų sąveikauti su tikru agentu per OpenClaw API.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-16-03-kodavimo-igyvendinimas-kuriant-imones-ai-valdymo-sistema.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje pamokoje mes kuriame įmonės lygio AI valdymo sistemą naudodami OpenClaw ir Python.",
+        "Pradedame nuo OpenClaw vykdymo laiko nustatymo ir OpenClaw Gateway paleidimo, kad mūsų Python aplinka galėtų sąveikauti su tikru agentu per OpenClaw API.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Tada sukuriame valdymo sluoksnį, kuris klasifikuoja užklausas pagal riziką, užtikrina patvirtinimo politiką ir nukreipia saugias užduotis OpenClaw agentui vykdyti.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/",
+        "try_url": "https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/"
+      }
+    },
+    {
+      "title": "Susipažinkite su „OpenViking“: atvirojo kodo konteksto duomenų baze, kuri atneša failų sistema pagrįstą atmintį ir iškvietimą į AI agentų sistemas, tokias kaip „OpenClaw“",
+      "link": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
+      "published_iso": "2026-03-15T18:49:21Z",
+      "published_lt": "2026-03-15 18:49 UTC",
+      "summary": "OpenViking yra atvirojo kodo kontekstinė duomenų bazė AI agentams iš Volcengine. Projektas sukurtas remiantis paprasta architektūrine koncepcija: agentų sistemos neturėtų traktuoti konteksto kaip vienodo teksto dalių rinkinio.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-16-04-susipazinkite-su-openviking-atvirojo-kodo-konteksto-duom.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "OpenViking yra atvirojo kodo kontekstinė duomenų bazė AI agentams iš Volcengine.",
+        "Projektas sukurtas remiantis paprasta architektūrine koncepcija: agentų sistemos neturėtų traktuoti konteksto kaip vienodo teksto dalių rinkinio.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Paties projekto rėmuose tai yra atsakas į penkias pasikartojančias agento kūrimo problemas: susiskaidžiusį kontekstą, didėjantį konteksto apimtį atliekant ilgai vykdomas užduotis, silpną gavimo kokybę plokščiuose RAG...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
+        "try_url": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/"
+      }
+    },
+    {
+      "title": "„LangChain“ išleidžia giluminius agentus: struktūrizuotas vykdymo laikas, skirtas planuoti, atmintis ir konteksto išskyrimą daugiapakopiuose AI agentuose",
+      "link": "https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/",
+      "published_iso": "2026-03-15T09:07:48Z",
+      "published_lt": "2026-03-15 09:07 UTC",
+      "summary": "Dauguma LLM agentų puikiai tinka trumpoms įrankių iškvietimo kilpoms, bet pradeda sugesti, kai užduotis tampa daugiapakopė, būsenos ir daug artefaktų. „LangChain's Deep Agents“ sukurta šiai spragai.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-16-05-langchain-isleidzia-giluminius-agentus-strukturizuotas-v.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Dauguma LLM agentų puikiai tinka trumpoms įrankių iškvietimo kilpoms, bet pradeda sugesti, kai užduotis tampa daugiapakopė, būsenos ir daug artefaktų.",
+        "„LangChain's Deep Agents“ sukurta šiai spragai.",
+        "Kaina: Yra nemokamas ir mokamas variantas."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/",
+        "try_url": "https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/"
+      }
+    },
+    {
+      "title": "„Zhipu AI“ pristato GLM-OCR: 0,9 B daugiarūšį OCR modelį, skirtą dokumentų analizei ir pagrindinės informacijos ištraukimui (KIE)",
+      "link": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/",
+      "published_iso": "2026-03-15T08:08:01Z",
+      "published_lt": "2026-03-15 08:08 UTC",
+      "summary": "Kodėl dokumentų OCR vis dar išlieka sudėtinga inžinerijos problema? Ko reikia, kad OCR būtų naudingas tikriems dokumentams, o ne švariems demonstraciniams vaizdams? Ir ar kompaktiškas daugiarūšis modelis gali apdoroti analizę, lenteles, formules ir struktūrinį išgavimą, nepaversdamas išvados išteklių ugnimi?",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-15-at-12.57.34-AM-1-150x150.png",
+      "image_url": "generated-images/2026-03-16-06-zhipu-ai-pristato-glm-ocr-0-9-b-daugiarusi-ocr-modeli-sk.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Kodėl dokumentų OCR vis dar išlieka sudėtinga inžinerijos problema?",
+        "Ko reikia, kad OCR būtų naudingas tikriems dokumentams, o ne švariems demonstraciniams vaizdams?",
+        "Ir ar kompaktiškas daugiarūšis modelis gali apdoroti analizę, lenteles, formules ir struktūrinį išgavimą, nepaversdamas išvados išteklių ugnimi?",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Vietoj to GLM-OCR numato kelis žetonus vienam žingsniui.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/",
+        "try_url": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/"
+      }
+    },
     {
       "title": "AI žemėlapiai, realaus laiko 3D pasauliai, kelių kadrų vaizdo įrašai, naujas TTS, naujas anime modelis: AI NAUJIENOS",
       "link": "https://www.youtube.com/watch?v=qWzo3ws0uWU",
       "published_iso": "2026-03-15T03:45:12Z",
       "published_lt": "2026-03-15 03:45 UTC",
-      "summary": "DIDELĖS AI NAUJIENOS: „Qwen Image 2512“, „DeepSeek mHC“, „iQuest Coder“ ir dar daugiau #ai #ainews #aitools #aivideo Ačiū mūsų rėmėjui Higgsfieldui.",
+      "summary": "DIDELĖS AI NAUJIENOS: Qwen Image 2512, DeepSeek mHC, iQuest Coder ir dar daugiau #ai #ainews #aitools #aivideo Ačiū mūsų rėmėjui Higgsfieldui.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/qWzo3ws0uWU/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-15-01-ai-zemelapiai-realaus-laiko-3d-pasauliai-keliu-kadru-vai.svg",
+      "image_url": "generated-images/2026-03-16-07-ai-zemelapiai-realaus-laiko-3d-pasauliai-keliu-kadru-vai.svg",
       "kind": "video",
       "video_id": "qWzo3ws0uWU",
       "bullets_lt": [
-        "DIDELĖS AI NAUJIENOS: „Qwen Image 2512“, „DeepSeek mHC“, „iQuest Coder“ ir dar daugiau #ai #ainews #aitools #aivideo Ačiū mūsų rėmėjui Higgsfieldui."
+        "DIDELĖS AI NAUJIENOS: Qwen Image 2512, DeepSeek mHC, iQuest Coder ir dar daugiau #ai #ainews #aitools #aivideo Ačiū mūsų rėmėjui Higgsfieldui."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -38,7 +205,7 @@
       "summary": "Šioje mokymo programoje sukuriame darbo eigą naudodami kontūrus, kad sukurtume struktūrizuotus ir tipui saugius išvestis iš kalbos modelių. Dirbame su įvestais apribojimais, pvz., „Literal“, „Int“ ir „Bool“, ir kuriame raginimo šablonus naudodami kontūrus. Šablonas ir užtikriname griežtą schemos patvirtinimą naudodami „Pydantic“ modelius.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-15-02-kaip-sukurti-saugaus-tipo-schemu-apribotus-ir-funkcijomi.svg",
+      "image_url": "generated-images/2026-03-16-08-kaip-sukurti-saugaus-tipo-schemu-apribotus-ir-funkcijomi.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -67,7 +234,7 @@
       "summary": "O kas, jei AI padedamas kodavimas taptų patikimesnis, atskiriant produkto planavimą, inžinerinę peržiūrą, išleidimą ir kokybės užtikrinimą į skirtingus veikimo režimus? Tai yra Garry Tano gstack, atvirojo kodo įrankių rinkinio, sujungiančio Claude kodą į 8 įžvalgius darbo eigos įgūdžius, paremtus nuolatine naršyklės vykdymo programa, idėja.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-15-03-garry-tan-isleido-gstack-atvirojo-kodo-claude-kodo-siste.svg",
+      "image_url": "generated-images/2026-03-16-09-garry-tan-isleido-gstack-atvirojo-kodo-claude-kodo-siste.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -95,7 +262,7 @@
       "summary": "„Google DeepMind“ komanda pristatė „Aletheia“ – specializuotą AI agentą, skirtą įveikti atotrūkį tarp konkurencinio lygio matematikos ir profesionalių tyrimų.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-11.03.13-PM-1-150x150.png",
-      "image_url": "generated-images/2026-03-15-04-google-deepmind-pristato-aletheia-ai-agentas-pereina-nuo.svg",
+      "image_url": "generated-images/2026-03-16-10-google-deepmind-pristato-aletheia-ai-agentas-pereina-nuo.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -114,14 +281,14 @@
       }
     },
     {
-      "title": "„ChatGPT Business & Enterprise“ beta versijos „ChatGPT“ įgūdžiai",
+      "title": "Beta versijos ChatGPT įgūdžiai, skirti „ChatGPT Business & Enterprise“.",
       "link": "https://www.youtube.com/watch?v=qh93rLRPw80",
       "published_iso": "2026-03-13T20:08:30Z",
       "published_lt": "2026-03-13 20:08 UTC",
       "summary": "Pristatome beta versijos įgūdžius, skirtus „ChatGPT Business and Enterprise“. Įgūdžiai yra daugkartinio naudojimo, bendrinamos darbo eigos, kurios tiksliai nurodo ChatGPT, kaip atlikti konkrečią užduotį, todėl ChatGPT tą užduotį gali atlikti geriau ir nuosekliau. Įgūdis gali susieti instrukcijas, pavyzdžius ir net kodą.",
       "source": "OpenAI",
       "source_image_url": "https://i2.ytimg.com/vi/qh93rLRPw80/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-15-05-chatgpt-business-enterprise-beta-versijos-chatgpt-igudzi.svg",
+      "image_url": "generated-images/2026-03-16-11-beta-versijos-chatgpt-igudziai-skirti-chatgpt-business-e.svg",
       "kind": "video",
       "video_id": "qh93rLRPw80",
       "bullets_lt": [
@@ -150,7 +317,7 @@
       "summary": "E.SUN Bank bendradarbiauja su IBM, kad sukurtų aiškesnes AI valdymo taisykles, kaip dirbtinis intelektas gali būti naudojamas banke. Pastangos atspindi platesnį finansų pokytį. Daugelis įmonių jau naudoja dirbtinį intelektą sukčiavimo patikrinimams ir kredito įvertinimui, o kai kurios taip pat naudoja jį klientų aptarnavimo užklausoms tvarkyti.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-15-06-e-sun-bank-ir-ibm-kuria-ai-valdymo-sistema-bankininkyste.svg",
+      "image_url": "generated-images/2026-03-16-12-e-sun-bank-ir-ibm-kuria-ai-valdymo-sistema-bankininkyste.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -167,173 +334,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
         "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
-      }
-    },
-    {
-      "title": "BMW Vokietijoje diegia humanoidinius robotus, o Europos gamyklos tai stebi",
-      "link": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
-      "published_iso": "2026-03-13T09:00:00Z",
-      "published_lt": "2026-03-13 09:00 UTC",
-      "summary": "Europos gamyklų grindys turi naują kolegą. BMW grupė pirmą kartą panaudojo humanoidinius robotus gamyboje Vokietijoje, pradėdama bandomąjį projektą Leipcigo gamykloje su AEON – ratuotu humanoidu, kurį sukūrė Hexagon Robotics.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-15-07-bmw-vokietijoje-diegia-humanoidinius-robotus-o-europos-g.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Europos gamyklų grindys turi naują kolegą.",
-        "BMW grupė pirmą kartą panaudojo humanoidinius robotus gamyboje Vokietijoje, pradėdama bandomąjį projektą Leipcigo gamykloje su AEON – ratuotu humanoidu, kurį sukūrė Hexagon Robotics.",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
-      }
-    },
-    {
-      "title": "Modelio konteksto protokolas (MCP) ir AI agento įgūdžiai: giliai pasinerkite į struktūrinius įrankius ir elgesio gaires LLM",
-      "link": "https://www.marktechpost.com/2026/03/13/model-context-protocol-mcp-vs-ai-agent-skills-a-deep-dive-into-structured-tools-and-behavioral-guidance-for-llms/",
-      "published_iso": "2026-03-13T08:32:39Z",
-      "published_lt": "2026-03-13 08:32 UTC",
-      "summary": "Pastaruoju metu daugelis agentų ekosistemos pokyčių buvo nukreipti į tai, kad AI agentai galėtų sąveikauti su išoriniais įrankiais ir veiksmingiau pasiekti konkrečios srities žinias. Du paplitę metodai yra įgūdžiai ir MCP.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-14-150x150.png",
-      "image_url": "generated-images/2026-03-15-08-modelio-konteksto-protokolas-mcp-ir-ai-agento-igudziai-g.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Pastaruoju metu daugelis agentų ekosistemos pokyčių buvo nukreipti į tai, kad AI agentai galėtų sąveikauti su išoriniais įrankiais ir veiksmingiau pasiekti konkrečios srities žinias.",
-        "Du paplitę metodai yra įgūdžiai ir MCP.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Vartotojo užklausa → AI agentas → Skambučiai MCP įrankis → MCP serveris vykdo logiką → Grąžina struktūrinį atsakymą → Agentas naudoja rezultatą atsakydamas vartotojui Nors MCP yra veiksmingas būdas agentams sąveikauti...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/13/model-context-protocol-mcp-vs-ai-agent-skills-a-deep-dive-into-structured-tools-and-behavioral-guidance-for-llms/",
-        "try_url": "https://www.marktechpost.com/2026/03/13/model-context-protocol-mcp-vs-ai-agent-skills-a-deep-dive-into-structured-tools-and-behavioral-guidance-for-llms/"
-      }
-    },
-    {
-      "title": "„Google AI“ pristato „Groundsource“: naują metodiką, kuri naudoja „Dvynių“ modelį, kad nestruktūrizuotas pasaulines naujienas paverstų veiksmingais, istoriniais duomenimis",
-      "link": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/",
-      "published_iso": "2026-03-13T08:07:25Z",
-      "published_lt": "2026-03-13 08:07 UTC",
-      "summary": "„Google AI Research“ komanda neseniai išleido „Groundsource“ – naują metodiką, kuri naudoja „Gemini“ modelį struktūriniams istoriniams duomenims iš nestruktūrizuotų viešųjų naujienų ataskaitų išgauti. Projekte sprendžiamas istorinių duomenų apie greitai prasidedančias stichines nelaimes trūkumas.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-13-at-12.59.53-AM-1-150x150.png",
-      "image_url": "generated-images/2026-03-15-09-google-ai-pristato-groundsource-nauja-metodika-kuri-naud.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google AI Research“ komanda neseniai išleido „Groundsource“ – naują metodiką, kuri naudoja „Gemini“ modelį struktūriniams istoriniams duomenims iš nestruktūrizuotų viešųjų naujienų ataskaitų išgauti.",
-        "Projekte sprendžiamas istorinių duomenų apie greitai prasidedančias stichines nelaimes trūkumas.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/",
-        "try_url": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/"
-      }
-    },
-    {
-      "title": "Kaip sukurti savarankišką mašininio mokymosi tyrimų kilpą „Google Colab“, naudojant Andrej Karpathy automatinio tyrimo sistemą, skirtą hiperparametrų atradimui ir eksperimentų stebėjimui",
-      "link": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/",
-      "published_iso": "2026-03-12T22:46:41Z",
-      "published_lt": "2026-03-12 22:46 UTC",
-      "summary": "Šioje mokymo programoje įdiegiame „Colab“ paruoštą „AutoResearch“ sistemos versiją, kurią iš pradžių pasiūlė Andrejus Karpathy.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-15-10-kaip-sukurti-savarankiska-masininio-mokymosi-tyrimu-kilp.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje mokymo programoje įdiegiame „Colab“ paruoštą „AutoResearch“ sistemos versiją, kurią iš pradžių pasiūlė Andrejus Karpathy.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "importuoti os, sys, subprocess, json, re, atsitiktinis, shutil, laikas iš pathlib importo Kelias def pip_install(pkg): subprocess.check_call([sys.executable, \"-m\", \"pip\", \"install\", \"-q\", pkg]) for pkg in [ \"numpy\", \"...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/",
-        "try_url": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/"
-      }
-    },
-    {
-      "title": "Stanfordo mokslininkai išleido „OpenJarvis“: pirmąją vietinę sistemą, skirtą asmeniniams AI agentams įrenginyje kurti su įrankiais, atmintimi ir mokymusi",
-      "link": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/",
-      "published_iso": "2026-03-12T21:21:04Z",
-      "published_lt": "2026-03-12 21:21 UTC",
-      "summary": "Stanfordo mokslininkai pristatė „OpenJarvis“ – atvirojo kodo sistemą, skirtą asmeniniams dirbtinio intelekto agentams, kurie veikia tik įrenginyje, kurti. Projektas sukurtas iš Stanfordo Scaling Intelligence Lab ir pristatomas kaip tyrimų platforma ir diegimui paruošta infrastruktūra vietinėms AI sistemoms.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-12-at-2.19.48-PM-1-150x150.png",
-      "image_url": "generated-images/2026-03-15-11-stanfordo-mokslininkai-isleido-openjarvis-pirmaja-vietin.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Stanfordo mokslininkai pristatė „OpenJarvis“ – atvirojo kodo sistemą, skirtą asmeniniams dirbtinio intelekto agentams, kurie veikia tik įrenginyje, kurti.",
-        "Projektas sukurtas iš Stanfordo Scaling Intelligence Lab ir pristatomas kaip tyrimų platforma ir diegimui paruošta infrastruktūra vietinėms AI sistemoms.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Šis dizainas kelia susirūpinimą dėl delsos, pasikartojančių išlaidų ir duomenų eksponavimo, ypač padėjėjams / agentams, kurie dirba per asmeninius failus, pranešimus ir nuolatinį vartotojo kontekstą.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/",
-        "try_url": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/"
-      }
-    },
-    {
-      "title": "Šis fizikos proveržis atrodo neįmanomas",
-      "link": "https://www.youtube.com/watch?v=RDQ4vHAPNls",
-      "published_iso": "2026-03-12T18:16:27Z",
-      "published_lt": "2026-03-12 18:16 UTC",
-      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį galite rasti čia: https://xuan-li.github.io/pdf/publications/li2024dynamicduo.pdf Šaltiniai: https://www.youtube.com/watch?v=CfEg7fucVYg Mūsų noras, kad mus palaikytų: https://www.patreon.com/TwoMinutePapers 🙏 Norėtume",
-      "source": "Two Minute Papers",
-      "source_image_url": "https://i3.ytimg.com/vi/RDQ4vHAPNls/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-15-12-sis-fizikos-proverzis-atrodo-neimanomas.svg",
-      "kind": "video",
-      "video_id": "RDQ4vHAPNls",
-      "bullets_lt": [
-        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį galite rasti čia: https://xuan-li.github.io/pdf/publications/li2024dynamicduo.pdf Šaltiniai: https://www.youtube.com/watch?v=CfEg7fucVYg Mūsų noras, kad mus palaikytų: https://www.patreon.com/TwoMinutePapers 🙏 Norėtume.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=RDQ4vHAPNls",
-        "try_url": "https://www.youtube.com/watch?v=RDQ4vHAPNls"
       }
     }
   ]
