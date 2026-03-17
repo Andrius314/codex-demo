@@ -1,7 +1,343 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-03-16T08:04:44Z",
+  "updated_at_utc": "2026-03-17T07:51:01Z",
   "digests": [
+    {
+      "digest_date": "2026-03-17",
+      "generated_at_utc": "2026-03-17T07:51:01Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "Kaip sukurti didelio našumo GPU pagreitintus modeliavimus ir diferencijuojamas fizikos darbo eigas naudojant NVIDIA Warp branduolius",
+          "link": "https://www.marktechpost.com/2026/03/16/how-to-build-high-performance-gpu-accelerated-simulations-and-differentiable-physics-workflows-using-nvidia-warp-kernels/",
+          "published_iso": "2026-03-17T04:42:00Z",
+          "published_lt": "2026-03-17 04:42 UTC",
+          "summary": "Šiame vadove tyrinėjame, kaip naudoti NVIDIA Warp kuriant didelio našumo GPU ir procesoriaus modeliavimą tiesiai iš Python. Pirmiausia nustatome su Colab suderinamą aplinką ir inicijuojame Warp, kad mūsų branduoliai galėtų veikti CUDA GPU arba CPU, atsižvelgiant į prieinamumą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-17-01-kaip-sukurti-didelio-nasumo-gpu-pagreitintus-modeliavimu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove tyrinėjame, kaip naudoti NVIDIA Warp kuriant didelio našumo GPU ir procesoriaus modeliavimą tiesiai iš Python.",
+            "Pirmiausia nustatome su Colab suderinamą aplinką ir inicijuojame Warp, kad mūsų branduoliai galėtų veikti CUDA GPU arba CPU, atsižvelgiant į prieinamumą.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Aptikta: CUDA",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/16/how-to-build-high-performance-gpu-accelerated-simulations-and-differentiable-physics-workflows-using-nvidia-warp-kernels/",
+            "try_url": "https://www.marktechpost.com/2026/03/16/how-to-build-high-performance-gpu-accelerated-simulations-and-differentiable-physics-workflows-using-nvidia-warp-kernels/"
+          }
+        },
+        {
+          "title": "„Mistral AI“ išleido „Mistral Small 4“: 119B parametrų MoE modelį, kuris suvienija nurodymų, samprotavimo ir daugiarūšio darbo krūvius",
+          "link": "https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-119b-parameter-moe-model-that-unifies-instruct-reasoning-and-multimodal-workloads/",
+          "published_iso": "2026-03-16T22:48:59Z",
+          "published_lt": "2026-03-16 22:48 UTC",
+          "summary": "„Mistral AI“ išleido „Mistral Small 4“ – naują „Mistral Small“ šeimos modelį, skirtą sujungti kelias anksčiau atskiras galimybes į vieną diegimo tikslą.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-16-at-3.39.09-PM-1-150x150.png",
+          "image_url": "generated-images/2026-03-17-02-mistral-ai-isleido-mistral-small-4-119b-parametru-moe-mo.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Mistral AI“ išleido „Mistral Small 4“ – naują „Mistral Small“ šeimos modelį, skirtą sujungti kelias anksčiau atskiras galimybes į vieną diegimo tikslą.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "„Small 4“ užtikrina 40 % sumažintą galutinio užbaigimo laiką naudojant pagal delsą optimizuotą sąranką ir 3 kartus daugiau užklausų per sekundę, naudojant pagal pralaidumą optimizuotą sąranką, abu lyginant su „Mistral...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-119b-parameter-moe-model-that-unifies-instruct-reasoning-and-multimodal-workloads/",
+            "try_url": "https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-119b-parameter-moe-model-that-unifies-instruct-reasoning-and-multimodal-workloads/"
+          }
+        },
+        {
+          "title": "DI kūrimas geresnei sveikatos priežiūrai – „OpenAI Podcast Ep. 14",
+          "link": "https://www.youtube.com/watch?v=VAzryGwnJW8",
+          "published_iso": "2026-03-16T17:00:00Z",
+          "published_lt": "2026-03-16 17:00 UTC",
+          "summary": "Sveikatos priežiūros sistemos visame pasaulyje patiria įtampą, o poveikį jaučia ir pacientai, ir gydytojai. „OpenAI“ sveikatos skyriaus vadovas dr. Nate'as Grossas ir Karanas Singhalas, vadovaujantis sveikatos AI tyrimams, aptaria, kaip dirbtinis intelektas gali padėti spręsti didžiausias problemas.",
+          "source": "OpenAI",
+          "source_image_url": "https://i3.ytimg.com/vi/VAzryGwnJW8/hqdefault.jpg",
+          "image_url": "generated-images/2026-03-17-03-di-kurimas-geresnei-sveikatos-prieziurai-openai-podcast-.svg",
+          "kind": "video",
+          "video_id": "VAzryGwnJW8",
+          "bullets_lt": [
+            "Sveikatos priežiūros sistemos visame pasaulyje patiria įtampą, o poveikį jaučia ir pacientai, ir gydytojai.",
+            "„OpenAI“ sveikatos skyriaus vadovas dr.",
+            "Nate'as Grossas ir Karanas Singhalas, vadovaujantis sveikatos AI tyrimams, aptaria, kaip dirbtinis intelektas gali padėti spręsti didžiausias problemas."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=VAzryGwnJW8",
+            "try_url": "https://www.youtube.com/watch?v=VAzryGwnJW8"
+          }
+        },
+        {
+          "title": "JAV iždas išleidžia AI rizikos vadovą finansų įstaigoms",
+          "link": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
+          "published_iso": "2026-03-16T16:15:00Z",
+          "published_lt": "2026-03-16 16:15 UTC",
+          "summary": "JAV iždas paskelbė keletą JAV finansinių paslaugų sektoriui skirtų dokumentų, kuriuose siūloma struktūrizuotas požiūris į AI rizikos valdymą operacijose ir politikoje (žr. paantraštę „Ištekliai ir atsisiuntimai“ nuorodos apačioje).",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-17-04-jav-izdas-isleidzia-ai-rizikos-vadova-finansu-istaigoms.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "JAV iždas paskelbė keletą JAV finansinių paslaugų sektoriui skirtų dokumentų, kuriuose siūloma struktūrizuotas požiūris į AI rizikos valdymą operacijose ir politikoje (žr.",
+            "paantraštę „Ištekliai ir atsisiuntimai“ nuorodos apačioje).",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Rizika apima algoritminį šališkumą, ribotą sprendimų priėmimo procesų skaidrumą, kibernetinį pažeidžiamumą ir sudėtingas sistemų bei duomenų priklausomybes.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
+          }
+        },
+        {
+          "title": "NTT DATA ir NVIDIA padidina įmonių AI gamyklas iki gamybos masto",
+          "link": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
+          "published_iso": "2026-03-16T12:00:00Z",
+          "published_lt": "2026-03-16 12:00 UTC",
+          "summary": "NTT DATA paskelbė apie iniciatyvą pristatyti NVIDIA maitinamas platformas, skirtas suteikti organizacijoms pakartojamą, gamybai paruoštą dirbtinio intelekto mastelio keitimo modelį.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-17-05-ntt-data-ir-nvidia-padidina-imoniu-ai-gamyklas-iki-gamyb.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "NTT DATA paskelbė apie iniciatyvą pristatyti NVIDIA maitinamas platformas, skirtas suteikti organizacijoms pakartojamą, gamybai paruoštą dirbtinio intelekto mastelio keitimo modelį.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
+          }
+        },
+        {
+          "title": "„OpenAI's Frontier“ įkvepia dirbtinio intelekto agentus į kovą, kurios SaaS negali sau leisti pralaimėti",
+          "link": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
+          "published_iso": "2026-03-16T10:00:00Z",
+          "published_lt": "2026-03-16 10:00 UTC",
+          "summary": "Kai „OpenAI“ vasarį pristatė „Frontier“, pranešimas buvo apibūdintas kaip platforma įmonių AI agentams. Tai iš tikrųjų reiškė iššūkį pajamų architektūrai, kuria grindžiama programinės įrangos pramonė.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-17-06-openai-s-frontier-ikvepia-dirbtinio-intelekto-agentus-i-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kai „OpenAI“ vasarį pristatė „Frontier“, pranešimas buvo apibūdintas kaip platforma įmonių AI agentams.",
+            "Tai iš tikrųjų reiškė iššūkį pajamų architektūrai, kuria grindžiama programinės įrangos pramonė.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
+          }
+        },
+        {
+          "title": "Moonshot AI išleido 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔 pakeitimą fiksuotu likutiniu maišymu, skirtu maišymui.",
+          "link": "https://www.marktechpost.com/2026/03/15/moonshot-ai-releases-%f0%9d%91%a8%f0%9d%92%95%f0%9d%92%95%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%95%f0%9d%92%8a%f0%9d%92%90%f0%9d%92%8f-%f0%9d%91%b9%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%85/",
+          "published_iso": "2026-03-16T06:48:39Z",
+          "published_lt": "2026-03-16 06:48 UTC",
+          "summary": "Liekamosios jungtys yra viena mažiausiai abejonių keliančių šiuolaikinio transformatoriaus dizaino dalių. „PreNorm“ architektūroje kiekvienas sluoksnis grąžina savo išvestį į veikiančią paslėptą būseną, todėl optimizavimas išlieka stabilus ir leidžia treniruoti giluminius modelius.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-15-at-11.45.00-PM-1-150x150.png",
+          "image_url": "generated-images/2026-03-17-07-moonshot-ai-isleido-pakeitima-fiksuotu-likutiniu-maisymu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Liekamosios jungtys yra viena mažiausiai abejonių keliančių šiuolaikinio transformatoriaus dizaino dalių.",
+            "„PreNorm“ architektūroje kiekvienas sluoksnis grąžina savo išvestį į veikiančią paslėptą būseną, todėl optimizavimas išlieka stabilus ir leidžia treniruoti giluminius modelius.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/moonshot-ai-releases-%f0%9d%91%a8%f0%9d%92%95%f0%9d%92%95%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%95%f0%9d%92%8a%f0%9d%92%90%f0%9d%92%8f-%f0%9d%91%b9%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%85/",
+            "try_url": "https://www.marktechpost.com/2026/03/15/moonshot-ai-releases-%f0%9d%91%a8%f0%9d%92%95%f0%9d%92%95%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%95%f0%9d%92%8a%f0%9d%92%90%f0%9d%92%8f-%f0%9d%91%b9%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%85/"
+          }
+        },
+        {
+          "title": "IBM AI išleido „Granite 4.0 1B Speech“ kaip kompaktišką daugiakalbį kalbos modelį, skirtą „Edge AI“ ir vertimo vamzdynams",
+          "link": "https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/",
+          "published_iso": "2026-03-16T04:57:26Z",
+          "published_lt": "2026-03-16 04:57 UTC",
+          "summary": "IBM išleido Granite 4.0 1B Speech – kompaktišką kalbos kalbos modelį, skirtą daugiakalbei automatiniam kalbos atpažinimui (ASR) ir dvikrypčiui automatiniam kalbos vertimui (AST).",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-17-08-ibm-ai-isleido-granite-4-0-1b-speech-kaip-kompaktiska-da.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "IBM išleido Granite 4.0 1B Speech – kompaktišką kalbos kalbos modelį, skirtą daugiakalbei automatiniam kalbos atpažinimui (ASR) ir dvikrypčiui automatiniam kalbos vertimui (AST).",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/",
+            "try_url": "https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/"
+          }
+        },
+        {
+          "title": "Kodavimo įgyvendinimas kuriant įmonės AI valdymo sistemą naudojant „OpenClaw Gateway“ politikos variklius, patvirtinimo darbo eigas ir audituojamo agento vykdymą",
+          "link": "https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/",
+          "published_iso": "2026-03-15T22:12:45Z",
+          "published_lt": "2026-03-15 22:12 UTC",
+          "summary": "Šioje pamokoje mes kuriame įmonės lygio AI valdymo sistemą naudodami OpenClaw ir Python. Pradedame nuo OpenClaw vykdymo laiko nustatymo ir OpenClaw Gateway paleidimo, kad mūsų Python aplinka galėtų sąveikauti su tikru agentu per OpenClaw API.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-17-09-kodavimo-igyvendinimas-kuriant-imones-ai-valdymo-sistema.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje pamokoje mes kuriame įmonės lygio AI valdymo sistemą naudodami OpenClaw ir Python.",
+            "Pradedame nuo OpenClaw vykdymo laiko nustatymo ir OpenClaw Gateway paleidimo, kad mūsų Python aplinka galėtų sąveikauti su tikru agentu per OpenClaw API.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Tada sukuriame valdymo sluoksnį, kuris klasifikuoja užklausas pagal riziką, užtikrina patvirtinimo politiką ir nukreipia saugias užduotis OpenClaw agentui vykdyti.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/",
+            "try_url": "https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/"
+          }
+        },
+        {
+          "title": "Susipažinkite su „OpenViking“: atvirojo kodo konteksto duomenų baze, kuri atneša failų sistema pagrįstą atmintį ir iškvietimą į AI agentų sistemas, tokias kaip „OpenClaw“",
+          "link": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
+          "published_iso": "2026-03-15T18:49:21Z",
+          "published_lt": "2026-03-15 18:49 UTC",
+          "summary": "OpenViking yra atvirojo kodo kontekstinė duomenų bazė AI agentams iš Volcengine. Projektas sukurtas remiantis paprasta architektūrine koncepcija: agentų sistemos neturėtų traktuoti konteksto kaip vienodo teksto dalių rinkinio.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-17-10-susipazinkite-su-openviking-atvirojo-kodo-konteksto-duom.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "OpenViking yra atvirojo kodo kontekstinė duomenų bazė AI agentams iš Volcengine.",
+            "Projektas sukurtas remiantis paprasta architektūrine koncepcija: agentų sistemos neturėtų traktuoti konteksto kaip vienodo teksto dalių rinkinio.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Paties projekto rėmuose tai yra atsakas į penkias pasikartojančias agento kūrimo problemas: susiskaidžiusį kontekstą, didėjantį konteksto apimtį atliekant ilgai vykdomas užduotis, silpną gavimo kokybę plokščiuose RAG...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
+            "try_url": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/"
+          }
+        },
+        {
+          "title": "„LangChain“ išleidžia giluminius agentus: struktūrizuotas vykdymo laikas, skirtas planuoti, atmintis ir konteksto išskyrimą daugiapakopiuose AI agentuose",
+          "link": "https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/",
+          "published_iso": "2026-03-15T09:07:48Z",
+          "published_lt": "2026-03-15 09:07 UTC",
+          "summary": "Dauguma LLM agentų puikiai tinka trumpoms įrankių iškvietimo kilpoms, bet pradeda sugesti, kai užduotis tampa daugiapakopė, būsenos ir daug artefaktų. „LangChain's Deep Agents“ sukurta šiai spragai.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-17-11-langchain-isleidzia-giluminius-agentus-strukturizuotas-v.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Dauguma LLM agentų puikiai tinka trumpoms įrankių iškvietimo kilpoms, bet pradeda sugesti, kai užduotis tampa daugiapakopė, būsenos ir daug artefaktų.",
+            "„LangChain's Deep Agents“ sukurta šiai spragai.",
+            "Kaina: Yra nemokamas ir mokamas variantas."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/",
+            "try_url": "https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/"
+          }
+        },
+        {
+          "title": "AI žemėlapiai, realaus laiko 3D pasauliai, kelių kadrų vaizdo įrašai, naujas TTS, naujas anime modelis: AI NAUJIENOS",
+          "link": "https://www.youtube.com/watch?v=qWzo3ws0uWU",
+          "published_iso": "2026-03-15T03:45:12Z",
+          "published_lt": "2026-03-15 03:45 UTC",
+          "summary": "DIDELĖS AI NAUJIENOS: Qwen Image 2512, DeepSeek mHC, iQuest Coder ir dar daugiau #ai #ainews #aitools #aivideo Ačiū mūsų rėmėjui Higgsfieldui.",
+          "source": "AI Search",
+          "source_image_url": "https://i2.ytimg.com/vi/qWzo3ws0uWU/hqdefault.jpg",
+          "image_url": "generated-images/2026-03-17-12-ai-zemelapiai-realaus-laiko-3d-pasauliai-keliu-kadru-vai.svg",
+          "kind": "video",
+          "video_id": "qWzo3ws0uWU",
+          "bullets_lt": [
+            "DIDELĖS AI NAUJIENOS: Qwen Image 2512, DeepSeek mHC, iQuest Coder ir dar daugiau #ai #ainews #aitools #aivideo Ačiū mūsų rėmėjui Higgsfieldui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=qWzo3ws0uWU",
+            "try_url": "https://www.youtube.com/watch?v=qWzo3ws0uWU"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-03-16",
       "generated_at_utc": "2026-03-16T08:04:44Z",
