@@ -1,7 +1,333 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-03-19T07:42:41Z",
+  "updated_at_utc": "2026-03-20T07:41:32Z",
   "digests": [
+    {
+      "digest_date": "2026-03-20",
+      "generated_at_utc": "2026-03-20T07:41:32Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„LlamaIndex“ išleido „LiteParse“: CLI ir „TypeScript“ savąją biblioteką, skirtą erdviniam PDF analizei dirbtinio intelekto agento darbo eigose",
+          "link": "https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/",
+          "published_iso": "2026-03-20T06:43:13Z",
+          "published_lt": "2026-03-20 06:43 UTC",
+          "summary": "Dabartinėje atkūrimo papildytos kartos (RAG) aplinkoje pagrindinė kūrėjų kliūtis yra nebe pats didelės kalbos modelis (LLM), o duomenų perdavimo vamzdynas.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-20-01-llamaindex-isleido-liteparse-cli-ir-typescript-savaja-bi.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Dabartinėje atkūrimo papildytos kartos (RAG) aplinkoje pagrindinė kūrėjų kliūtis yra nebe pats didelės kalbos modelis (LLM), o duomenų perdavimo vamzdynas.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/",
+            "try_url": "https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/"
+          }
+        },
+        {
+          "title": "Pagaliau AI muzikos kūrimui! Nemokamas ir atviras šaltinis",
+          "link": "https://www.youtube.com/watch?v=CMuwP0u-Sjg",
+          "published_iso": "2026-03-20T03:26:10Z",
+          "published_lt": "2026-03-20 03:26 UTC",
+          "summary": "Foundation-1 diegimo pamoka. AI muzikos pavyzdžiams, stiebams, kilpoms. Seka klavišus, juostų skaičių ir BPM #ai #aimusic #aisong #suno Ačiū mūsų rėmėjui Abacus AI.",
+          "source": "AI Search",
+          "source_image_url": "https://i4.ytimg.com/vi/CMuwP0u-Sjg/hqdefault.jpg",
+          "image_url": "generated-images/2026-03-20-02-pagaliau-ai-muzikos-kurimui-nemokamas-ir-atviras-saltini.svg",
+          "kind": "video",
+          "video_id": "CMuwP0u-Sjg",
+          "bullets_lt": [
+            "Foundation-1 diegimo pamoka.",
+            "AI muzikos pavyzdžiams, stiebams, kilpoms.",
+            "Seka klavišus, juostų skaičių ir BPM #ai #aimusic #aisong #suno Ačiū mūsų rėmėjui Abacus AI."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=CMuwP0u-Sjg",
+            "try_url": "https://www.youtube.com/watch?v=CMuwP0u-Sjg"
+          }
+        },
+        {
+          "title": "„Google Colab“ dabar turi atvirojo kodo MCP (model Context Protocol) serverį: naudokite „Colab Runtimes“ su GPU iš bet kurio vietinio AI agento",
+          "link": "https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/",
+          "published_iso": "2026-03-19T22:45:39Z",
+          "published_lt": "2026-03-19 22:45 UTC",
+          "summary": "„Google“ oficialiai išleido „Colab MCP Server“ – modelio konteksto protokolo (MCP) įgyvendinimą, leidžiantį dirbtinio intelekto agentams tiesiogiai sąveikauti su „Google Colab“ aplinka.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-59.png",
+          "image_url": "generated-images/2026-03-20-03-google-colab-dabar-turi-atvirojo-kodo-mcp-model-context-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google“ oficialiai išleido „Colab MCP Server“ – modelio konteksto protokolo (MCP) įgyvendinimą, leidžiantį dirbtinio intelekto agentams tiesiogiai sąveikauti su „Google Colab“ aplinka.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/",
+            "try_url": "https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/"
+          }
+        },
+        {
+          "title": "Visa parengia mokėjimo sistemas dirbtinio intelekto agento inicijuotoms operacijoms",
+          "link": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
+          "published_iso": "2026-03-19T10:00:00Z",
+          "published_lt": "2026-03-19 10:00 UTC",
+          "summary": "Mokėjimai remiasi paprastu modeliu: žmogus nusprendžia ką nors nusipirkti, o bankas ar kortelių tinklas apdoroja operaciją. Šis modelis pradeda keistis, nes „Visa“ tikrina, kaip AI agentai gali inicijuoti mokėjimus. Nauji darbai bankininkystės sektoriuje rodo, kad kai kuriais atvejais programinės įrangos agentai netrukus gali imtis šio vaidmens.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-20-04-visa-parengia-mokejimo-sistemas-dirbtinio-intelekto-agen.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Mokėjimai remiasi paprastu modeliu: žmogus nusprendžia ką nors nusipirkti, o bankas ar kortelių tinklas apdoroja operaciją.",
+            "Šis modelis pradeda keistis, nes „Visa“ tikrina, kaip AI agentai gali inicijuoti mokėjimus.",
+            "Nauji darbai bankininkystės sektoriuje rodo, kad kai kuriais atvejais programinės įrangos agentai netrukus gali imtis šio vaidmens.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Dar neissleista arba arteja."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "„Visa“ modelyje programinės įrangos agentai, remdamiesi vartotojo apibrėžtomis taisyklėmis, galėtų atlikti įprastinius arba pakartotinius pirkinius su ribotu žmogaus indėliu.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Dar neissleista arba arteja.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
+          }
+        },
+        {
+          "title": "Kodavimo vadovas, kaip įdiegti pažangius diferencialinių lygčių sprendinius, stochastinius modeliavimus ir nervines įprastąsias diferencialines lygtis naudojant difraksą ir JAX",
+          "link": "https://www.marktechpost.com/2026/03/19/a-coding-guide-to-implement-advanced-differential-equation-solvers-stochastic-simulations-and-neural-ordinary-differential-equations-using-diffrax-and-jax/",
+          "published_iso": "2026-03-19T08:11:01Z",
+          "published_lt": "2026-03-19 08:11 UTC",
+          "summary": "Šiame vadove mes tiriame, kaip išspręsti diferencialines lygtis ir sukurti neuroninių diferencialinių lygčių modelius naudojant Diffrax biblioteką. Pirmiausia sukuriame švarią skaičiavimo aplinką ir įdiegiame reikalingas mokslines skaičiavimo bibliotekas, tokias kaip JAX, Diffrax, Equinox ir Optax.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-20-05-kodavimo-vadovas-kaip-idiegti-pazangius-diferencialiniu-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove mes tiriame, kaip išspręsti diferencialines lygtis ir sukurti neuroninių diferencialinių lygčių modelius naudojant Diffrax biblioteką.",
+            "Pirmiausia sukuriame švarią skaičiavimo aplinką ir įdiegiame reikalingas mokslines skaičiavimo bibliotekas, tokias kaip JAX, Diffrax, Equinox ir Optax.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/19/a-coding-guide-to-implement-advanced-differential-equation-solvers-stochastic-simulations-and-neural-ordinary-differential-equations-using-diffrax-and-jax/",
+            "try_url": "https://www.marktechpost.com/2026/03/19/a-coding-guide-to-implement-advanced-differential-equation-solvers-stochastic-simulations-and-neural-ordinary-differential-equations-using-diffrax-and-jax/"
+          }
+        },
+        {
+          "title": "NVIDIA nori, kad įmonės AI agentai būtų saugesni",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
+          "published_iso": "2026-03-19T08:00:00Z",
+          "published_lt": "2026-03-19 08:00 UTC",
+          "summary": "NVIDIA Agent Toolkit yra Jenseno Huango atsakymas į įmonių nuolat užduodamą klausimą: kaip priversti dirbtinio intelekto agentus dirbti neprarandant duomenų kontrolės ir atsakomybės?",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-20-06-nvidia-nori-kad-imones-ai-agentai-butu-saugesni.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "NVIDIA Agent Toolkit yra Jenseno Huango atsakymas į įmonių nuolat užduodamą klausimą: kaip priversti dirbtinio intelekto agentus dirbti neprarandant duomenų kontrolės ir atsakomybės?",
+            "Kaina: Yra nemokamas ir mokamas variantas."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
+          }
+        },
+        {
+          "title": "Susipažinkite su „Mamba-3“: nauja valstijos kosmoso modelio siena su 2 kartus mažesnėmis valstybėmis ir patobulintu MIMO dekodavimo aparatinės įrangos efektyvumu",
+          "link": "https://www.marktechpost.com/2026/03/18/meet-mamba-3-a-new-state-space-model-frontier-with-2x-smaller-states-and-enhanced-mimo-decoding-hardware-efficiency/",
+          "published_iso": "2026-03-19T06:01:22Z",
+          "published_lt": "2026-03-19 06:01 UTC",
+          "summary": "Išvados ir laiko skaičiavimo mastelio keitimas tapo pagrindine didelės kalbos modelio (LLM) našumo varomąja jėga, perkeliant architektūrinį dėmesį į išvadų efektyvumą kartu su modelio kokybe.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-20-07-susipazinkite-su-mamba-3-nauja-valstijos-kosmoso-modelio.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Išvados ir laiko skaičiavimo mastelio keitimas tapo pagrindine didelės kalbos modelio (LLM) našumo varomąja jėga, perkeliant architektūrinį dėmesį į išvadų efektyvumą kartu su modelio kokybe.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Realios vertės linijinių modelių apribojimas yra jų nesugebėjimas išspręsti „būsenos sekimo“ užduočių, pavyzdžiui, nustatyti bitų sekų paritetą.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/18/meet-mamba-3-a-new-state-space-model-frontier-with-2x-smaller-states-and-enhanced-mimo-decoding-hardware-efficiency/",
+            "try_url": "https://www.marktechpost.com/2026/03/18/meet-mamba-3-a-new-state-space-model-frontier-with-2x-smaller-states-and-enhanced-mimo-decoding-hardware-efficiency/"
+          }
+        },
+        {
+          "title": "„Tsinghua“ ir „Ant Group“ tyrėjai pristato penkių sluoksnių, į gyvavimo ciklą orientuotą saugos sistemą, skirtą „OpenClaw“ autonominio LLM agento pažeidžiamumui sumažinti",
+          "link": "https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/",
+          "published_iso": "2026-03-18T21:04:16Z",
+          "published_lt": "2026-03-18 21:04 UTC",
+          "summary": "Savarankiški LLM agentai, tokie kaip „OpenClaw“, perkelia paradigmą nuo pasyvių padėjėjų prie iniciatyvių subjektų, galinčių atlikti sudėtingas, ilgalaikes užduotis naudodamiesi aukštų privilegijų prieiga prie sistemos.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-22-150x150.png",
+          "image_url": "generated-images/2026-03-20-08-tsinghua-ir-ant-group-tyrejai-pristato-penkiu-sluoksniu-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Savarankiški LLM agentai, tokie kaip „OpenClaw“, perkelia paradigmą nuo pasyvių padėjėjų prie iniciatyvių subjektų, galinčių atlikti sudėtingas, ilgalaikes užduotis naudodamiesi aukštų privilegijų prieiga prie sistemos.",
+            "Kaina: Yra nemokamas ir mokamas variantas."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/",
+            "try_url": "https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/"
+          }
+        },
+        {
+          "title": "Baidu Qianfan komanda išleido Qianfan-OCR: 4B parametrų vieningą dokumentų žvalgybos modelį",
+          "link": "https://www.marktechpost.com/2026/03/18/baidu-qianfan-team-releases-qianfan-ocr-a-4b-parameter-unified-document-intelligence-model/",
+          "published_iso": "2026-03-18T18:41:33Z",
+          "published_lt": "2026-03-18 18:41 UTC",
+          "summary": "Baidu Qianfan komanda pristatė Qianfan-OCR – 4B parametrų galutinį modelį, skirtą suvienodinti dokumentų analizavimą, išdėstymo analizę ir dokumentų supratimą vienoje vizijos kalbos architektūroje.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-18-at-11.40.01-AM-1-150x150.png",
+          "image_url": "generated-images/2026-03-20-09-baidu-qianfan-komanda-isleido-qianfan-ocr-4b-parametru-v.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Baidu Qianfan komanda pristatė Qianfan-OCR – 4B parametrų galutinį modelį, skirtą suvienodinti dokumentų analizavimą, išdėstymo analizę ir dokumentų supratimą vienoje vizijos kalbos architektūroje.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Sistemą sudaro trys pagrindiniai komponentai: Pagrindinė modelio ypatybė yra Layout-as-Thought , pasirenkama mąstymo fazė, suaktyvinama žetonų.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/18/baidu-qianfan-team-releases-qianfan-ocr-a-4b-parameter-unified-document-intelligence-model/",
+            "try_url": "https://www.marktechpost.com/2026/03/18/baidu-qianfan-team-releases-qianfan-ocr-a-4b-parameter-unified-document-intelligence-model/"
+          }
+        },
+        {
+          "title": "„Mastercard“ stebi sukčiavimą naudodami naują pagrindo modelį",
+          "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+          "published_iso": "2026-03-18T15:31:00Z",
+          "published_lt": "2026-03-18 15:31 UTC",
+          "summary": "„Mastercard“ sukūrė didelį lentelės modelį (LTM, o ne LLM), kuris yra apmokytas operacijų duomenimis, o ne tekstu ar vaizdais, kad padėtų išspręsti skaitmeninių mokėjimų saugumo ir autentiškumo problemas.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-20-10-mastercard-stebi-sukciavima-naudodami-nauja-pagrindo-mod.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Mastercard“ sukūrė didelį lentelės modelį (LTM, o ne LLM), kuris yra apmokytas operacijų duomenimis, o ne tekstu ar vaizdais, kad padėtų išspręsti skaitmeninių mokėjimų saugumo ir autentiškumo problemas."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
+          }
+        },
+        {
+          "title": "Kad dirbtinis intelektas būtų veiksmingas, draudimas turi sutvarkyti savo duomenų namus",
+          "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+          "published_iso": "2026-03-18T14:37:00Z",
+          "published_lt": "2026-03-18 14:37 UTC",
+          "summary": "Autorek, DI sprendimų tiekėjo draudimo pramonei, ataskaita parengė ataskaitą, kurioje aprašomas įmonių vidinių procesų veiklos trukdis, kuris ne tik daro įtaką bendram efektyvumui, bet ir trukdo veiksmingai diegti DI draudimo srityje.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-20-11-kad-dirbtinis-intelektas-butu-veiksmingas-draudimas-turi.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Autorek, DI sprendimų tiekėjo draudimo pramonei, ataskaita parengė ataskaitą, kurioje aprašomas įmonių vidinių procesų veiklos trukdis, kuris ne tik daro įtaką bendram efektyvumui, bet ir trukdo veiksmingai diegti DI draudimo srityje."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Ataskaitoje nurodoma, kad pagrindinės problemos, kurias įmonės turi išspręsti, kad įdiegtų dirbtinį intelektą, yra senų sistemų integravimas, suskaidyti duomenys ir ribota vidinė kompetencija.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
+          }
+        },
+        {
+          "title": "Rakuten x Codex: AI gali suteikti jums galių",
+          "link": "https://www.youtube.com/shorts/uobQ5nOkPZ4",
+          "published_iso": "2026-03-17T21:00:42Z",
+          "published_lt": "2026-03-17 21:00 UTC",
+          "summary": "Yusuke Kaji, Rakuten AI verslui GM, dalijasi, kaip Codex įgalina jo komandą. Žiūrėkite visą vaizdo įrašą: https://www.youtube.com/watch?v=gZQQR_tDGuM",
+          "source": "OpenAI",
+          "source_image_url": "https://i2.ytimg.com/vi/uobQ5nOkPZ4/hqdefault.jpg",
+          "image_url": "generated-images/2026-03-20-12-rakuten-x-codex-ai-gali-suteikti-jums-galiu.svg",
+          "kind": "video",
+          "video_id": "uobQ5nOkPZ4",
+          "bullets_lt": [
+            "Yusuke Kaji, Rakuten AI verslui GM, dalijasi, kaip Codex įgalina jo komandą.",
+            "Žiūrėkite visą vaizdo įrašą: https://www.youtube.com/watch?v=gZQQR_tDGuM."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/uobQ5nOkPZ4",
+            "try_url": "https://www.youtube.com/shorts/uobQ5nOkPZ4"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-03-19",
       "generated_at_utc": "2026-03-19T07:42:41Z",
