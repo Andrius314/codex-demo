@@ -1,10 +1,92 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-03-20",
-  "generated_at_utc": "2026-03-20T07:41:32Z",
+  "digest_date": "2026-03-21",
+  "generated_at_utc": "2026-03-21T07:29:22Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "NVIDIA išleido „Nemotron-Cascade 2“: atvirą 30B MoE su 3B aktyviais parametrais, suteikiantį geresnį samprotavimą ir stiprias agento galimybes",
+      "link": "https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/",
+      "published_iso": "2026-03-20T22:38:13Z",
+      "published_lt": "2026-03-20 22:38 UTC",
+      "summary": "NVIDIA paskelbė apie Nemotron-Cascade 2, atviro svorio 30B Mixture-of-Experts (MoE) modelio su 3B aktyvuotais parametrais, išleidimą. Šiame modelyje pagrindinis dėmesys skiriamas „žvalgybos tankio“ didinimui, suteikiant pažangias samprotavimo galimybes, kurių parametrų skalė naudojama pasienio modeliuose.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-20-at-3.11.01-PM-1-150x150.png",
+      "image_url": "generated-images/2026-03-21-01-nvidia-isleido-nemotron-cascade-2-atvira-30b-moe-su-3b-a.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "NVIDIA paskelbė apie Nemotron-Cascade 2, atviro svorio 30B Mixture-of-Experts (MoE) modelio su 3B aktyvuotais parametrais, išleidimą.",
+        "Šiame modelyje pagrindinis dėmesys skiriamas „žvalgybos tankio“ didinimui, suteikiant pažangias samprotavimo galimybes, kurių parametrų skalė naudojama pasienio modeliuose.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "SFT metu NVIDIA tyrimų grupė panaudojo kruopščiai kuruotą duomenų rinkinį, kuriame mėginiai buvo supakuoti į iki 256 000 žetonų sekas.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/",
+        "try_url": "https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/"
+      }
+    },
+    {
+      "title": "Kodavimo diegimas, demonstruojantis „ClawTeam“ kelių agentų būrio orkestravimą su „OpenAI“ funkcijos iškvietimu",
+      "link": "https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/",
+      "published_iso": "2026-03-20T18:09:10Z",
+      "published_lt": "2026-03-20 18:09 UTC",
+      "summary": "Šioje išsamioje mokymo programoje pristatome pagrindinę ClawTeam architektūrą – atvirojo kodo Agent Swarm Intelligence sistemą, kurią sukūrė HKUDS.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-21-02-kodavimo-diegimas-demonstruojantis-clawteam-keliu-agentu.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje išsamioje mokymo programoje pristatome pagrindinę ClawTeam architektūrą – atvirojo kodo Agent Swarm Intelligence sistemą, kurią sukūrė HKUDS.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/",
+        "try_url": "https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/"
+      }
+    },
+    {
+      "title": "Iš jūsų virtuvės klientams | su ChatGPT",
+      "link": "https://www.youtube.com/watch?v=ApOVfOGWTJU",
+      "published_iso": "2026-03-20T16:16:16Z",
+      "published_lt": "2026-03-20 16:16 UTC",
+      "summary": "Milijonai žmonių kasdien naudoja ChatGPT, kad sukurtų jiems svarbius dalykus. Daugeliui namuose dirbančių verslo moterų atotrūkis tarp pomėgio ir verslo gali jaustis didžiulis.",
+      "source": "OpenAI",
+      "source_image_url": "https://i2.ytimg.com/vi/ApOVfOGWTJU/hqdefault.jpg",
+      "image_url": "generated-images/2026-03-21-03-is-jusu-virtuves-klientams-su-chatgpt.svg",
+      "kind": "video",
+      "video_id": "ApOVfOGWTJU",
+      "bullets_lt": [
+        "Milijonai žmonių kasdien naudoja ChatGPT, kad sukurtų jiems svarbius dalykus.",
+        "Daugeliui namuose dirbančių verslo moterų atotrūkis tarp pomėgio ir verslo gali jaustis didžiulis."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=ApOVfOGWTJU",
+        "try_url": "https://www.youtube.com/watch?v=ApOVfOGWTJU"
+      }
+    },
     {
       "title": "„LlamaIndex“ išleido „LiteParse“: CLI ir „TypeScript“ savąją biblioteką, skirtą erdviniam PDF analizei dirbtinio intelekto agento darbo eigose",
       "link": "https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/",
@@ -13,7 +95,7 @@
       "summary": "Dabartinėje atkūrimo papildytos kartos (RAG) aplinkoje pagrindinė kūrėjų kliūtis yra nebe pats didelės kalbos modelis (LLM), o duomenų perdavimo vamzdynas.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-20-01-llamaindex-isleido-liteparse-cli-ir-typescript-savaja-bi.svg",
+      "image_url": "generated-images/2026-03-21-04-llamaindex-isleido-liteparse-cli-ir-typescript-savaja-bi.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -40,7 +122,7 @@
       "summary": "Foundation-1 diegimo pamoka. AI muzikos pavyzdžiams, stiebams, kilpoms. Seka klavišus, juostų skaičių ir BPM #ai #aimusic #aisong #suno Ačiū mūsų rėmėjui Abacus AI.",
       "source": "AI Search",
       "source_image_url": "https://i4.ytimg.com/vi/CMuwP0u-Sjg/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-20-02-pagaliau-ai-muzikos-kurimui-nemokamas-ir-atviras-saltini.svg",
+      "image_url": "generated-images/2026-03-21-05-pagaliau-ai-muzikos-kurimui-nemokamas-ir-atviras-saltini.svg",
       "kind": "video",
       "video_id": "CMuwP0u-Sjg",
       "bullets_lt": [
@@ -67,7 +149,7 @@
       "summary": "„Google“ oficialiai išleido „Colab MCP Server“ – modelio konteksto protokolo (MCP) įgyvendinimą, leidžiantį dirbtinio intelekto agentams tiesiogiai sąveikauti su „Google Colab“ aplinka.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-59.png",
-      "image_url": "generated-images/2026-03-20-03-google-colab-dabar-turi-atvirojo-kodo-mcp-model-context-.svg",
+      "image_url": "generated-images/2026-03-21-06-google-colab-dabar-turi-atvirojo-kodo-mcp-model-context-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -95,7 +177,7 @@
       "summary": "Mokėjimai remiasi paprastu modeliu: žmogus nusprendžia ką nors nusipirkti, o bankas ar kortelių tinklas apdoroja operaciją. Šis modelis pradeda keistis, nes „Visa“ tikrina, kaip AI agentai gali inicijuoti mokėjimus. Nauji darbai bankininkystės sektoriuje rodo, kad kai kuriais atvejais programinės įrangos agentai netrukus gali imtis šio vaidmens.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-20-04-visa-parengia-mokejimo-sistemas-dirbtinio-intelekto-agen.svg",
+      "image_url": "generated-images/2026-03-21-07-visa-parengia-mokejimo-sistemas-dirbtinio-intelekto-agen.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -124,7 +206,7 @@
       "summary": "Šiame vadove mes tiriame, kaip išspręsti diferencialines lygtis ir sukurti neuroninių diferencialinių lygčių modelius naudojant Diffrax biblioteką. Pirmiausia sukuriame švarią skaičiavimo aplinką ir įdiegiame reikalingas mokslines skaičiavimo bibliotekas, tokias kaip JAX, Diffrax, Equinox ir Optax.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-20-05-kodavimo-vadovas-kaip-idiegti-pazangius-diferencialiniu-.svg",
+      "image_url": "generated-images/2026-03-21-08-kodavimo-vadovas-kaip-idiegti-pazangius-diferencialiniu-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -152,7 +234,7 @@
       "summary": "NVIDIA Agent Toolkit yra Jenseno Huango atsakymas į įmonių nuolat užduodamą klausimą: kaip priversti dirbtinio intelekto agentus dirbti neprarandant duomenų kontrolės ir atsakomybės?",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-20-06-nvidia-nori-kad-imones-ai-agentai-butu-saugesni.svg",
+      "image_url": "generated-images/2026-03-21-09-nvidia-nori-kad-imones-ai-agentai-butu-saugesni.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -178,7 +260,7 @@
       "summary": "Išvados ir laiko skaičiavimo mastelio keitimas tapo pagrindine didelės kalbos modelio (LLM) našumo varomąja jėga, perkeliant architektūrinį dėmesį į išvadų efektyvumą kartu su modelio kokybe.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-20-07-susipazinkite-su-mamba-3-nauja-valstijos-kosmoso-modelio.svg",
+      "image_url": "generated-images/2026-03-21-10-susipazinkite-su-mamba-3-nauja-valstijos-kosmoso-modelio.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -204,7 +286,7 @@
       "summary": "Savarankiški LLM agentai, tokie kaip „OpenClaw“, perkelia paradigmą nuo pasyvių padėjėjų prie iniciatyvių subjektų, galinčių atlikti sudėtingas, ilgalaikes užduotis naudodamiesi aukštų privilegijų prieiga prie sistemos.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-22-150x150.png",
-      "image_url": "generated-images/2026-03-20-08-tsinghua-ir-ant-group-tyrejai-pristato-penkiu-sluoksniu-.svg",
+      "image_url": "generated-images/2026-03-21-11-tsinghua-ir-ant-group-tyrejai-pristato-penkiu-sluoksniu-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -230,7 +312,7 @@
       "summary": "Baidu Qianfan komanda pristatė Qianfan-OCR – 4B parametrų galutinį modelį, skirtą suvienodinti dokumentų analizavimą, išdėstymo analizę ir dokumentų supratimą vienoje vizijos kalbos architektūroje.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-18-at-11.40.01-AM-1-150x150.png",
-      "image_url": "generated-images/2026-03-20-09-baidu-qianfan-komanda-isleido-qianfan-ocr-4b-parametru-v.svg",
+      "image_url": "generated-images/2026-03-21-12-baidu-qianfan-komanda-isleido-qianfan-ocr-4b-parametru-v.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -246,82 +328,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/18/baidu-qianfan-team-releases-qianfan-ocr-a-4b-parameter-unified-document-intelligence-model/",
         "try_url": "https://www.marktechpost.com/2026/03/18/baidu-qianfan-team-releases-qianfan-ocr-a-4b-parameter-unified-document-intelligence-model/"
-      }
-    },
-    {
-      "title": "„Mastercard“ stebi sukčiavimą naudodami naują pagrindo modelį",
-      "link": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
-      "published_iso": "2026-03-18T15:31:00Z",
-      "published_lt": "2026-03-18 15:31 UTC",
-      "summary": "„Mastercard“ sukūrė didelį lentelės modelį (LTM, o ne LLM), kuris yra apmokytas operacijų duomenimis, o ne tekstu ar vaizdais, kad padėtų išspręsti skaitmeninių mokėjimų saugumo ir autentiškumo problemas.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-20-10-mastercard-stebi-sukciavima-naudodami-nauja-pagrindo-mod.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Mastercard“ sukūrė didelį lentelės modelį (LTM, o ne LLM), kuris yra apmokytas operacijų duomenimis, o ne tekstu ar vaizdais, kad padėtų išspręsti skaitmeninių mokėjimų saugumo ir autentiškumo problemas."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
-      }
-    },
-    {
-      "title": "Kad dirbtinis intelektas būtų veiksmingas, draudimas turi sutvarkyti savo duomenų namus",
-      "link": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
-      "published_iso": "2026-03-18T14:37:00Z",
-      "published_lt": "2026-03-18 14:37 UTC",
-      "summary": "Autorek, DI sprendimų tiekėjo draudimo pramonei, ataskaita parengė ataskaitą, kurioje aprašomas įmonių vidinių procesų veiklos trukdis, kuris ne tik daro įtaką bendram efektyvumui, bet ir trukdo veiksmingai diegti DI draudimo srityje.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-20-11-kad-dirbtinis-intelektas-butu-veiksmingas-draudimas-turi.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Autorek, DI sprendimų tiekėjo draudimo pramonei, ataskaita parengė ataskaitą, kurioje aprašomas įmonių vidinių procesų veiklos trukdis, kuris ne tik daro įtaką bendram efektyvumui, bet ir trukdo veiksmingai diegti DI draudimo srityje."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Ataskaitoje nurodoma, kad pagrindinės problemos, kurias įmonės turi išspręsti, kad įdiegtų dirbtinį intelektą, yra senų sistemų integravimas, suskaidyti duomenys ir ribota vidinė kompetencija.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
-      }
-    },
-    {
-      "title": "Rakuten x Codex: AI gali suteikti jums galių",
-      "link": "https://www.youtube.com/shorts/uobQ5nOkPZ4",
-      "published_iso": "2026-03-17T21:00:42Z",
-      "published_lt": "2026-03-17 21:00 UTC",
-      "summary": "Yusuke Kaji, Rakuten AI verslui GM, dalijasi, kaip Codex įgalina jo komandą. Žiūrėkite visą vaizdo įrašą: https://www.youtube.com/watch?v=gZQQR_tDGuM",
-      "source": "OpenAI",
-      "source_image_url": "https://i2.ytimg.com/vi/uobQ5nOkPZ4/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-20-12-rakuten-x-codex-ai-gali-suteikti-jums-galiu.svg",
-      "kind": "video",
-      "video_id": "uobQ5nOkPZ4",
-      "bullets_lt": [
-        "Yusuke Kaji, Rakuten AI verslui GM, dalijasi, kaip Codex įgalina jo komandą.",
-        "Žiūrėkite visą vaizdo įrašą: https://www.youtube.com/watch?v=gZQQR_tDGuM."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/uobQ5nOkPZ4",
-        "try_url": "https://www.youtube.com/shorts/uobQ5nOkPZ4"
       }
     }
   ]
