@@ -1,24 +1,162 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-03-23",
-  "generated_at_utc": "2026-03-23T07:58:31Z",
+  "digest_date": "2026-03-24",
+  "generated_at_utc": "2026-03-24T07:50:46Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Yann LeCun naujasis LeWorldModel (LeWM) tyrimas skirtas JEPA žlugimui taškais pagrįstame nuspėjamajame pasaulio modeliavime",
+      "link": "https://www.marktechpost.com/2026/03/23/yann-lecuns-new-leworldmodel-lewm-research-targets-jepa-collapse-in-pixel-based-predictive-world-modeling/",
+      "published_iso": "2026-03-24T05:53:58Z",
+      "published_lt": "2026-03-24 05:53 UTC",
+      "summary": "Pasaulio modeliai (WM) yra pagrindinė sistema, skirta kurti agentus, kurie mąsto ir planuoja kompaktiškoje latentinėje erdvėje. Tačiau šių modelių mokymas tiesiai iš pikselių duomenų dažnai sukelia „vaizdavimo žlugimą“, kai modelis sukuria perteklinius įterpimus, kad nereikšmingai patenkintų numatymo tikslus.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-24-01-yann-lecun-naujasis-leworldmodel-lewm-tyrimas-skirtas-je.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Pasaulio modeliai (WM) yra pagrindinė sistema, skirta kurti agentus, kurie mąsto ir planuoja kompaktiškoje latentinėje erdvėje.",
+        "Tačiau šių modelių mokymas tiesiai iš pikselių duomenų dažnai sukelia „vaizdavimo žlugimą“, kai modelis sukuria perteklinius įterpimus, kad nereikšmingai patenkintų numatymo tikslus.",
+        "Kaina: Yra nemokamas ir mokamas variantas."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/23/yann-lecuns-new-leworldmodel-lewm-research-targets-jepa-collapse-in-pixel-based-predictive-world-modeling/",
+        "try_url": "https://www.marktechpost.com/2026/03/23/yann-lecuns-new-leworldmodel-lewm-research-targets-jepa-collapse-in-pixel-based-predictive-world-modeling/"
+      }
+    },
+    {
+      "title": "Naujieji „Meta AI“ hiperagentai ne tik sprendžia užduotis – jie perrašo mokymosi taisykles",
+      "link": "https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/",
+      "published_iso": "2026-03-24T01:42:07Z",
+      "published_lt": "2026-03-24 01:42 UTC",
+      "summary": "Svajonė apie pasikartojantį savęs tobulinimą dirbtinio intelekto srityje – kai sistema ne tik geriau atlieka užduotį, bet ir geriau mokosi – jau seniai buvo šios srities „šventasis gralis“. Nors teoriniai modeliai, tokie kaip Gödelio mašina, egzistavo dešimtmečius, realiame pasaulyje jie išliko nepraktiški.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-23-at-6.33.58-PM-1-150x150.png",
+      "image_url": "generated-images/2026-03-24-02-naujieji-meta-ai-hiperagentai-ne-tik-sprendzia-uzduotis-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Svajonė apie pasikartojantį savęs tobulinimą dirbtinio intelekto srityje – kai sistema ne tik geriau atlieka užduotį, bet ir geriau mokosi – jau seniai buvo šios srities „šventasis gralis“.",
+        "Nors teoriniai modeliai, tokie kaip Gödelio mašina, egzistavo dešimtmečius, realiame pasaulyje jie išliko nepraktiški.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Tai apribojo sistemos augimą iki žmogaus sukurto meta agento ribų.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/",
+        "try_url": "https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/"
+      }
+    },
+    {
+      "title": "„Luma Labs“ pristato „Uni-1“: automatinio regresyvaus transformatoriaus modelį, kuris motyvuoja ketinimus prieš generuodamas vaizdus",
+      "link": "https://www.marktechpost.com/2026/03/23/luma-labs-launches-uni-1-the-autoregressive-transformer-model-that-reasons-through-intentions-before-generating-images/",
+      "published_iso": "2026-03-24T00:44:12Z",
+      "published_lt": "2026-03-24 00:44 UTC",
+      "summary": "Generatyvios AI medijos srityje pramonė pereina nuo grynai tikimybinės pikselių sintezės prie modelių, galinčių struktūriškai mąstyti. „Luma Labs“ ką tik išleido „Uni-1“ – pagrindinį vaizdo modelį, skirtą pašalinti „ketinimų atotrūkį“, būdingą standartiniams difuzijos vamzdynams.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-24-03-luma-labs-pristato-uni-1-automatinio-regresyvaus-transfo.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Generatyvios AI medijos srityje pramonė pereina nuo grynai tikimybinės pikselių sintezės prie modelių, galinčių struktūriškai mąstyti.",
+        "„Luma Labs“ ką tik išleido „Uni-1“ – pagrindinį vaizdo modelį, skirtą pašalinti „ketinimų atotrūkį“, būdingą standartiniams difuzijos vamzdynams.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Šis pokytis yra techniškai reikšmingas, nes leidžia modeliui tekstą ir vaizdus traktuoti kaip žetonų seką.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/23/luma-labs-launches-uni-1-the-autoregressive-transformer-model-that-reasons-through-intentions-before-generating-images/",
+        "try_url": "https://www.marktechpost.com/2026/03/23/luma-labs-launches-uni-1-the-autoregressive-transformer-model-that-reasons-through-intentions-before-generating-images/"
+      }
+    },
+    {
+      "title": "Kaip sukurti gamybai paruoštą AI agentą, kuris automatizuoja „Google Colab“ darbo eigas naudojant „Colab-MCP“, MCP įrankius, „FastMCP“ ir branduolio vykdymą",
+      "link": "https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/",
+      "published_iso": "2026-03-23T18:33:06Z",
+      "published_lt": "2026-03-23 18:33 UTC",
+      "summary": "Šioje mokymo programoje sukuriame pažangią praktinę mokymo programą apie naujai išleistą Google colab-mcp – atvirojo kodo MCP (Model Context Protocol) serverį, leidžiantį bet kuriam AI agentui programiškai valdyti „Google Colab“ bloknotus ir vykdymo laiką.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-24-04-kaip-sukurti-gamybai-paruosta-ai-agenta-kuris-automatizu.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje sukuriame pažangią praktinę mokymo programą apie naujai išleistą Google colab-mcp – atvirojo kodo MCP (Model Context Protocol) serverį, leidžiantį bet kuriam AI agentui programiškai valdyti „Google Colab“ bloknotus ir vykdymo laiką.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "importo subprocesas, sys def install(pkg): subprocess.check_call([sys.executable, \"-m\", \"pip\", \"install\", \"-q\", pkg]) install(\"fastmcp>=2.2.0, =15.0.1\") install(\"pydantic>=2.0.0, =2.32.0\") install(\"httpx\") install(\"go...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/",
+        "try_url": "https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/"
+      }
+    },
+    {
+      "title": "Palantir AI remti JK finansines operacijas",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
+      "published_iso": "2026-03-23T13:14:23Z",
+      "published_lt": "2026-03-23 13:14 UTC",
+      "summary": "JK valdžios institucijos mano, kad norint pagerinti nacionalinių finansinių operacijų efektyvumą, reikia taikyti AI platformas iš tokių pardavėjų kaip Palantir. Šalies finansų reguliavimo institucija FCA inicijavo projektą, svertą AI siekiant nustatyti neteisėtą veiklą.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-24-05-palantir-ai-remti-jk-finansines-operacijas.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "JK valdžios institucijos mano, kad norint pagerinti nacionalinių finansinių operacijų efektyvumą, reikia taikyti AI platformas iš tokių pardavėjų kaip Palantir.",
+        "Šalies finansų reguliavimo institucija FCA inicijavo projektą, svertą AI siekiant nustatyti neteisėtą veiklą.",
+        "Kaina: Labiau panasu i mokama sprendima."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "£30,00",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
+      }
+    },
     {
       "title": "Kaip BM25 ir RAG skirtingai gauna informaciją?",
       "link": "https://www.marktechpost.com/2026/03/22/how-bm25-and-rag-retrieve-information-differently/",
       "published_iso": "2026-03-23T01:33:41Z",
       "published_lt": "2026-03-23 01:33 UTC",
-      "summary": "Kai įvedate užklausą į paieškos variklį, kažkas turi nuspręsti, kurie dokumentai iš tikrųjų yra svarbūs ir kaip juos reitinguoti. BM25 (Best Matching 25), algoritmas, maitinantis tokias paieškos sistemas kaip Elasticsearch ir Lucene, dešimtmečius buvo dominuojantis atsakymas į šį klausimą.",
+      "summary": "Kai įvedate užklausą į paieškos variklį, kažkas turi nuspręsti, kurie dokumentai iš tikrųjų yra svarbūs ir kaip juos reitinguoti. BM25 (Best Matching 25), algoritmas, maitinantis paieškos variklius, tokius kaip Elasticsearch ir Lucene, dešimtmečius buvo dominuojantis atsakymas į šį klausimą.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-41-150x150.png",
-      "image_url": "generated-images/2026-03-23-01-kaip-bm25-ir-rag-skirtingai-gauna-informacija.svg",
+      "image_url": "generated-images/2026-03-24-06-kaip-bm25-ir-rag-skirtingai-gauna-informacija.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "Kai įvedate užklausą į paieškos variklį, kažkas turi nuspręsti, kurie dokumentai iš tikrųjų yra svarbūs ir kaip juos reitinguoti.",
-        "BM25 (Best Matching 25), algoritmas, maitinantis tokias paieškos sistemas kaip Elasticsearch ir Lucene, dešimtmečius buvo dominuojantis atsakymas į šį klausimą.",
+        "BM25 (Best Matching 25), algoritmas, maitinantis paieškos variklius, tokius kaip Elasticsearch ir Lucene, dešimtmečius buvo dominuojantis atsakymas į šį klausimą.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas."
       ],
       "practical": {
@@ -40,7 +178,7 @@
       "summary": "Šioje mokymo programoje įdiegiame sustiprinimo mokymosi agentą, naudodami RLax – į tyrimus orientuotą biblioteką, kurią sukūrė „Google DeepMind“, skirtą sustiprinimo mokymosi algoritmams kurti naudojant JAX.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-23-02-deep-q-learning-dqn-igyvendinimas-nuo-nulio-naudojant-rl.svg",
+      "image_url": "generated-images/2026-03-24-07-deep-q-learning-dqn-igyvendinimas-nuo-nulio-naudojant-rl.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -67,7 +205,7 @@
       "summary": "Dabartinei AI agentų kūrimo būklei būdingas didelis architektūrinis susiskaidymas. Programinės įrangos kūrėjai, kuriantys autonomines sistemas, paprastai turi įsipareigoti vienai iš kelių konkuruojančių ekosistemų: „LangChain“, „AutoGen“, „CrewAI“, „OpenAI Assistants“ arba naujesnį „Claude Code“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-23-03-susipazinkite-su-gitagent-ai-agentu-dokuatoriumi-kuris-p.svg",
+      "image_url": "generated-images/2026-03-24-08-susipazinkite-su-gitagent-ai-agentu-dokuatoriumi-kuris-p.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -94,7 +232,7 @@
       "summary": "Šiame vadove tyrinėjame pymatgen bibliotekos galimybes, skirtas kompiuteriniam medžiagų mokslui naudojant Python. Pradedame nuo kristalinių struktūrų, tokių kaip silicis, natrio chloridas ir į LiFePO₄ panašios medžiagos, konstravimo, o tada tiriame jų grotelių savybes, tankį ir sudėtį.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-23-04-kristolo-strukturu-kurimo-ir-analizes-kodavimo-igyvendin.svg",
+      "image_url": "generated-images/2026-03-24-09-kristolo-strukturu-kurimo-ir-analizes-kodavimo-igyvendin.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -123,7 +261,7 @@
       "summary": "DIDELĖS DI NAUJIENOS: MiniMax M2.7, MiMo V2 Pro, MiroThinker, NemoClaw, Google Stitch ir dar daugiau #ai #ainews #aitools #aivideo #agi #singularity Ačiū mūsų rėmėjui Hubspot.",
       "source": "AI Search",
       "source_image_url": "https://i1.ytimg.com/vi/HCVkBC1Vhcw/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-23-05-ai-klases-savaime-besivystantis-di-nvidia-gtc-ai-skirta-.svg",
+      "image_url": "generated-images/2026-03-24-10-ai-klases-savaime-besivystantis-di-nvidia-gtc-ai-skirta-.svg",
       "kind": "video",
       "video_id": "HCVkBC1Vhcw",
       "bullets_lt": [
@@ -148,7 +286,7 @@
       "summary": "Naujo mašininio mokymosi modelio diegimas gamyboje yra vienas iš svarbiausių ML gyvavimo ciklo etapų. Net jei modelis gerai veikia tikrinant ir bandant duomenų rinkinius, tiesioginis esamo gamybos modelio pakeitimas gali būti rizikingas.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-40-150x150.png",
-      "image_url": "generated-images/2026-03-23-06-saugus-ml-modeliu-diegimas-gamyboje-keturios-kontroliuoj.svg",
+      "image_url": "generated-images/2026-03-24-11-saugus-ml-modeliu-diegimas-gamyboje-keturios-kontroliuoj.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -162,95 +300,11 @@
         "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Paprastai paskirstymas yra nevienodas, kad būtų apribota rizika – pavyzdžiui, 90 % užklausų ir toliau gali būti aptarnaujamos naudojant senąjį modelį, o tik 10 % užklausų nukreipiama į kandidatinį modelį.",
+        "online_limitai": "Paskirstymas paprastai yra nevienodas, kad būtų apribota rizika – pavyzdžiui, 90 % užklausų ir toliau gali būti aptarnaujamos naudojant senąjį modelį, o tik 10 % užklausų nukreipiama į kandidatą.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Panasu, kad jau galima bandyti.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/21/safely-deploying-ml-models-to-production-four-controlled-strategies-a-b-canary-interleaved-shadow-testing/",
         "try_url": "https://www.marktechpost.com/2026/03/21/safely-deploying-ml-models-to-production-four-controlled-strategies-a-b-canary-interleaved-shadow-testing/"
-      }
-    },
-    {
-      "title": "Kodavimo diegimas, skirtas sukurti neapibrėžtumą suvokiančią LLM sistemą su pasitikėjimo įvertinimu, savęs vertinimu ir automatiniu žiniatinklio tyrimu",
-      "link": "https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/",
-      "published_iso": "2026-03-21T21:39:10Z",
-      "published_lt": "2026-03-21 21:39 UTC",
-      "summary": "Šiame vadove mes sukuriame neapibrėžtumą suvokiančią didelės kalbos modelio sistemą, kuri ne tik generuoja atsakymus, bet ir įvertina pasitikėjimą tais atsakymais. Įdiegiame trijų etapų samprotavimo vamzdyną, kuriame modelis pirmiausia pateikia atsakymą kartu su savo paties praneštu pasitikėjimo balu ir pagrindimu.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-23-07-kodavimo-diegimas-skirtas-sukurti-neapibreztuma-suvokian.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šiame vadove mes sukuriame neapibrėžtumą suvokiančią didelės kalbos modelio sistemą, kuri ne tik generuoja atsakymus, bet ir įvertina pasitikėjimą tais atsakymais.",
-        "Įdiegiame trijų etapų samprotavimo vamzdyną, kuriame modelis pirmiausia pateikia atsakymą kartu su savo paties praneštu pasitikėjimo balu ir pagrindimu.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Atsakykite tik JSON: { \"atsakymas\": \" \", \"pasitikėjimas\": , \"reasoning\": \" \" } \"\"\".strip() def query_llm_with_contact(question: str) -> LLMResponse: completion = client.chat.completions.create(modelis=MODEL, atsakymų...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/",
-        "try_url": "https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/"
-      }
-    },
-    {
-      "title": "NVIDIA išleidžia „Nemotron-Cascade 2“: atvirą 30B MoE su 3B aktyviais parametrais, užtikrinantį geresnį samprotavimą ir stiprias agento galimybes",
-      "link": "https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/",
-      "published_iso": "2026-03-20T22:38:13Z",
-      "published_lt": "2026-03-20 22:38 UTC",
-      "summary": "NVIDIA paskelbė apie Nemotron-Cascade 2, atviro svorio 30B Mixture-of-Experts (MoE) modelio su 3B aktyvuotais parametrais, išleidimą. Šiame modelyje pagrindinis dėmesys skiriamas „žvalgybos tankio“ didinimui, suteikiant pažangias samprotavimo galimybes, kurių parametrų skalė naudojama pasienio modeliuose.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-20-at-3.11.01-PM-1-150x150.png",
-      "image_url": "generated-images/2026-03-23-08-nvidia-isleidzia-nemotron-cascade-2-atvira-30b-moe-su-3b.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "NVIDIA paskelbė apie Nemotron-Cascade 2, atviro svorio 30B Mixture-of-Experts (MoE) modelio su 3B aktyvuotais parametrais, išleidimą.",
-        "Šiame modelyje pagrindinis dėmesys skiriamas „žvalgybos tankio“ didinimui, suteikiant pažangias samprotavimo galimybes, kurių parametrų skalė naudojama pasienio modeliuose.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "SFT metu NVIDIA tyrimų grupė panaudojo kruopščiai kuruotą duomenų rinkinį, kuriame mėginiai buvo supakuoti į iki 256 000 žetonų sekas.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/",
-        "try_url": "https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/"
-      }
-    },
-    {
-      "title": "Kodavimo diegimas, demonstruojantis „ClawTeam“ kelių agentų būrio orkestravimą su „OpenAI“ funkcijos iškvietimu",
-      "link": "https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/",
-      "published_iso": "2026-03-20T18:09:10Z",
-      "published_lt": "2026-03-20 18:09 UTC",
-      "summary": "Šioje išsamioje mokymo programoje pristatome pagrindinę ClawTeam architektūrą – atvirojo kodo Agent Swarm Intelligence sistemą, kurią sukūrė HKUDS.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-23-09-kodavimo-diegimas-demonstruojantis-clawteam-keliu-agentu.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje išsamioje mokymo programoje pristatome pagrindinę ClawTeam architektūrą – atvirojo kodo Agent Swarm Intelligence sistemą, kurią sukūrė HKUDS.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/",
-        "try_url": "https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/"
       }
     },
     {
@@ -261,7 +315,7 @@
       "summary": "Milijonai žmonių kasdien naudoja ChatGPT, kad sukurtų jiems svarbius dalykus. Daugeliui namuose dirbančių verslo moterų atotrūkis tarp pomėgio ir verslo gali jaustis didžiulis.",
       "source": "OpenAI",
       "source_image_url": "https://i2.ytimg.com/vi/ApOVfOGWTJU/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-23-10-is-jusu-virtuves-klientams-su-chatgpt.svg",
+      "image_url": "generated-images/2026-03-24-12-is-jusu-virtuves-klientams-su-chatgpt.svg",
       "kind": "video",
       "video_id": "ApOVfOGWTJU",
       "bullets_lt": [
@@ -277,61 +331,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=ApOVfOGWTJU",
         "try_url": "https://www.youtube.com/watch?v=ApOVfOGWTJU"
-      }
-    },
-    {
-      "title": "„LlamaIndex“ išleido „LiteParse“: CLI ir „TypeScript“ savąją biblioteką, skirtą erdviniam PDF analizei dirbtinio intelekto agento darbo eigose",
-      "link": "https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/",
-      "published_iso": "2026-03-20T06:43:13Z",
-      "published_lt": "2026-03-20 06:43 UTC",
-      "summary": "Dabartinėje atkūrimo papildytos kartos (RAG) aplinkoje pagrindinė kūrėjų kliūtis yra nebe pats didelės kalbos modelis (LLM), o duomenų perdavimo vamzdynas.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-23-11-llamaindex-isleido-liteparse-cli-ir-typescript-savaja-bi.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Dabartinėje atkūrimo papildytos kartos (RAG) aplinkoje pagrindinė kūrėjų kliūtis yra nebe pats didelės kalbos modelis (LLM), o duomenų perdavimo vamzdynas.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/",
-        "try_url": "https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/"
-      }
-    },
-    {
-      "title": "„Google Colab“ dabar turi atvirojo kodo MCP (modelio kontekstinio protokolo) serverį: naudokite „Colab Runtimes“ su GPU iš bet kurio vietinio AI agento",
-      "link": "https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/",
-      "published_iso": "2026-03-19T22:45:39Z",
-      "published_lt": "2026-03-19 22:45 UTC",
-      "summary": "„Google“ oficialiai išleido „Colab MCP Server“ – modelio konteksto protokolo (MCP) įgyvendinimą, leidžiantį dirbtinio intelekto agentams tiesiogiai sąveikauti su „Google Colab“ aplinka.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-59.png",
-      "image_url": "generated-images/2026-03-23-12-google-colab-dabar-turi-atvirojo-kodo-mcp-modelio-kontek.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google“ oficialiai išleido „Colab MCP Server“ – modelio konteksto protokolo (MCP) įgyvendinimą, leidžiantį dirbtinio intelekto agentams tiesiogiai sąveikauti su „Google Colab“ aplinka.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/",
-        "try_url": "https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/"
       }
     }
   ]
