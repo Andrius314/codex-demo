@@ -1,10 +1,226 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-03-25",
-  "generated_at_utc": "2026-03-25T07:49:52Z",
+  "digest_date": "2026-03-26",
+  "generated_at_utc": "2026-03-26T07:58:50Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Tencent AI atvirųjų šaltinių Covo-Audio: 7B kalbos modelis ir išvadų sistema, skirta garso pokalbiams realiuoju laiku ir samprotavimui",
+      "link": "https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/",
+      "published_iso": "2026-03-26T07:33:55Z",
+      "published_lt": "2026-03-26 07:33 UTC",
+      "summary": "Tencent AI Lab išleido Covo-Audio, 7B parametrų nuo galo iki galo didelės garso kalbos modelį (LALM). Modelis sukurtas taip, kad suvienytų kalbos apdorojimą ir kalbos intelektą, tiesiogiai apdorojant nuolatines garso įvestis ir generuojant garso išvestis vienoje architektūroje.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-12.33.14-AM-1-150x150.png",
+      "image_url": "generated-images/2026-03-26-01-tencent-ai-atviruju-saltiniu-covo-audio-7b-kalbos-modeli.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Tencent AI Lab išleido Covo-Audio, 7B parametrų nuo galo iki galo didelės garso kalbos modelį (LALM).",
+        "Modelis sukurtas taip, kad suvienytų kalbos apdorojimą ir kalbos intelektą, tiesiogiai apdorojant nuolatines garso įvestis ir generuojant garso išvestis vienoje architektūroje.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Skirtingai nuo tradicinių metodų, kurie veikia tik žodžio ar simbolių lygmeniu, ši sistema suderina ištisines akustines savybes (a c) (a_c), atskirus kalbos žetonus (a d) (a_d) ir natūralios kalbos tekstą (t) (t).",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/",
+        "try_url": "https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/"
+      }
+    },
+    {
+      "title": "Kaip sukurti vizija valdomą žiniatinklio AI agentą naudojant „MolmoWeb-4B“, naudojant daugiarūšį samprotavimą ir veiksmų numatymą",
+      "link": "https://www.marktechpost.com/2026/03/25/how-to-build-a-vision-guided-web-ai-agent-with-molmoweb-4b-using-multimodal-reasoning-and-action-prediction/",
+      "published_iso": "2026-03-25T23:13:43Z",
+      "published_lt": "2026-03-25 23:13 UTC",
+      "summary": "Šioje mokymo programoje tyrinėjame MolmoWeb, Ai2 atvirą daugiarūšį žiniatinklio agentą, kuris supranta svetaines ir sąveikauja su jomis tiesiogiai iš ekrano kopijų, nepasitikėdamas HTML ar DOM analizavimu.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-26-02-kaip-sukurti-vizija-valdoma-ziniatinklio-ai-agenta-naudo.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje tyrinėjame MolmoWeb, Ai2 atvirą daugiarūšį žiniatinklio agentą, kuris supranta svetaines ir sąveikauja su jomis tiesiogiai iš ekrano kopijų, nepasitikėdamas HTML ar DOM analizavimu.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "print(\"=\" * 70) print(\"1 SKYRIUS: Priklausomybių diegimas...\") print(\"=\" * 70) importuoti subprocesą, sys def pip_install(*packages): subprocess.check_call( [sys.executable, \"-m\", \"pip\", \"install\", \"-q\"] + list(packer...",
+        "lokalus_reikalavimai": "Aptikta: CUDA, 6 GB VRAM",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/25/how-to-build-a-vision-guided-web-ai-agent-with-molmoweb-4b-using-multimodal-reasoning-and-action-prediction/",
+        "try_url": "https://www.marktechpost.com/2026/03/25/how-to-build-a-vision-guided-web-ai-agent-with-molmoweb-4b-using-multimodal-reasoning-and-action-prediction/"
+      }
+    },
+    {
+      "title": "15 serija – modelio specifikacijos viduje",
+      "link": "https://www.youtube.com/watch?v=H8GMRxG8suw",
+      "published_iso": "2026-03-25T16:55:00Z",
+      "published_lt": "2026-03-25 16:55 UTC",
+      "summary": "Kuo daugiau AI gali padaryti, tuo daugiau turime klausti, ką jis turėtų ir ko ne. Šiame epizode OpenAI tyrėjas Jasonas Wolfe'as prisijungia prie šeimininko Andrew Mayne'o, kad pakalbėtų apie modelio specifikaciją – viešąją sistemą, apibrėžiančią numatomą modelio elgesį.",
+      "source": "OpenAI",
+      "source_image_url": "https://i1.ytimg.com/vi/H8GMRxG8suw/hqdefault.jpg",
+      "image_url": "generated-images/2026-03-26-03-15-serija-modelio-specifikacijos-viduje.svg",
+      "kind": "video",
+      "video_id": "H8GMRxG8suw",
+      "bullets_lt": [
+        "Kuo daugiau AI gali padaryti, tuo daugiau turime klausti, ką jis turėtų ir ko ne.",
+        "Šiame epizode OpenAI tyrėjas Jasonas Wolfe'as prisijungia prie šeimininko Andrew Mayne'o, kad pakalbėtų apie modelio specifikaciją – viešąją sistemą, apibrėžiančią numatomą modelio elgesį.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=H8GMRxG8suw",
+        "try_url": "https://www.youtube.com/watch?v=H8GMRxG8suw"
+      }
+    },
+    {
+      "title": "Kurkite naudodami mūsų naujausios kartos muzikos modelį Lyria 3",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "published_iso": "2026-03-25T16:00:00Z",
+      "published_lt": "2026-03-25 16:00 UTC",
+      "summary": "„Lyria 3“ dabar pasiekiama mokama peržiūra per „Gemini“ API ir išbandyti naudojant „Google AI Studio“.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWithLyria3_social.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-03-26-04-kurkite-naudodami-musu-naujausios-kartos-muzikos-modeli-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Lyria 3“ dabar pasiekiama mokama peržiūra per „Gemini“ API ir išbandyti naudojant „Google AI Studio“.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "„Lyria 3“ dabar pasiekiama mokama peržiūra per „Gemini“ API ir išbandyti naudojant „Google AI Studio“.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641"
+      }
+    },
+    {
+      "title": "Lyria 3 Pro: kurkite ilgesnius takelius daugiau „Google“ produktų",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+      "published_iso": "2026-03-25T16:00:00Z",
+      "published_lt": "2026-03-25 16:00 UTC",
+      "summary": "Lyria 3 pristatome prie įrankių, kuriuose profesionalai dirba ir kuria kiekvieną dieną.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria-3-Pro_thumbnail.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-03-26-05-lyria-3-pro-kurkite-ilgesnius-takelius-daugiau-google-pr.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Lyria 3 pristatome prie įrankių, kuriuose profesionalai dirba ir kuria kiekvieną dieną.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641"
+      }
+    },
+    {
+      "title": "Ocorian: Šeimos biurai kreipiasi į AI, norėdami gauti finansinių duomenų įžvalgų",
+      "link": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
+      "published_iso": "2026-03-25T14:58:29Z",
+      "published_lt": "2026-03-25 14:58 UTC",
+      "summary": "Remiantis nauju „Ocorian“ tyrimu, dauguma šeimos biurų dabar kreipiasi į dirbtinį intelektą, norėdami gauti finansinių duomenų įžvalgų. Pasaulinis tyrimas atskleidžia, kad 86 procentai šių privačių turto grupių naudoja dirbtinį intelektą, kad pagerintų savo kasdienes operacijas ir duomenų analizę.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-26-06-ocorian-seimos-biurai-kreipiasi-i-ai-noredami-gauti-fina.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Remiantis nauju „Ocorian“ tyrimu, dauguma šeimos biurų dabar kreipiasi į dirbtinį intelektą, norėdami gauti finansinių duomenų įžvalgų.",
+        "Pasaulinis tyrimas atskleidžia, kad 86 procentai šių privačių turto grupių naudoja dirbtinį intelektą, kad pagerintų savo kasdienes operacijas ir duomenų analizę.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "$119.37",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.8",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.8"
+      }
+    },
+    {
+      "title": "AI agentai pradeda eiti banko pareigas Bank of America",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
+      "published_iso": "2026-03-25T10:00:00Z",
+      "published_lt": "2026-03-25 10:00 UTC",
+      "summary": "AI agentai pradeda imtis tiesioginio vaidmens teikiant finansines konsultacijas, nes dideli bankai pereina prie sistemų, kurios palaiko klientų sąveiką.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-26-07-ai-agentai-pradeda-eiti-banko-pareigas-bank-of-america.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "AI agentai pradeda imtis tiesioginio vaidmens teikiant finansines konsultacijas, nes dideli bankai pereina prie sistemų, kurios palaiko klientų sąveiką."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.8",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.8"
+      }
+    },
+    {
+      "title": "„NVIDIA AI“ pristato „PivotRL“: naują AI sistemą, užtikrinančią didelį agentinį tikslumą ir 4 kartus mažiau efektyviai išleidžiamų apsisukimų",
+      "link": "https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/",
+      "published_iso": "2026-03-25T08:39:23Z",
+      "published_lt": "2026-03-25 08:39 UTC",
+      "summary": "Didelės kalbos modeliai (LLM) po mokymo, skirti ilgalaikėms agentų užduotims, tokioms kaip programinės įrangos inžinerija, naršymas internete ir sudėtingas įrankių naudojimas, yra nuolatinis skaičiavimo efektyvumo ir modelio apibendrinimo kompromisas.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-26-08-nvidia-ai-pristato-pivotrl-nauja-ai-sistema-uztikrinanci.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Didelės kalbos modeliai (LLM) po mokymo, skirti ilgalaikėms agentų užduotims, tokioms kaip programinės įrangos inžinerija, naršymas internete ir sudėtingas įrankių naudojimas, yra nuolatinis skaičiavimo efektyvumo ir modelio apibendrinimo kompromisas.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/",
+        "try_url": "https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/"
+      }
+    },
     {
       "title": "„Google“ pristato „TurboQuant“: naują glaudinimo algoritmą, kuris 6 kartus sumažina LLM raktinės vertės talpyklos atmintį ir suteikia iki 8 kartų pagreitį, be jokio tikslumo praradimo",
       "link": "https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compression-algorithm-that-reduces-llm-key-value-cache-memory-by-6x-and-delivers-up-to-8x-speedup-all-with-zero-accuracy-loss/",
@@ -13,7 +229,7 @@
       "summary": "Didelės kalbos modelių (LLM) mastelio keitimą vis labiau riboja atminties ryšys tarp didelės spartos atminties (HBM) ir SRAM. Konkrečiai, rakto vertės (KV) talpyklos dydis keičiasi pagal modelio matmenis ir konteksto ilgį, sukurdamas didelę kliūtį ilgo konteksto išvadoms.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/www.marktechpost.com/41f40e5d-9f22-4710-ae55-76aa655f4c89",
-      "image_url": "generated-images/2026-03-25-01-google-pristato-turboquant-nauja-glaudinimo-algoritma-ku.svg",
+      "image_url": "generated-images/2026-03-26-09-google-pristato-turboquant-nauja-glaudinimo-algoritma-ku.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -42,7 +258,7 @@
       "summary": "Kaip veikia GPT ir kiti didelių kalbų modeliai (LLM). #ai #llm #mašininismokymasis #duomenųmokslas #agi Ačiū mūsų rėmėjui Genspark.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/U2hZFMVNSE0/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-25-02-kaip-is-tikruju-veikia-ai-transformeriai-paaiskino.svg",
+      "image_url": "generated-images/2026-03-26-10-kaip-is-tikruju-veikia-ai-transformeriai-paaiskino.svg",
       "kind": "video",
       "video_id": "U2hZFMVNSE0",
       "bullets_lt": [
@@ -68,7 +284,7 @@
       "summary": "Paleidžiant LLM dideliu mastu, tikrasis apribojimas yra GPU atmintis, o ne skaičiavimas, daugiausia todėl, kad kiekvienai užklausai reikalinga KV talpykla, kad būtų galima saugoti prieigos rakto lygio duomenis.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-46-150x150.png",
-      "image_url": "generated-images/2026-03-25-03-demesys-dideliems-kalbiniams-modeliams-llm.svg",
+      "image_url": "generated-images/2026-03-26-11-demesys-dideliems-kalbiniams-modeliams-llm.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -95,7 +311,7 @@
       "summary": "Šioje mokymo programoje tyrinėjame „OpenSpace“ – savaime besivystančių įgūdžių variklį, kurį sukūrė HKUDS, kuris daro AI agentus išmanesnius, ekonomiškesnius ir gebančius mokytis iš kiekvienos atliekamos užduoties.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-25-04-kodavimo-igyvendinimas-kuriant-savarankiskai-besivystanc.svg",
+      "image_url": "generated-images/2026-03-26-12-kodavimo-igyvendinimas-kuriant-savarankiskai-besivystanc.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -112,221 +328,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/24/a-coding-implementation-to-design-self-evolving-skill-engine-with-openspace-for-skill-learning-token-efficiency-and-collective-intelligence/",
         "try_url": "https://www.marktechpost.com/2026/03/24/a-coding-implementation-to-design-self-evolving-skill-engine-with-openspace-for-skill-learning-token-efficiency-and-collective-intelligence/"
-      }
-    },
-    {
-      "title": "Šiame dirbtinio intelekto dokumente pristatomas TinyLoRA, 13 parametrų tikslaus derinimo metodas, kuris pasiekia 91,8 procento GSM8K Qwen2.5-7B",
-      "link": "https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/",
-      "published_iso": "2026-03-24T18:49:40Z",
-      "published_lt": "2026-03-24 18:49 UTC",
-      "summary": "Mokslininkai iš FAIR iš Meta, Kornelio universiteto ir Carnegie Mellon universiteto įrodė, kad dideli kalbos modeliai (LLM) gali išmokti samprotauti naudojant nepaprastai mažą apmokytų parametrų skaičių.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-25-05-siame-dirbtinio-intelekto-dokumente-pristatomas-tinylora.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Mokslininkai iš FAIR iš Meta, Kornelio universiteto ir Carnegie Mellon universiteto įrodė, kad dideli kalbos modeliai (LLM) gali išmokti samprotauti naudojant nepaprastai mažą apmokytų parametrų skaičių.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "SFT verčia modelį sugerti daug informacijos bitų, įskaitant stilistinį triukšmą ir nereikšmingas žmonių demonstravimo struktūras, nes jo tikslas visus žetonus traktuoja kaip vienodai informatyvius.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/",
-        "try_url": "https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/"
-      }
-    },
-    {
-      "title": "Ką Codex atrakina sąvokai",
-      "link": "https://www.youtube.com/shorts/qHEUIXGSxxg",
-      "published_iso": "2026-03-24T17:21:07Z",
-      "published_lt": "2026-03-24 17:21 UTC",
-      "summary": "Ei, Ryan Nystrom (Sąvoka), ką Codex jums atrakino? „Tai, kad galiu sukurti šią funkciją vienas, vis dar palaikydamas savo komandą, yra beprotiška. Ryanas vienu metu sukūrė „Notion AI Voice Input“, valdydamas komandą. Daugiau: https://openai.com/codex/ #shorts #shortvideo #openaicodex #sąvoka",
-      "source": "OpenAI",
-      "source_image_url": "https://i2.ytimg.com/vi/qHEUIXGSxxg/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-25-06-ka-codex-atrakina-savokai.svg",
-      "kind": "video",
-      "video_id": "qHEUIXGSxxg",
-      "bullets_lt": [
-        "Ei, Ryan Nystrom (Sąvoka), ką Codex jums atrakino?",
-        "„Tai, kad galiu sukurti šią funkciją vienas, vis dar palaikydamas savo komandą, yra beprotiška.",
-        "Ryanas vienu metu sukūrė „Notion AI Voice Input“, valdydamas komandą."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/qHEUIXGSxxg",
-        "try_url": "https://www.youtube.com/shorts/qHEUIXGSxxg"
-      }
-    },
-    {
-      "title": "Sudėtingų finansų darbo eigų automatizavimas naudojant daugiarūšį AI",
-      "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
-      "published_iso": "2026-03-24T17:03:48Z",
-      "published_lt": "2026-03-24 17:03 UTC",
-      "summary": "Finansų lyderiai automatizuoja savo sudėtingas darbo eigas, aktyviai taikydami galingas naujas daugiarūšio AI sistemas. Teksto ištraukimas iš nestruktūrizuotų dokumentų kūrėjams dažnai sukelia galvos skausmą.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-25-07-sudetingu-finansu-darbo-eigu-automatizavimas-naudojant-d.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Finansų lyderiai automatizuoja savo sudėtingas darbo eigas, aktyviai taikydami galingas naujas daugiarūšio AI sistemas.",
-        "Teksto ištraukimas iš nestruktūrizuotų dokumentų kūrėjams dažnai sukelia galvos skausmą."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
-      }
-    },
-    {
-      "title": "AI sistemų apsauga šiandienos ir rytojaus sąlygomis",
-      "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
-      "published_iso": "2026-03-24T15:22:00Z",
-      "published_lt": "2026-03-24 15:22 UTC",
-      "summary": "El. knygoje „AI Quantum Resilience“, kurią paskelbė „Utimaco“ [el. pašto siena], cituoti įrodymai rodo, kad organizacijos saugumo riziką laiko pagrindine kliūtimi veiksmingam dirbtinio intelekto pritaikymui jų turimiems duomenims. AI vertė priklauso nuo organizacijos sukauptų duomenų.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-25-08-ai-sistemu-apsauga-siandienos-ir-rytojaus-salygomis.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "El.",
-        "knygoje „AI Quantum Resilience“, kurią paskelbė „Utimaco“ [el.",
-        "pašto siena], cituoti įrodymai rodo, kad organizacijos saugumo riziką laiko pagrindine kliūtimi veiksmingam dirbtinio intelekto pritaikymui jų turimiems duomenims."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.7"
-      }
-    },
-    {
-      "title": "„DeepSeek“ ką tik išsprendė vieną didžiausių AI problemų",
-      "link": "https://www.youtube.com/watch?v=DmtoVnTkQnM",
-      "published_iso": "2026-03-24T15:17:49Z",
-      "published_lt": "2026-03-24 15:17 UTC",
-      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 #DeepSeek dokumentą rasite čia: https://github.com/deepseek-ai/Engram https://arxiv.org/abs/2601.07372 Larry Wheels komentuoja šiame vaizdo įraše: https://www.youtube.com/watch?v=7SM816P5G9s&lc=Ugz7yiDrr_8YD7w8gaN4AaABAG Mūsų Patreonas, jei",
-      "source": "Two Minute Papers",
-      "source_image_url": "https://i1.ytimg.com/vi/DmtoVnTkQnM/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-25-09-deepseek-ka-tik-issprende-viena-didziausiu-ai-problemu.svg",
-      "kind": "video",
-      "video_id": "DmtoVnTkQnM",
-      "bullets_lt": [
-        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 #DeepSeek dokumentą rasite čia: https://github.com/deepseek-ai/Engram https://arxiv.org/abs/2601.07372 Larry Wheels komentuoja šiame vaizdo įraše: https://www.youtube.com/watch?v=7SM816P5G9s&lc=Ugz7yiDrr_8YD7w8gaN4AaABAG Mūsų Patreonas, jei.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=DmtoVnTkQnM",
-        "try_url": "https://www.youtube.com/watch?v=DmtoVnTkQnM"
-      }
-    },
-    {
-      "title": "Yann LeCun naujasis LeWorldModel (LeWM) tyrimas skirtas JEPA žlugimui taškais pagrįstame nuspėjamajame pasaulio modeliavime",
-      "link": "https://www.marktechpost.com/2026/03/23/yann-lecuns-new-leworldmodel-lewm-research-targets-jepa-collapse-in-pixel-based-predictive-world-modeling/",
-      "published_iso": "2026-03-24T05:53:58Z",
-      "published_lt": "2026-03-24 05:53 UTC",
-      "summary": "Pasaulio modeliai (WM) yra pagrindinė sistema, skirta kurti agentus, kurie mąsto ir planuoja kompaktiškoje latentinėje erdvėje. Tačiau šių modelių mokymas tiesiai iš pikselių duomenų dažnai veda prie „vaizdavimo žlugimo“, kai modelis sukuria perteklinius įterpimus, kad nereikšmingai patenkintų numatymo tikslus.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-25-10-yann-lecun-naujasis-leworldmodel-lewm-tyrimas-skirtas-je.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Pasaulio modeliai (WM) yra pagrindinė sistema, skirta kurti agentus, kurie mąsto ir planuoja kompaktiškoje latentinėje erdvėje.",
-        "Tačiau šių modelių mokymas tiesiai iš pikselių duomenų dažnai veda prie „vaizdavimo žlugimo“, kai modelis sukuria perteklinius įterpimus, kad nereikšmingai patenkintų numatymo tikslus.",
-        "Kaina: Yra nemokamas ir mokamas variantas."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/23/yann-lecuns-new-leworldmodel-lewm-research-targets-jepa-collapse-in-pixel-based-predictive-world-modeling/",
-        "try_url": "https://www.marktechpost.com/2026/03/23/yann-lecuns-new-leworldmodel-lewm-research-targets-jepa-collapse-in-pixel-based-predictive-world-modeling/"
-      }
-    },
-    {
-      "title": "Naujieji „Meta AI“ hiperagentai ne tik sprendžia užduotis – jie perrašo mokymosi taisykles",
-      "link": "https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/",
-      "published_iso": "2026-03-24T01:42:07Z",
-      "published_lt": "2026-03-24 01:42 UTC",
-      "summary": "Svajonė apie pasikartojantį savęs tobulinimą dirbtinio intelekto srityje – kai sistema ne tik geriau atlieka užduotį, bet ir geriau mokosi – jau seniai buvo šios srities „šventasis gralis“. Nors teoriniai modeliai, tokie kaip Gödelio mašina, egzistavo dešimtmečius, realiame pasaulyje jie išliko nepraktiški.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-23-at-6.33.58-PM-1-150x150.png",
-      "image_url": "generated-images/2026-03-25-11-naujieji-meta-ai-hiperagentai-ne-tik-sprendzia-uzduotis-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Svajonė apie pasikartojantį savęs tobulinimą dirbtinio intelekto srityje – kai sistema ne tik geriau atlieka užduotį, bet ir geriau mokosi – jau seniai buvo šios srities „šventasis gralis“.",
-        "Nors teoriniai modeliai, tokie kaip Gödelio mašina, egzistavo dešimtmečius, realiame pasaulyje jie išliko nepraktiški.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Tai apribojo sistemos augimą iki žmogaus sukurto meta agento ribų.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/",
-        "try_url": "https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/"
-      }
-    },
-    {
-      "title": "„Luma Labs“ pristato „Uni-1“: automatinio regresinio transformatoriaus modelį, kuris prieš kuriant vaizdus pagrįstas ketinimais",
-      "link": "https://www.marktechpost.com/2026/03/23/luma-labs-launches-uni-1-the-autoregressive-transformer-model-that-reasons-through-intentions-before-generating-images/",
-      "published_iso": "2026-03-24T00:44:12Z",
-      "published_lt": "2026-03-24 00:44 UTC",
-      "summary": "Generatyvios AI medijos srityje pramonė pereina nuo grynai tikimybinės pikselių sintezės prie modelių, galinčių struktūriškai mąstyti. „Luma Labs“ ką tik išleido „Uni-1“ – pagrindinį vaizdo modelį, skirtą pašalinti „ketinimų atotrūkį“, būdingą standartiniams difuzijos vamzdynams.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-25-12-luma-labs-pristato-uni-1-automatinio-regresinio-transfor.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Generatyvios AI medijos srityje pramonė pereina nuo grynai tikimybinės pikselių sintezės prie modelių, galinčių struktūriškai mąstyti.",
-        "„Luma Labs“ ką tik išleido „Uni-1“ – pagrindinį vaizdo modelį, skirtą pašalinti „ketinimų atotrūkį“, būdingą standartiniams difuzijos vamzdynams.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Šis pokytis yra techniškai reikšmingas, nes leidžia modeliui tekstą ir vaizdus traktuoti kaip žetonų seką.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/23/luma-labs-launches-uni-1-the-autoregressive-transformer-model-that-reasons-through-intentions-before-generating-images/",
-        "try_url": "https://www.marktechpost.com/2026/03/23/luma-labs-launches-uni-1-the-autoregressive-transformer-model-that-reasons-through-intentions-before-generating-images/"
       }
     }
   ]
