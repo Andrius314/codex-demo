@@ -1,10 +1,146 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-03-27",
-  "generated_at_utc": "2026-03-27T07:56:48Z",
+  "digest_date": "2026-03-28",
+  "generated_at_utc": "2026-03-28T07:40:22Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "„NVIDIA AI“ pristato „ProRL“ agentą: atsietą diegimo kaip paslaugos infrastruktūrą, skirtą sustiprinti mokymąsi apie daugiapakopius LLM agentus",
+      "link": "https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/",
+      "published_iso": "2026-03-28T05:38:49Z",
+      "published_lt": "2026-03-28 05:38 UTC",
+      "summary": "NVIDIA mokslininkai pristatė ProRL AGENT, keičiamo dydžio infrastruktūrą, skirtą mokymosi (RL) mokymui, skirtą daugiapakopiams LLM agentams. Taikydama „Išleidimo kaip paslaugos“ filosofiją, sistema atskiria agentinį diegimo orkestravimą nuo mokymo ciklo.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-27-at-10.37.36-PM-1-150x150.png",
+      "image_url": "generated-images/2026-03-28-01-nvidia-ai-pristato-prorl-agenta-atsieta-diegimo-kaip-pas.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "NVIDIA mokslininkai pristatė ProRL AGENT, keičiamo dydžio infrastruktūrą, skirtą mokymosi (RL) mokymui, skirtą daugiapakopiams LLM agentams.",
+        "Taikydama „Išleidimo kaip paslaugos“ filosofiją, sistema atskiria agentinį diegimo orkestravimą nuo mokymo ciklo.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Šis glaudus ryšys lemia du pagrindinius apribojimus: „ProRL AGENT“ veikia kaip atskira HTTP paslauga, valdanti visą išleidimo gyvavimo ciklą.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/",
+        "try_url": "https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/"
+      }
+    },
+    {
+      "title": "Raskite tobulą dovaną apsipirkdami naudodami „ChatGPT“.",
+      "link": "https://www.youtube.com/watch?v=th8u0bqYsQk",
+      "published_iso": "2026-03-27T20:55:13Z",
+      "published_lt": "2026-03-27 20:55 UTC",
+      "summary": "„ChatGPT“ gali padėti rasti tobulą dovaną, atsižvelgdama į jūsų biudžetą, pageidavimus ir apribojimus – ir tinkamus paviršiaus produktus. Galite naršyti vizualiai, įkelti vaizdus, ​​kaip įkvėpimo panašiems elementams, ir tobulinti rezultatus pokalbio metu, kol pasieksite tinkamą parinktį.",
+      "source": "OpenAI",
+      "source_image_url": "https://i1.ytimg.com/vi/th8u0bqYsQk/hqdefault.jpg",
+      "image_url": "generated-images/2026-03-28-02-raskite-tobula-dovana-apsipirkdami-naudodami-chatgpt.svg",
+      "kind": "video",
+      "video_id": "th8u0bqYsQk",
+      "bullets_lt": [
+        "„ChatGPT“ gali padėti rasti tobulą dovaną, atsižvelgdama į jūsų biudžetą, pageidavimus ir apribojimus – ir tinkamus paviršiaus produktus.",
+        "Galite naršyti vizualiai, įkelti vaizdus, ​​kaip įkvėpimo panašiems elementams, ir tobulinti rezultatus pokalbio metu, kol pasieksite tinkamą parinktį."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=th8u0bqYsQk",
+        "try_url": "https://www.youtube.com/watch?v=th8u0bqYsQk"
+      }
+    },
+    {
+      "title": "IWE kontekstinio tilto, kaip dirbtinio intelekto pagrįsto žinių grafiko su Agentic RAG, OpenAI funkcijų iškvietimu ir grafiko perkėlimu, įgyvendinimas",
+      "link": "https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/",
+      "published_iso": "2026-03-27T20:06:55Z",
+      "published_lt": "2026-03-27 20:06 UTC",
+      "summary": "Šioje mokymo programoje įdiegiame IWE: atvirojo kodo „Rust“ pagrindu sukurtą asmeninių žinių valdymo sistemą, kuri žymėjimo pastabas traktuoja kaip naršytiną žinių diagramą. Kadangi IWE yra CLI / LSP įrankis, skirtas vietiniams redaktoriams.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-03-28-03-iwe-kontekstinio-tilto-kaip-dirbtinio-intelekto-pagristo.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje įdiegiame IWE: atvirojo kodo „Rust“ pagrindu sukurtą asmeninių žinių valdymo sistemą, kuri žymėjimo pastabas traktuoja kaip naršytiną žinių diagramą.",
+        "Kadangi IWE yra CLI / LSP įrankis, skirtas vietiniams redaktoriams.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "importo subprocesas, sys def _install(pkg): subprocess.check_call([sys.executable, \"-m\", \"pip\", \"install\", \"-q\", pkg]) _install(\"openai\") _install(\"graphviz\") import re, json, textwrap, os, getpass iš kolekcijų import...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/",
+        "try_url": "https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/"
+      }
+    },
+    {
+      "title": "Ne tik supratimas, bet ir tobulėjimas: visiškai naujas savaime besivystantis JiuwenClaw debiutuoja",
+      "link": "https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/",
+      "published_iso": "2026-03-27T17:02:48Z",
+      "published_lt": "2026-03-27 17:02 UTC",
+      "summary": "Per pastaruosius metus dirbtinio intelekto agentai evoliucionavo nuo atsakymo į klausimus iki bandymų atlikti tikras užduotis. Tačiau išryškėjo reikšminga kliūtis: nors dauguma agentų pokalbio metu gali pasirodyti protingi, jie dažnai „pameta kamuolį“, kai reikia atlikti realaus pasaulio užduotis.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com",
+      "image_url": "generated-images/2026-03-28-04-ne-tik-supratimas-bet-ir-tobulejimas-visiskai-naujas-sav.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Per pastaruosius metus dirbtinio intelekto agentai evoliucionavo nuo atsakymo į klausimus iki bandymų atlikti tikras užduotis.",
+        "Tačiau išryškėjo reikšminga kliūtis: nors dauguma agentų pokalbio metu gali pasirodyti protingi, jie dažnai „pameta kamuolį“, kai reikia atlikti realaus pasaulio užduotis.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/",
+        "try_url": "https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/"
+      }
+    },
+    {
+      "title": "Naujasis „DeepMind“ AI tiesiog amžiams pakeitė mokslą",
+      "link": "https://www.youtube.com/watch?v=Io_GqmbNBbY",
+      "published_iso": "2026-03-27T16:00:57Z",
+      "published_lt": "2026-03-27 16:00 UTC",
+      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://arxiv.org/abs/2602.10177 Šaltinis: https://www.youtube.com/watch?v=6evUpgCHtOQ Mūsų Patreonas: //wwwPaper.com/Tspapers.com 🙏 Norime padėkoti mūsų dosniam Patr",
+      "source": "Two Minute Papers",
+      "source_image_url": "https://i2.ytimg.com/vi/Io_GqmbNBbY/hqdefault.jpg",
+      "image_url": "generated-images/2026-03-28-05-naujasis-deepmind-ai-tiesiog-amziams-pakeite-moksla.svg",
+      "kind": "video",
+      "video_id": "Io_GqmbNBbY",
+      "bullets_lt": [
+        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://arxiv.org/abs/2602.10177 Šaltinis: https://www.youtube.com/watch?v=6evUpgCHtOQ Mūsų Patreonas: //wwwPaper.com/Tspapers.com 🙏 Norime padėkoti mūsų dosniam Patr.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=Io_GqmbNBbY",
+        "try_url": "https://www.youtube.com/watch?v=Io_GqmbNBbY"
+      }
+    },
     {
       "title": "Meta išleidžia TRIBE v2: smegenų kodavimo modelį, kuris numato fMRI atsakymus į vaizdo, garso ir teksto stimulus",
       "link": "https://www.marktechpost.com/2026/03/26/meta-releases-tribe-v2-a-brain-encoding-model-that-predicts-fmri-responses-across-video-audio-and-text-stimuli/",
@@ -13,7 +149,7 @@
       "summary": "Neuromokslai jau seniai buvo skaldyk ir valdyk sritis. Tyrėjai paprastai priskiria specifines pažinimo funkcijas izoliuotiems smegenų regionams, pvz., judėjimą į V5 sritį arba veidus į fusiforminį girą, naudodami modelius, pritaikytus siauroms eksperimentinėms paradigmoms.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-9.38.28-PM-1-150x150.png",
-      "image_url": "generated-images/2026-03-27-01-meta-isleidzia-tribe-v2-smegenu-kodavimo-modeli-kuris-nu.svg",
+      "image_url": "generated-images/2026-03-28-06-meta-isleidzia-tribe-v2-smegenu-kodavimo-modeli-kuris-nu.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -40,7 +176,7 @@
       "summary": "„Google“ išleido „Gemini 3.1 Flash Live“ peržiūrą kūrėjams per „Gemini Live“ API „Google AI Studio“.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-53-150x150.png",
-      "image_url": "generated-images/2026-03-27-02-google-isleido-gemini-3-1-flash-live-realaus-laiko-multi.svg",
+      "image_url": "generated-images/2026-03-28-07-google-isleido-gemini-3-1-flash-live-realaus-laiko-multi.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -68,7 +204,7 @@
       "summary": "Šioje mokymo programoje mes tiesiogiai dirbame su Qwen3.5 modeliais, distiliuotais Claude'o stiliaus samprotavimais, ir nustatome „Colab“ konvejerį, leidžiantį perjungti 27B GGUF variantą ir lengvą 2B 4 bitų versiją su viena žyma.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-03-27-03-kodavimo-igyvendinimas-skirtas-paleisti-qwen3-5-samprota.svg",
+      "image_url": "generated-images/2026-03-28-08-kodavimo-igyvendinimas-skirtas-paleisti-qwen3-5-samprota.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -88,31 +224,6 @@
       }
     },
     {
-      "title": "ChatGPT apsipirkimas | Tyrinėkite ir palyginkite produktus be visų skirtukų.",
-      "link": "https://www.youtube.com/shorts/fFboNpWweyE",
-      "published_iso": "2026-03-26T20:31:28Z",
-      "published_lt": "2026-03-26 20:31 UTC",
-      "summary": "Santrauka nepateikta saltinyje.",
-      "source": "OpenAI",
-      "source_image_url": "https://i3.ytimg.com/vi/fFboNpWweyE/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-27-04-chatgpt-apsipirkimas-tyrinekite-ir-palyginkite-produktus.svg",
-      "kind": "video",
-      "video_id": "fFboNpWweyE",
-      "bullets_lt": [
-        "Santrauka nepateikta saltinyje."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/fFboNpWweyE",
-        "try_url": "https://www.youtube.com/shorts/fFboNpWweyE"
-      }
-    },
-    {
       "title": "Žiūrėkite, kaip Jamesas Manyika kalba apie AI ir kūrybiškumą su LL COOL J.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
       "published_iso": "2026-03-26T17:00:00Z",
@@ -120,7 +231,7 @@
       "summary": "Naujausioje serijos „Dialogai apie technologijas ir visuomenė“ serijoje LL COOL J sėdi su Jamesu Manyika.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-03-27-05-ziurekite-kaip-jamesas-manyika-kalba-apie-ai-ir-kurybisk.svg",
+      "image_url": "generated-images/2026-03-28-09-ziurekite-kaip-jamesas-manyika-kalba-apie-ai-ir-kurybisk.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -146,7 +257,7 @@
       "summary": "„Google“ vertėjo tiesioginis vertimas su ausinėmis oficialiai atvyksta į „iOS“! Be to, išplečiame „iOS“ ir „Android“ naudotojų galimybes į dar daugiau šalių...",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-03-27-06-paverskite-savo-ausines-i-tiesiogini-asmenini-verteja-io.svg",
+      "image_url": "generated-images/2026-03-28-10-paverskite-savo-ausines-i-tiesiogini-asmenini-verteja-io.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -166,33 +277,6 @@
       }
     },
     {
-      "title": "Algoritmas, privertęs mane verkti",
-      "link": "https://www.youtube.com/watch?v=XL5bq8DRn64",
-      "published_iso": "2026-03-26T15:47:12Z",
-      "published_lt": "2026-03-26 15:47 UTC",
-      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers Nemokamas Ray Tracing kursas: https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/ Mūsų Patreonas, jei norite mus paremti: https://www.patreon.com/Mūsų Patreons 🙏 Norėtume padėkoti rėmėjų, kurie sukuria „Du“.",
-      "source": "Two Minute Papers",
-      "source_image_url": "https://i1.ytimg.com/vi/XL5bq8DRn64/hqdefault.jpg",
-      "image_url": "generated-images/2026-03-27-07-algoritmas-privertes-mane-verkti.svg",
-      "kind": "video",
-      "video_id": "XL5bq8DRn64",
-      "bullets_lt": [
-        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers Nemokamas Ray Tracing kursas: https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/ Mūsų Patreonas, jei norite mus paremti: https://www.patreon.com/Mūsų Patreons 🙏 Norėtume padėkoti rėmėjų, kurie sukuria „Du“.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=XL5bq8DRn64",
-        "try_url": "https://www.youtube.com/watch?v=XL5bq8DRn64"
-      }
-    },
-    {
       "title": "Gemini 3.1 Flash Live: garso AI paverčia natūralesne ir patikimesne",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
       "published_iso": "2026-03-26T15:21:00Z",
@@ -200,7 +284,7 @@
       "summary": "„Gemini 3.1 Flash Live“ dabar pasiekiama visuose „Google“ produktuose.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-live_blog_head.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-03-27-08-gemini-3-1-flash-live-garso-ai-pavercia-naturalesne-ir-p.svg",
+      "image_url": "generated-images/2026-03-28-11-gemini-3-1-flash-live-garso-ai-pavercia-naturalesne-ir-p.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -228,7 +312,7 @@
       "summary": "Įmonės AI aplinkoje tiltas tarp nestruktūrizuoto garso ir veiksmingo teksto dažnai buvo patentuotų API ir sudėtingų pakopinių vamzdynų kliūtis.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-7.46.03-AM-1-150x150.png",
-      "image_url": "generated-images/2026-03-27-09-cohere-ai-isleido-cohere-transcribe-sota-automatinio-kal.svg",
+      "image_url": "generated-images/2026-03-28-12-cohere-ai-isleido-cohere-transcribe-sota-automatinio-kal.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -245,86 +329,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/26/cohere-ai-releases-cohere-transcribe-a-sota-automatic-speech-recognition-asr-model-powering-enterprise-speech-intelligence/",
         "try_url": "https://www.marktechpost.com/2026/03/26/cohere-ai-releases-cohere-transcribe-a-sota-automatic-speech-recognition-asr-model-powering-enterprise-speech-intelligence/"
-      }
-    },
-    {
-      "title": "„Search Live“ plečiasi visame pasaulyje",
-      "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-      "published_iso": "2026-03-26T15:00:00Z",
-      "published_lt": "2026-03-26 15:00 UTC",
-      "summary": "Plečiame „Search Live“ visame pasaulyje, įtraukdami visas kalbas ir vietoves, kuriose galimas AI režimas.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Live_blog_header.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-03-27-10-search-live-pleciasi-visame-pasaulyje.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Plečiame „Search Live“ visame pasaulyje, įtraukdami visas kalbas ir vietoves, kuriose galimas AI režimas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641"
-      }
-    },
-    {
-      "title": "RPA svarbu, tačiau AI keičia automatizavimo veikimą",
-      "link": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
-      "published_iso": "2026-03-26T09:11:08Z",
-      "published_lt": "2026-03-26 09:11 UTC",
-      "summary": "RPA (robotinis procesų automatizavimas) yra praktiškas ir patikrintas būdas sumažinti rankų darbą verslo procesuose be AI sistemų. Naudodamos programinės įrangos robotus, kad laikytųsi nustatytų taisyklių, įmonės gali automatizuoti pasikartojančias užduotis, pvz., duomenų įvedimą ir sąskaitų faktūrų apdorojimą, ir tam tikru mastu ataskaitų generavimą.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-03-27-11-rpa-svarbu-taciau-ai-keicia-automatizavimo-veikima.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "RPA (robotinis procesų automatizavimas) yra praktiškas ir patikrintas būdas sumažinti rankų darbą verslo procesuose be AI sistemų.",
-        "Naudodamos programinės įrangos robotus, kad laikytųsi nustatytų taisyklių, įmonės gali automatizuoti pasikartojančias užduotis, pvz., duomenų įvedimą ir sąskaitų faktūrų apdorojimą, ir tam tikru mastu ataskaitų generavimą."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Daugelis sistemų tvarko nestruktūrizuotus duomenis, pvz., pranešimus ir dokumentus.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.8",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.8"
-      }
-    },
-    {
-      "title": "Tencent AI atvirųjų šaltinių Covo-Audio: 7B kalbos modelis ir išvadų sistema, skirta garso pokalbiams realiuoju laiku ir samprotavimui",
-      "link": "https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/",
-      "published_iso": "2026-03-26T07:33:55Z",
-      "published_lt": "2026-03-26 07:33 UTC",
-      "summary": "Tencent AI Lab išleido Covo-Audio, 7B parametrų nuo galo iki galo didelės garso kalbos modelį (LALM). Modelis sukurtas taip, kad suvienytų kalbos apdorojimą ir kalbos intelektą, tiesiogiai apdorojant nuolatines garso įvestis ir generuojant garso išvestis vienoje architektūroje.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-12.33.14-AM-1-150x150.png",
-      "image_url": "generated-images/2026-03-27-12-tencent-ai-atviruju-saltiniu-covo-audio-7b-kalbos-modeli.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Tencent AI Lab išleido Covo-Audio, 7B parametrų nuo galo iki galo didelės garso kalbos modelį (LALM).",
-        "Modelis sukurtas taip, kad suvienytų kalbos apdorojimą ir kalbos intelektą, tiesiogiai apdorojant nuolatines garso įvestis ir generuojant garso išvestis vienoje architektūroje.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Skirtingai nuo tradicinių metodų, kurie veikia tik žodžio ar simbolių lygmeniu, ši sistema suderina ištisines akustines savybes (a c) (a_c), atskirus kalbos žetonus (a d) (a_d) ir natūralios kalbos tekstą (t) (t).",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/",
-        "try_url": "https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/"
       }
     }
   ]
