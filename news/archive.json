@@ -1,7 +1,344 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-03-29T07:49:28Z",
+  "updated_at_utc": "2026-03-30T08:19:20Z",
   "digests": [
+    {
+      "digest_date": "2026-03-30",
+      "generated_at_utc": "2026-03-30T08:19:20Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„Agent-Infra“ išleido AIO smėlio dėžę: „viskas viename“ AI agentų vykdymo laiką su naršykle, apvalkalu, bendra failų sistema ir MCP",
+          "link": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
+          "published_iso": "2026-03-30T00:04:53Z",
+          "published_lt": "2026-03-30 00:04 UTC",
+          "summary": "Kuriant autonominius agentus, techninė kliūtis pereina nuo modelio samprotavimo prie vykdymo aplinkos.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-63-150x150.png",
+          "image_url": "generated-images/2026-03-30-01-agent-infra-isleido-aio-smelio-deze-viskas-viename-ai-ag.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kuriant autonominius agentus, techninė kliūtis pereina nuo modelio samprotavimo prie vykdymo aplinkos.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
+            "try_url": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/"
+          }
+        },
+        {
+          "title": "Kaip sukurti pažangius kibernetinio saugumo AI agentus naudojant CAI naudojant įrankius, apsaugines juostas, perdavimą ir kelių agentų darbo eigas",
+          "link": "https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/",
+          "published_iso": "2026-03-29T23:28:57Z",
+          "published_lt": "2026-03-29 23:28 UTC",
+          "summary": "Šioje mokymo programoje žingsnis po žingsnio kuriame ir tyrinėjame CAI kibernetinio saugumo AI sistemą „Colab“, naudodami su OpenAI suderinamą modelį. Pradedame nuo aplinkos nustatymo, saugiai įkeldami API raktą ir sukurdami bazinį agentą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-30-02-kaip-sukurti-pazangius-kibernetinio-saugumo-ai-agentus-n.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje žingsnis po žingsnio kuriame ir tyrinėjame CAI kibernetinio saugumo AI sistemą „Colab“, naudodami su OpenAI suderinamą modelį.",
+            "Pradedame nuo aplinkos nustatymo, saugiai įkeldami API raktą ir sukurdami bazinį agentą.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Leidžia \" \"neteisėtą nuotolinę prieigą per modifikuotą liblzmą, susietą \" \"į OpenSSH sshd per systemd.\" ), \"fix\": \"Naujinkite iki xz-utils 5.4.x arba pritaikykite tiekėjo pataisas.\", }, \"CVE-2021-44228\": { \"sunkumas\":...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/",
+            "try_url": "https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/"
+          }
+        },
+        {
+          "title": "Susipažinkite su „A-Evolve“: „PyTorch“ akimirka, skirta „Agentic AI“ sistemoms, pakeičiant rankinį derinimą su automatine būsenos mutacija ir savikorekcija",
+          "link": "https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/",
+          "published_iso": "2026-03-29T18:17:23Z",
+          "published_lt": "2026-03-29 18:17 UTC",
+          "summary": "Su „Amazon“ susijusių tyrėjų komanda išleido „A-Evolve“ – universalią infrastruktūrą, skirtą automatizuoti autonominių AI agentų kūrimą. Sistema siekiama pakeisti „rankinį diržų inžineriją“, kuri šiuo metu apibrėžia agentų kūrimą, sistemingu, automatizuotu evoliucijos procesu.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/mk1-1-150x150.png",
+          "image_url": "generated-images/2026-03-30-03-susipazinkite-su-a-evolve-pytorch-akimirka-skirta-agenti.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Su „Amazon“ susijusių tyrėjų komanda išleido „A-Evolve“ – universalią infrastruktūrą, skirtą automatizuoti autonominių AI agentų kūrimą.",
+            "Sistema siekiama pakeisti „rankinį diržų inžineriją“, kuri šiuo metu apibrėžia agentų kūrimą, sistemingu, automatizuotu evoliucijos procesu.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/",
+            "try_url": "https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/"
+          }
+        },
+        {
+          "title": "Chroma Releases Context-1: 20B agentų paieškos modelis, skirtas kelių šuolių paieškai, konteksto valdymui ir keičiamo dydžio sintetinių užduočių generavimui",
+          "link": "https://www.marktechpost.com/2026/03/29/chroma-releases-context-1-a-20b-agentic-search-model-for-multi-hop-retrieval-context-management-and-scalable-synthetic-task-generation/",
+          "published_iso": "2026-03-29T08:25:09Z",
+          "published_lt": "2026-03-29 08:25 UTC",
+          "summary": "Dabartinėje AI aplinkoje „konteksto langas“ tapo buku instrumentu. Mums buvo pasakyta, kad jei tiesiog išplėsime pasienio modelio atmintį, paieškos problema išnyks.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-29-at-1.21.10-AM-1-150x150.png",
+          "image_url": "generated-images/2026-03-30-04-chroma-releases-context-1-20b-agentu-paieskos-modelis-sk.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Dabartinėje AI aplinkoje „konteksto langas“ tapo buku instrumentu.",
+            "Mums buvo pasakyta, kad jei tiesiog išplėsime pasienio modelio atmintį, paieškos problema išnyks.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Tačiau, kaip žino bet kuris dirbtinio intelekto profesionalas, kuriantis RAG (Retrieval-Augmented Generation) sistemas, milijono žetonų įterpimas į raginimą dažnai sukelia didesnį delsą, astronomines išlaidas ir „pasi...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/29/chroma-releases-context-1-a-20b-agentic-search-model-for-multi-hop-retrieval-context-management-and-scalable-synthetic-task-generation/",
+            "try_url": "https://www.marktechpost.com/2026/03/29/chroma-releases-context-1-a-20b-agentic-search-model-for-multi-hop-retrieval-context-management-and-scalable-synthetic-task-generation/"
+          }
+        },
+        {
+          "title": "„Google“ agentas prieš „Googlebot“: „Google“ šiandien apibrėžia techninę ribą tarp vartotojo suaktyvintos AI prieigos ir paieškos tikrinimo sistemų",
+          "link": "https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/",
+          "published_iso": "2026-03-29T06:03:27Z",
+          "published_lt": "2026-03-29 06:03 UTC",
+          "summary": "„Google“ integruojant dirbtinio intelekto galimybes į savo produktų rinkinį, serverio žurnaluose atsirado naujas techninis subjektas: „Google-Agent“. Programinės įrangos kūrėjams labai svarbu suprasti šį objektą, kad būtų galima atskirti automatinius indeksuotojus ir realiuoju laiku vartotojo inicijuotas užklausas.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-30-05-google-agentas-pries-googlebot-google-siandien-apibrezia.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google“ integruojant dirbtinio intelekto galimybes į savo produktų rinkinį, serverio žurnaluose atsirado naujas techninis subjektas: „Google-Agent“.",
+            "Programinės įrangos kūrėjams labai svarbu suprasti šį objektą, kad būtų galima atskirti automatinius indeksuotojus ir realiuoju laiku vartotojo inicijuotas užklausas.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Programinės įrangos kūrėjams labai svarbu suprasti šį objektą, kad būtų galima atskirti automatinius indeksuotojus ir realiuoju laiku vartotojo inicijuotas užklausas.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/",
+            "try_url": "https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/"
+          }
+        },
+        {
+          "title": "Kodavimo vadovas, skirtas tyrinėti visą nanoboto agentų vamzdyną, nuo prijungimo įrankių ir atminties iki įgūdžių, subagentų ir Cron planavimo",
+          "link": "https://www.marktechpost.com/2026/03/28/a-coding-guide-to-exploring-nanobots-full-agent-pipeline-from-wiring-up-tools-and-memory-to-skills-subagents-and-cron-scheduling/",
+          "published_iso": "2026-03-29T05:40:25Z",
+          "published_lt": "2026-03-29 05:40 UTC",
+          "summary": "Šioje pamokoje mes giliai pasineriame į nanobotą – itin lengvą asmeninio AI agento sistemą iš HKUDS, kuri sujungia visas agento galimybes į maždaug 4 000 Python eilučių.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-30-06-kodavimo-vadovas-skirtas-tyrineti-visa-nanoboto-agentu-v.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje pamokoje mes giliai pasineriame į nanobotą – itin lengvą asmeninio AI agento sistemą iš HKUDS, kuri sujungia visas agento galimybes į maždaug 4 000 Python eilučių.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "importuoti sys importuoti OS importuoti antrinį procesą def sekcija (title, emoji=\"🔹\"): \"\"\"Gražiai atspausdinkite skyriaus antraštę.\"\"\" plotis = 72 print(f\"\\n{'═' * plotis}\") print(f\" {emoji} {title}\") print(f\"{'═' *...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/28/a-coding-guide-to-exploring-nanobots-full-agent-pipeline-from-wiring-up-tools-and-memory-to-skills-subagents-and-cron-scheduling/",
+            "try_url": "https://www.marktechpost.com/2026/03/28/a-coding-guide-to-exploring-nanobots-full-agent-pipeline-from-wiring-up-tools-and-memory-to-skills-subagents-and-cron-scheduling/"
+          }
+        },
+        {
+          "title": "Robotas, „RIP Sora“, GLM-5.1, AI smegenų nuskaitymai, „Google“ balsas realiuoju laiku: AI NAUJIENOS",
+          "link": "https://www.youtube.com/watch?v=6Il0CJx9yU8",
+          "published_iso": "2026-03-29T03:45:17Z",
+          "published_lt": "2026-03-29 03:45 UTC",
+          "summary": "DIDELĖS DI NAUJIENOS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game ir dar daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Higgsfieldui.",
+          "source": "AI Search",
+          "source_image_url": "https://i3.ytimg.com/vi/6Il0CJx9yU8/hqdefault.jpg",
+          "image_url": "generated-images/2026-03-30-07-robotas-rip-sora-glm-5-1-ai-smegenu-nuskaitymai-google-b.svg",
+          "kind": "video",
+          "video_id": "6Il0CJx9yU8",
+          "bullets_lt": [
+            "DIDELĖS DI NAUJIENOS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game ir dar daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Higgsfieldui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=6Il0CJx9yU8",
+            "try_url": "https://www.youtube.com/watch?v=6Il0CJx9yU8"
+          }
+        },
+        {
+          "title": "„Mistral AI“ išleido „Voxtral TTS“: 4B atviro svorio transliacijos kalbos modelį, skirtą mažos delsos daugiakalbio balso generavimui",
+          "link": "https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/",
+          "published_iso": "2026-03-28T20:58:21Z",
+          "published_lt": "2026-03-28 20:58 UTC",
+          "summary": "„Mistral AI“ išleido „Voxtral TTS“ – atvirojo teksto į kalbą modelį, kuris žymi pirmąjį įmonės žingsnį į garso generavimą.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-28-at-1.48.14-PM-1-150x150.png",
+          "image_url": "generated-images/2026-03-30-08-mistral-ai-isleido-voxtral-tts-4b-atviro-svorio-translia.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Mistral AI“ išleido „Voxtral TTS“ – atvirojo teksto į kalbą modelį, kuris žymi pirmąjį įmonės žingsnį į garso generavimą.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/",
+            "try_url": "https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/"
+          }
+        },
+        {
+          "title": "NVIDIA AI pristato „ProRL“ agentą: atsietą diegimo kaip paslaugos infrastruktūrą, skirtą sustiprinti mokymąsi apie daugiapakopius LLM agentus",
+          "link": "https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/",
+          "published_iso": "2026-03-28T05:38:49Z",
+          "published_lt": "2026-03-28 05:38 UTC",
+          "summary": "NVIDIA mokslininkai pristatė ProRL AGENT, keičiamo dydžio infrastruktūrą, skirtą mokymosi (RL) mokymui, skirtą daugiapakopiams LLM agentams. Taikydama „Išleidimo kaip paslaugos“ filosofiją, sistema atskiria agentinį diegimo orkestravimą nuo mokymo ciklo.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-27-at-10.37.36-PM-1-150x150.png",
+          "image_url": "generated-images/2026-03-30-09-nvidia-ai-pristato-prorl-agenta-atsieta-diegimo-kaip-pas.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "NVIDIA mokslininkai pristatė ProRL AGENT, keičiamo dydžio infrastruktūrą, skirtą mokymosi (RL) mokymui, skirtą daugiapakopiams LLM agentams.",
+            "Taikydama „Išleidimo kaip paslaugos“ filosofiją, sistema atskiria agentinį diegimo orkestravimą nuo mokymo ciklo.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Šis glaudus ryšys lemia du pagrindinius apribojimus: „ProRL AGENT“ veikia kaip atskira HTTP paslauga, valdanti visą diegimo gyvavimo ciklą.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/",
+            "try_url": "https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/"
+          }
+        },
+        {
+          "title": "Raskite tobulą dovaną apsipirkdami naudodami „ChatGPT“.",
+          "link": "https://www.youtube.com/watch?v=th8u0bqYsQk",
+          "published_iso": "2026-03-27T20:55:13Z",
+          "published_lt": "2026-03-27 20:55 UTC",
+          "summary": "„ChatGPT“ gali padėti rasti tobulą dovaną, atsižvelgdama į jūsų biudžetą, pageidavimus ir suvaržymus bei tinkamus paviršiaus produktus. Galite naršyti vizualiai, įkelti vaizdus kaip įkvėpimą panašiems elementams ir tobulinti rezultatus pokalbio metu, kol pasieksite tinkamą parinktį.",
+          "source": "OpenAI",
+          "source_image_url": "https://i1.ytimg.com/vi/th8u0bqYsQk/hqdefault.jpg",
+          "image_url": "generated-images/2026-03-30-10-raskite-tobula-dovana-apsipirkdami-naudodami-chatgpt.svg",
+          "kind": "video",
+          "video_id": "th8u0bqYsQk",
+          "bullets_lt": [
+            "„ChatGPT“ gali padėti rasti tobulą dovaną, atsižvelgdama į jūsų biudžetą, pageidavimus ir suvaržymus bei tinkamus paviršiaus produktus.",
+            "Galite naršyti vizualiai, įkelti vaizdus kaip įkvėpimą panašiems elementams ir tobulinti rezultatus pokalbio metu, kol pasieksite tinkamą parinktį."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=th8u0bqYsQk",
+            "try_url": "https://www.youtube.com/watch?v=th8u0bqYsQk"
+          }
+        },
+        {
+          "title": "IWE kontekstinio tilto, kaip dirbtinio intelekto pagrįsto žinių grafiko su Agentic RAG, OpenAI funkcijų iškvietimu ir grafiko perkėlimu, įgyvendinimas",
+          "link": "https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/",
+          "published_iso": "2026-03-27T20:06:55Z",
+          "published_lt": "2026-03-27 20:06 UTC",
+          "summary": "Šioje mokymo programoje įdiegiame IWE: atvirojo kodo „Rust“ pagrindu sukurtą asmeninių žinių valdymo sistemą, kuri įvertinimo pastabas traktuoja kaip naršymo žinių diagramą. Kadangi IWE yra CLI / LSP įrankis, skirtas vietiniams redaktoriams.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-30-11-iwe-kontekstinio-tilto-kaip-dirbtinio-intelekto-pagristo.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje įdiegiame IWE: atvirojo kodo „Rust“ pagrindu sukurtą asmeninių žinių valdymo sistemą, kuri įvertinimo pastabas traktuoja kaip naršymo žinių diagramą.",
+            "Kadangi IWE yra CLI / LSP įrankis, skirtas vietiniams redaktoriams.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "importo subprocesas, sys def _install(pkg): subprocess.check_call([sys.executable, \"-m\", \"pip\", \"install\", \"-q\", pkg]) _install(\"openai\") _install(\"graphviz\") import re, json, textwrap, os, getpass iš kolekcijų import...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/",
+            "try_url": "https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/"
+          }
+        },
+        {
+          "title": "Ne tik supratimas, bet ir tobulėjimas: visiškai naujas savaime besivystantis JiuwenClaw debiutuoja",
+          "link": "https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/",
+          "published_iso": "2026-03-27T17:02:48Z",
+          "published_lt": "2026-03-27 17:02 UTC",
+          "summary": "Per pastaruosius metus dirbtinio intelekto agentai evoliucionavo nuo atsakymo į klausimus iki bandymų atlikti tikras užduotis. Tačiau išryškėjo reikšminga kliūtis: nors dauguma agentų pokalbio metu gali pasirodyti protingi, jie dažnai „pameta kamuolį“, kai reikia atlikti realaus pasaulio užduotis.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com",
+          "image_url": "generated-images/2026-03-30-12-ne-tik-supratimas-bet-ir-tobulejimas-visiskai-naujas-sav.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Per pastaruosius metus dirbtinio intelekto agentai evoliucionavo nuo atsakymo į klausimus iki bandymų atlikti tikras užduotis.",
+            "Tačiau išryškėjo reikšminga kliūtis: nors dauguma agentų pokalbio metu gali pasirodyti protingi, jie dažnai „pameta kamuolį“, kai reikia atlikti realaus pasaulio užduotis.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/",
+            "try_url": "https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-03-29",
       "generated_at_utc": "2026-03-29T07:49:28Z",
