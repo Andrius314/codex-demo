@@ -1,7 +1,339 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-03-30T08:19:20Z",
+  "updated_at_utc": "2026-03-31T08:04:19Z",
   "digests": [
+    {
+      "digest_date": "2026-03-31",
+      "generated_at_utc": "2026-03-31T08:04:19Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„Alibaba Qwen“ komanda išleido „Qwen3.5 Omni“: vietinį daugiarūšį teksto, garso, vaizdo ir sąveikos realiuoju laiku modelį",
+          "link": "https://www.marktechpost.com/2026/03/30/alibaba-qwen-team-releases-qwen3-5-omni-a-native-multimodal-model-for-text-audio-video-and-realtime-interaction/",
+          "published_iso": "2026-03-31T05:17:07Z",
+          "published_lt": "2026-03-31 05:17 UTC",
+          "summary": "Daugiarūšių didelių kalbų modelių (MLLM) kraštovaizdis pasikeitė nuo eksperimentinių „apvyniojimų“, kai atskiri vaizdo ar garso kodavimo įrenginiai yra sujungti su tekstu pagrįstu pagrindu, į vietines, visapusiškas „visarūšes“ architektūras.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-30-at-10.06.06-PM-1-150x150.png",
+          "image_url": "generated-images/2026-03-31-01-alibaba-qwen-komanda-isleido-qwen3-5-omni-vietini-daugia.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Daugiarūšių didelių kalbų modelių (MLLM) kraštovaizdis pasikeitė nuo eksperimentinių „apvyniojimų“, kai atskiri vaizdo ar garso kodavimo įrenginiai yra sujungti su tekstu pagrįstu pagrindu, į vietines, visapusiškas „visarūšes“ architektūras.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Taikydamas tai hibridiniam dėmesio mechanizmui, „Qwen3.5-Omni“ gali efektyviai pasverti skirtingų būdų svarbą (pvz., daugiau dėmesio skiriant vaizdiniams žetonams atliekant vaizdo analizės užduotį), išlaikant srautini...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/30/alibaba-qwen-team-releases-qwen3-5-omni-a-native-multimodal-model-for-text-audio-video-and-realtime-interaction/",
+            "try_url": "https://www.marktechpost.com/2026/03/30/alibaba-qwen-team-releases-qwen3-5-omni-a-native-multimodal-model-for-text-audio-video-and-realtime-interaction/"
+          }
+        },
+        {
+          "title": "„Microsoft AI“ išleido „Harrier-OSS-v1“: nauja daugiakalbių įterpimo modelių šeima, pasiekianti SOTA daugiakalbiame MTEB v2",
+          "link": "https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/",
+          "published_iso": "2026-03-30T22:22:49Z",
+          "published_lt": "2026-03-30 22:22 UTC",
+          "summary": "„Microsoft“ paskelbė apie „Harrier-OSS-v1“ išleidimą – trijų daugiakalbių teksto įterpimo modelių šeimą, skirtą teikti aukštos kokybės semantinius vaizdus įvairiomis kalbomis. Leidimas apima tris skirtingas skales: 270M parametrų modelį, 0,6B modelį ir 27B modelį.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-30-at-2.29.35-PM-150x150.png",
+          "image_url": "generated-images/2026-03-31-02-microsoft-ai-isleido-harrier-oss-v1-nauja-daugiakalbiu-i.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Microsoft“ paskelbė apie „Harrier-OSS-v1“ išleidimą – trijų daugiakalbių teksto įterpimo modelių šeimą, skirtą teikti aukštos kokybės semantinius vaizdus įvairiomis kalbomis.",
+            "Leidimas apima tris skirtingas skales: 270M parametrų modelį, 0,6B modelį ir 27B modelį.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Priežastiniame (tik dekoderio) modelyje kiekvienas prieigos raktas gali atsižvelgti tik į prieš jį esančius žetonus.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/",
+            "try_url": "https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/"
+          }
+        },
+        {
+          "title": "Saugus valdymas pagreitina finansinių dirbtinio intelekto pajamų augimą",
+          "link": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
+          "published_iso": "2026-03-30T15:54:58Z",
+          "published_lt": "2026-03-30 15:54 UTC",
+          "summary": "Finansų institucijos mokosi diegti suderintus dirbtinio intelekto sprendimus, siekdamos didesnio pajamų augimo ir rinkos pranašumo. Didžiąją dešimties metų dalį finansų institucijos AI vertino kaip gryno efektyvumo didinimo mechanizmą.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-31-03-saugus-valdymas-pagreitina-finansiniu-dirbtinio-intelekt.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Finansų institucijos mokosi diegti suderintus dirbtinio intelekto sprendimus, siekdamos didesnio pajamų augimo ir rinkos pranašumo.",
+            "Didžiąją dešimties metų dalį finansų institucijos AI vertino kaip gryno efektyvumo didinimo mechanizmą.",
+            "Kaina: Labiau panasu i mokama sprendima."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0"
+          }
+        },
+        {
+          "title": "Glia laimi Excellence Award apdovanojimą už saugesnį AI bankininkystėje",
+          "link": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/",
+          "published_iso": "2026-03-30T14:12:59Z",
+          "published_lt": "2026-03-30 14:12 UTC",
+          "summary": "„Glia“, klientų aptarnavimo platforma, teikianti dirbtinio intelekto sąveiką bankų sektoriui, buvo paskelbta bankininkystės ir finansinių paslaugų kategorijos nugalėtoja 2026 m. dirbtinio intelekto meistriškumo apdovanojimuose.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-31-04-glia-laimi-excellence-award-apdovanojima-uz-saugesni-ai-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Glia“, klientų aptarnavimo platforma, teikianti dirbtinio intelekto sąveiką bankų sektoriui, buvo paskelbta bankininkystės ir finansinių paslaugų kategorijos nugalėtoja 2026 m.",
+            "dirbtinio intelekto meistriškumo apdovanojimuose.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0"
+          }
+        },
+        {
+          "title": "Kaip AEO vs GEO keičia AI pagrįstą prekės ženklo atradimą 2026 m",
+          "link": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
+          "published_iso": "2026-03-30T11:57:11Z",
+          "published_lt": "2026-03-30 11:57 UTC",
+          "summary": "Kai 2025 m. kovo mėn. Pew tyrimų centras išanalizavo 68 879 „Google“ paieškas, vienas atradimas išsiskyrė: naudotojai, susidūrę su AI sugeneruota santrauka, tradicinį rezultatą spustelėjo tik 8 % laiko. Tie, kurie nematė suvestinės, spustelėjo beveik dvigubai dažniau – 15 proc.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-31-05-kaip-aeo-vs-geo-keicia-ai-pagrista-prekes-zenklo-atradim.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kai 2025 m.",
+            "kovo mėn.",
+            "Pew tyrimų centras išanalizavo 68 879 „Google“ paieškas, vienas atradimas išsiskyrė: naudotojai, susidūrę su AI sugeneruota santrauka, tradicinį rezultatą spustelėjo tik 8 % laiko.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0"
+          }
+        },
+        {
+          "title": "AI valdomų kainų prognozavimo įrankių vertinimas valiutų rinkose",
+          "link": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/",
+          "published_iso": "2026-03-30T11:49:38Z",
+          "published_lt": "2026-03-30 11:49 UTC",
+          "summary": "Dirbtiniam intelektui tampant varomąja finansų prognozavimo jėga, jo prognozavimo įrankių patikimumas vis labiau tikrinamas. Daugelis prekiautojų abejoja, ar teiginiai apie didelį tikslumą virsta nuosekliais rezultatais realiomis rinkos sąlygomis.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-31-06-ai-valdomu-kainu-prognozavimo-irankiu-vertinimas-valiutu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Dirbtiniam intelektui tampant varomąja finansų prognozavimo jėga, jo prognozavimo įrankių patikimumas vis labiau tikrinamas.",
+            "Daugelis prekiautojų abejoja, ar teiginiai apie didelį tikslumą virsta nuosekliais rezultatais realiomis rinkos sąlygomis.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0"
+          }
+        },
+        {
+          "title": "Kongas paskyrė Bruce'ą Feltą vyriausiuoju finansų pareigūnu",
+          "link": "https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/",
+          "published_iso": "2026-03-30T11:02:00Z",
+          "published_lt": "2026-03-30 11:02 UTC",
+          "summary": "API ir AI ryšio technologijų kūrėjas Kongas paskelbė, kad Bruce'as Feltas prisijungė prie jos kaip finansų direktorius. Feltas yra patyręs finansų lyderis, turintis patirties vadovaudamas verslo programinės įrangos įmonėms jų augimo fazėse, įskaitant keletą IPO, įsigijimų ir pasaulinės plėtros.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-31-07-kongas-paskyre-bruce-a-felta-vyriausiuoju-finansu-pareig.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "API ir AI ryšio technologijų kūrėjas Kongas paskelbė, kad Bruce'as Feltas prisijungė prie jos kaip finansų direktorius.",
+            "Feltas yra patyręs finansų lyderis, turintis patirties vadovaudamas verslo programinės įrangos įmonėms jų augimo fazėse, įskaitant keletą IPO, įsigijimų ir pasaulinės plėtros.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0"
+          }
+        },
+        {
+          "title": "JPMorgan pradeda stebėti, kaip darbuotojai naudoja dirbtinį intelektą darbe",
+          "link": "https://www.artificialintelligence-news.com/news/jpmorgan-begins-tracking-how-employees-use-ai-at-work/",
+          "published_iso": "2026-03-30T10:00:00Z",
+          "published_lt": "2026-03-30 10:00 UTC",
+          "summary": "Bankų namai „JPMorgan Chase“ prašo savo maždaug 65 000 inžinierių ir technologų naudoti dirbtinio intelekto įrankius kaip įprastos darbo eigos dalį. „Business Insider“ pranešė, kad vadovai stebi, kaip dažnai darbuotojai naudojasi šiais įrankiais. Toks naudojimas taip pat gali turėti įtakos našumo apžvalgoms.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-03-31-08-jpmorgan-pradeda-stebeti-kaip-darbuotojai-naudoja-dirbti.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Bankų namai „JPMorgan Chase“ prašo savo maždaug 65 000 inžinierių ir technologų naudoti dirbtinio intelekto įrankius kaip įprastos darbo eigos dalį.",
+            "„Business Insider“ pranešė, kad vadovai stebi, kaip dažnai darbuotojai naudojasi šiais įrankiais.",
+            "Toks naudojimas taip pat gali turėti įtakos našumo apžvalgoms."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0"
+          }
+        },
+        {
+          "title": "„Salesforce AI Research“ išleido „VoiceAgentRAG“: dviejų agentų atminties maršrutizatorių, kuris 316 kartų sumažina balso RAG gavimo delsą",
+          "link": "https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/",
+          "published_iso": "2026-03-30T09:56:14Z",
+          "published_lt": "2026-03-30 09:56 UTC",
+          "summary": "Balso AI pasaulyje skirtumas tarp naudingo asistento ir nepatogios sąveikos matuojamas milisekundėmis.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/Screenshot-2026-03-30-at-2.49.13-AM-1-150x150.png",
+          "image_url": "generated-images/2026-03-31-09-salesforce-ai-research-isleido-voiceagentrag-dvieju-agen.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Balso AI pasaulyje skirtumas tarp naudingo asistento ir nepatogios sąveikos matuojamas milisekundėmis.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/",
+            "try_url": "https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/"
+          }
+        },
+        {
+          "title": "„Agent-Infra“ išleido AIO smėlio dėžę: „viskas viename“ AI agentų vykdymo laiką su naršykle, apvalkalu, bendra failų sistema ir MCP",
+          "link": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
+          "published_iso": "2026-03-30T00:04:53Z",
+          "published_lt": "2026-03-30 00:04 UTC",
+          "summary": "Kuriant autonominius agentus, techninė kliūtis pereina nuo modelio samprotavimo prie vykdymo aplinkos.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/03/image-63-150x150.png",
+          "image_url": "generated-images/2026-03-31-10-agent-infra-isleido-aio-smelio-deze-viskas-viename-ai-ag.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kuriant autonominius agentus, techninė kliūtis pereina nuo modelio samprotavimo prie vykdymo aplinkos.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
+            "try_url": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/"
+          }
+        },
+        {
+          "title": "Robotas, „RIP Sora“, GLM-5.1, AI smegenų nuskaitymai, „Google“ balsas realiuoju laiku: AI NAUJIENOS",
+          "link": "https://www.youtube.com/watch?v=6Il0CJx9yU8",
+          "published_iso": "2026-03-29T03:45:17Z",
+          "published_lt": "2026-03-29 03:45 UTC",
+          "summary": "DIDELĖS DI NAUJIENOS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game ir dar daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Higgsfieldui.",
+          "source": "AI Search",
+          "source_image_url": "https://i3.ytimg.com/vi/6Il0CJx9yU8/hqdefault.jpg",
+          "image_url": "generated-images/2026-03-31-11-robotas-rip-sora-glm-5-1-ai-smegenu-nuskaitymai-google-b.svg",
+          "kind": "video",
+          "video_id": "6Il0CJx9yU8",
+          "bullets_lt": [
+            "DIDELĖS DI NAUJIENOS: GLM-5.1, daVinci MagiHuman, ARC-AGI 3, PrismAudio, Matrix Game ir dar daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Higgsfieldui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=6Il0CJx9yU8",
+            "try_url": "https://www.youtube.com/watch?v=6Il0CJx9yU8"
+          }
+        },
+        {
+          "title": "Raskite tobulą dovaną apsipirkdami naudodami „ChatGPT“.",
+          "link": "https://www.youtube.com/watch?v=th8u0bqYsQk",
+          "published_iso": "2026-03-27T20:55:13Z",
+          "published_lt": "2026-03-27 20:55 UTC",
+          "summary": "„ChatGPT“ gali padėti rasti tobulą dovaną, atsižvelgdama į jūsų biudžetą, pageidavimus ir suvaržymus bei tinkamus paviršiaus produktus. Galite naršyti vizualiai, įkelti vaizdus kaip įkvėpimą panašiems elementams ir tobulinti rezultatus pokalbio metu, kol pasieksite tinkamą parinktį.",
+          "source": "OpenAI",
+          "source_image_url": "https://i1.ytimg.com/vi/th8u0bqYsQk/hqdefault.jpg",
+          "image_url": "generated-images/2026-03-31-12-raskite-tobula-dovana-apsipirkdami-naudodami-chatgpt.svg",
+          "kind": "video",
+          "video_id": "th8u0bqYsQk",
+          "bullets_lt": [
+            "„ChatGPT“ gali padėti rasti tobulą dovaną, atsižvelgdama į jūsų biudžetą, pageidavimus ir suvaržymus bei tinkamus paviršiaus produktus.",
+            "Galite naršyti vizualiai, įkelti vaizdus kaip įkvėpimą panašiems elementams ir tobulinti rezultatus pokalbio metu, kol pasieksite tinkamą parinktį."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=th8u0bqYsQk",
+            "try_url": "https://www.youtube.com/watch?v=th8u0bqYsQk"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-03-30",
       "generated_at_utc": "2026-03-30T08:19:20Z",
