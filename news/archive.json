@@ -1,7 +1,344 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-04-07T08:08:12Z",
+  "updated_at_utc": "2026-04-08T08:09:31Z",
   "digests": [
+    {
+      "digest_date": "2026-04-08",
+      "generated_at_utc": "2026-04-08T08:09:31Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "Jie tiesiog rado „emocijas“ AI viduje",
+          "link": "https://www.youtube.com/watch?v=j9LoyiUlv9I",
+          "published_iso": "2026-04-08T03:24:28Z",
+          "published_lt": "2026-04-08 03:24 UTC",
+          "summary": "Antropiniai tyrinėtojai įrodė, kad AI turi emocijų ir kitų šokiruojančių atradimų. #ai #aitools #agi #ainews #llm #claude #mythos Ačiū mūsų rėmėjui Mammouth AI.",
+          "source": "AI Search",
+          "source_image_url": "https://i3.ytimg.com/vi/j9LoyiUlv9I/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-08-01-jie-tiesiog-rado-emocijas-ai-viduje.svg",
+          "kind": "video",
+          "video_id": "j9LoyiUlv9I",
+          "bullets_lt": [
+            "Antropiniai tyrinėtojai įrodė, kad AI turi emocijų ir kitų šokiruojančių atradimų.",
+            "#ai #aitools #agi #ainews #llm #claude #mythos Ačiū mūsų rėmėjui Mammouth AI."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=j9LoyiUlv9I",
+            "try_url": "https://www.youtube.com/watch?v=j9LoyiUlv9I"
+          }
+        },
+        {
+          "title": "Kaip sujungti „Google“ paiešką, „Google“ žemėlapius ir pasirinktines funkcijas viename „Gemini“ API skambutyje su konteksto cirkuliacija, lygiagrečiais įrankių ID ir daugiapakopėmis agentų grandinėmis",
+          "link": "https://www.marktechpost.com/2026/04/07/how-to-combine-google-search-google-maps-and-custom-functions-in-a-single-gemini-api-call-with-context-circulation-parallel-tool-ids-and-multi-step-agentic-chains/",
+          "published_iso": "2026-04-08T01:56:34Z",
+          "published_lt": "2026-04-08 01:56 UTC",
+          "summary": "Šioje mokymo programoje tyrinėjame naujausius Gemini API įrankių atnaujinimus, kuriuos „Google“ paskelbė 2026 m. kovo mėn., ypač galimybę sujungti integruotus įrankius, pvz., „Google“ paiešką ir „Google“ žemėlapius, su tinkintais funkcijų iškvietimais vienoje API užklausoje.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-08-02-kaip-sujungti-google-paieska-google-zemelapius-ir-pasiri.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje tyrinėjame naujausius Gemini API įrankių atnaujinimus, kuriuos „Google“ paskelbė 2026 m.",
+            "kovo mėn., ypač galimybę sujungti integruotus įrankius, pvz., „Google“ paiešką ir „Google“ žemėlapius, su tinkintais funkcijų iškvietimais vienoje API užklausoje.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Įrankių derinimo funkcijoms naudojame gemini-3-flash-preview, o Žemėlapių įžeminimui - gemini-2.5-flash, todėl viskas, ką čia sukuriame, veikia be jokios atsiskaitymo sąrankos.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/07/how-to-combine-google-search-google-maps-and-custom-functions-in-a-single-gemini-api-call-with-context-circulation-parallel-tool-ids-and-multi-step-agentic-chains/",
+            "try_url": "https://www.marktechpost.com/2026/04/07/how-to-combine-google-search-google-maps-and-custom-functions-in-a-single-gemini-api-call-with-context-circulation-parallel-tool-ids-and-multi-step-agentic-chains/"
+          }
+        },
+        {
+          "title": "Kaip įdiegti atvirą WebUI naudojant saugią OpenAI API integraciją, viešąjį tuneliavimą ir naršyklės pokalbių prieigą",
+          "link": "https://www.marktechpost.com/2026/04/07/how-to-deploy-open-webui-with-secure-openai-api-integration-public-tunneling-and-browser-based-chat-access/",
+          "published_iso": "2026-04-08T01:31:56Z",
+          "published_lt": "2026-04-08 01:31 UTC",
+          "summary": "Šioje mokymo programoje mes sukuriame visą atviros žiniatinklio sąsajos sąranką „Colab“ praktiškai ir praktiškai naudodami Python. Pirmiausia įdiegiame reikiamas priklausomybes, tada saugiai pateikiame OpenAI API raktą naudodami terminalo slaptą įvestį, kad neskelbtini kredencialai nebūtų rodomi tiesiai nešiojamajame kompiuteryje.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-08-03-kaip-idiegti-atvira-webui-naudojant-saugia-openai-api-in.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje mes sukuriame visą atviros žiniatinklio sąsajos sąranką „Colab“ praktiškai ir praktiškai naudodami Python.",
+            "Pirmiausia įdiegiame reikiamas priklausomybes, tada saugiai pateikiame OpenAI API raktą naudodami terminalo slaptą įvestį, kad neskelbtini kredencialai nebūtų rodomi tiesiai nešiojamajame kompiuteryje.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "import os import re import laikas import json import shutil import signal importavimo paslaptys importuoti subprocesas importuoti urllib.request iš getpass importuoti getpass iš pathlib importuoti Path print(\"Įdiegti...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/07/how-to-deploy-open-webui-with-secure-openai-api-integration-public-tunneling-and-browser-based-chat-access/",
+            "try_url": "https://www.marktechpost.com/2026/04/07/how-to-deploy-open-webui-with-secure-openai-api-integration-public-tunneling-and-browser-based-chat-access/"
+          }
+        },
+        {
+          "title": "Samas Altmanas apie AI ateities kūrimą",
+          "link": "https://www.youtube.com/watch?v=ZpUKNYcgM-E",
+          "published_iso": "2026-04-07T20:36:27Z",
+          "published_lt": "2026-04-07 20:36 UTC",
+          "summary": "AI vystosi greičiau, nei dauguma žmonių supranta. Šiame OpenAI forumo pokalbyje Samas Altmanas prisijungia prie Josho Achiamo ir Adrieno Ecoffeto, kad pakalbėtų apie tai, kas bus toliau.",
+          "source": "OpenAI",
+          "source_image_url": "https://i3.ytimg.com/vi/ZpUKNYcgM-E/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-08-04-samas-altmanas-apie-ai-ateities-kurima.svg",
+          "kind": "video",
+          "video_id": "ZpUKNYcgM-E",
+          "bullets_lt": [
+            "AI vystosi greičiau, nei dauguma žmonių supranta.",
+            "Šiame OpenAI forumo pokalbyje Samas Altmanas prisijungia prie Josho Achiamo ir Adrieno Ecoffeto, kad pakalbėtų apie tai, kas bus toliau.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=ZpUKNYcgM-E",
+            "try_url": "https://www.youtube.com/watch?v=ZpUKNYcgM-E"
+          }
+        },
+        {
+          "title": "Naujasis NVIDIA AI ką tik pakeitė viską",
+          "link": "https://www.youtube.com/watch?v=ZQAz_HrUq68",
+          "published_iso": "2026-04-07T17:38:09Z",
+          "published_lt": "2026-04-07 17:38 UTC",
+          "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 #NVIDIA dokumentą apie Nemotron 3 Super rasite čia: https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.pdf https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-t",
+          "source": "Two Minute Papers",
+          "source_image_url": "https://i3.ytimg.com/vi/ZQAz_HrUq68/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-08-05-naujasis-nvidia-ai-ka-tik-pakeite-viska.svg",
+          "kind": "video",
+          "video_id": "ZQAz_HrUq68",
+          "bullets_lt": [
+            "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 #NVIDIA dokumentą apie Nemotron 3 Super rasite čia: https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.pdf https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-t.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=ZQAz_HrUq68",
+            "try_url": "https://www.youtube.com/watch?v=ZQAz_HrUq68"
+          }
+        },
+        {
+          "title": "„Asylon“ ir „Thrive Logic“ suteikia fizinį AI įmonės perimetro saugumui",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+          "published_iso": "2026-04-07T14:40:42Z",
+          "published_lt": "2026-04-07 14:40 UTC",
+          "summary": "Įspūdingi laikai laukia įmonių perimetro saugumo pasaulyje, nes „Thrive Logic“ – dirbtinio intelekto agentų valdoma saugos ir operatyvinės žvalgybos platforma – ir „Asylon“ – saugos robotikos įmonė.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-08-06-asylon-ir-thrive-logic-suteikia-fizini-ai-imones-perimet.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Įspūdingi laikai laukia įmonių perimetro saugumo pasaulyje, nes „Thrive Logic“ – dirbtinio intelekto agentų valdoma saugos ir operatyvinės žvalgybos platforma – ir „Asylon“ – saugos robotikos įmonė.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Prieinamumas: Dar neissleista arba arteja."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Dar neissleista arba arteja.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1"
+          }
+        },
+        {
+          "title": "Boomi tai vadina „duomenų aktyvavimu“ ir sako, kad tai trūksta kiekvieno AI diegimo žingsnio",
+          "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+          "published_iso": "2026-04-07T12:00:00Z",
+          "published_lt": "2026-04-07 12:00 UTC",
+          "summary": "Įmonių AI gedimo režimas 2026 m. nėra toks, kokio tikėjosi dauguma žmonių. Tai nereiškia, kad modeliai yra neteisingi, kad agentai negali samprotauti, ar kad technologija yra perdėta.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-08-07-boomi-tai-vadina-duomenu-aktyvavimu-ir-sako-kad-tai-truk.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Įmonių AI gedimo režimas 2026 m.",
+            "nėra toks, kokio tikėjosi dauguma žmonių.",
+            "Tai nereiškia, kad modeliai yra neteisingi, kad agentai negali samprotauti, ar kad technologija yra perdėta.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1"
+          }
+        },
+        {
+          "title": "„Anthropic“ atsisakė ginkluoti AI būtent todėl JK to nori",
+          "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
+          "published_iso": "2026-04-07T10:00:00Z",
+          "published_lt": "2026-04-07 10:00 UTC",
+          "summary": "Antropinės JK plėtros istorija yra mažiau apie diplomatinę piršlybą, o daugiau apie tai, kas nutinka, kai vyriausybė nubaudžia įmonę už principų turėjimą.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-08-08-anthropic-atsisake-ginkluoti-ai-butent-todel-jk-to-nori.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Antropinės JK plėtros istorija yra mažiau apie diplomatinę piršlybą, o daugiau apie tai, kas nutinka, kai vyriausybė nubaudžia įmonę už principų turėjimą.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "$200, $380",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1"
+          }
+        },
+        {
+          "title": "„Meta AI“ išleido EUPE: kompaktišką vizijos koduotuvų šeimą iki 100 mln. parametrų, kuri konkuruoja su specializuotais modeliais vaizdo supratimo, tankaus numatymo ir VLM užduočių srityse",
+          "link": "https://www.marktechpost.com/2026/04/06/meta-ai-releases-eupe-a-compact-vision-encoder-family-under-100m-parameters-that-rivals-specialist-models-across-image-understanding-dense-prediction-and-vlm-tasks/",
+          "published_iso": "2026-04-07T04:41:59Z",
+          "published_lt": "2026-04-07 04:41 UTC",
+          "summary": "Galingo AI paleidimas išmaniajame telefone yra ne tik aparatinės įrangos problema – tai modelio architektūros problema. Dauguma naujausių regėjimo kodavimo įrenginių yra milžiniški, o kai juos apkarpote, kad tilptų į kraštinį įrenginį, jie praranda galimybes, dėl kurių jie buvo naudingi.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-9.29.32-PM-1-150x150.png",
+          "image_url": "generated-images/2026-04-08-09-meta-ai-isleido-eupe-kompaktiska-vizijos-koduotuvu-seima.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Galingo AI paleidimas išmaniajame telefone yra ne tik aparatinės įrangos problema – tai modelio architektūros problema.",
+            "Dauguma naujausių regėjimo kodavimo įrenginių yra milžiniški, o kai juos apkarpote, kad tilptų į kraštinį įrenginį, jie praranda galimybes, dėl kurių jie buvo naudingi.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/06/meta-ai-releases-eupe-a-compact-vision-encoder-family-under-100m-parameters-that-rivals-specialist-models-across-image-understanding-dense-prediction-and-vlm-tasks/",
+            "try_url": "https://www.marktechpost.com/2026/04/06/meta-ai-releases-eupe-a-compact-vision-encoder-family-under-100m-parameters-that-rivals-specialist-models-across-image-understanding-dense-prediction-and-vlm-tasks/"
+          }
+        },
+        {
+          "title": "Diegimo vadovas, kaip paleisti NVIDIA transformatoriaus variklį su mišriu tikslumu, FP8 patikra, lyginamoji analizė ir atsarginis vykdymas",
+          "link": "https://www.marktechpost.com/2026/04/06/an-implementation-guide-to-running-nvidia-transformer-engine-with-mixed-precision-fp8-checks-benchmarking-and-fallback-execution/",
+          "published_iso": "2026-04-06T23:23:53Z",
+          "published_lt": "2026-04-06 23:23 UTC",
+          "summary": "Šioje mokymo programoje mes įdiegiame pažangų, praktinį NVIDIA Transformer Engine įgyvendinimą Python, sutelkdami dėmesį į tai, kaip mišraus tikslumo pagreitį galima ištirti atliekant tikrovišką gilaus mokymosi darbo eigą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-08-10-diegimo-vadovas-kaip-paleisti-nvidia-transformatoriaus-v.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje mes įdiegiame pažangų, praktinį NVIDIA Transformer Engine įgyvendinimą Python, sutelkdami dėmesį į tai, kaip mišraus tikslumo pagreitį galima ištirti atliekant tikrovišką gilaus mokymosi darbo eigą.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Aptikta: CUDA",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "AI agentams prisiimant daugiau užduočių, valdymas tampa prioritetu",
+          "link": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
+          "published_iso": "2026-04-06T10:00:00Z",
+          "published_lt": "2026-04-06 10:00 UTC",
+          "summary": "AI sistemos pradeda peržengti paprastus atsakymus. Daugelyje organizacijų AI agentai dabar testuojami, kad galėtų planuoti užduotis, priimti sprendimus ir atlikti veiksmus su ribotu žmogaus indėliu. Tai jau ne tik klausimas, ar modelis pateikia teisingą atsakymą.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-08-11-ai-agentams-prisiimant-daugiau-uzduociu-valdymas-tampa-p.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "AI sistemos pradeda peržengti paprastus atsakymus.",
+            "Daugelyje organizacijų AI agentai dabar testuojami, kad galėtų planuoti užduotis, priimti sprendimus ir atlikti veiksmus su ribotu žmogaus indėliu.",
+            "Tai jau ne tik klausimas, ar modelis pateikia teisingą atsakymą.",
+            "Kaina: Labiau panasu i mokama sprendima."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Dirbtinio intelekto agentai tampa vis savarankiškesni, tačiau valdymas atsilieka, nes didėja jų priėmimas, o apsaugos priemonės išlieka ribotos.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1"
+          }
+        },
+        {
+          "title": "„RightNow AI“ išleidžia „AutoKernel“: atvirojo kodo sistemą, kuri taiko autonominę agento kilpą GPU branduolio optimizavimui savavališkiems „PyTorch“ modeliams",
+          "link": "https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/",
+          "published_iso": "2026-04-06T08:20:19Z",
+          "published_lt": "2026-04-06 08:20 UTC",
+          "summary": "Greitas GPU kodo rašymas yra viena iš labiausiai varginančių mašininio mokymosi inžinerijos specializacijų. Tyrėjai iš RightNow AI nori jį visiškai automatizuoti.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-1.19.54-AM-1-150x150.png",
+          "image_url": "generated-images/2026-04-08-12-rightnow-ai-isleidzia-autokernel-atvirojo-kodo-sistema-k.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Greitas GPU kodo rašymas yra viena iš labiausiai varginančių mašininio mokymosi inžinerijos specializacijų.",
+            "Tyrėjai iš RightNow AI nori jį visiškai automatizuoti.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Aptikta: CUDA",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/",
+            "try_url": "https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-04-07",
       "generated_at_utc": "2026-04-07T08:08:12Z",
