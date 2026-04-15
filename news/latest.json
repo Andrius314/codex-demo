@@ -1,134 +1,211 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-04-14",
-  "generated_at_utc": "2026-04-14T08:23:20Z",
+  "digest_date": "2026-04-15",
+  "generated_at_utc": "2026-04-15T08:24:47Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "„Google ADK Multi-Agent Pipeline Tutorial“: duomenų įkėlimas, statistinis testavimas, vizualizacija ir ataskaitų generavimas naudojant „Python“",
-      "link": "https://www.marktechpost.com/2026/04/13/google-adk-multi-agent-pipeline-tutorial-data-loading-statistical-testing-visualization-and-report-generation-in-python/",
-      "published_iso": "2026-04-14T03:23:29Z",
-      "published_lt": "2026-04-14 03:23 UTC",
-      "summary": "Šioje pamokoje mes sukuriame išplėstinį duomenų analizės dujotiekį naudodami „Google ADK“ ir organizuojame jį kaip praktinę kelių agentų sistemą, skirtą tikram analitiniam darbui.",
+      "title": "„Google DeepMind“ išleido „Gemini Robotics-ER 1.6“: patobulinto įkūnijimo samprotavimo ir instrumentų skaitymo pritaikymas fiziniam AI",
+      "link": "https://www.marktechpost.com/2026/04/15/google-deepmind-releases-gemini-robotics-er-1-6-bringing-enhanced-embodied-reasoning-and-instrument-reading-to-physical-ai/",
+      "published_iso": "2026-04-15T07:13:56Z",
+      "published_lt": "2026-04-15 07:13 UTC",
+      "summary": "„Google DeepMind“ tyrimų grupė pristatė „Gemini Robotics-ER 1.6“ – reikšmingą jos įkūnyto samprotavimo modelio patobulinimą, sukurtą kaip robotų, veikiančių realioje aplinkoje, „kognityvinėmis smegenimis“.",
       "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-04-14-01-google-adk-multi-agent-pipeline-tutorial-duomenu-ikelima.svg",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-12.12.16-AM-1-150x150.png",
+      "image_url": "generated-images/2026-04-15-01-google-deepmind-isleido-gemini-robotics-er-1-6-patobulin.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Šioje pamokoje mes sukuriame išplėstinį duomenų analizės dujotiekį naudodami „Google ADK“ ir organizuojame jį kaip praktinę kelių agentų sistemą, skirtą tikram analitiniam darbui.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Prieinama kaip beta/preview."
+        "„Google DeepMind“ tyrimų grupė pristatė „Gemini Robotics-ER 1.6“ – reikšmingą jos įkūnyto samprotavimo modelio patobulinimą, sukurtą kaip robotų, veikiančių realioje aplinkoje, „kognityvinėmis smegenimis“.",
+        "Kaina: Yra nemokamas ir mokamas variantas."
       ],
       "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "def load_csv(failo_kelias: str, duomenų rinkinio_pavadinimas: str, įrankio_kontekstas: ToolContext) -> dict: print(f\"📂 CSV: {file_path} įkeliama kaip '{duomenų rinkinio_pavadinimas}'\") try: df = pd.read_csv(file_path)...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/13/google-adk-multi-agent-pipeline-tutorial-data-loading-statistical-testing-visualization-and-report-generation-in-python/",
-        "try_url": "https://www.marktechpost.com/2026/04/13/google-adk-multi-agent-pipeline-tutorial-data-loading-statistical-testing-visualization-and-report-generation-in-python/"
-      }
-    },
-    {
-      "title": "„Google AI Research“ siūlo pranašumą: LLM pagrįstas protokolas bendradarbiavimui, kūrybiškumui ir kritiniam mąstymui įvertinti",
-      "link": "https://www.marktechpost.com/2026/04/13/google-ai-research-proposes-vantage-an-llm-based-protocol-for-measuring-collaboration-creativity-and-critical-thinking/",
-      "published_iso": "2026-04-14T00:30:27Z",
-      "published_lt": "2026-04-14 00:30 UTC",
-      "summary": "Standartizuoti testai gali pasakyti, ar mokinys moka skaičiavimą, ar gali išanalizuoti teksto ištrauką. Jie negali jums patikimai pasakyti, ar tas studentas gali išspręsti nesutarimą su komandos draugu, generuoti tikrai originalias idėjas, patiriamas spaudimas, ar kritiškai išardyti klaidingą argumentą.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-5.29.30-PM-1-150x150.png",
-      "image_url": "generated-images/2026-04-14-02-google-ai-research-siulo-pranasuma-llm-pagristas-protoko.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Standartizuoti testai gali pasakyti, ar mokinys moka skaičiavimą, ar gali išanalizuoti teksto ištrauką.",
-        "Jie negali jums patikimai pasakyti, ar tas studentas gali išspręsti nesutarimą su komandos draugu, generuoti tikrai originalias idėjas, patiriamas spaudimas, ar kritiškai išardyti klaidingą argumentą.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kaina": "Yra nemokamas ir mokamas variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Neaptikta siame saltinyje.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/13/google-ai-research-proposes-vantage-an-llm-based-protocol-for-measuring-collaboration-creativity-and-critical-thinking/",
-        "try_url": "https://www.marktechpost.com/2026/04/13/google-ai-research-proposes-vantage-an-llm-based-protocol-for-measuring-collaboration-creativity-and-critical-thinking/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/15/google-deepmind-releases-gemini-robotics-er-1-6-bringing-enhanced-embodied-reasoning-and-instrument-reading-to-physical-ai/",
+        "try_url": "https://www.marktechpost.com/2026/04/15/google-deepmind-releases-gemini-robotics-er-1-6-bringing-enhanced-embodied-reasoning-and-instrument-reading-to-physical-ai/"
       }
     },
     {
-      "title": "Žingsnis po žingsnio kodavimo pamoka apie NVIDIA PhysicsNeMo: Darcy Flow, FNO, PINN, surogatiniai modeliai ir išvadų lyginamoji analizė",
-      "link": "https://www.marktechpost.com/2026/04/13/a-step-by-step-coding-tutorial-on-nvidia-physicsnemo-darcy-flow-fnos-pinns-surrogate-models-and-inference-benchmarking/",
-      "published_iso": "2026-04-13T17:07:34Z",
-      "published_lt": "2026-04-13 17:07 UTC",
-      "summary": "Šioje mokymo programoje įdiegiame NVIDIA PhysicsNeMo sistemoje „Colab“ ir sukuriame praktinę darbo eigą, skirtą mašininiam mokymuisi, pagrįstu fizika. Pradedame nuo aplinkos nustatymo, 2D Darcy Flow problemos duomenų generavimo ir fizinių laukų vizualizavimo, kad aiškiai suprastume mokymosi užduotį.",
+      "title": "„Google“ pristato „įgūdžius“ naršyklėje „Chrome“: daugkartinio naudojimo AI raginimus paverčia vienu paspaudimu veikiančiomis naršyklės darbo eigomis",
+      "link": "https://www.marktechpost.com/2026/04/14/google-launches-skills-in-chrome-turning-reusable-ai-prompts-into-one-click-browser-workflows/",
+      "published_iso": "2026-04-15T03:54:17Z",
+      "published_lt": "2026-04-15 03:54 UTC",
+      "summary": "„Google“ ką tik paskelbė apie „Chrome“ skirtos įgūdžių išleidimą – naują „Gemini“ naršyklėje „Chrome“ funkciją, leidžiančią vartotojams išsaugoti dažnai naudojamus AI raginimus kaip daugkartinio naudojimo, vienu spustelėjimo darbo eigą, vadinamą įgūdžiais.",
       "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-04-14-03-zingsnis-po-zingsnio-kodavimo-pamoka-apie-nvidia-physics.svg",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-2-3.png",
+      "image_url": "generated-images/2026-04-15-02-google-pristato-igudzius-narsykleje-chrome-daugkartinio-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Šioje mokymo programoje įdiegiame NVIDIA PhysicsNeMo sistemoje „Colab“ ir sukuriame praktinę darbo eigą, skirtą mašininiam mokymuisi, pagrįstu fizika.",
-        "Pradedame nuo aplinkos nustatymo, 2D Darcy Flow problemos duomenų generavimo ir fizinių laukų vizualizavimo, kad aiškiai suprastume mokymosi užduotį.",
+        "„Google“ ką tik paskelbė apie „Chrome“ skirtos įgūdžių išleidimą – naują „Gemini“ naršyklėje „Chrome“ funkciją, leidžiančią vartotojams išsaugoti dažnai naudojamus AI raginimus kaip daugkartinio naudojimo, vienu spustelėjimo darbo eigą, vadinamą įgūdžiais.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
         "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Aptikta: cuda",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/13/a-step-by-step-coding-tutorial-on-nvidia-physicsnemo-darcy-flow-fnos-pinns-surrogate-models-and-inference-benchmarking/",
-        "try_url": "https://www.marktechpost.com/2026/04/13/a-step-by-step-coding-tutorial-on-nvidia-physicsnemo-darcy-flow-fnos-pinns-surrogate-models-and-inference-benchmarking/"
-      }
-    },
-    {
-      "title": "Įmonės valdymo stiprinimas siekiant didėjančio DI darbo krūvio",
-      "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
-      "published_iso": "2026-04-13T13:02:01Z",
-      "published_lt": "2026-04-13 13:02 UTC",
-      "summary": "Tokie modeliai kaip „Google Gemma 4“ didina įmonių AI valdymo iššūkius CISO, nes jie stengiasi užtikrinti didžiausią darbo krūvį.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-04-14-04-imones-valdymo-stiprinimas-siekiant-didejancio-di-darbo-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Tokie modeliai kaip „Google Gemma 4“ didina įmonių AI valdymo iššūkius CISO, nes jie stengiasi užtikrinti didžiausią darbo krūvį.",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Valdybų ir vykdomųjų komitetų logika buvo pagrįsta – neskelbtinus duomenis laikykite tinkle, stebėkite siunčiamas užklausas, o intelektinė nuosavybė yra visiškai apsaugota nuo išorinių nutekėjimų.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1",
-        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/14/google-launches-skills-in-chrome-turning-reusable-ai-prompts-into-one-click-browser-workflows/",
+        "try_url": "https://www.marktechpost.com/2026/04/14/google-launches-skills-in-chrome-turning-reusable-ai-prompts-into-one-click-browser-workflows/"
       }
     },
     {
-      "title": "Įmonės plečia dirbtinio intelekto naudojimą, išlaikydamos kontrolę",
-      "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
-      "published_iso": "2026-04-13T10:00:00Z",
-      "published_lt": "2026-04-13 10:00 UTC",
-      "summary": "Daugelis kompanijų taiko lėtesnį, labiau kontroliuojamą požiūrį į autonomines sistemas, kai AI pradeda taikytis. Užuot diegę sistemas, kurios veikia pačios, jos sutelkia dėmesį į įrankius, padedančius žmogui priimti sprendimus ir kontroliuoti rezultatus.",
-      "source": "AI News",
+      "title": "„Crawl4AI“ kodavimo įgyvendinimas, skirtas žiniatinklio tikrinimui, žymėjimo generavimui, „JavaScript“ vykdymui ir LLM pagrįstam struktūriniam ištraukimui",
+      "link": "https://www.marktechpost.com/2026/04/14/a-coding-implementation-of-crawl4ai-for-web-crawling-markdown-generation-javascript-execution-and-llm-based-structured-extraction/",
+      "published_iso": "2026-04-15T00:39:12Z",
+      "published_lt": "2026-04-15 00:39 UTC",
+      "summary": "Šioje mokymo programoje sukuriame išsamią ir praktišką „Crawl4AI“ darbo eigą ir tyrinėjame, kaip šiuolaikinis žiniatinklio tikrinimas yra kur kas daugiau nei tiesiog atsisiunčiant puslapio HTML.",
+      "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-04-14-05-imones-plecia-dirbtinio-intelekto-naudojima-islaikydamos.svg",
+      "image_url": "generated-images/2026-04-15-03-crawl4ai-kodavimo-igyvendinimas-skirtas-ziniatinklio-tik.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Daugelis kompanijų taiko lėtesnį, labiau kontroliuojamą požiūrį į autonomines sistemas, kai AI pradeda taikytis.",
-        "Užuot diegę sistemas, kurios veikia pačios, jos sutelkia dėmesį į įrankius, padedančius žmogui priimti sprendimus ir kontroliuoti rezultatus.",
+        "Šioje mokymo programoje sukuriame išsamią ir praktišką „Crawl4AI“ darbo eigą ir tyrinėjame, kaip šiuolaikinis žiniatinklio tikrinimas yra kur kas daugiau nei tiesiog atsisiunčiant puslapio HTML.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Paruošta tikrinti!\") print(\"=\"*60) print(\"\\n\" + \"=\"*60) print(\"📖 2 DALIS: PAGRINDINIS TIKRINIMAS\") print(\"=\"*60) iš crawl4ai importuoti AsyncWebCrawler, BrowserConfig, CrawlerRunConfig, Paprasčiausias galimas talpyklo...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/14/a-coding-implementation-of-crawl4ai-for-web-crawling-markdown-generation-javascript-execution-and-llm-based-structured-extraction/",
+        "try_url": "https://www.marktechpost.com/2026/04/14/a-coding-implementation-of-crawl4ai-for-web-crawling-markdown-generation-javascript-execution-and-llm-based-structured-extraction/"
+      }
+    },
+    {
+      "title": "„TinyFish AI“ išleido visą žiniatinklio infrastruktūros platformą AI agentams: paieška, gavimas, naršyklė ir agentas vienu API raktu",
+      "link": "https://www.marktechpost.com/2026/04/14/tinyfish-ai-releases-full-web-infrastructure-platform-for-ai-agents/",
+      "published_iso": "2026-04-14T18:53:27Z",
+      "published_lt": "2026-04-14 18:53 UTC",
+      "summary": "Dirbtinio intelekto agentai kovoja su užduotimis, kurioms reikia sąveikos su tiesioginiu žiniatinkliu – gauti konkurento kainodaros puslapį, išgauti struktūrinius duomenis iš daug JavaScript turinčios informacijos suvestinės arba automatizuoti kelių etapų darbo eigą tikroje svetainėje.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-30-150x150.png",
+      "image_url": "generated-images/2026-04-15-04-tinyfish-ai-isleido-visa-ziniatinklio-infrastrukturos-pl.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Dirbtinio intelekto agentai kovoja su užduotimis, kurioms reikia sąveikos su tiesioginiu žiniatinkliu – gauti konkurento kainodaros puslapį, išgauti struktūrinius duomenis iš daug JavaScript turinčios informacijos suvestinės arba automatizuoti kelių etapų darbo eigą tikroje svetainėje.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$47",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Kai dirbtinio intelekto agentas naudoja standartinį žiniatinklio gavimo įrankį, jis paprastai ištraukia visą puslapį, įskaitant tūkstančius naršymo elementų, skelbimo kodo ir šablono žymėjimo ženklų, ir visa tai įdeda...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/14/tinyfish-ai-releases-full-web-infrastructure-platform-for-ai-agents/",
+        "try_url": "https://www.marktechpost.com/2026/04/14/tinyfish-ai-releases-full-web-infrastructure-platform-for-ai-agents/"
+      }
+    },
+    {
+      "title": "Paverskite geriausius AI raginimus vienu spustelėjimu „Chrome“ skirtais įrankiais",
+      "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "published_iso": "2026-04-14T17:00:00Z",
+      "published_lt": "2026-04-14 17:00 UTC",
+      "summary": "Įgūdžiai naršyklėje „Chrome“ leidžia atrasti, išsaugoti ir iš naujo maišyti AI darbo eigas – ir akimirksniu jas pakartoti.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordH.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-04-15-05-paverskite-geriausius-ai-raginimus-vienu-spustelejimu-ch.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Įgūdžiai naršyklėje „Chrome“ leidžia atrasti, išsaugoti ir iš naujo maišyti AI darbo eigas – ir akimirksniu jas pakartoti.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641"
+      }
+    },
+    {
+      "title": "Ką Codex atrakina Wasmer",
+      "link": "https://www.youtube.com/shorts/H104L-steDs",
+      "published_iso": "2026-04-14T14:55:56Z",
+      "published_lt": "2026-04-14 14:55 UTC",
+      "summary": "„JavaScript“ vykdymo laiką galėjome sukurti vos per dvi savaites. Be Codex mums būtų užtrukę vienerius metus.“ Syrus Akbary Nieto, „Wasmer“ įkūrėjas ir generalinis direktorius, testavo „Codex“ nepalankiausiomis sąlygomis, skirdamas sudėtingas, ilgai vykdomas užduotis. „Iš tikrųjų atsisakome pačios IDE.",
+      "source": "OpenAI",
+      "source_image_url": "https://i1.ytimg.com/vi/H104L-steDs/hqdefault.jpg",
+      "image_url": "generated-images/2026-04-15-06-ka-codex-atrakina-wasmer.svg",
+      "kind": "video",
+      "video_id": "H104L-steDs",
+      "bullets_lt": [
+        "„JavaScript“ vykdymo laiką galėjome sukurti vos per dvi savaites.",
+        "Be Codex mums būtų užtrukę vienerius metus.“ Syrus Akbary Nieto, „Wasmer“ įkūrėjas ir generalinis direktorius, testavo „Codex“ nepalankiausiomis sąlygomis, skirdamas sudėtingas, ilgai vykdomas užduotis.",
+        "„Iš tikrųjų atsisakome pačios IDE."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/H104L-steDs",
+        "try_url": "https://www.youtube.com/shorts/H104L-steDs"
+      }
+    },
+    {
+      "title": "Naujasis Anthropic AI išsprendžia problemas... apgaudinėdama",
+      "link": "https://www.youtube.com/watch?v=Ersv1ogj7Jo",
+      "published_iso": "2026-04-14T14:50:00Z",
+      "published_lt": "2026-04-14 14:50 UTC",
+      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://www.anthropic.com/claude-mythos-preview-system-card Nuorodos ir šaltiniai: https://debugml.github.io/cheating-agents/ https://x.com/bstnxbt/status/2042967285715865685 Mūsų patreonas, jei norite paremti",
+      "source": "Two Minute Papers",
+      "source_image_url": "https://i2.ytimg.com/vi/Ersv1ogj7Jo/hqdefault.jpg",
+      "image_url": "generated-images/2026-04-15-07-naujasis-anthropic-ai-issprendzia-problemas-apgaudinedam.svg",
+      "kind": "video",
+      "video_id": "Ersv1ogj7Jo",
+      "bullets_lt": [
+        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://www.anthropic.com/claude-mythos-preview-system-card Nuorodos ir šaltiniai: https://debugml.github.io/cheating-agents/ https://x.com/bstnxbt/status/2042967285715865685 Mūsų patreonas, jei norite paremti.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://www.anthropic.com/claude-mythos-preview-system-card Nuorodos ir šaltiniai: https://debugm...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=Ersv1ogj7Jo",
+        "try_url": "https://www.youtube.com/watch?v=Ersv1ogj7Jo"
+      }
+    },
+    {
+      "title": "SAP suteikia agentinį AI žmogiškojo kapitalo valdymui",
+      "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+      "published_iso": "2026-04-14T12:55:09Z",
+      "published_lt": "2026-04-14 12:55 UTC",
+      "summary": "Anot SAP, agentinio AI integravimas į pagrindinius žmogiškojo kapitalo valdymo (HCM) modulius padeda sumažinti veiklos padidėjimą ir sumažinti išlaidas.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-04-15-08-sap-suteikia-agentini-ai-zmogiskojo-kapitalo-valdymui.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Anot SAP, agentinio AI integravimas į pagrindinius žmogiškojo kapitalo valdymo (HCM) modulius padeda sumažinti veiklos padidėjimą ir sumažinti išlaidas.",
         "Kaina: Labiau panasu i mokama sprendima.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
@@ -144,43 +221,100 @@
       }
     },
     {
-      "title": "„DuckDB-Python Analytics“ dujotiekio su SQL, duomenų rėmeliais, parketu, UDF ir našumo profiliavimu diegimo vadovas",
-      "link": "https://www.marktechpost.com/2026/04/13/an-implementation-guide-to-building-a-duckdb-python-analytics-pipeline-with-sql-dataframes-parquet-udfs-and-performance-profiling/",
-      "published_iso": "2026-04-13T07:38:06Z",
-      "published_lt": "2026-04-13 07:38 UTC",
-      "summary": "Šioje mokymo programoje mes sukuriame išsamų ir praktinį DuckDB-Python supratimą, naudodami jo funkcijas tiesiogiai Colab kode.",
-      "source": "MarkTechPost",
+      "title": "Kanados Scotiabank ruošiasi dirbtinio intelekto ateičiai",
+      "link": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
+      "published_iso": "2026-04-14T11:20:00Z",
+      "published_lt": "2026-04-14 11:20 UTC",
+      "summary": "„Scotiabank“ pristatė dirbtinio intelekto sistemą „Scotia Intelligence“, skirtą duomenų ir dirbtinio intelekto operacijoms, sujungiančią įvairias platformas, duomenų priežiūrą ir programinės įrangos įrankius į vieną egzempliorių.",
+      "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-04-14-06-duckdb-python-analytics-dujotiekio-su-sql-duomenu-remeli.svg",
+      "image_url": "generated-images/2026-04-15-09-kanados-scotiabank-ruosiasi-dirbtinio-intelekto-ateiciai.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Šioje mokymo programoje mes sukuriame išsamų ir praktinį DuckDB-Python supratimą, naudodami jo funkcijas tiesiogiai Colab kode."
+        "„Scotiabank“ pristatė dirbtinio intelekto sistemą „Scotia Intelligence“, skirtą duomenų ir dirbtinio intelekto operacijoms, sujungiančią įvairias platformas, duomenų priežiūrą ir programinės įrangos įrankius į vieną egzempliorių.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
       ],
       "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
+        "kaina": "Labiau panasu i mokama sprendima.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Neaptikta siame saltinyje.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/13/an-implementation-guide-to-building-a-duckdb-python-analytics-pipeline-with-sql-dataframes-parquet-udfs-and-performance-profiling/",
-        "try_url": "https://www.marktechpost.com/2026/04/13/an-implementation-guide-to-building-a-duckdb-python-analytics-pipeline-with-sql-dataframes-parquet-udfs-and-performance-profiling/"
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1"
       }
     },
     {
-      "title": "„MiniMax“ išleido MMX-CLI: komandų eilutės sąsają, suteikiančią AI agentams vietinę prieigą prie vaizdo, vaizdo įrašų, kalbos, muzikos, vizijos ir paieškos",
-      "link": "https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/",
-      "published_iso": "2026-04-13T05:17:40Z",
-      "published_lt": "2026-04-13 05:17 UTC",
-      "summary": "MiniMax, dirbtinio intelekto tyrimų įmonė, kurianti MiniMax įvairiarūšių modelių rinkinį, išleido MMX-CLI – Node.js pagrindu sukurtą komandų eilutės sąsają, kuri suteikia galimybę dirbti su MiniMax AI platformos generavimo galimybėmis tiek žmonių kūrėjams, dirbantiems terminale, tiek dirbtinio intelekto agentams, naudojantiems tokius įrankius kaip „Cursor“, „Claude Code“.",
-      "source": "MarkTechPost",
+      "title": "„Hyundai“ plečiasi į robotiką ir fizines AI sistemas",
+      "link": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
+      "published_iso": "2026-04-14T10:00:00Z",
+      "published_lt": "2026-04-14 10:00 UTC",
+      "summary": "„Hyundai Motor Group“ pradeda atrodyti kaip įmonė, kurianti mašinas, veikiančias realiame pasaulyje. Pokyčių centre – fizinis DI: kur AI dedamas į robotus ir sistemas, kurios juda ir reaguoja fizinėse erdvėse. Dabartinės pastangos daugiausia sutelktos į gamyklos ir pramonės nustatymus.",
+      "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-04-14-07-minimax-isleido-mmx-cli-komandu-eilutes-sasaja-suteikian.svg",
+      "image_url": "generated-images/2026-04-15-10-hyundai-pleciasi-i-robotika-ir-fizines-ai-sistemas.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "MiniMax, dirbtinio intelekto tyrimų įmonė, kurianti MiniMax įvairiarūšių modelių rinkinį, išleido MMX-CLI – Node.js pagrindu sukurtą komandų eilutės sąsają, kuri suteikia galimybę dirbti su MiniMax AI platformos generavimo galimybėmis tiek žmonių kūrėjams, dirbantiems terminale, tiek dirbtinio intelekto agentams, naudojantiems tokius įrankius kaip „Cursor“, „Claude Code“.",
+        "„Hyundai Motor Group“ pradeda atrodyti kaip įmonė, kurianti mašinas, veikiančias realiame pasaulyje.",
+        "Pokyčių centre – fizinis DI: kur AI dedamas į robotus ir sistemas, kurios juda ir reaguoja fizinėse erdvėse.",
+        "Dabartinės pastangos daugiausia sutelktos į gamyklos ir pramonės nustatymus.",
+        "Kaina: Labiau panasu i mokama sprendima."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "$26, $20.5",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1"
+      }
+    },
+    {
+      "title": "Suburkite žmones į AI ekonomikos forume",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+      "published_iso": "2026-04-14T09:00:00Z",
+      "published_lt": "2026-04-14 09:00 UTC",
+      "summary": "„Google“ suburia žmones Vašingtone į AI ekonomikos forumą.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_the_Economy_Forum_2026.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-04-15-11-suburkite-zmones-i-ai-ekonomikos-forume.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“ suburia žmones Vašingtone į AI ekonomikos forumą.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641"
+      }
+    },
+    {
+      "title": "NVIDIA ir Merilendo universiteto mokslininkai išleido garso įrašą Flamingo Next (AF-Next): itin galingas ir atviras didelės garso kalbos modelis",
+      "link": "https://www.marktechpost.com/2026/04/14/nvidia-and-the-university-of-maryland-researchers-released-audio-flamingo-next-af-next-a-super-powerful-and-open-large-audio-language-model/",
+      "published_iso": "2026-04-14T08:24:23Z",
+      "published_lt": "2026-04-14 08:24 UTC",
+      "summary": "Garso supratimas visada buvo multimodalinė riba, kuri atsilieka nuo vizijos. Nors vaizdo kalbos modeliai sparčiai pradėjo taikyti realiame pasaulyje, kurti atvirus modelius, kurie būtų tvirtai pagrįsta kalba, aplinkos garsais ir muzika, ypač ilgai, buvo gana sunku.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-1.22.32-AM-1-150x150.png",
+      "image_url": "generated-images/2026-04-15-12-nvidia-ir-merilendo-universiteto-mokslininkai-isleido-ga.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Garso supratimas visada buvo multimodalinė riba, kuri atsilieka nuo vizijos.",
+        "Nors vaizdo kalbos modeliai sparčiai pradėjo taikyti realiame pasaulyje, kurti atvirus modelius, kurie būtų tvirtai pagrįsta kalba, aplinkos garsais ir muzika, ypač ilgai, buvo gana sunku.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
         "Prieinamumas: Panasu, kad jau galima bandyti."
@@ -189,144 +323,11 @@
         "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "MMX-CLI sujungia „MiniMax“ viso modalinio krūvio grupes į septynias generuojamųjų komandų grupes – mmx tekstas, mmx vaizdas, mmx vaizdo įrašas, mmx kalba, mmx muzika, mmx vizija ir mmx paieška, taip pat pagalbinės pas...",
+        "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/",
-        "try_url": "https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/"
-      }
-    },
-    {
-      "title": "Praktinė „Microsoft VibeVoice“ kodavimo pamoka, apimanti garsiakalbius atpažįstančius ASR, realiojo laiko TTS ir kalbos perdavimo į kalbą vamzdžius",
-      "link": "https://www.marktechpost.com/2026/04/12/a-hands-on-coding-tutorial-for-microsoft-vibevoice-covering-speaker-aware-asr-real-time-tts-and-speech-to-speech-pipelines/",
-      "published_iso": "2026-04-13T01:22:15Z",
-      "published_lt": "2026-04-13 01:22 UTC",
-      "summary": "Šioje mokymo programoje tyrinėjame „Microsoft VibeVoice“ sistemoje „Colab“ ir sukuriame visą praktinę kalbos atpažinimo ir kalbos sintezės realiuoju laiku darbo eigą.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-04-14-08-praktine-microsoft-vibevoice-kodavimo-pamoka-apimanti-ga.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje mokymo programoje tyrinėjame „Microsoft VibeVoice“ sistemoje „Colab“ ir sukuriame visą praktinę kalbos atpažinimo ir kalbos sintezės realiuoju laiku darbo eigą.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "print(\"\\n\" + \"=\"*70) print(\"ASR DEMO: Paketinis apdorojimas\") print(\"=\"*70) audio_batch = [SAMPLE_GERMAN, SAMPLE_PODCAST] prompts_batch = [\"Apie VibeVoice\", Nėra] inputs = asr_processor.apply_transcription(audioquebat...",
-        "lokalus_reikalavimai": "Aptikta: cuda",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/12/a-hands-on-coding-tutorial-for-microsoft-vibevoice-covering-speaker-aware-asr-real-time-tts-and-speech-to-speech-pipelines/",
-        "try_url": "https://www.marktechpost.com/2026/04/12/a-hands-on-coding-tutorial-for-microsoft-vibevoice-covering-speaker-aware-asr-real-time-tts-and-speech-to-speech-pipelines/"
-      }
-    },
-    {
-      "title": "„Meta AI“ ir „KAUST“ mokslininkai siūlo neuroninius kompiuterius, kurie sujungia skaičiavimą, atmintį ir įvestį / išvestį į vieną išmoktą modelį",
-      "link": "https://www.marktechpost.com/2026/04/12/meta-ai-and-kaust-researchers-propose-neural-computers-that-fold-computation-memory-and-i-o-into-one-learned-model/",
-      "published_iso": "2026-04-12T21:52:24Z",
-      "published_lt": "2026-04-12 21:52 UTC",
-      "summary": "Tyrėjai iš Meta AI ir Karaliaus Abdullah mokslo ir technologijų universiteto (KAUST) pristatė neuroninius kompiuterius (NC) – siūlomą mašinos formą, kai pats neuroninis tinklas veikia kaip veikiantis kompiuteris, o ne kaip sluoksnis, esantis ant vieno.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-12-at-2.47.35-PM-1-150x150.png",
-      "image_url": "generated-images/2026-04-14-09-meta-ai-ir-kaust-mokslininkai-siulo-neuroninius-kompiute.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Tyrėjai iš Meta AI ir Karaliaus Abdullah mokslo ir technologijų universiteto (KAUST) pristatė neuroninius kompiuterius (NC) – siūlomą mašinos formą, kai pats neuroninis tinklas veikia kaip veikiantis kompiuteris, o ne kaip sluoksnis, esantis ant vieno.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/12/meta-ai-and-kaust-researchers-propose-neural-computers-that-fold-computation-memory-and-i-o-into-one-learned-model/",
-        "try_url": "https://www.marktechpost.com/2026/04/12/meta-ai-and-kaust-researchers-propose-neural-computers-that-fold-computation-memory-and-i-o-into-one-learned-model/"
-      }
-    },
-    {
-      "title": "„MolmoAct“ kodavimo įgyvendinimas, skirtas giliai suvokiančiam erdviniam samprotavimui, vizualiniam trajektorijos sekimui ir robotų veiksmų numatymui",
-      "link": "https://www.marktechpost.com/2026/04/12/a-coding-implementation-of-molmoact-for-depth-aware-spatial-reasoning-visual-trajectory-tracing-and-robotic-action-prediction/",
-      "published_iso": "2026-04-12T20:17:15Z",
-      "published_lt": "2026-04-12 20:17 UTC",
-      "summary": "Šioje mokymo programoje žingsnis po žingsnio apžvelgsime MolmoActą ir praktikoje suprasime, kaip veiksmą motyvuojantys modeliai gali samprotauti erdvėje iš vizualinių stebėjimų.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-04-14-10-molmoact-kodavimo-igyvendinimas-skirtas-giliai-suvokianc.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje mokymo programoje žingsnis po žingsnio apžvelgsime MolmoActą ir praktikoje suprasime, kaip veiksmą motyvuojantys modeliai gali samprotauti erdvėje iš vizualinių stebėjimų.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "print(\"=\" * 80) print(\"🔧 1 SKYRIUS: ĮDIEGIMAS IR SĄRANKA\") print(\"=\" * 80) Import subprocess Import sys def install_packages(): \"\"\"Įdiekite visus reikiamus MolmoAct paketus\"\"\" paketai = [ \"torch>=2.0.0\",trans \"celer5\"...",
-        "lokalus_reikalavimai": "Aptikta: cuda",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Claude Mythos, „Deepseek v4“, „HappyHorse“, naujasis „Meta“ dirbtinis intelektas, vaizdo žaidimai realiuoju laiku: AI NAUJIENOS",
-      "link": "https://www.youtube.com/watch?v=1_5sSJK2rU0",
-      "published_iso": "2026-04-12T03:33:39Z",
-      "published_lt": "2026-04-12 03:33 UTC",
-      "summary": "Claude Mythos & Project Glasswing, HappyHorse, GLM-5.1, Anima v3, Muse Spark #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Skywork.",
-      "source": "AI Search",
-      "source_image_url": "https://i2.ytimg.com/vi/1_5sSJK2rU0/hqdefault.jpg",
-      "image_url": "generated-images/2026-04-14-11-claude-mythos-deepseek-v4-happyhorse-naujasis-meta-dirbt.svg",
-      "kind": "video",
-      "video_id": "1_5sSJK2rU0",
-      "bullets_lt": [
-        "Claude Mythos & Project Glasswing, HappyHorse, GLM-5.1, Anima v3, Muse Spark #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Skywork."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=1_5sSJK2rU0",
-        "try_url": "https://www.youtube.com/watch?v=1_5sSJK2rU0"
-      }
-    },
-    {
-      "title": "Naujasis NVIDIA AI neturėtų veikti, bet veikia",
-      "link": "https://www.youtube.com/watch?v=mFSFvKquXwI",
-      "published_iso": "2026-04-11T16:23:48Z",
-      "published_lt": "2026-04-11 16:23 UTC",
-      "summary": "❤️ Peržiūrėkite Weights & Biases ir prisiregistruokite gauti nemokamą demonstracinę versiją čia: https://wandb.me/papers 📝 Straipsnį galite rasti čia: https://dreamdojo-world.github.io/ Mūsų Patreonas, jei norite mus paremti: https://www.patreon.com/TwoMinutePapers mūsų „Paper Minute“ norėtų padėkoti mūsų „Two Minute“ dalyviams 🙏 poz",
-      "source": "Two Minute Papers",
-      "source_image_url": "https://i2.ytimg.com/vi/mFSFvKquXwI/hqdefault.jpg",
-      "image_url": "generated-images/2026-04-14-12-naujasis-nvidia-ai-neturetu-veikti-bet-veikia.svg",
-      "kind": "video",
-      "video_id": "mFSFvKquXwI",
-      "bullets_lt": [
-        "❤️ Peržiūrėkite Weights & Biases ir prisiregistruokite gauti nemokamą demonstracinę versiją čia: https://wandb.me/papers 📝 Straipsnį galite rasti čia: https://dreamdojo-world.github.io/ Mūsų Patreonas, jei norite mus paremti: https://www.patreon.com/TwoMinutePapers mūsų „Paper Minute“ norėtų padėkoti mūsų „Two Minute“ dalyviams 🙏 poz.",
-        "Kaina: Yra nemokamas ir mokamas variantas."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=mFSFvKquXwI",
-        "try_url": "https://www.youtube.com/watch?v=mFSFvKquXwI"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/14/nvidia-and-the-university-of-maryland-researchers-released-audio-flamingo-next-af-next-a-super-powerful-and-open-large-audio-language-model/",
+        "try_url": "https://www.marktechpost.com/2026/04/14/nvidia-and-the-university-of-maryland-researchers-released-audio-flamingo-next-af-next-a-super-powerful-and-open-large-audio-language-model/"
       }
     }
   ]
