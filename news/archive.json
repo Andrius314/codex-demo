@@ -1,7 +1,330 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-04-18T07:56:32Z",
+  "updated_at_utc": "2026-04-19T08:03:32Z",
   "digests": [
+    {
+      "digest_date": "2026-04-19",
+      "generated_at_utc": "2026-04-19T08:03:32Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "NVIDIA išleido „Ising“: pirmąją atvirojo kvantinio AI modelių šeimą hibridinėms kvantinėms-klasikinėms sistemoms",
+          "link": "https://www.marktechpost.com/2026/04/19/nvidia-releases-ising/",
+          "published_iso": "2026-04-19T07:54:42Z",
+          "published_lt": "2026-04-19 07:54 UTC",
+          "summary": "Kvantinė kompiuterija daugelį metų gyveno ateities laiku. Patobulėjo aparatinė įranga, padaugėjo tyrimų ir atsirado rizikos dolerių, tačiau atotrūkis tarp kvantinio procesoriaus, veikiančio laboratorijoje, ir procesoriaus, kuriame veikia realios programos, tebėra labai didelis.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-19-01-nvidia-isleido-ising-pirmaja-atvirojo-kvantinio-ai-model.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kvantinė kompiuterija daugelį metų gyveno ateities laiku.",
+            "Patobulėjo aparatinė įranga, padaugėjo tyrimų ir atsirado rizikos dolerių, tačiau atotrūkis tarp kvantinio procesoriaus, veikiančio laboratorijoje, ir procesoriaus, kuriame veikia realios programos, tebėra labai didelis.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/19/nvidia-releases-ising/",
+            "try_url": "https://www.marktechpost.com/2026/04/19/nvidia-releases-ising/"
+          }
+        },
+        {
+          "title": "„xAI“ pristato atskiras „Grok Speech-to-text“ ir „Text-to-Speech“ API, skirtas įmonių balso kūrėjams",
+          "link": "https://www.marktechpost.com/2026/04/18/xai-launches-standalone-grok-speech-to-text-and-text-to-speech-apis-targeting-enterprise-voice-developers/",
+          "published_iso": "2026-04-19T05:28:57Z",
+          "published_lt": "2026-04-19 05:28 UTC",
+          "summary": "Elono Musko dirbtinio intelekto įmonė xAI paleido dvi atskiras garso API – kalbėjimo į tekstą (STT) API ir teksto į kalbą (TTS) API – abi sukurtos toje pačioje infrastruktūroje, kuri veikia Grok Voice mobiliosiose programose, „Tesla“ transporto priemonėse ir „Starlink“ klientų aptarnavimo srityje.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-18-at-10.28.16-PM-1-150x150.png",
+          "image_url": "generated-images/2026-04-19-02-xai-pristato-atskiras-grok-speech-to-text-ir-text-to-spe.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Elono Musko dirbtinio intelekto įmonė xAI paleido dvi atskiras garso API – kalbėjimo į tekstą (STT) API ir teksto į kalbą (TTS) API – abi sukurtos toje pačioje infrastruktūroje, kuri veikia Grok Voice mobiliosiose programose, „Tesla“ transporto priemonėse ir „Starlink“ klientų aptarnavimo srityje.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "$0.10 per, $0.20 per, $167,98",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Kainos yra nesudėtingos: kalbos pakeitimas tekstu yra 0,10 USD per valandą už paketą ir 0,20 USD per valandą už srautinį perdavimą.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/18/xai-launches-standalone-grok-speech-to-text-and-text-to-speech-apis-targeting-enterprise-voice-developers/",
+            "try_url": "https://www.marktechpost.com/2026/04/18/xai-launches-standalone-grok-speech-to-text-and-text-to-speech-apis-targeting-enterprise-voice-developers/"
+          }
+        },
+        {
+          "title": "„PrismML Bonsai 1-Bit LLM“ paleidimo CUDA su GGUF, lyginamuoju tyrimu, pokalbiais, JSON ir RAG kodavimo pamoka",
+          "link": "https://www.marktechpost.com/2026/04/18/a-coding-tutorial-for-running-prismml-bonsai-1-bit-llm-on-cuda-with-gguf-benchmarking-chat-json-and-rag/",
+          "published_iso": "2026-04-19T04:33:41Z",
+          "published_lt": "2026-04-19 04:33 UTC",
+          "summary": "Šiame vadove mes įgyvendiname, kaip efektyviai paleisti Bonsai 1 bito didelės kalbos modelį naudojant GPU spartinimą ir PrismML optimizuotą GGUF diegimo krūvą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-19-03-prismml-bonsai-1-bit-llm-paleidimo-cuda-su-gguf-lyginamu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove mes įgyvendiname, kaip efektyviai paleisti Bonsai 1 bito didelės kalbos modelį naudojant GPU spartinimą ir PrismML optimizuotą GGUF diegimo krūvą.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/18/a-coding-tutorial-for-running-prismml-bonsai-1-bit-llm-on-cuda-with-gguf-benchmarking-chat-json-and-rag/",
+            "try_url": "https://www.marktechpost.com/2026/04/18/a-coding-tutorial-for-running-prismml-bonsai-1-bit-llm-on-cuda-with-gguf-benchmarking-chat-json-and-rag/"
+          }
+        },
+        {
+          "title": "Claude Opus 4.7, Qwen 3.6, Happy Oyster, realaus laiko 3D pasauliai, naujas Google TTS: AI NAUJIENOS",
+          "link": "https://www.youtube.com/watch?v=G8fqduzB5lc",
+          "published_iso": "2026-04-19T03:28:42Z",
+          "published_lt": "2026-04-19 03:28 UTC",
+          "summary": "Opus 4.7, HY World 2.0, Qwen 3.6, Happy Oyster, GPT Rosalind, Lyra 2 #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Hubspot.",
+          "source": "AI Search",
+          "source_image_url": "https://i4.ytimg.com/vi/G8fqduzB5lc/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-19-04-claude-opus-4-7-qwen-3-6-happy-oyster-realaus-laiko-3d-p.svg",
+          "kind": "video",
+          "video_id": "G8fqduzB5lc",
+          "bullets_lt": [
+            "Opus 4.7, HY World 2.0, Qwen 3.6, Happy Oyster, GPT Rosalind, Lyra 2 #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Hubspot."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=G8fqduzB5lc",
+            "try_url": "https://www.youtube.com/watch?v=G8fqduzB5lc"
+          }
+        },
+        {
+          "title": "Ypatybe pagrįsto testavimo, naudojant hipotezę su būsenos, diferencialinio ir metamorfinio testo planu, kodavimo vadovas",
+          "link": "https://www.marktechpost.com/2026/04/18/a-coding-guide-for-property-based-testing-using-hypothesis-with-stateful-differential-and-metamorphic-test-design/",
+          "published_iso": "2026-04-18T21:55:25Z",
+          "published_lt": "2026-04-18 21:55 UTC",
+          "summary": "Šioje mokymo programoje mes tyrinėjame nuosavybe pagrįstą testavimą naudodami hipotezę ir sukuriame griežtą testavimo sistemą, kuri gerokai viršija tradicinį vienetų testavimą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-19-05-ypatybe-pagristo-testavimo-naudojant-hipoteze-su-busenos.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje mes tyrinėjame nuosavybe pagrįstą testavimą naudodami hipotezę ir sukuriame griežtą testavimo sistemą, kuri gerokai viršija tradicinį vienetų testavimą.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/18/a-coding-guide-for-property-based-testing-using-hypothesis-with-stateful-differential-and-metamorphic-test-design/",
+            "try_url": "https://www.marktechpost.com/2026/04/18/a-coding-guide-for-property-based-testing-using-hypothesis-with-stateful-differential-and-metamorphic-test-design/"
+          }
+        },
+        {
+          "title": "Antropiniai leidimai Claude Opus 4.7: pagrindinis agentinio kodavimo, didelės raiškos vizijos ir ilgalaikių autonominių užduočių atnaujinimas",
+          "link": "https://www.marktechpost.com/2026/04/18/anthropic-releases-claude-opus-4-7-a-major-upgrade-for-agentic-coding-high-resolution-vision-and-long-horizon-autonomous-tasks/",
+          "published_iso": "2026-04-18T21:40:03Z",
+          "published_lt": "2026-04-18 21:40 UTC",
+          "summary": "„Anthropic“ išleido „Claude Opus 4.7“ – naujausią pažangiausią modelį ir tiesioginį „Claude Opus 4.6“ įpėdinį.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-18-at-2.39.41-PM-1-150x150.png",
+          "image_url": "generated-images/2026-04-19-06-antropiniai-leidimai-claude-opus-4-7-pagrindinis-agentin.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Anthropic“ išleido „Claude Opus 4.7“ – naujausią pažangiausią modelį ir tiesioginį „Claude Opus 4.6“ įpėdinį."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/18/anthropic-releases-claude-opus-4-7-a-major-upgrade-for-agentic-coding-high-resolution-vision-and-long-horizon-autonomous-tasks/",
+            "try_url": "https://www.marktechpost.com/2026/04/18/anthropic-releases-claude-opus-4-7-a-major-upgrade-for-agentic-coding-high-resolution-vision-and-long-horizon-autonomous-tasks/"
+          }
+        },
+        {
+          "title": "„Google AI“ išleidžia automatinę diagnostiką: didelės kalbos modelio LLM pagrįsta sistema, skirta diagnozuoti integracijos testo gedimus dideliu mastu",
+          "link": "https://www.marktechpost.com/2026/04/17/google-ai-releases-auto-diagnose-an-large-language-model-llm-based-system-to-diagnose-integration-test-failures-at-scale/",
+          "published_iso": "2026-04-18T06:00:41Z",
+          "published_lt": "2026-04-18 06:00 UTC",
+          "summary": "Jei kada nors žiūrėjote į tūkstančius integracijos bandymo žurnalų eilučių, svarstydami, kuriame iš šešiolikos žurnalo failų iš tikrųjų yra jūsų klaida, nesate vieni – ir „Google“ dabar turi duomenų, įrodančių tai.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-11.00.24-PM-1-150x150.png",
+          "image_url": "generated-images/2026-04-19-07-google-ai-isleidzia-automatine-diagnostika-dideles-kalbo.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Jei kada nors žiūrėjote į tūkstančius integracijos bandymo žurnalų eilučių, svarstydami, kuriame iš šešiolikos žurnalo failų iš tikrųjų yra jūsų klaida, nesate vieni – ir „Google“ dabar turi duomenų, įrodančių tai."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/17/google-ai-releases-auto-diagnose-an-large-language-model-llm-based-system-to-diagnose-integration-test-failures-at-scale/",
+            "try_url": "https://www.marktechpost.com/2026/04/17/google-ai-releases-auto-diagnose-an-large-language-model-llm-based-system-to-diagnose-integration-test-failures-at-scale/"
+          }
+        },
+        {
+          "title": "Išsamus kodavimo vadovas OpenAI GPT-OSS atvirojo svorio modeliams su išplėstinėmis išvadų darbo eigomis",
+          "link": "https://www.marktechpost.com/2026/04/17/a-end-to-end-coding-guide-to-running-openai-gpt-oss-open-weight-models-with-advanced-inference-workflows/",
+          "published_iso": "2026-04-18T03:39:46Z",
+          "published_lt": "2026-04-18 03:39 UTC",
+          "summary": "Šioje mokymo programoje tiriame, kaip paleisti OpenAI atvirojo svorio GPT-OSS modelius sistemoje „Google Colab“, daug dėmesio skiriant jų techninei elgsenai, diegimo reikalavimams ir praktinių išvadų darbo eigoms.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-19-08-issamus-kodavimo-vadovas-openai-gpt-oss-atvirojo-svorio-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje tiriame, kaip paleisti OpenAI atvirojo svorio GPT-OSS modelius sistemoje „Google Colab“, daug dėmesio skiriant jų techninei elgsenai, diegimo reikalavimams ir praktinių išvadų darbo eigoms.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "print(\"🔧 1 veiksmas: reikiamų paketų diegimas...\") print(\"=\" * 70) !pip install -q --upgrade pip !pip install -q transformers>=4.51.0 pagreitinti sakinio fragmentą protobuf !pip install -q huggingface_hub gradio ipywi...",
+            "lokalus_reikalavimai": "Aptikta: CUDA",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/17/a-end-to-end-coding-guide-to-running-openai-gpt-oss-open-weight-models-with-advanced-inference-workflows/",
+            "try_url": "https://www.marktechpost.com/2026/04/17/a-end-to-end-coding-guide-to-running-openai-gpt-oss-open-weight-models-with-advanced-inference-workflows/"
+          }
+        },
+        {
+          "title": "19 populiariausių AI Red Teaming įrankių (2026 m.): Apsaugokite savo ML modelius",
+          "link": "https://www.marktechpost.com/2026/04/17/top-ai-red-teaming-tools/",
+          "published_iso": "2026-04-17T20:45:08Z",
+          "published_lt": "2026-04-17 20:45 UTC",
+          "summary": "Brendant generuojamajam dirbtiniam intelektui, didėja ir jam kylančios grėsmės. AI Red Teaming iš nišinės saugumo praktikos tapo reguliavimo reikalavimu.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-19-09-19-populiariausiu-ai-red-teaming-irankiu-2026-m-apsaugok.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Brendant generuojamajam dirbtiniam intelektui, didėja ir jam kylančios grėsmės.",
+            "AI Red Teaming iš nišinės saugumo praktikos tapo reguliavimo reikalavimu."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/17/top-ai-red-teaming-tools/",
+            "try_url": "https://www.marktechpost.com/2026/04/17/top-ai-red-teaming-tools/"
+          }
+        },
+        {
+          "title": "Kodavimo vadovas, skirtas sukurti gamybinio lygio fono užduočių apdorojimo sistemą, naudojant „Huey“ su SQLite, planavimu, bandymais, vamzdynais ir lygiagrečio valdymu",
+          "link": "https://www.marktechpost.com/2026/04/17/a-coding-guide-to-build-a-production-grade-background-task-processing-system-using-huey-with-sqlite-scheduling-retries-pipelines-and-concurrency-control/",
+          "published_iso": "2026-04-17T20:18:31Z",
+          "published_lt": "2026-04-17 20:18 UTC",
+          "summary": "Šiame vadove nagrinėjame, kaip sukurti visiškai funkcionalią fono užduočių apdorojimo sistemą naudojant „Huey“ tiesiogiai, nepasikliaujant „Redis“.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-19-10-kodavimo-vadovas-skirtas-sukurti-gamybinio-lygio-fono-uz.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove nagrinėjame, kaip sukurti visiškai funkcionalią fono užduočių apdorojimo sistemą naudojant „Huey“ tiesiogiai, nepasikliaujant „Redis“.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/17/a-coding-guide-to-build-a-production-grade-background-task-processing-system-using-huey-with-sqlite-scheduling-retries-pipelines-and-concurrency-control/",
+            "try_url": "https://www.marktechpost.com/2026/04/17/a-coding-guide-to-build-a-production-grade-background-task-processing-system-using-huey-with-sqlite-scheduling-retries-pipelines-and-concurrency-control/"
+          }
+        },
+        {
+          "title": "7 būdai, kaip šią vasarą keliauti išmaniau, padedant „Google“.",
+          "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+          "published_iso": "2026-04-17T14:00:00Z",
+          "published_lt": "2026-04-17 14:00 UTC",
+          "summary": "Naujausi „Google“ įrankiai gali padėti planuoti keliones, rasti puikų pasiūlymą ir ištirti kitą kelionės tikslą.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summer_Travel_Tips_2026_hero.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-04-19-11-7-budai-kaip-sia-vasara-keliauti-ismaniau-padedant-googl.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Naujausi „Google“ įrankiai gali padėti planuoti keliones, rasti puikų pasiūlymą ir ištirti kitą kelionės tikslą.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638"
+          }
+        },
+        {
+          "title": "16 serija: AI kūrimas gyvosios gamtos mokslams",
+          "link": "https://www.youtube.com/watch?v=UZyH0nx5zgI",
+          "published_iso": "2026-04-16T19:04:11Z",
+          "published_lt": "2026-04-16 19:04 UTC",
+          "summary": "Ko reikia norint sukurti AI sistemas, kurios iš tikrųjų gali padėti mokslininkams? Tyrimo vadovas Joy Jiao ir produktų vadovas Yunyunas Wangas aptaria, kaip OpenAI kuria gyvosios gamtos mokslų modelius ir ką reiškia atsakingas diegimas srityje, kurioje yra tikras biologinis saugumas.",
+          "source": "OpenAI",
+          "source_image_url": "https://i2.ytimg.com/vi/UZyH0nx5zgI/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-19-12-16-serija-ai-kurimas-gyvosios-gamtos-mokslams.svg",
+          "kind": "video",
+          "video_id": "UZyH0nx5zgI",
+          "bullets_lt": [
+            "Ko reikia norint sukurti AI sistemas, kurios iš tikrųjų gali padėti mokslininkams?",
+            "Tyrimo vadovas Joy Jiao ir produktų vadovas Yunyunas Wangas aptaria, kaip OpenAI kuria gyvosios gamtos mokslų modelius ir ką reiškia atsakingas diegimas srityje, kurioje yra tikras biologinis saugumas."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=UZyH0nx5zgI",
+            "try_url": "https://www.youtube.com/watch?v=UZyH0nx5zgI"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-04-18",
       "generated_at_utc": "2026-04-18T07:56:32Z",
