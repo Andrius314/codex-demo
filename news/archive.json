@@ -1,7 +1,335 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-04-21T08:50:19Z",
+  "updated_at_utc": "2026-04-22T08:27:10Z",
   "digests": [
+    {
+      "digest_date": "2026-04-22",
+      "generated_at_utc": "2026-04-22T08:27:10Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„Photon“ išleidžia spektrą: atvirojo kodo „TypeScript“ sistema, kuri DI agentus diegia tiesiogiai „iMessage“, „WhatsApp“ ir „Telegram“",
+          "link": "https://www.marktechpost.com/2026/04/22/photon-releases-spectrum-an-open-source-typescript-framework-that-deploys-ai-agents-directly-to-imessage-whatsapp-and-telegram/",
+          "published_iso": "2026-04-22T07:43:10Z",
+          "published_lt": "2026-04-22 07:43 UTC",
+          "summary": "Nepaisant pažangos, padarytos kuriant dirbtinio intelekto agentus per pastaruosius kelerius metus, viena esminė problema iš esmės liko neišspręsta: dauguma žmonių niekada nebendrauja su agentais.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-22-01-photon-isleidzia-spektra-atvirojo-kodo-typescript-sistem.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Nepaisant pažangos, padarytos kuriant dirbtinio intelekto agentus per pastaruosius kelerius metus, viena esminė problema iš esmės liko neišspręsta: dauguma žmonių niekada nebendrauja su agentais.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Minimalus veikiantis iMessage agentas atrodo taip: importuoti { Spectrum } iš \"spectrum-ts\"; importuoti {imessage} iš \"spectrum-ts/providers/imessage\"; const app = laukti spektro ({ projektoId: process.env.PROJECT_ID,...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/22/photon-releases-spectrum-an-open-source-typescript-framework-that-deploys-ai-agents-directly-to-imessage-whatsapp-and-telegram/",
+            "try_url": "https://www.marktechpost.com/2026/04/22/photon-releases-spectrum-an-open-source-typescript-framework-that-deploys-ai-agents-directly-to-imessage-whatsapp-and-telegram/"
+          }
+        },
+        {
+          "title": "AI vaidmuo kuriant šiuolaikinius Forex robotus",
+          "link": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
+          "published_iso": "2026-04-22T07:34:01Z",
+          "published_lt": "2026-04-22 07:34 UTC",
+          "summary": "Dirbtinis intelektas tapo lemiama jėga finansų rinkose. Ir prekyba valiuta nėra išimtis. Dirbtinio intelekto valdomo forex boto atsiradimas atspindi pokyčius link automatizuotų sistemų, galinčių apdoroti didelius rinkos duomenų kiekius ir nustatyti modelius, kurių neįmanoma atlikti rankiniu būdu.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-22-02-ai-vaidmuo-kuriant-siuolaikinius-forex-robotus.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Dirbtinis intelektas tapo lemiama jėga finansų rinkose.",
+            "Ir prekyba valiuta nėra išimtis.",
+            "Dirbtinio intelekto valdomo forex boto atsiradimas atspindi pokyčius link automatizuotų sistemų, galinčių apdoroti didelius rinkos duomenų kiekius ir nustatyti modelius, kurių neįmanoma atlikti rankiniu būdu.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Šiuolaikiniai Forex robotai neapsiriboja griežtais taisyklėmis pagrįstais algoritmais.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3"
+          }
+        },
+        {
+          "title": "OpenAI atvirojo kodo „Euphony“: „Harmony“ pokalbių duomenų ir „Codex“ seansų žurnalų naršyklės vizualizacijos įrankis",
+          "link": "https://www.marktechpost.com/2026/04/21/openai-open-sources-euphony-a-browser-based-visualization-tool-for-harmony-chat-data-and-codex-session-logs/",
+          "published_iso": "2026-04-22T04:38:14Z",
+          "published_lt": "2026-04-22 04:38 UTC",
+          "summary": "AI agento, kuris atlieka daugybę veiksmų: failų skaitymas, API iškvietimas, kodo rašymas ir savo išvesties peržiūrėjimas, derinimas nėra panašus į įprastos funkcijos derinimą. Nėra vieno dėklo pėdsako, kurį būtų galima perskaityti.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-22-03-openai-atvirojo-kodo-euphony-harmony-pokalbiu-duomenu-ir.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "AI agento, kuris atlieka daugybę veiksmų: failų skaitymas, API iškvietimas, kodo rašymas ir savo išvesties peržiūrėjimas, derinimas nėra panašus į įprastos funkcijos derinimą.",
+            "Nėra vieno dėklo pėdsako, kurį būtų galima perskaityti.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neturėdami įrankių skaitote giliai įdėtus JSON objektus su prieigos raktų ID, iššifruotais prieigos raktais ir pateiktomis rodymo eilutėmis, sujungtomis tarpusavyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/21/openai-open-sources-euphony-a-browser-based-visualization-tool-for-harmony-chat-data-and-codex-session-logs/",
+            "try_url": "https://www.marktechpost.com/2026/04/21/openai-open-sources-euphony-a-browser-based-visualization-tool-for-harmony-chat-data-and-codex-session-logs/"
+          }
+        },
+        {
+          "title": "Naujas dirbtinio intelekto vaizdų generatorius įveikia VISKĄ",
+          "link": "https://www.youtube.com/watch?v=TLFPbMUtErM",
+          "published_iso": "2026-04-22T03:36:16Z",
+          "published_lt": "2026-04-22 03:36 UTC",
+          "summary": "„ChatGPT Images 2.0“ apžvalga. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #imagegenerator #agi Ačiū mūsų rėmėjui Higgsfieldui.",
+          "source": "AI Search",
+          "source_image_url": "https://i1.ytimg.com/vi/TLFPbMUtErM/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-22-04-naujas-dirbtinio-intelekto-vaizdu-generatorius-iveikia-v.svg",
+          "kind": "video",
+          "video_id": "TLFPbMUtErM",
+          "bullets_lt": [
+            "„ChatGPT Images 2.0“ apžvalga.",
+            "GPT Image 2.0 vs Nano Banana.",
+            "#ai #aiart #aitools #imagegenerator #agi Ačiū mūsų rėmėjui Higgsfieldui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=TLFPbMUtErM",
+            "try_url": "https://www.youtube.com/watch?v=TLFPbMUtErM"
+          }
+        },
+        {
+          "title": "Apkabinantis veidą išleidžia ml-intern: atvirojo kodo AI agentas, kuris automatizuoja LLM darbo eigą po treniruotės",
+          "link": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/",
+          "published_iso": "2026-04-22T00:43:53Z",
+          "published_lt": "2026-04-22 00:43 UTC",
+          "summary": "Hugging Face išleido „ml-intern“, atvirojo kodo AI agentą, skirtą automatizuoti didelių kalbų modelių (LLM) darbo eigą po treniruotės.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-1-13.png",
+          "image_url": "generated-images/2026-04-22-05-apkabinantis-veida-isleidzia-ml-intern-atvirojo-kodo-ai-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Hugging Face išleido „ml-intern“, atvirojo kodo AI agentą, skirtą automatizuoti didelių kalbų modelių (LLM) darbo eigą po treniruotės.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/",
+            "try_url": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/"
+          }
+        },
+        {
+          "title": "Kodavimo įgyvendinimas, skirtas sukurti sąlyginį Bajeso hiperparametrų optimizavimo vamzdyną su Hyperopt, TPE ir ankstyvu sustabdymu",
+          "link": "https://www.marktechpost.com/2026/04/21/a-coding-implementation-to-build-a-conditional-bayesian-hyperparameter-optimization-pipeline-with-hyperopt-tpe-and-early-stopping/",
+          "published_iso": "2026-04-22T00:04:34Z",
+          "published_lt": "2026-04-22 00:04 UTC",
+          "summary": "Šioje pamokoje mes įgyvendiname pažangią Bajeso hiperparametrų optimizavimo darbo eigą, naudodami Hyperopt ir medžio struktūros Parzen Estimator (TPE) algoritmą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-22-06-kodavimo-igyvendinimas-skirtas-sukurti-salygini-bajeso-h.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje pamokoje mes įgyvendiname pažangią Bajeso hiperparametrų optimizavimo darbo eigą, naudodami Hyperopt ir medžio struktūros Parzen Estimator (TPE) algoritmą.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Pristatome „ChatGPT Images 2.0“.",
+          "link": "https://www.youtube.com/watch?v=sWkGomJ3TLI",
+          "published_iso": "2026-04-21T19:49:27Z",
+          "published_lt": "2026-04-21 19:49 UTC",
+          "summary": "Gabriel Goh, Kenji Hata, Kiwhan Song, Alex Yu, Boyuan Chen ir Nithanth Kudige su vedėju Samu Altmanu pristato ir demonstruoja ChatGPT Images 2.",
+          "source": "OpenAI",
+          "source_image_url": "https://i4.ytimg.com/vi/sWkGomJ3TLI/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-22-07-pristatome-chatgpt-images-2-0.svg",
+          "kind": "video",
+          "video_id": "sWkGomJ3TLI",
+          "bullets_lt": [
+            "Gabriel Goh, Kenji Hata, Kiwhan Song, Alex Yu, Boyuan Chen ir Nithanth Kudige su vedėju Samu Altmanu pristato ir demonstruoja ChatGPT Images 2."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=sWkGomJ3TLI",
+            "try_url": "https://www.youtube.com/watch?v=sWkGomJ3TLI"
+          }
+        },
+        {
+          "title": "„Google“ pristato modelius: pagrindinį pagrindą, skirtą valdomiems, keičiamo dydžio sintetiniams duomenų rinkiniams specializuotuose AI domenuose generuoti",
+          "link": "https://www.marktechpost.com/2026/04/21/google-introduces-simula-a-reasoning-first-framework-for-generating-controllable-scalable-synthetic-datasets-across-specialized-ai-domains/",
+          "published_iso": "2026-04-21T16:46:21Z",
+          "published_lt": "2026-04-21 16:46 UTC",
+          "summary": "Galingų AI modelių mokymas priklauso nuo vieno šaltinio, kuris tyliai baigiasi: specializuotų duomenų.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-60.png",
+          "image_url": "generated-images/2026-04-22-08-google-pristato-modelius-pagrindini-pagrinda-skirta-vald.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Galingų AI modelių mokymas priklauso nuo vieno šaltinio, kuris tyliai baigiasi: specializuotų duomenų.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/21/google-introduces-simula-a-reasoning-first-framework-for-generating-controllable-scalable-synthetic-datasets-across-specialized-ai-domains/",
+            "try_url": "https://www.marktechpost.com/2026/04/21/google-introduces-simula-a-reasoning-first-framework-for-generating-controllable-scalable-synthetic-datasets-across-specialized-ai-domains/"
+          }
+        },
+        {
+          "title": "3 nauji būdai, kaip „Ads Advisor“ daro „Google Ads“ saugesnę ir greitesnę",
+          "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+          "published_iso": "2026-04-21T14:30:00Z",
+          "published_lt": "2026-04-21 14:30 UTC",
+          "summary": "Trys naujos agentų saugos ir politikos funkcijos, integruotos į „Ads Advisor“, padės apsaugoti ir supaprastinti jūsų „Google Ads“ paskyrą.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Road_to_GML_Master-Header.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-04-22-09-3-nauji-budai-kaip-ads-advisor-daro-google-ads-saugesne-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Trys naujos agentų saugos ir politikos funkcijos, integruotos į „Ads Advisor“, padės apsaugoti ir supaprastinti jūsų „Google Ads“ paskyrą.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638"
+          }
+        },
+        {
+          "title": "„Snowflake“ plečia savo technines ir pagrindines AI platformas",
+          "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+          "published_iso": "2026-04-21T14:29:00Z",
+          "published_lt": "2026-04-21 14:29 UTC",
+          "summary": "„Snowflake“ plečia savo „Snowflake Intelligence“ ir „Cortex Code“ pasiūlymus, tikėdamasis, kad vartotojai, diegiantys ir plėtojantys dirbtinį intelektą, „Snowflake“ portfelyje.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-22-10-snowflake-plecia-savo-technines-ir-pagrindines-ai-platfo.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Snowflake“ plečia savo „Snowflake Intelligence“ ir „Cortex Code“ pasiūlymus, tikėdamasis, kad vartotojai, diegiantys ir plėtojantys dirbtinį intelektą, „Snowflake“ portfelyje.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Dar neissleista arba arteja."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Vartotojų užklausos ir su ja susijusios darbo eigos bus kruopščiai apribotos prieigos leidimų ir organizacijos valdymo požiūriu, todėl bus išvengta duomenų praradimo ir reikalavimų nesilaikymo.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Dar neissleista arba arteja.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3"
+          }
+        },
+        {
+          "title": "Siemens pristato AI sistemą automatizavimo inžinerijai",
+          "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
+          "published_iso": "2026-04-21T10:00:00Z",
+          "published_lt": "2026-04-21 10:00 UTC",
+          "summary": "„Siemens“ pristatė „Eigen Engineering Agent“ – dirbtinio intelekto sistemą, skirtą automatizavimo inžinerijos užduotims operacinėje aplinkoje planuoti ir patvirtinti.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-22-11-siemens-pristato-ai-sistema-automatizavimo-inzinerijai.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Siemens“ pristatė „Eigen Engineering Agent“ – dirbtinio intelekto sistemą, skirtą automatizavimo inžinerijos užduotims operacinėje aplinkoje planuoti ir patvirtinti.",
+            "Kaina: Labiau panasu i mokama sprendima."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3"
+          }
+        },
+        {
+          "title": "Kodavimo įgyvendinimas Qwen 3.6-35B-A3B, apimantis multimodalines išvadas, mąstymo valdymą, įrankių iškvietimą, MoE maršrutą, RAG ir seanso pastovumą",
+          "link": "https://www.marktechpost.com/2026/04/21/a-coding-implementation-on-qwen-3-6-35b-a3b-covering-multimodal-inference-thinking-control-tool-calling-moe-routing-rag-and-session-persistence/",
+          "published_iso": "2026-04-21T07:54:34Z",
+          "published_lt": "2026-04-21 07:54 UTC",
+          "summary": "Šiame vadove mes sukuriame visapusišką „Qwen 3.6-35B-A3B“ diegimą ir tyrinėjame, kaip šiuolaikinį daugiarūšį MoE modelį galima naudoti praktinėse darbo eigose.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-22-12-kodavimo-igyvendinimas-qwen-3-6-35b-a3b-apimantis-multim.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove mes sukuriame visapusišką „Qwen 3.6-35B-A3B“ diegimą ir tyrinėjame, kaip šiuolaikinį daugiarūšį MoE modelį galima naudoti praktinėse darbo eigose.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "importo antrinis procesas, sys def _pip(*a): subprocess.check_call([sys.vykdomasis, \"-m\", \"pip\", \"install\", \"-q\", *a]) _pip(\"--upgrade\", \"pip\") _pip(\"--upgrade\", \"transformers>=4.48.0\", \"1.accelerate\" \"bitsandbytes>=0...",
+            "lokalus_reikalavimai": "Aptikta: cuda",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/21/a-coding-implementation-on-qwen-3-6-35b-a3b-covering-multimodal-inference-thinking-control-tool-calling-moe-routing-rag-and-session-persistence/",
+            "try_url": "https://www.marktechpost.com/2026/04/21/a-coding-implementation-on-qwen-3-6-35b-a3b-covering-multimodal-inference-thinking-control-tool-calling-moe-routing-rag-and-session-persistence/"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-04-21",
       "generated_at_utc": "2026-04-21T08:50:19Z",
