@@ -1,7 +1,339 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-04-22T08:27:10Z",
+  "updated_at_utc": "2026-04-23T08:49:56Z",
   "digests": [
+    {
+      "digest_date": "2026-04-23",
+      "generated_at_utc": "2026-04-23T08:49:56Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„Google Cloud AI Research“ pristato „ReasoningBank“: atminties sistemą, kuri išskiria samprotavimo strategijas iš agento sėkmės ir nesėkmių",
+          "link": "https://www.marktechpost.com/2026/04/23/google-cloud-ai-research-introduces-reasoningbank-a-memory-framework-that-distills-reasoning-strategies-from-agent-successes-and-failures/",
+          "published_iso": "2026-04-23T07:26:06Z",
+          "published_lt": "2026-04-23 07:26 UTC",
+          "summary": "Nauja „Google Cloud AI Research“ ir UIUC atminties sistema suteikia LLM agentams galimybę distiliuoti apibendrinamas samprotavimo strategijas tiek iš sėkmingos, tiek iš nesėkmingos patirties – ir derina tai su bandymo laiko masteliu, kad būtų sukurti agentai, kurie laikui bėgant tikrai tobulėja.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-12.25.00-AM-1-150x150.png",
+          "image_url": "generated-images/2026-04-23-01-google-cloud-ai-research-pristato-reasoningbank-atmintie.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Nauja „Google Cloud AI Research“ ir UIUC atminties sistema suteikia LLM agentams galimybę distiliuoti apibendrinamas samprotavimo strategijas tiek iš sėkmingos, tiek iš nesėkmingos patirties – ir derina tai su bandymo laiko masteliu, kad būtų sukurti agentai, kurie laikui bėgant tikrai tobulėja.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/23/google-cloud-ai-research-introduces-reasoningbank-a-memory-framework-that-distills-reasoning-strategies-from-agent-successes-and-failures/",
+            "try_url": "https://www.marktechpost.com/2026/04/23/google-cloud-ai-research-introduces-reasoningbank-a-memory-framework-that-distills-reasoning-strategies-from-agent-successes-and-failures/"
+          }
+        },
+        {
+          "title": "„Xiaomi“ išleido „MiMo-V2.5-Pro“ ir „MiMo-V2.5“: atitinka „Frontier“ modelio etalonus už žymiai mažesnę ženklinę kainą",
+          "link": "https://www.marktechpost.com/2026/04/22/xiaomi-releases-mimo-v2-5-pro-and-mimo-v2-5-matching-frontier-model-benchmarks-at-significantly-lower-token-cost/",
+          "published_iso": "2026-04-23T03:46:24Z",
+          "published_lt": "2026-04-23 03:46 UTC",
+          "summary": "„Xiaomi“ „MiMo“ komanda ką tik atsisakė dviejų naujų modelių, kurie stumia atvirojo kodo agentinį AI arčiau pasienio teritorijos nei bet kada anksčiau. Įrašas „Xiaomi“ išleido „MiMo-V2.5-Pro“ ir „MiMo-V2.5“: „Frontier“ modelio etalonų atitikimas žymiai mažesnėmis žetonų sąnaudomis, pirmą kartą pasirodė „MarkTechPost“.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-at-8.34.28-PM-150x150.png",
+          "image_url": "generated-images/2026-04-23-02-xiaomi-isleido-mimo-v2-5-pro-ir-mimo-v2-5-atitinka-front.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Xiaomi“ „MiMo“ komanda ką tik atsisakė dviejų naujų modelių, kurie stumia atvirojo kodo agentinį AI arčiau pasienio teritorijos nei bet kada anksčiau.",
+            "Įrašas „Xiaomi“ išleido „MiMo-V2.5-Pro“ ir „MiMo-V2.5“: „Frontier“ modelio etalonų atitikimas žymiai mažesnėmis žetonų sąnaudomis, pirmą kartą pasirodė „MarkTechPost“.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/22/xiaomi-releases-mimo-v2-5-pro-and-mimo-v2-5-matching-frontier-model-benchmarks-at-significantly-lower-token-cost/",
+            "try_url": "https://www.marktechpost.com/2026/04/22/xiaomi-releases-mimo-v2-5-pro-and-mimo-v2-5-matching-frontier-model-benchmarks-at-significantly-lower-token-cost/"
+          }
+        },
+        {
+          "title": "Kaip sukurti gamybinio lygio CAMEL kelių agentų sistemą su planavimu, įrankių naudojimu, savarankišku nuoseklumu ir kritikos patobulinimu",
+          "link": "https://www.marktechpost.com/2026/04/22/how-to-design-a-production-grade-camel-multi-agent-system-with-planning-tool-use-self-consistency-and-critique-driven-refinement/",
+          "published_iso": "2026-04-22T23:59:51Z",
+          "published_lt": "2026-04-22 23:59 UTC",
+          "summary": "Šioje mokymo programoje mes įdiegiame pažangią agentinę AI sistemą, naudodami CAMEL sistemą, suburdami kelis specializuotus agentus, kad bendradarbiautų išspręsti sudėtingą užduotį.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-23-03-kaip-sukurti-gamybinio-lygio-camel-keliu-agentu-sistema-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje mes įdiegiame pažangią agentinę AI sistemą, naudodami CAMEL sistemą, suburdami kelis specializuotus agentus, kad bendradarbiautų išspręsti sudėtingą užduotį.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Jums bus suteiktas tikslas, planas ir įrodymų pastabos.\\n\" \"Parašykite aiškų, veiksmingą ir glaustą rezultatą.\\n\" \"Įtraukite:\\n\" \"- Aiškią apžvalgą\\n\" \"- Pagrindinės abstrakcijos ir kaip jos jungiasi\\n\" \"- Praktinis į...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/22/how-to-design-a-production-grade-camel-multi-agent-system-with-planning-tool-use-self-consistency-and-critique-driven-refinement/",
+            "try_url": "https://www.marktechpost.com/2026/04/22/how-to-design-a-production-grade-camel-multi-agent-system-with-planning-tool-use-self-consistency-and-critique-driven-refinement/"
+          }
+        },
+        {
+          "title": "Programinės įrangos peržiūros agentas",
+          "link": "https://www.youtube.com/watch?v=TuzgusIxRzs",
+          "published_iso": "2026-04-22T20:37:28Z",
+          "published_lt": "2026-04-22 20:37 UTC",
+          "summary": "Žiūrėkite vadovaujamą agento, kuris peržiūri programinės įrangos užklausas, tikrina politiką, nukreipia patvirtinimus ir atidaro IT bilietus su aiškiais tolesniais veiksmais, apžvalgą.",
+          "source": "OpenAI",
+          "source_image_url": "https://i1.ytimg.com/vi/TuzgusIxRzs/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-23-04-programines-irangos-perziuros-agentas.svg",
+          "kind": "video",
+          "video_id": "TuzgusIxRzs",
+          "bullets_lt": [
+            "Žiūrėkite vadovaujamą agento, kuris peržiūri programinės įrangos užklausas, tikrina politiką, nukreipia patvirtinimus ir atidaro IT bilietus su aiškiais tolesniais veiksmais, apžvalgą."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=TuzgusIxRzs",
+            "try_url": "https://www.youtube.com/watch?v=TuzgusIxRzs"
+          }
+        },
+        {
+          "title": "„Alibaba Qwen Team“ išleido „Qwen3.6-27B“: tankus atviro svorio modelis, viršijantis 397B MoE pagal agentinio kodavimo etalonus",
+          "link": "https://www.marktechpost.com/2026/04/22/alibaba-qwen-team-releases-qwen3-6-27b-a-dense-open-weight-model-outperforming-397b-moe-on-agentic-coding-benchmarks/",
+          "published_iso": "2026-04-22T19:40:51Z",
+          "published_lt": "2026-04-22 19:40 UTC",
+          "summary": "„Alibaba“ „Qwen Team“ išleido „Qwen3.6-27B“, pirmąjį tankų atviro svorio modelį Qwen3.6 šeimoje – ir, be abejo, labiausiai pajėgų 27 milijardų parametrų modelį, kurį šiandien galima rasti kodavimo agentams.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-at-12.39.13-PM-1-150x150.png",
+          "image_url": "generated-images/2026-04-23-05-alibaba-qwen-team-isleido-qwen3-6-27b-tankus-atviro-svor.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Alibaba“ „Qwen Team“ išleido „Qwen3.6-27B“, pirmąjį tankų atviro svorio modelį Qwen3.6 šeimoje – ir, be abejo, labiausiai pajėgų 27 milijardų parametrų modelį, kurį šiandien galima rasti kodavimo agentams.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Qwen3.6 pristato naują parinktį – įgalinta per „chat_template_kwargs“: {“preserve_thinking“: True} API – išsaugoti ir panaudoti mąstymo pėdsakus iš istorinių pranešimų visame pokalbyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/22/alibaba-qwen-team-releases-qwen3-6-27b-a-dense-open-weight-model-outperforming-397b-moe-on-agentic-coding-benchmarks/",
+            "try_url": "https://www.marktechpost.com/2026/04/22/alibaba-qwen-team-releases-qwen3-6-27b-a-dense-open-weight-model-outperforming-397b-moe-on-agentic-coding-benchmarks/"
+          }
+        },
+        {
+          "title": "Išsamus lygiadienio įgyvendinimas su JAX vietiniais moduliais, filtruotomis transformacijomis, būsenos sluoksniais ir visapusiškomis mokymo darbo eigomis",
+          "link": "https://www.marktechpost.com/2026/04/22/a-detailed-implementation-on-equinox-with-jax-native-modules-filtered-transforms-stateful-layers-and-end-to-end-training-workflows/",
+          "published_iso": "2026-04-22T19:13:14Z",
+          "published_lt": "2026-04-22 19:13 UTC",
+          "summary": "Šioje pamokoje tyrinėjame Equinox – lengvą ir elegantišką neuroninio tinklo biblioteką, sukurtą remiantis JAX, ir parodome, kaip ja naudotis. Pradedame nuo supratimo, kaip eqx.Module modelius traktuoja kaip PyTrees, todėl parametrų tvarkymas, transformavimas ir serializavimas atrodo paprastas ir aiškus.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-23-06-issamus-lygiadienio-igyvendinimas-su-jax-vietiniais-modu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje pamokoje tyrinėjame Equinox – lengvą ir elegantišką neuroninio tinklo biblioteką, sukurtą remiantis JAX, ir parodome, kaip ja naudotis.",
+            "Pradedame nuo supratimo, kaip eqx.Module modelius traktuoja kaip PyTrees, todėl parametrų tvarkymas, transformavimas ir serializavimas atrodo paprastas ir aiškus."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/22/a-detailed-implementation-on-equinox-with-jax-native-modules-filtered-transforms-stateful-layers-and-end-to-end-training-workflows/",
+            "try_url": "https://www.marktechpost.com/2026/04/22/a-detailed-implementation-on-equinox-with-jax-native-modules-filtered-transforms-stateful-layers-and-end-to-end-training-workflows/"
+          }
+        },
+        {
+          "title": "Kitas šuolis į diržų inžineriją: JiuwenClaw Pioneers „koordinavimo inžinerija“",
+          "link": "https://www.marktechpost.com/2026/04/22/next-leap-to-harness-engineering-jiuwenclaw-pioneers-coordination-engineering/",
+          "published_iso": "2026-04-22T16:34:58Z",
+          "published_lt": "2026-04-22 16:34 UTC",
+          "summary": "Kaip priversti kelis agentus dirbti kartu kaip elitinėje komandoje – savarankiškai paskirstyti užduotis, efektyviai bendrauti ir sklandžiai bendradarbiauti? OpenJiuwen bendruomenė išleido naujausią JiuwenClaw versiją, kuri papildo AgentTeam – kelių agentų bendradarbiavimo galimybę.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-46.png",
+          "image_url": "generated-images/2026-04-23-07-kitas-suolis-i-dirzu-inzinerija-jiuwenclaw-pioneers-koor.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kaip priversti kelis agentus dirbti kartu kaip elitinėje komandoje – savarankiškai paskirstyti užduotis, efektyviai bendrauti ir sklandžiai bendradarbiauti?",
+            "OpenJiuwen bendruomenė išleido naujausią JiuwenClaw versiją, kuri papildo AgentTeam – kelių agentų bendradarbiavimo galimybę.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/22/next-leap-to-harness-engineering-jiuwenclaw-pioneers-coordination-engineering/",
+            "try_url": "https://www.marktechpost.com/2026/04/22/next-leap-to-harness-engineering-jiuwenclaw-pioneers-coordination-engineering/"
+          }
+        },
+        {
+          "title": "Įmonės saugos išlaidų panaikinimas aptikus AI pažeidžiamumą",
+          "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
+          "published_iso": "2026-04-22T15:45:14Z",
+          "published_lt": "2026-04-22 15:45 UTC",
+          "summary": "Automatizuotas AI pažeidžiamumo aptikimas panaikina įmonės saugumo išlaidas, kurios tradiciškai yra palankios užpuolikams. Išnaudojimų sumažinimas iki nulio kažkada buvo laikomas nerealiu tikslu.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-23-08-imones-saugos-islaidu-panaikinimas-aptikus-ai-pazeidziam.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Automatizuotas AI pažeidžiamumo aptikimas panaikina įmonės saugumo išlaidas, kurios tradiciškai yra palankios užpuolikams.",
+            "Išnaudojimų sumažinimas iki nulio kažkada buvo laikomas nerealiu tikslu.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Vyraujanti operatyvinė doktrina siekė, kad atakos būtų tokios brangios, kad jas galėtų sau leisti tik funkcionaliai neribotą biudžetą turintys priešai, taip atgrasant nuo atsitiktinio naudojimo.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3"
+          }
+        },
+        {
+          "title": "AI advokatų kontorose įveda savo baigiamąsias santraukas",
+          "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
+          "published_iso": "2026-04-22T13:51:00Z",
+          "published_lt": "2026-04-22 13:51 UTC",
+          "summary": "Interviu su Artificial Lawyer Paryžiuje įsikūrusios DI konsultacinės įmonės savininkas Olivier Chaduteau pateikė trijų dalių aprašymą apie dabartinę AI padėtį teisiniame sektoriuje. Iš pradžių teisininkai atmetė dirbtinį intelektą kaip nesusijusį su ekspertų darbu.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-23-09-ai-advokatu-kontorose-iveda-savo-baigiamasias-santraukas.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Interviu su Artificial Lawyer Paryžiuje įsikūrusios DI konsultacinės įmonės savininkas Olivier Chaduteau pateikė trijų dalių aprašymą apie dabartinę AI padėtį teisiniame sektoriuje.",
+            "Iš pradžių teisininkai atmetė dirbtinį intelektą kaip nesusijusį su ekspertų darbu.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3"
+          }
+        },
+        {
+          "title": "Pristatome du specializuotus agentų eros TPU.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+          "published_iso": "2026-04-22T12:00:00Z",
+          "published_lt": "2026-04-22 12:00 UTC",
+          "summary": "Aštuntoje „Google“ TPU kartoje yra du specializuoti lustai, kurie užtikrins AI ateitį.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-04-23-10-pristatome-du-specializuotus-agentu-eros-tpu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Aštuntoje „Google“ TPU kartoje yra du specializuoti lustai, kurie užtikrins AI ateitį.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638"
+          }
+        },
+        {
+          "title": "„Photon“ išleidžia spektrą: atvirojo kodo „TypeScript“ sistema, kuri DI agentus diegia tiesiogiai „iMessage“, „WhatsApp“ ir „Telegram“",
+          "link": "https://www.marktechpost.com/2026/04/22/photon-releases-spectrum-an-open-source-typescript-framework-that-deploys-ai-agents-directly-to-imessage-whatsapp-and-telegram/",
+          "published_iso": "2026-04-22T07:43:10Z",
+          "published_lt": "2026-04-22 07:43 UTC",
+          "summary": "Nepaisant pažangos, padarytos kuriant dirbtinio intelekto agentus per pastaruosius kelerius metus, viena esminė problema iš esmės liko neišspręsta: dauguma žmonių niekada nebendrauja su agentais.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-23-11-photon-isleidzia-spektra-atvirojo-kodo-typescript-sistem.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Nepaisant pažangos, padarytos kuriant dirbtinio intelekto agentus per pastaruosius kelerius metus, viena esminė problema iš esmės liko neišspręsta: dauguma žmonių niekada nebendrauja su agentais."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/22/photon-releases-spectrum-an-open-source-typescript-framework-that-deploys-ai-agents-directly-to-imessage-whatsapp-and-telegram/",
+            "try_url": "https://www.marktechpost.com/2026/04/22/photon-releases-spectrum-an-open-source-typescript-framework-that-deploys-ai-agents-directly-to-imessage-whatsapp-and-telegram/"
+          }
+        },
+        {
+          "title": "Naujas dirbtinio intelekto vaizdų generatorius įveikia VISKĄ",
+          "link": "https://www.youtube.com/watch?v=TLFPbMUtErM",
+          "published_iso": "2026-04-22T03:36:16Z",
+          "published_lt": "2026-04-22 03:36 UTC",
+          "summary": "„ChatGPT Images 2.0“ apžvalga. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #imagegenerator #agi Ačiū mūsų rėmėjui Higgsfieldui.",
+          "source": "AI Search",
+          "source_image_url": "https://i1.ytimg.com/vi/TLFPbMUtErM/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-23-12-naujas-dirbtinio-intelekto-vaizdu-generatorius-iveikia-v.svg",
+          "kind": "video",
+          "video_id": "TLFPbMUtErM",
+          "bullets_lt": [
+            "„ChatGPT Images 2.0“ apžvalga.",
+            "GPT Image 2.0 vs Nano Banana.",
+            "#ai #aiart #aitools #imagegenerator #agi Ačiū mūsų rėmėjui Higgsfieldui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=TLFPbMUtErM",
+            "try_url": "https://www.youtube.com/watch?v=TLFPbMUtErM"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-04-22",
       "generated_at_utc": "2026-04-22T08:27:10Z",
