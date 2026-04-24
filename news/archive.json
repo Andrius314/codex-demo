@@ -1,7 +1,336 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-04-23T08:49:56Z",
+  "updated_at_utc": "2026-04-24T08:56:50Z",
   "digests": [
+    {
+      "digest_date": "2026-04-24",
+      "generated_at_utc": "2026-04-24T08:56:50Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "Kaip AI modeliai naudoja realaus laiko kriptovaliutų duomenis rinkos elgsenai interpretuoti",
+          "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+          "published_iso": "2026-04-24T07:47:32Z",
+          "published_lt": "2026-04-24 07:47 UTC",
+          "summary": "AI sistemos vis dažniau kuriamos remiantis duomenimis, kurie tikrai nesustoja. Finansų rinkos yra akivaizdus pavyzdys, kai įvestis nuolat atnaujinama, o ne gaunama fiksuotomis partijomis. Esant tokiai sąrankai, kažkas panašaus į BNB kainą nustoja būti viena figūra ir pradeda atrodyti labiau kaip srautas, kuris nuolat keičiasi.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-24-01-kaip-ai-modeliai-naudoja-realaus-laiko-kriptovaliutu-duo.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "AI sistemos vis dažniau kuriamos remiantis duomenimis, kurie tikrai nesustoja.",
+            "Finansų rinkos yra akivaizdus pavyzdys, kai įvestis nuolat atnaujinama, o ne gaunama fiksuotomis partijomis.",
+            "Esant tokiai sąrankai, kažkas panašaus į BNB kainą nustoja būti viena figūra ir pradeda atrodyti labiau kaip srautas, kuris nuolat keičiasi."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3"
+          }
+        },
+        {
+          "title": "„Google DeepMind“ pristato atsietą „DiLoCo“: asinchroninę mokymo architektūrą, pasiekiančią 88 % naudingumo esant dideliam aparatūros gedimų dažniui",
+          "link": "https://www.marktechpost.com/2026/04/23/google-deepmind-introduces-decoupled-diloco-an-asynchronous-training-architecture-achieving-88-goodput-under-high-hardware-failure-rates/",
+          "published_iso": "2026-04-24T04:40:10Z",
+          "published_lt": "2026-04-24 04:40 UTC",
+          "summary": "Pažangių AI modelių mokymas iš esmės yra koordinavimo problema. Tūkstančiai lustų turi nuolat bendrauti tarpusavyje, sinchronizuoti kiekvieną gradiento atnaujinimą tinkle. Kai vienas lustas sugenda ar net sulėtėja, visas treniruočių bėgimas gali užstrigti.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-9.39.48-PM-1-150x150.png",
+          "image_url": "generated-images/2026-04-24-02-google-deepmind-pristato-atsieta-diloco-asinchronine-mok.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Pažangių AI modelių mokymas iš esmės yra koordinavimo problema.",
+            "Tūkstančiai lustų turi nuolat bendrauti tarpusavyje, sinchronizuoti kiekvieną gradiento atnaujinimą tinkle.",
+            "Kai vienas lustas sugenda ar net sulėtėja, visas treniruočių bėgimas gali užstrigti.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/23/google-deepmind-introduces-decoupled-diloco-an-asynchronous-training-architecture-achieving-88-goodput-under-high-hardware-failure-rates/",
+            "try_url": "https://www.marktechpost.com/2026/04/23/google-deepmind-introduces-decoupled-diloco-an-asynchronous-training-architecture-achieving-88-goodput-under-high-hardware-failure-rates/"
+          }
+        },
+        {
+          "title": "„Mend“ išleido AI saugumo valdymo sistemą: apima turto inventorių, rizikos pakopą, AI tiekimo grandinės saugumą ir brandos modelį",
+          "link": "https://www.marktechpost.com/2026/04/23/mend-releases-ai-security-governance-framework/",
+          "published_iso": "2026-04-24T02:07:11Z",
+          "published_lt": "2026-04-24 02:07 UTC",
+          "summary": "Naujoji Mend.io sistema suteikia inžinierių ir saugos komandoms praktinį AI sistemų valdymo vadovą, kol kitas incidentas privers pokalbį.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-24-03-mend-isleido-ai-saugumo-valdymo-sistema-apima-turto-inve.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Naujoji Mend.io sistema suteikia inžinierių ir saugos komandoms praktinį AI sistemų valdymo vadovą, kol kitas incidentas privers pokalbį.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/23/mend-releases-ai-security-governance-framework/",
+            "try_url": "https://www.marktechpost.com/2026/04/23/mend-releases-ai-security-governance-framework/"
+          }
+        },
+        {
+          "title": "„OpenAI“ išleido GPT-5.5 – visiškai perkvalifikuotą agentų modelį, kurio rezultatas – 82,7 % Terminal-Bench 2.0 ir 84,9 % GDPval",
+          "link": "https://www.marktechpost.com/2026/04/23/openai-releases-gpt-5-5-a-fully-retrained-agentic-model-that-scores-82-7-on-terminal-bench-2-0-and-84-9-on-gdpval/",
+          "published_iso": "2026-04-23T22:11:30Z",
+          "published_lt": "2026-04-23 22:11 UTC",
+          "summary": "Modelis skirtas visam kompiuterinio darbo krūviui – kodavimui, tyrimams, duomenų analizei ir programinės įrangos veikimui – nereikia žmogaus, kuris prižiūrėtų kiekvieną žingsnį The post OpenAI išleido GPT-5.5 – visiškai perkvalifikuotą agentų modelį, kurio rezultatas 82,7 % Terminal-Bench 2.0 ir 84,9 % GDPval appeared first on MarkTechPost.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-2.57.37-PM-150x150.png",
+          "image_url": "generated-images/2026-04-24-04-openai-isleido-gpt-5-5-visiskai-perkvalifikuota-agentu-m.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Modelis skirtas visam kompiuterinio darbo krūviui – kodavimui, tyrimams, duomenų analizei ir programinės įrangos veikimui – nereikia žmogaus, kuris prižiūrėtų kiekvieną žingsnį The post OpenAI išleido GPT-5.5 – visiškai perkvalifikuotą agentų modelį, kurio rezultatas 82,7 % Terminal-Bench 2.0 ir 84,9 % GDPval appeared first on MarkTechPost.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/23/openai-releases-gpt-5-5-a-fully-retrained-agentic-model-that-scores-82-7-on-terminal-bench-2-0-and-84-9-on-gdpval/",
+            "try_url": "https://www.marktechpost.com/2026/04/23/openai-releases-gpt-5-5-a-fully-retrained-agentic-model-that-scores-82-7-on-terminal-bench-2-0-and-84-9-on-gdpval/"
+          }
+        },
+        {
+          "title": "„OpenMythos“ kodavimo pamoka apie pasikartojančius giluminius transformatorius su gylio ekstrapoliacija, prisitaikančiu skaičiavimu ir ekspertų deriniu",
+          "link": "https://www.marktechpost.com/2026/04/23/a-coding-tutorial-on-openmythos-on-recurrent-depth-transformers-with-depth-extrapolation-adaptive-computation-and-mixture-of-experts-routing/",
+          "published_iso": "2026-04-23T21:25:34Z",
+          "published_lt": "2026-04-23 21:25 UTC",
+          "summary": "Šioje pamokoje nagrinėjame OpenMythos, teorinės Claude Mythos architektūros rekonstrukcijos, įgyvendinimą, leidžiančią giliau mąstyti atliekant kartotinį skaičiavimą, o ne padidinus parametrų dydį.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-24-05-openmythos-kodavimo-pamoka-apie-pasikartojancius-gilumin.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje pamokoje nagrinėjame OpenMythos, teorinės Claude Mythos architektūros rekonstrukcijos, įgyvendinimą, leidžiančią giliau mąstyti atliekant kartotinį skaičiavimą, o ne padidinus parametrų dydį.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "def cache_bytes(kv: dict) -> int: total = 0 įvedimui kv.values(): t įraše entry.values(): total += t.element_size() * t.numel() grąžina total x = torch.randint(0, 256, (1, 64), device=device = qa, ck_} torch.no_grad()...",
+            "lokalus_reikalavimai": "Aptikta: cuda",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Pristatome GPT-5.5 su NVIDIA",
+          "link": "https://www.youtube.com/watch?v=VdXdGS7hUSY",
+          "published_iso": "2026-04-23T21:23:34Z",
+          "published_lt": "2026-04-23 21:23 UTC",
+          "summary": "„GPT-5.5 supergalia yra ta, kad jis gali tiesiog atlikti reikalus. Labai smagu matyti, kaip dirbtinio intelekto meistrai, tokie kaip NVIDIA Dennisas Hannuschas, naudoja GPT-5.5-Codex sudėtingoms inžinerinėms užduotims atlikti. Sukurkite naudojant GPT-5.5: https://openai.com/index/introducing-gpt-5-5/",
+          "source": "OpenAI",
+          "source_image_url": "https://i3.ytimg.com/vi/VdXdGS7hUSY/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-24-06-pristatome-gpt-5-5-su-nvidia.svg",
+          "kind": "video",
+          "video_id": "VdXdGS7hUSY",
+          "bullets_lt": [
+            "„GPT-5.5 supergalia yra ta, kad jis gali tiesiog atlikti reikalus.",
+            "Labai smagu matyti, kaip dirbtinio intelekto meistrai, tokie kaip NVIDIA Dennisas Hannuschas, naudoja GPT-5.5-Codex sudėtingoms inžinerinėms užduotims atlikti.",
+            "Sukurkite naudojant GPT-5.5: https://openai.com/index/introducing-gpt-5-5/."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=VdXdGS7hUSY",
+            "try_url": "https://www.youtube.com/watch?v=VdXdGS7hUSY"
+          }
+        },
+        {
+          "title": "Milijardo dolerių vertės startuolis su kitokia AI idėja",
+          "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+          "published_iso": "2026-04-23T12:30:00Z",
+          "published_lt": "2026-04-23 12:30 UTC",
+          "summary": "Milijardas dolerių pradinio finansavimo įmonei, kurioje dirba 12 žmonių, rodo, kad investuotojai vis dar tiki dirbtiniu intelektu.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-24-07-milijardo-doleriu-vertes-startuolis-su-kitokia-ai-ideja.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Milijardas dolerių pradinio finansavimo įmonei, kurioje dirba 12 žmonių, rodo, kad investuotojai vis dar tiki dirbtiniu intelektu."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+            "try_url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/"
+          }
+        },
+        {
+          "title": "NVIDIA ir Google infrastruktūra sumažina AI išvadų išlaidas",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+          "published_iso": "2026-04-23T12:19:36Z",
+          "published_lt": "2026-04-23 12:19 UTC",
+          "summary": "„Google Cloud Next“ konferencijoje „Google“ ir NVIDIA pristatė savo aparatinės įrangos planą, skirtą AI išvadų išlaidoms spręsti. Įmonės išsamiai apibūdino naujus A5X pliko metalo egzempliorius, veikiančius su NVIDIA Vera Rubin NVL72 stovo mastelio sistemomis.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-24-08-nvidia-ir-google-infrastruktura-sumazina-ai-isvadu-islai.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google Cloud Next“ konferencijoje „Google“ ir NVIDIA pristatė savo aparatinės įrangos planą, skirtą AI išvadų išlaidoms spręsti.",
+            "Įmonės išsamiai apibūdino naujus A5X pliko metalo egzempliorius, veikiančius su NVIDIA Vera Rubin NVL72 stovo mastelio sistemomis.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3"
+          }
+        },
+        {
+          "title": "Štai kaip mūsų TPU veikia vis reikalaujančius dirbtinio intelekto darbo krūvius.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+          "published_iso": "2026-04-23T12:00:00Z",
+          "published_lt": "2026-04-23 12:00 UTC",
+          "summary": "Šiame naujame vaizdo įraše sužinokite, kaip „Google“ TPU užtikrina vis sudėtingesnį AI darbo krūvį.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-04-24-09-stai-kaip-musu-tpu-veikia-vis-reikalaujancius-dirbtinio-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame naujame vaizdo įraše sužinokite, kaip „Google“ TPU užtikrina vis sudėtingesnį AI darbo krūvį.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638"
+          }
+        },
+        {
+          "title": "„Sony AI“ robotas įveikė žaidėjus, o robotas humanoidinis laimi Pekino lenktynes",
+          "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+          "published_iso": "2026-04-23T10:00:00Z",
+          "published_lt": "2026-04-23 10:00 UTC",
+          "summary": "Pasak „Reuters“, „Sony AI“ sukurtas autonominis stalo teniso robotas reguliuojamose rungtynėse varžėsi su aukšto lygio žaidėjais ir nugalėjo juos.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-24-10-sony-ai-robotas-iveike-zaidejus-o-robotas-humanoidinis-l.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Pasak „Reuters“, „Sony AI“ sukurtas autonominis stalo teniso robotas reguliuojamose rungtynėse varžėsi su aukšto lygio žaidėjais ir nugalėjo juos.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3"
+          }
+        },
+        {
+          "title": "Kelianti Austriją: „Google“ investuoja į savo pirmąjį duomenų centrą Alpėse.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+          "published_iso": "2026-04-23T09:00:00Z",
+          "published_lt": "2026-04-23 09:00 UTC",
+          "summary": "„Google“ jau daugelį metų didžiuojasi Austrijos kraštovaizdžio dalimi, todėl šiandien pristatome pirmąjį duomenų centrą Kronstorfe, sukuriantį 100 tiesioginių darbo vietų.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Kronstorf_Data_Center_1.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-04-24-11-kelianti-austrija-google-investuoja-i-savo-pirmaji-duome.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google“ jau daugelį metų didžiuojasi Austrijos kraštovaizdžio dalimi, todėl šiandien pristatome pirmąjį duomenų centrą Kronstorfe, sukuriantį 100 tiesioginių darbo vietų.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638"
+          }
+        },
+        {
+          "title": "Naujas dirbtinio intelekto vaizdų generatorius įveikia VISKĄ",
+          "link": "https://www.youtube.com/watch?v=TLFPbMUtErM",
+          "published_iso": "2026-04-22T03:36:16Z",
+          "published_lt": "2026-04-22 03:36 UTC",
+          "summary": "„ChatGPT Images 2.0“ apžvalga. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #imagegenerator #agi Ačiū mūsų rėmėjui Higgsfieldui.",
+          "source": "AI Search",
+          "source_image_url": "https://i1.ytimg.com/vi/TLFPbMUtErM/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-24-12-naujas-dirbtinio-intelekto-vaizdu-generatorius-iveikia-v.svg",
+          "kind": "video",
+          "video_id": "TLFPbMUtErM",
+          "bullets_lt": [
+            "„ChatGPT Images 2.0“ apžvalga.",
+            "GPT Image 2.0 vs Nano Banana.",
+            "#ai #aiart #aitools #imagegenerator #agi Ačiū mūsų rėmėjui Higgsfieldui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=TLFPbMUtErM",
+            "try_url": "https://www.youtube.com/watch?v=TLFPbMUtErM"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-04-23",
       "generated_at_utc": "2026-04-23T08:49:56Z",
