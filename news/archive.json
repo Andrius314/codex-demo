@@ -1,7 +1,336 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-04-27T09:14:01Z",
+  "updated_at_utc": "2026-04-28T09:14:52Z",
   "digests": [
+    {
+      "digest_date": "2026-04-28",
+      "generated_at_utc": "2026-04-28T09:14:52Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "10 geriausių fizinių dirbtinio intelekto modelių, maitinančių realaus pasaulio robotus 2026 m.",
+          "link": "https://www.marktechpost.com/2026/04/28/top-10-physical-ai-models-powering-real-world-robots-in-2026/",
+          "published_iso": "2026-04-28T08:14:02Z",
+          "published_lt": "2026-04-28 08:14 UTC",
+          "summary": "Atotrūkis tarp kalbos modelio galimybių ir robotų diegimo per pastaruosius 18 mėnesių labai sumažėjo. Nauja pamatų modelių klasė, skirta ne teksto generavimui, o fiziniams veiksmams, dabar veikia tikra technine įranga gamyklose, sandėliuose ir tyrimų laboratorijose.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-28-01-10-geriausiu-fiziniu-dirbtinio-intelekto-modeliu-maitina.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Atotrūkis tarp kalbos modelio galimybių ir robotų diegimo per pastaruosius 18 mėnesių labai sumažėjo.",
+            "Nauja pamatų modelių klasė, skirta ne teksto generavimui, o fiziniams veiksmams, dabar veikia tikra technine įranga gamyklose, sandėliuose ir tyrimų laboratorijose.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Šios sistemos apima įdiegtas robotų strategijas, privačios peržiūros VLA, atvirojo svorio tyrimų modelius ir pasaulinius modelius, naudojamus roboto mokymo duomenims keisti.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/28/top-10-physical-ai-models-powering-real-world-robots-in-2026/",
+            "try_url": "https://www.marktechpost.com/2026/04/28/top-10-physical-ai-models-powering-real-world-robots-in-2026/"
+          }
+        },
+        {
+          "title": "Kaip sukurti lengvą vizijos, kalbos ir veiksmo įkvėptą įkūnytą agentą su latentinio pasaulio modeliavimu ir modelių nuspėjamąja kontrole",
+          "link": "https://www.marktechpost.com/2026/04/27/how-to-build-a-lightweight-vision-language-action-inspired-embodied-agent-with-latent-world-modeling-and-model-predictive-control/",
+          "published_iso": "2026-04-28T04:59:49Z",
+          "published_lt": "2026-04-28 04:59 UTC",
+          "summary": "Šioje pamokoje mes sukuriame įkūnytą modeliavimo vizijos agentą, kuris mokosi suvokti, planuoti, numatyti ir perplanuoti tiesiai iš pikselių stebėjimų.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-28-02-kaip-sukurti-lengva-vizijos-kalbos-ir-veiksmo-ikvepta-ik.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje pamokoje mes sukuriame įkūnytą modeliavimo vizijos agentą, kuris mokosi suvokti, planuoti, numatyti ir perplanuoti tiesiai iš pikselių stebėjimų.",
+            "Kaina: Labiau panasu i mokama sprendima."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/27/how-to-build-a-lightweight-vision-language-action-inspired-embodied-agent-with-latent-world-modeling-and-model-predictive-control/",
+            "try_url": "https://www.marktechpost.com/2026/04/27/how-to-build-a-lightweight-vision-language-action-inspired-embodied-agent-with-latent-world-modeling-and-model-predictive-control/"
+          }
+        },
+        {
+          "title": "Susipažinkite su Talkie-1930: 13B atviro svorio LLM, apmokytas iki 1931 m. anglų kalbos tekstas, skirtas istorinių samprotavimų ir apibendrinimo tyrimams",
+          "link": "https://www.marktechpost.com/2026/04/27/meet-talkie-1930-a-13b-open-weight-llm-trained-on-pre-1931-english-text-for-historical-reasoning-and-generalization-research/",
+          "published_iso": "2026-04-28T02:24:13Z",
+          "published_lt": "2026-04-28 02:24 UTC",
+          "summary": "O kas, jei kalbos modelis niekada nebūtų girdėjęs apie internetą, išmaniuosius telefonus ar net Antrąjį pasaulinį karą? Tai nėra hipotetinė – būtent tai sukūrė mokslininkų komanda, vadovaujama Nicko Levine'o, Davido Duvenaudo ir Aleco Radfordo.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-28-03-susipazinkite-su-talkie-1930-13b-atviro-svorio-llm-apmok.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "O kas, jei kalbos modelis niekada nebūtų girdėjęs apie internetą, išmaniuosius telefonus ar net Antrąjį pasaulinį karą?",
+            "Tai nėra hipotetinė – būtent tai sukūrė mokslininkų komanda, vadovaujama Nicko Levine'o, Davido Duvenaudo ir Aleco Radfordo.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/27/meet-talkie-1930-a-13b-open-weight-llm-trained-on-pre-1931-english-text-for-historical-reasoning-and-generalization-research/",
+            "try_url": "https://www.marktechpost.com/2026/04/27/meet-talkie-1930-a-13b-open-weight-llm-trained-on-pre-1931-english-text-for-historical-reasoning-and-generalization-research/"
+          }
+        },
+        {
+          "title": "Sukurkite mokymąsi skatinantį agentą, kuris išmoktų atkurti svarbius ilgalaikius prisiminimus, kad būtų galima tiksliai atsakyti į LLM klausimus",
+          "link": "https://www.marktechpost.com/2026/04/27/build-a-reinforcement-learning-powered-agent-that-learns-to-retrieve-relevant-long-term-memories/",
+          "published_iso": "2026-04-27T18:58:20Z",
+          "published_lt": "2026-04-27 18:58 UTC",
+          "summary": "Šiame vadove mes sukuriame sustiprinimo mokymusi pagrįstą agentą, kuris mokosi, kaip gauti svarbius prisiminimus iš ilgalaikės atminties banko. Pirmiausia sukuriame sintetinės atminties duomenų rinkinį ir generuojame užklausas, kurios reikalauja, kad agentas atšauktų konkrečią informaciją.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-28-04-sukurkite-mokymasi-skatinanti-agenta-kuris-ismoktu-atkur.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove mes sukuriame sustiprinimo mokymusi pagrįstą agentą, kuris mokosi, kaip gauti svarbius prisiminimus iš ilgalaikės atminties banko.",
+            "Pirmiausia sukuriame sintetinės atminties duomenų rinkinį ir generuojame užklausas, kurios reikalauja, kad agentas atšauktų konkrečią informaciją.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Jei atmintyje atsakymo nėra, pasakykite „Nežinau iš pateiktų prisiminimų“.\" user = f\"Klausimas: {klausimas}\\n\\nGauti atmintis:\\n{memory_block}\\n\\nAtsakymas:\" resp = client.chat.completions.create( model=modelis, tempe...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„OpenMOSS“ išleido „MOSS-Audio“: atvirojo kodo kalbos, garso, muzikos ir laiko suvokimo garso samprotavimo modelį.",
+          "link": "https://www.marktechpost.com/2026/04/27/openmoss-releases-moss-audio-an-open-source-foundation-model-for-speech-sound-music-and-time-aware-audio-reasoning/",
+          "published_iso": "2026-04-27T18:36:06Z",
+          "published_lt": "2026-04-27 18:36 UTC",
+          "summary": "Modelis sujungia kalbą, aplinkos garsą, muziką ir laiko samprotavimus į vieną architektūrą ir pranoksta visus atvirojo kodo modelius, išbandytus pagal bendruosius garso etalonus, įskaitant sistemas, kurios yra daugiau nei keturis kartus didesnės už savo dydį.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-11.34.12-AM-150x150.png",
+          "image_url": "generated-images/2026-04-28-05-openmoss-isleido-moss-audio-atvirojo-kodo-kalbos-garso-m.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Modelis sujungia kalbą, aplinkos garsą, muziką ir laiko samprotavimus į vieną architektūrą ir pranoksta visus atvirojo kodo modelius, išbandytus pagal bendruosius garso etalonus, įskaitant sistemas, kurios yra daugiau nei keturis kartus didesnės už savo dydį.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/27/openmoss-releases-moss-audio-an-open-source-foundation-model-for-speech-sound-music-and-time-aware-audio-reasoning/",
+            "try_url": "https://www.marktechpost.com/2026/04/27/openmoss-releases-moss-audio-an-open-source-foundation-model-for-speech-sound-music-and-time-aware-audio-reasoning/"
+          }
+        },
+        {
+          "title": "Prisijunkite prie naujų „Google“ ir „Kaggle“ siūlomų „AI Agents Vibe“ kodavimo kursų",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+          "published_iso": "2026-04-27T13:00:00Z",
+          "published_lt": "2026-04-27 13:00 UTC",
+          "summary": "„Google“ sugrąžina savo 5 dienų AI agentų intensyvųjį kursą su „Kaggle“ ir registracija atidaryta.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-04-28-06-prisijunkite-prie-nauju-google-ir-kaggle-siulomu-ai-agen.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google“ sugrąžina savo 5 dienų AI agentų intensyvųjį kursą su „Kaggle“ ir registracija atidaryta.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260415-1638"
+          }
+        },
+        {
+          "title": "„Google“ perspėja, kad kenkėjiški tinklalapiai nuodija AI agentus",
+          "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
+          "published_iso": "2026-04-27T11:12:52Z",
+          "published_lt": "2026-04-27 11:12 UTC",
+          "summary": "„Google“ tyrėjai įspėja, kad viešieji tinklalapiai aktyviai užgrobia įmonių dirbtinio intelekto agentus per netiesiogines skubias injekcijas. Apsaugos komandos, nuskaitančios „Common Crawl“ saugyklą (didžiulę milijardų viešųjų tinklalapių duomenų bazę), atskleidė augančią skaitmeninių spąstų tendenciją.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-28-07-google-perspeja-kad-kenkejiski-tinklalapiai-nuodija-ai-a.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google“ tyrėjai įspėja, kad viešieji tinklalapiai aktyviai užgrobia įmonių dirbtinio intelekto agentus per netiesiogines skubias injekcijas.",
+            "Apsaugos komandos, nuskaitančios „Common Crawl“ saugyklą (didžiulę milijardų viešųjų tinklalapių duomenų bazę), atskleidė augančią skaitmeninių spąstų tendenciją.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3"
+          }
+        },
+        {
+          "title": "Ritu vs Case Files | Su ChatGPT",
+          "link": "https://www.youtube.com/watch?v=2TGHO4apQ5I",
+          "published_iso": "2026-04-27T11:12:22Z",
+          "published_lt": "2026-04-27 11:12 UTC",
+          "summary": "Erdvė sutelktam darbui su ChatGPT Kreditai Režisierius: Abhinav Pratiman DOP: Tassaduq Hussain gamybos namai: Early Man Film Kūrybinė agentūra: Hue & Why",
+          "source": "OpenAI",
+          "source_image_url": "https://i3.ytimg.com/vi/2TGHO4apQ5I/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-28-08-ritu-vs-case-files-su-chatgpt.svg",
+          "kind": "video",
+          "video_id": "2TGHO4apQ5I",
+          "bullets_lt": [
+            "Erdvė sutelktam darbui su ChatGPT Kreditai Režisierius: Abhinav Pratiman DOP: Tassaduq Hussain gamybos namai: Early Man Film Kūrybinė agentūra: Hue & Why."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=2TGHO4apQ5I",
+            "try_url": "https://www.youtube.com/watch?v=2TGHO4apQ5I"
+          }
+        },
+        {
+          "title": "„Meta AI“ išleido „Sapiens2“: didelės skiriamosios gebos, į žmogų orientuoto matymo modelį, skirtą pozai, segmentacijai, normaliam vaizdui, taškiniam žemėlapiui ir albedui",
+          "link": "https://www.marktechpost.com/2026/04/27/meta-ai-releases-sapiens2-a-high-resolution-human-centric-vision-model-for-pose-segmentation-normals-pointmap-and-albedo/",
+          "published_iso": "2026-04-27T08:47:20Z",
+          "published_lt": "2026-04-27 08:47 UTC",
+          "summary": "„Meta Reality Labs“ išleidžia naują į žmogų orientuoto regėjimo pagrindų modelių šeimą, kuri perkelia pozų įvertinimą, segmentavimą ir 3D geometriją į naujus naujausius lygius – visa tai iš vieno pagrindo.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-1.43.16-AM-150x150.png",
+          "image_url": "generated-images/2026-04-28-09-meta-ai-isleido-sapiens2-dideles-skiriamosios-gebos-i-zm.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Meta Reality Labs“ išleidžia naują į žmogų orientuoto regėjimo pagrindų modelių šeimą, kuri perkelia pozų įvertinimą, segmentavimą ir 3D geometriją į naujus naujausius lygius – visa tai iš vieno pagrindo.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/27/meta-ai-releases-sapiens2-a-high-resolution-human-centric-vision-model-for-pose-segmentation-normals-pointmap-and-albedo/",
+            "try_url": "https://www.marktechpost.com/2026/04/27/meta-ai-releases-sapiens2-a-high-resolution-human-centric-vision-model-for-pose-segmentation-normals-pointmap-and-albedo/"
+          }
+        },
+        {
+          "title": "„LoRA“ prielaida, kuri nutrūksta gamyboje",
+          "link": "https://www.marktechpost.com/2026/04/26/the-lora-assumption-that-breaks-in-production/",
+          "published_iso": "2026-04-27T05:33:44Z",
+          "published_lt": "2026-04-27 05:33 UTC",
+          "summary": "LoRA plačiai naudojama koreguojant didelius modelius, nes ji yra efektyvi, tačiau tyliai daroma prielaida, kad visi modelio atnaujinimai yra panašūs.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/image-56-150x150.png",
+          "image_url": "generated-images/2026-04-28-10-lora-prielaida-kuri-nutruksta-gamyboje.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "LoRA plačiai naudojama koreguojant didelius modelius, nes ji yra efektyvi, tačiau tyliai daroma prielaida, kad visi modelio atnaujinimai yra panašūs."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/26/the-lora-assumption-that-breaks-in-production/",
+            "try_url": "https://www.marktechpost.com/2026/04/26/the-lora-assumption-that-breaks-in-production/"
+          }
+        },
+        {
+          "title": "Kaip sukurti visiškai ieškomą AI žinių bazę naudojant OpenKB, OpenRouter ir Llama",
+          "link": "https://www.marktechpost.com/2026/04/26/how-to-build-a-fully-searchable-ai-knowledge-base-with-openkb-openrouter-and-llama/",
+          "published_iso": "2026-04-27T05:20:25Z",
+          "published_lt": "2026-04-27 05:20 UTC",
+          "summary": "Šiame vadove mes tiriame, kaip sukurti vietinę žinių bazę ir pateikti užklausas su OpenKB naudojant nemokamą atvirą modelį per OpenRouter. Saugiai gauname API raktą naudodami getpass, nustatome aplinką be kodavimo paslapčių ir nuo nulio inicijuojame struktūrizuotą, wiki stiliaus žinių bazę.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-04-28-11-kaip-sukurti-visiskai-ieskoma-ai-ziniu-baze-naudojant-op.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove mes tiriame, kaip sukurti vietinę žinių bazę ir pateikti užklausas su OpenKB naudojant nemokamą atvirą modelį per OpenRouter.",
+            "Saugiai gauname API raktą naudodami getpass, nustatome aplinką be kodavimo paslapčių ir nuo nulio inicijuojame struktūrizuotą, wiki stiliaus žinių bazę.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "## Encoder vs Decoder Koduotuvo dėklas apdoroja įvesties prieigos raktus dviem kryptimis (pvz.,",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/26/how-to-build-a-fully-searchable-ai-knowledge-base-with-openkb-openrouter-and-llama/",
+            "try_url": "https://www.marktechpost.com/2026/04/26/how-to-build-a-fully-searchable-ai-knowledge-base-with-openkb-openrouter-and-llama/"
+          }
+        },
+        {
+          "title": "Deepseek V4, GPT-5.5, Kimi K2.6, MiMo Pro, vaizdo žaidimų agentai, 4K redagavimas: AI NAUJIENOS",
+          "link": "https://www.youtube.com/watch?v=ZKfd9S9lOtc",
+          "published_iso": "2026-04-26T03:29:26Z",
+          "published_lt": "2026-04-26 03:29 UTC",
+          "summary": "DIDELĖS AI NAUJIENOS: Deepseek V4, Kimi K2.6, MiMo v2.5, GPT 5.5, GPT Images 2, Qwen 3.6, HY3, Vision Banana #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Higgsfieldui.",
+          "source": "AI Search",
+          "source_image_url": "https://i3.ytimg.com/vi/ZKfd9S9lOtc/hqdefault.jpg",
+          "image_url": "generated-images/2026-04-28-12-deepseek-v4-gpt-5-5-kimi-k2-6-mimo-pro-vaizdo-zaidimu-ag.svg",
+          "kind": "video",
+          "video_id": "ZKfd9S9lOtc",
+          "bullets_lt": [
+            "DIDELĖS AI NAUJIENOS: Deepseek V4, Kimi K2.6, MiMo v2.5, GPT 5.5, GPT Images 2, Qwen 3.6, HY3, Vision Banana #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Higgsfieldui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=ZKfd9S9lOtc",
+            "try_url": "https://www.youtube.com/watch?v=ZKfd9S9lOtc"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-04-27",
       "generated_at_utc": "2026-04-27T09:14:01Z",
