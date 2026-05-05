@@ -1,7 +1,333 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-05-04T09:12:42Z",
+  "updated_at_utc": "2026-05-05T09:04:17Z",
   "digests": [
+    {
+      "digest_date": "2026-05-05",
+      "generated_at_utc": "2026-05-05T09:04:17Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "Kodėl gradiento nusileidimo zigzagai ir kaip „Momentum“ tai ištaiso",
+          "link": "https://www.marktechpost.com/2026/05/05/why-gradient-descent-zigzags-and-how-momentum-fixes-it/",
+          "published_iso": "2026-05-05T07:26:29Z",
+          "published_lt": "2026-05-05 07:26 UTC",
+          "summary": "Kaip impulsas optimizuoja gradiento nusileidimą slopindamas svyravimus ir pagreitindamas komplekso konvergenciją The post Kodėl gradiento nusileidimas zigzagais ir kaip tai pataiso impulsas appeared first on MarkTechPost.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-13-150x150.png",
+          "image_url": "generated-images/2026-05-05-01-kodel-gradiento-nusileidimo-zigzagai-ir-kaip-momentum-ta.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kaip impulsas optimizuoja gradiento nusileidimą slopindamas svyravimus ir pagreitindamas komplekso konvergenciją The post Kodėl gradiento nusileidimas zigzagais ir kaip tai pataiso impulsas appeared first on MarkTechPost."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/05/why-gradient-descent-zigzags-and-how-momentum-fixes-it/",
+            "try_url": "https://www.marktechpost.com/2026/05/05/why-gradient-descent-zigzags-and-how-momentum-fixes-it/"
+          }
+        },
+        {
+          "title": "„Google“ prideda įvykiais pagrįstus žiniatinklio kabliukus prie „Gemini“ API, pašalindama apklausų poreikį atliekant ilgalaikius AI darbus",
+          "link": "https://www.marktechpost.com/2026/05/05/google-adds-event-driven-webhooks-to-the-gemini-api-eliminating-the-need-for-polling-in-long-running-ai-jobs/",
+          "published_iso": "2026-05-05T07:01:53Z",
+          "published_lt": "2026-05-05 07:01 UTC",
+          "summary": "Paketinių API, giluminių tyrimų ir vaizdo įrašų generavimo užduočių iš karto gaunama pranešimų sistema su integruota sauga, pakartotinio bandymo garantijomis ir dviem konfigūravimo režimais.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-05-02-google-prideda-ivykiais-pagristus-ziniatinklio-kabliukus.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Paketinių API, giluminių tyrimų ir vaizdo įrašų generavimo užduočių iš karto gaunama pranešimų sistema su integruota sauga, pakartotinio bandymo garantijomis ir dviem konfigūravimo režimais.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/05/google-adds-event-driven-webhooks-to-the-gemini-api-eliminating-the-need-for-polling-in-long-running-ai-jobs/",
+            "try_url": "https://www.marktechpost.com/2026/05/05/google-adds-event-driven-webhooks-to-the-gemini-api-eliminating-the-need-for-polling-in-long-running-ai-jobs/"
+          }
+        },
+        {
+          "title": "Kodavimo vadovas apklausos šališkumo koregavimui naudojant „Facebook“ tyrimų balansą su IPW CBPS reitingavimo ir postų stratifikavimo metodais",
+          "link": "https://www.marktechpost.com/2026/05/04/a-coding-guide-to-survey-bias-correction-using-facebook-research-balance-with-ipw-cbps-ranking-and-post-stratification-methods/",
+          "published_iso": "2026-05-05T04:46:45Z",
+          "published_lt": "2026-05-05 04:46 UTC",
+          "summary": "Šioje mokymo programoje apžvelgsime visą darbo eigą, skirtą tyrimo duomenų paklaidai ištaisyti naudojant balanso biblioteką. Imituojame tikrovišką populiaciją, sąmoningai įvedame atrankos šališkumą, o tada taikome kelis pakartotinio svėrimo metodus, kad atkurtume nešališkus įverčius.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-05-03-kodavimo-vadovas-apklausos-saliskumo-koregavimui-naudoja.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje apžvelgsime visą darbo eigą, skirtą tyrimo duomenų paklaidai ištaisyti naudojant balanso biblioteką.",
+            "Imituojame tikrovišką populiaciją, sąmoningai įvedame atrankos šališkumą, o tada taikome kelis pakartotinio svėrimo metodus, kad atkurtume nešališkus įverčius."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/04/a-coding-guide-to-survey-bias-correction-using-facebook-research-balance-with-ipw-cbps-ranking-and-post-stratification-methods/",
+            "try_url": "https://www.marktechpost.com/2026/05/04/a-coding-guide-to-survey-bias-correction-using-facebook-research-balance-with-ipw-cbps-ranking-and-post-stratification-methods/"
+          }
+        },
+        {
+          "title": "„Zyphra“ pristato tenzorinį ir sekos lygiagretumą (TSP): aparatinės įrangos mokymo ir išvadų strategiją, kuri užtikrina 2,6 karto didesnį našumą, palyginti su suderintomis TP+SP bazinėmis linijomis",
+          "link": "https://www.marktechpost.com/2026/05/04/zyphra-introduces-tensor-and-sequence-parallelism-tsp-a-hardware-aware-training-and-inference-strategy-that-delivers-2-6x-throughput-over-matched-tpsp-baselines/",
+          "published_iso": "2026-05-04T23:15:49Z",
+          "published_lt": "2026-05-04 23:15 UTC",
+          "summary": "„Zyphra“ pristato tenzorinį ir sekos lygiagretumą (TSP): sulankstytą lygiagretumo strategiją, kuri sumažina parametrų ir aktyvinimo atmintį toje pačioje GPU ašyje.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.15.18-PM-1-150x150.png",
+          "image_url": "generated-images/2026-05-05-04-zyphra-pristato-tenzorini-ir-sekos-lygiagretuma-tsp-apar.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Zyphra“ pristato tenzorinį ir sekos lygiagretumą (TSP): sulankstytą lygiagretumo strategiją, kuri sumažina parametrų ir aktyvinimo atmintį toje pačioje GPU ašyje.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Kiekvienas GPU apdoroja tik dalį žetonų, o tai sumažina aktyvinimo atmintį ir kvadratines dėmesio skaičiavimo išlaidas.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/04/zyphra-introduces-tensor-and-sequence-parallelism-tsp-a-hardware-aware-training-and-inference-strategy-that-delivers-2-6x-throughput-over-matched-tpsp-baselines/",
+            "try_url": "https://www.marktechpost.com/2026/05/04/zyphra-introduces-tensor-and-sequence-parallelism-tsp-a-hardware-aware-training-and-inference-strategy-that-delivers-2-6x-throughput-over-matched-tpsp-baselines/"
+          }
+        },
+        {
+          "title": "Kaip sukurti visapusišką gamybos lygio mašininio mokymosi vamzdyną naudojant ZenML, įskaitant pasirinktinius materializatorius, metaduomenų stebėjimą ir hiperparametrų optimizavimą",
+          "link": "https://www.marktechpost.com/2026/05/04/how-to-build-an-end-to-end-production-grade-machine-learning-pipeline-with-zenml-including-custom-materializers-metadata-tracking-and-hyperparameter-optimization/",
+          "published_iso": "2026-05-04T22:11:37Z",
+          "published_lt": "2026-05-04 22:11 UTC",
+          "summary": "Šiame vadove apžvelgsime pažangaus mašininio mokymosi dujotiekio, naudojant ZenML, įgyvendinimą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-05-05-kaip-sukurti-visapusiska-gamybos-lygio-masininio-mokymos.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove apžvelgsime pažangaus mašininio mokymosi dujotiekio, naudojant ZenML, įgyvendinimą."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/04/how-to-build-an-end-to-end-production-grade-machine-learning-pipeline-with-zenml-including-custom-materializers-metadata-tracking-and-hyperparameter-optimization/",
+            "try_url": "https://www.marktechpost.com/2026/05/04/how-to-build-an-end-to-end-production-grade-machine-learning-pipeline-with-zenml-including-custom-materializers-metadata-tracking-and-hyperparameter-optimization/"
+          }
+        },
+        {
+          "title": "Populiariausios 2026 m. AI agentų kūrimo paieškos ir gavimo API: įrankiai, kompromisai ir nemokamos pakopos",
+          "link": "https://www.marktechpost.com/2026/05/04/top-search-and-fetch-apis-for-building-ai-agents-in-2026-tools-tradeoffs-and-free-tiers/",
+          "published_iso": "2026-05-04T17:55:35Z",
+          "published_lt": "2026-05-04 17:55 UTC",
+          "summary": "Atraskite populiariausias AI agentų paieškos ir gavimo API 2026 m. Palyginkite tokius įrankius kaip „TinyFish“, „Tavily“ ir „Firecrawl“, atsižvelgdami į delsą, prieigos raktų efektyvumą ir nemokamas pakopas, kad optimizuotumėte agento žiniatinklio paiešką.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/search_fetch_api_table_2026-1-150x150.png",
+          "image_url": "generated-images/2026-05-05-06-populiariausios-2026-m-ai-agentu-kurimo-paieskos-ir-gavi.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Atraskite populiariausias AI agentų paieškos ir gavimo API 2026 m.",
+            "Palyginkite tokius įrankius kaip „TinyFish“, „Tavily“ ir „Firecrawl“, atsižvelgdami į delsą, prieigos raktų efektyvumą ir nemokamas pakopas, kad optimizuotumėte agento žiniatinklio paiešką.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "$30/month, $100/month, $220/month, $0.00",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Agentas, neturintis patikimos prieigos prie tiesioginių žiniatinklio duomenų, efektyviai naudojasi pasenusiomis žiniomis – tai griežtas apribojimas bet kokiam gamybos diegimo tyrimams, švino praturtinimui, konkurencin...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/04/top-search-and-fetch-apis-for-building-ai-agents-in-2026-tools-tradeoffs-and-free-tiers/",
+            "try_url": "https://www.marktechpost.com/2026/05/04/top-search-and-fetch-apis-for-building-ai-agents-in-2026-tools-tradeoffs-and-free-tiers/"
+          }
+        },
+        {
+          "title": "Paskutinės AI naujienos, kurias paskelbėme 2026 m. balandžio mėn",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+          "published_iso": "2026-05-04T17:00:00Z",
+          "published_lt": "2026-05-04 17:00 UTC",
+          "summary": "Štai naujausi „Google“ AI atnaujinimai nuo 2026 m. balandžio mėn",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-05-05-07-paskutines-ai-naujienos-kurias-paskelbeme-2026-m-balandz.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Štai naujausi „Google“ AI atnaujinimai nuo 2026 m.",
+            "balandžio mėn.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260429-1629",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260429-1629"
+          }
+        },
+        {
+          "title": "Sumažinkite trintį ir delsą atliekant ilgai atliekamus darbus naudodami „Webhooks“ Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+          "published_iso": "2026-05-04T15:30:00Z",
+          "published_lt": "2026-05-04 15:30 UTC",
+          "summary": "Įvykiais pagrįsti „Webhooks“ yra tiesiogine pranešimų sistema, kuri pašalina neefektyvių apklausų poreikį.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-05-05-08-sumazinkite-trinti-ir-delsa-atliekant-ilgai-atliekamus-d.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Įvykiais pagrįsti „Webhooks“ yra tiesiogine pranešimų sistema, kuri pašalina neefektyvių apklausų poreikį.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260429-1629",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260429-1629"
+          }
+        },
+        {
+          "title": "Fizinis AI kelia autonominių sistemų valdymo klausimus",
+          "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+          "published_iso": "2026-05-04T11:00:00Z",
+          "published_lt": "2026-05-04 11:00 UTC",
+          "summary": "Fizinio AI valdymas tampa sunkesnis, nes autonominės AI sistemos pereina į robotus, jutiklius ir pramoninę įrangą. Problema yra ne tik tai, ar AI agentai gali atlikti užduotis. Taip jų veiksmai yra tikrinami, stebimi ir sustabdomi, kai jie sąveikauja su realiomis sistemomis.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-05-09-fizinis-ai-kelia-autonominiu-sistemu-valdymo-klausimus.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Fizinio AI valdymas tampa sunkesnis, nes autonominės AI sistemos pereina į robotus, jutiklius ir pramoninę įrangą.",
+            "Problema yra ne tik tai, ar AI agentai gali atlikti užduotis.",
+            "Taip jų veiksmai yra tikrinami, stebimi ir sustabdomi, kai jie sąveikauja su realiomis sistemomis.",
+            "Kaina: Labiau panasu i mokama sprendima."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "$81.64, $960.38",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Jie taip pat gali būti prijungti prie įrangos, kuriai reikia aiškių saugos ribų.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.6",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.6"
+          }
+        },
+        {
+          "title": "„Google“ padarė agentinį AI valdymą produktu. Įmonės dar turi pasivyti.",
+          "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+          "published_iso": "2026-05-04T10:00:00Z",
+          "published_lt": "2026-05-04 10:00 UTC",
+          "summary": "Prieš dvi savaites Las Vegase vykusiame „Google Cloud Next '26“ renginyje „Google“ padarė tai, ką įmonės AI pramonė šoka beveik dvejus metus: ji pavertė agentinį AI valdymą savotiška produkto funkcija, o ne pasekme.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-05-10-google-padare-agentini-ai-valdyma-produktu-imones-dar-tu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Prieš dvi savaites Las Vegase vykusiame „Google Cloud Next '26“ renginyje „Google“ padarė tai, ką įmonės AI pramonė šoka beveik dvejus metus: ji pavertė agentinį AI valdymą savotiška produkto funkcija, o ne pasekme.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.6",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.6"
+          }
+        },
+        {
+          "title": "Naujasis NVIDIA dirbtinis intelektas vieną nuotrauką paverčia pasauliu, kuris niekada nesugrius",
+          "link": "https://www.youtube.com/watch?v=eCw33snvoNI",
+          "published_iso": "2026-05-03T17:02:48Z",
+          "published_lt": "2026-05-03 17:02 UTC",
+          "summary": "❤️ Apžiūrėkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://research.nvidia.com/labs/sil/projects/lyra2/ Mūsų Patreonas, jei norite mus paremti: https://www.patreon.com/TwoMinutePapers, kuriems padėkotume PatreonPapers🙏",
+          "source": "Two Minute Papers",
+          "source_image_url": "https://i2.ytimg.com/vi/eCw33snvoNI/hqdefault.jpg",
+          "image_url": "generated-images/2026-05-05-11-naujasis-nvidia-dirbtinis-intelektas-viena-nuotrauka-pav.svg",
+          "kind": "video",
+          "video_id": "eCw33snvoNI",
+          "bullets_lt": [
+            "❤️ Apžiūrėkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://research.nvidia.com/labs/sil/projects/lyra2/ Mūsų Patreonas, jei norite mus paremti: https://www.patreon.com/TwoMinutePapers, kuriems padėkotume PatreonPapers🙏.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=eCw33snvoNI",
+            "try_url": "https://www.youtube.com/watch?v=eCw33snvoNI"
+          }
+        },
+        {
+          "title": "Draugės robotai, rekursyvūs AI agentai, išsamus AI tyrimas, Happy Horse: AI NAUJIENOS",
+          "link": "https://www.youtube.com/watch?v=7r_WJ9xpne0",
+          "published_iso": "2026-05-03T03:28:46Z",
+          "published_lt": "2026-05-03 03:28 UTC",
+          "summary": "DIDELĖS AI NAUJIENOS: Happy Horse, SenseNova U1, Talkie, Grok 4.3, Vista 4D ir daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Merlin.",
+          "source": "AI Search",
+          "source_image_url": "https://i4.ytimg.com/vi/7r_WJ9xpne0/hqdefault.jpg",
+          "image_url": "generated-images/2026-05-05-12-drauges-robotai-rekursyvus-ai-agentai-issamus-ai-tyrimas.svg",
+          "kind": "video",
+          "video_id": "7r_WJ9xpne0",
+          "bullets_lt": [
+            "DIDELĖS AI NAUJIENOS: Happy Horse, SenseNova U1, Talkie, Grok 4.3, Vista 4D ir daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Merlin."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=7r_WJ9xpne0",
+            "try_url": "https://www.youtube.com/watch?v=7r_WJ9xpne0"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-05-04",
       "generated_at_utc": "2026-05-04T09:12:42Z",
