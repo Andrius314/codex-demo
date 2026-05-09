@@ -1,7 +1,339 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-05-08T08:18:29Z",
+  "updated_at_utc": "2026-05-09T08:24:29Z",
   "digests": [
+    {
+      "digest_date": "2026-05-09",
+      "generated_at_utc": "2026-05-09T08:24:29Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "9 geriausi dirbtinio intelekto įrankiai, skirti specifikacijomis pagrįstam vystymuisi 2026 m.: Kiro, BMAD, GSD ir kt.",
+          "link": "https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/",
+          "published_iso": "2026-05-09T06:01:32Z",
+          "published_lt": "2026-05-09 06:01 UTC",
+          "summary": "Vibe kodavimas leidžia jums sukurti prototipą. Specifikacijomis pagrįstas kūrimas leidžia jums pradėti gaminti.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-09-01-9-geriausi-dirbtinio-intelekto-irankiai-skirti-specifika.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Vibe kodavimas leidžia jums sukurti prototipą.",
+            "Specifikacijomis pagrįstas kūrimas leidžia jums pradėti gaminti.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/",
+            "try_url": "https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/"
+          }
+        },
+        {
+          "title": "Susipažinkite su „GitHub Spec-Kit“: atvirojo kodo įrankių rinkinys, skirtas specifikacijomis pagrįstam kūrimui su AI kodavimo agentais",
+          "link": "https://www.marktechpost.com/2026/05/08/meet-github-spec-kit-an-open-source-toolkit-for-spec-driven-development-with-ai-coding-agents/",
+          "published_iso": "2026-05-09T03:59:56Z",
+          "published_lt": "2026-05-09 03:59 UTC",
+          "summary": "Jei praleidote laiką naudodamiesi AI kodavimo agentais – „GitHub Copilot“, „Claude Code“, „Gemini CLI“ – tikriausiai susidūrėte su tokia situacija: aprašote tai, ko norite, agentas sugeneruoja kodo bloką, kuris atrodo teisingai, sukompiliuoja ir tada subtiliai praleidžia tikrąjį tikslą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-09-02-susipazinkite-su-github-spec-kit-atvirojo-kodo-irankiu-r.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Jei praleidote laiką naudodamiesi AI kodavimo agentais – „GitHub Copilot“, „Claude Code“, „Gemini CLI“ – tikriausiai susidūrėte su tokia situacija: aprašote tai, ko norite, agentas sugeneruoja kodo bloką, kuris atrodo teisingai, sukompiliuoja ir tada subtiliai praleidžia tikrąjį tikslą.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„OpenAI“ prideda „Chrome“ plėtinį prie „Codex“, leisdamas savo AI agentui pasiekti „LinkedIn“, „Salesforce“, „Gmail“ ir vidinius įrankius per prisijungimo sesijas",
+          "link": "https://www.marktechpost.com/2026/05/08/openai-adds-chrome-extension-to-codex-letting-its-ai-agent-access-linkedin-salesforce-gmail-and-internal-tools-via-signed-in-sessions/",
+          "published_iso": "2026-05-08T22:22:41Z",
+          "published_lt": "2026-05-08 22:22 UTC",
+          "summary": "„OpenAI“ pristatė „Chrome“ plėtinį, skirtą „Codex“, jo AI kodavimo agentui, leidžiantį atlikti naršyklės užduotis tiesiogiai „Google Chrome“ sistemoje „MacOS“ ir „Windows“, įskaitant sąveiką su prisijungtomis svetainėmis, „Chrome DevTools“ naudojimą ir kelių etapų darbo eigą naršyklės skirtukuose.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-09-03-openai-prideda-chrome-pletini-prie-codex-leisdamas-savo-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„OpenAI“ pristatė „Chrome“ plėtinį, skirtą „Codex“, jo AI kodavimo agentui, leidžiantį atlikti naršyklės užduotis tiesiogiai „Google Chrome“ sistemoje „MacOS“ ir „Windows“, įskaitant sąveiką su prisijungtomis svetainėmis, „Chrome DevTools“ naudojimą ir kelių etapų darbo eigą naršyklės skirtukuose.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Kaip sukurti vienos ląstelės RNR-seq analizės vamzdyną su Scanpy PBMC klasterizavimui, anotacijai ir trajektorijos atradimui",
+          "link": "https://www.marktechpost.com/2026/05/08/how-to-build-a-single-cell-rna-seq-analysis-pipeline-with-scanpy-for-pbmc-clustering-annotation-and-trajectory-discovery/",
+          "published_iso": "2026-05-08T21:32:12Z",
+          "published_lt": "2026-05-08 21:32 UTC",
+          "summary": "Šioje pamokoje mes atliekame išplėstinę vienos ląstelės RNR-seq analizės darbo eigą naudodami Scanpy PBMC-3k etaloniniame duomenų rinkinyje. Pradedame įkeldami duomenų rinkinį, apžiūrėdami jo struktūrą ir taikydami kokybės kontrolės patikras, kad įvertintume genų skaičių, bendrą skaičių, mitochondrijų turinį ir ribosomų genų signalus.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-09-04-kaip-sukurti-vienos-lasteles-rnr-seq-analizes-vamzdyna-s.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje pamokoje mes atliekame išplėstinę vienos ląstelės RNR-seq analizės darbo eigą naudodami Scanpy PBMC-3k etaloniniame duomenų rinkinyje.",
+            "Pradedame įkeldami duomenų rinkinį, apžiūrėdami jo struktūrą ir taikydami kokybės kontrolės patikras, kad įvertintume genų skaičių, bendrą skaičių, mitochondrijų turinį ir ribosomų genų signalus.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„OpenAI“ GPT 5.5 Instant: geri, blogi ir beprotiški",
+          "link": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
+          "published_iso": "2026-05-08T16:46:30Z",
+          "published_lt": "2026-05-08 16:46 UTC",
+          "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 GPT 5.5 Instant: https://deploymentsafety.openai.com/gpt-5-5-instant/introduction https://openai.com/index/gpt-5-5-instant/ Classifiers paper:/ https://arxiv.org/pdf/2501.18837 Mūsų Patreonas, jei norite mus paremti: https://www.patreon.",
+          "source": "Two Minute Papers",
+          "source_image_url": "https://i1.ytimg.com/vi/4nQnhjimB4Y/hqdefault.jpg",
+          "image_url": "generated-images/2026-05-09-05-openai-gpt-5-5-instant-geri-blogi-ir-beprotiski.svg",
+          "kind": "video",
+          "video_id": "4nQnhjimB4Y",
+          "bullets_lt": [
+            "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 GPT 5.5 Instant: https://deploymentsafety.openai.com/gpt-5-5-instant/introduction https://openai.com/index/gpt-5-5-instant/ Classifiers paper:/ https://arxiv.org/pdf/2501.18837 Mūsų Patreonas, jei norite mus paremti: https://www.patreon.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=4nQnhjimB4Y",
+            "try_url": "https://www.youtube.com/watch?v=4nQnhjimB4Y"
+          }
+        },
+        {
+          "title": "„Codex“ dabar gali naudoti „Chrome“ tiesiogiai „MacOS“ ir „Windows“.",
+          "link": "https://www.youtube.com/watch?v=b6Mxcv1pyBU",
+          "published_iso": "2026-05-08T16:25:50Z",
+          "published_lt": "2026-05-08 16:25 UTC",
+          "summary": "„Codex“ dabar dar geriau dirba su programomis ir svetainėmis „Chrome“ ir dabar gali dirbti lygiagrečiai skirtukuose fone, neperimdamas naršyklės. Norėdami pradėti naudoti „MacOS“ ir „Windows“, „Codex“ programoje įdiekite „Chrome“ papildinį.",
+          "source": "OpenAI",
+          "source_image_url": "https://i3.ytimg.com/vi/b6Mxcv1pyBU/hqdefault.jpg",
+          "image_url": "generated-images/2026-05-09-06-codex-dabar-gali-naudoti-chrome-tiesiogiai-macos-ir-wind.svg",
+          "kind": "video",
+          "video_id": "b6Mxcv1pyBU",
+          "bullets_lt": [
+            "„Codex“ dabar dar geriau dirba su programomis ir svetainėmis „Chrome“ ir dabar gali dirbti lygiagrečiai skirtukuose fone, neperimdamas naršyklės.",
+            "Norėdami pradėti naudoti „MacOS“ ir „Windows“, „Codex“ programoje įdiekite „Chrome“ papildinį.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=b6Mxcv1pyBU",
+            "try_url": "https://www.youtube.com/watch?v=b6Mxcv1pyBU"
+          }
+        },
+        {
+          "title": "Sužinokite, kas atsitinka, kai kūrybinės legendos naudoja dirbtinį intelektą kurdamos reklamas mažoms įmonėms.",
+          "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+          "published_iso": "2026-05-08T15:00:00Z",
+          "published_lt": "2026-05-08 15:00 UTC",
+          "summary": "Šiandien pristatome „The Small Brief“ – iniciatyvą, sujungiančią tris skelbimų pramonės ikonas, kad palaikytume jų mėgstamas vietines įmones. Jų misija yra sukurti pertrauką…",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-05-09-07-suzinokite-kas-atsitinka-kai-kurybines-legendos-naudoja-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiandien pristatome „The Small Brief“ – iniciatyvą, sujungiančią tris skelbimų pramonės ikonas, kad palaikytume jų mėgstamas vietines įmones.",
+            "Jų misija yra sukurti pertrauką….",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260507-1819",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260507-1819"
+          }
+        },
+        {
+          "title": "„RingCentral“ prie AI registratūros prideda „Shopify“, „Calendly“ ir „WhatsApp“.",
+          "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+          "published_iso": "2026-05-08T14:54:00Z",
+          "published_lt": "2026-05-08 14:54 UTC",
+          "summary": "„RingCentral“ išplėtė savo AI registratūros produktą įtraukdama naujas nuorodas į „Shopify“, „Calendly“ ir „WhatsApp“, nes ryšių programinės įrangos įmonė bando išplėsti gaminį ne tik atsiliepti į skambučius, bet ir atlikti įprastesnes klientų aptarnavimo užduotis.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-09-08-ringcentral-prie-ai-registraturos-prideda-shopify-calend.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„RingCentral“ išplėtė savo AI registratūros produktą įtraukdama naujas nuorodas į „Shopify“, „Calendly“ ir „WhatsApp“, nes ryšių programinės įrangos įmonė bando išplėsti gaminį ne tik atsiliepti į skambučius, bet ir atlikti įprastesnes klientų aptarnavimo užduotis.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Bendrovė teigė, kad dirbtinio intelekto administratorius, žinomas kaip AIR, dabar gali tvarkyti kai kurias užsakymų užklausas per Shopify, susitarti dėl susitikimų per Calendly ir atsakyti į gaunamus WhatsApp pranešimus.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+            "try_url": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/"
+          }
+        },
+        {
+          "title": "„Anthropic“ pristato natūralios kalbos automatinius koduotuvus, kurie Claude'o vidinius aktyvavimus paverčia tiesiai į žmogaus skaitomus teksto paaiškinimus",
+          "link": "https://www.marktechpost.com/2026/05/08/anthropic-introduces-natural-language-autoencoders-that-convert-claudes-internal-activations-directly-into-human-readable-text-explanations/",
+          "published_iso": "2026-05-08T07:45:09Z",
+          "published_lt": "2026-05-08 07:45 UTC",
+          "summary": "Kai įvedate pranešimą Claude'ui, viduryje nutinka kažkas nematomo. Jūsų siunčiami žodžiai konvertuojami į ilgus skaičių sąrašus, vadinamus aktyvinimais, kuriuos modelis naudoja kontekstui apdoroti ir atsakymui generuoti. Tiesą sakant, šie aktyvavimai yra ten, kur gyvena modelio „mąstymas“.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-08-at-12.38.29-AM-150x150.png",
+          "image_url": "generated-images/2026-05-09-09-anthropic-pristato-naturalios-kalbos-automatinius-koduot.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kai įvedate pranešimą Claude'ui, viduryje nutinka kažkas nematomo.",
+            "Jūsų siunčiami žodžiai konvertuojami į ilgus skaičių sąrašus, vadinamus aktyvinimais, kuriuos modelis naudoja kontekstui apdoroti ir atsakymui generuoti.",
+            "Tiesą sakant, šie aktyvavimai yra ten, kur gyvena modelio „mąstymas“.",
+            "Kaina: Yra nemokamas ir mokamas variantas."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„OpenAI“ išleidžia tris realiojo laiko garso modelius: GPT-Realtime-2, GPT-Realtime-Translate ir GPT-Realtime-Whisper Realtime API",
+          "link": "https://www.marktechpost.com/2026/05/08/openai-releases-three-realtime-audio-models-gpt-realtime-2-gpt-realtime-translate-and-gpt-realtime-whisper-in-the-realtime-api/",
+          "published_iso": "2026-05-08T07:05:36Z",
+          "published_lt": "2026-05-08 07:05 UTC",
+          "summary": "Trys specialiai sukurti garso modeliai išplečia tai, ką kūrėjai gali sukurti naudodami tiesioginį balsą: samprotavimo priemones, kalbos vertimą į daugiau nei 70 kalbų ir transliacijos transkripciją.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-09-10-openai-isleidzia-tris-realiojo-laiko-garso-modelius-gpt-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Trys specialiai sukurti garso modeliai išplečia tai, ką kūrėjai gali sukurti naudodami tiesioginį balsą: samprotavimo priemones, kalbos vertimą į daugiau nei 70 kalbų ir transliacijos transkripciją.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "GPT-Realtime-2 gali apdoroti sudėtingesnes užklausas, valdyti trikdžius ir natūraliai tęsti pokalbius.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/08/openai-releases-three-realtime-audio-models-gpt-realtime-2-gpt-realtime-translate-and-gpt-realtime-whisper-in-the-realtime-api/",
+            "try_url": "https://www.marktechpost.com/2026/05/08/openai-releases-three-realtime-audio-models-gpt-realtime-2-gpt-realtime-translate-and-gpt-realtime-whisper-in-the-realtime-api/"
+          }
+        },
+        {
+          "title": "Sukurkite „CloakBrowser“ automatizavimo darbo eigą naudodami „Stealth Chromium“, nuolatinius profilius ir naršyklės signalo patikrą",
+          "link": "https://www.marktechpost.com/2026/05/07/build-a-cloakbrowser-automation-workflow-with-stealth-chromium-persistent-profiles-and-browser-signal-inspection/",
+          "published_iso": "2026-05-08T00:14:49Z",
+          "published_lt": "2026-05-08 00:14 UTC",
+          "summary": "Šioje mokymo programoje tyrinėjame „CloakBrowser“ – „Python“ draugišką naršyklės automatizavimo įrankį, kuris naudoja „Playwright“ stiliaus API slaptoje „Chromium“ aplinkoje.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-09-11-sukurkite-cloakbrowser-automatizavimo-darbo-eiga-naudoda.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje tyrinėjame „CloakBrowser“ – „Python“ draugišką naršyklės automatizavimo įrankį, kuris naudoja „Playwright“ stiliaus API slaptoje „Chromium“ aplinkoje.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://github.com/CloakHQ/CloakBrowser",
+            "try_url": "https://github.com/CloakHQ/CloakBrowser"
+          }
+        },
+        {
+          "title": "„LightSeek Foundation“ išleidžia „TokenSpeed“ – atvirojo kodo LLM išvadų modulį, skirtą „TensorRT-LLM“ lygio našumui agentų darbo krūviams",
+          "link": "https://www.marktechpost.com/2026/05/07/lightseek-foundation-releases-tokenspeed-an-open-source-llm-inference-engine-targeting-tensorrt-llm-level-performance-for-agentic-workloads/",
+          "published_iso": "2026-05-07T22:03:47Z",
+          "published_lt": "2026-05-07 22:03 UTC",
+          "summary": "Išvadų efektyvumas tyliai tapo viena iš labiausiai pasekmių DI diegimo kliūčių.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-3.03.21-PM-1-150x150.png",
+          "image_url": "generated-images/2026-05-09-12-lightseek-foundation-isleidzia-tokenspeed-atvirojo-kodo-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Išvadų efektyvumas tyliai tapo viena iš labiausiai pasekmių DI diegimo kliūčių.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "„LightSeek Foundation“ išleido „TokenSpeed“ – atvirojo kodo LLM išvadų modulį, taikomą TensorRT-LLM lygio našumui, skirtą agentų darbo krūviams Naujienų centro naujienų centro aukščiausios kokybės turinys Skaitykite i...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/07/lightseek-foundation-releases-tokenspeed-an-open-source-llm-inference-engine-targeting-tensorrt-llm-level-performance-for-agentic-workloads/",
+            "try_url": "https://www.marktechpost.com/2026/05/07/lightseek-foundation-releases-tokenspeed-an-open-source-llm-inference-engine-targeting-tensorrt-llm-level-performance-for-agentic-workloads/"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-05-08",
       "generated_at_utc": "2026-05-08T08:18:29Z",
