@@ -1,23 +1,220 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-05-10",
-  "generated_at_utc": "2026-05-10T08:48:53Z",
+  "digest_date": "2026-05-11",
+  "generated_at_utc": "2026-05-11T10:31:50Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Bain mato 100 milijardų JAV dolerių SaaS rinką agentinio AI automatizavimo srityje",
+      "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+      "published_iso": "2026-05-11T10:00:00Z",
+      "published_lt": "2026-05-11 10:00 UTC",
+      "summary": "„Bain & Company“ apskaičiavo, kad „SaaS“ įmonių, naudojančių agentinį AI, rinka JAV sudaro 100 milijardų JAV dolerių. Įmonė teigė, kad rinka yra susieta su įmonių sistemų koordinavimo darbo automatizavimu. Apskaičiavimas gautas iš antrosios Baino penkių dalių serijos ataskaitos apie programinės įrangos pramonę AI amžiuje.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-05-11-01-bain-mato-100-milijardu-jav-doleriu-saas-rinka-agentinio.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Bain & Company“ apskaičiavo, kad „SaaS“ įmonių, naudojančių agentinį AI, rinka JAV sudaro 100 milijardų JAV dolerių.",
+        "Įmonė teigė, kad rinka yra susieta su įmonių sistemų koordinavimo darbo automatizavimu.",
+        "Apskaičiavimas gautas iš antrosios Baino penkių dalių serijos ataskaitos apie programinės įrangos pramonę AI amžiuje.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "$100",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Tai taip pat gali apimti nestruktūrizuotų pranešimų interpretavimą ir sprendimą, ar patvirtinti, atsakyti, eskaluoti ar palaukti.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.7",
+        "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.7"
+      }
+    },
+    {
+      "title": "„Sakana AI“ ir „NVIDIA“ pristato „TwELL“ su CUDA branduoliais, kad būtų galima daryti 20,5 % išvadas ir pagreitinti mokymą 21,9 % LLM",
+      "link": "https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/",
+      "published_iso": "2026-05-11T08:36:00Z",
+      "published_lt": "2026-05-11 08:36 UTC",
+      "summary": "„Sakana AI“ ir „NVIDIA“ tyrėjai įrodo, kad paprastas L1 reguliavimas gali sukelti daugiau nei 99 % retumą nukreipiamuosiuose sluoksniuose ir nereikšmingą poveikį pasroviui, ir paversti šį retumą realiu GPU pralaidumo padidėjimu, naudojant naujus negausius duomenų formatus ir sujungtus CUDA branduolius.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-11-at-1.25.44-AM-150x150.png",
+      "image_url": "generated-images/2026-05-11-02-sakana-ai-ir-nvidia-pristato-twell-su-cuda-branduoliais-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Sakana AI“ ir „NVIDIA“ tyrėjai įrodo, kad paprastas L1 reguliavimas gali sukelti daugiau nei 99 % retumą nukreipiamuosiuose sluoksniuose ir nereikšmingą poveikį pasroviui, ir paversti šį retumą realiu GPU pralaidumo padidėjimu, naudojant naujus negausius duomenų formatus ir sujungtus CUDA branduolius.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Vietoj to, tyrimo grupė taikosi į skaičiavimais susietas GEMM operacijas paketiniu režimu su tūkstančiais įvesties žetonų, kur tankios bazinės linijos šiuolaikiniuose įrenginiuose gali atlikti daug didesnių FLOP/s su...",
+        "lokalus_reikalavimai": "Aptikta: CUDA, NVIDIA GPU",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/",
+        "try_url": "https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/"
+      }
+    },
+    {
+      "title": "Kodavimo diegimas, skirtas sukurti agento savosios atminties infrastruktūrą su „Memori“, skirtą nuolatinėms kelių vartotojų ir kelių seansų LLM programoms",
+      "link": "https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/",
+      "published_iso": "2026-05-11T07:34:38Z",
+      "published_lt": "2026-05-11 07:34 UTC",
+      "summary": "Šiame vadove mes įgyvendiname, kaip „Memori“ veikia kaip agento savosios atminties infrastruktūros sluoksnis, skirtas kurti patvaresnes, kontekstą žinančias LLM programas.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-05-11-03-kodavimo-diegimas-skirtas-sukurti-agento-savosios-atmint.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šiame vadove mes įgyvendiname, kaip „Memori“ veikia kaip agento savosios atminties infrastruktūros sluoksnis, skirtas kurti patvaresnes, kontekstą žinančias LLM programas.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "importo subprocesas, sys def _pip(*pkgs): subprocess.check_call([sys.executable, \"-m\", \"pip\", \"install\", \"-q\", *pkgs]) _pip(\"memori>=3.3.0\", \"openai>=1.40.0\", \"nest_asynciopasu\" nest_asyncio; nest_asyncio.apply() jei...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/",
+        "try_url": "https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/"
+      }
+    },
+    {
+      "title": "Naujasis AI pagrįstas „Google Finance“ plečiasi į Europą.",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+      "published_iso": "2026-05-11T06:00:00Z",
+      "published_lt": "2026-05-11 06:00 UTC",
+      "summary": "Šią savaitę visoje Europoje pristatomas naujas, dirbtiniu intelektu paremtas „Google Finance“ su visišku vietinės kalbos palaikymu. Ši pergalvota patirtis siūlo galingų galimybių rinkinį…",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-05-11-04-naujasis-ai-pagristas-google-finance-pleciasi-i-europa.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šią savaitę visoje Europoje pristatomas naujas, dirbtiniu intelektu paremtas „Google Finance“ su visišku vietinės kalbos palaikymu.",
+        "Ši pergalvota patirtis siūlo galingų galimybių rinkinį….",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260507-1819",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260507-1819"
+      }
+    },
+    {
+      "title": "Geriausios 2026 m. vektorinės duomenų bazės: kainodara, masto ribos ir architektūros kompromisai devyniose pirmaujančiose sistemose",
+      "link": "https://www.marktechpost.com/2026/05/10/best-vector-databases-in-2026-pricing-scale-limits-and-architecture-tradeoffs-across-nine-leading-systems/",
+      "published_iso": "2026-05-10T23:56:45Z",
+      "published_lt": "2026-05-10 23:56 UTC",
+      "summary": "Vektorinės duomenų bazės dabar yra pagrindinė RAG ir agentinio AI paieškos infrastruktūra. Šiame vadove palyginamos devynios architektūros, kainodaros ir masto gamybos galimybės. Įrašas „Geriausios 2026 m. vektorinės duomenų bazės: kainodara, masto ribos ir architektūros kompromisai devyniose pirmaujančiose sistemose“ pirmą kartą pasirodė „MarkTechPost“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-05-11-05-geriausios-2026-m-vektorines-duomenu-bazes-kainodara-mas.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Vektorinės duomenų bazės dabar yra pagrindinė RAG ir agentinio AI paieškos infrastruktūra.",
+        "Šiame vadove palyginamos devynios architektūros, kainodaros ir masto gamybos galimybės.",
+        "Įrašas „Geriausios 2026 m.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$20/mo",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Palyginkite devynias vektorines duomenų bazes 2026 m. – Pinecone, Qdrant, Weaviate, MongoDB, Milvus, pgvector, Chroma, LanceDB ir Faiss – su patikrintomis kainomis. Šaltinis / svoriai AI agentai Mokymai Balso AI Robot...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/10/best-vector-databases-in-2026-pricing-scale-limits-and-architecture-tradeoffs-across-nine-leading-systems/",
+        "try_url": "https://www.marktechpost.com/2026/05/10/best-vector-databases-in-2026-pricing-scale-limits-and-architecture-tradeoffs-across-nine-leading-systems/"
+      }
+    },
+    {
+      "title": "„OpenClaw vs Hermes Agent“: Kodėl „Nous Research“ savęs tobulinimo agentas dabar pirmauja „OpenRouter“ pasauliniame reitinge",
+      "link": "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/",
+      "published_iso": "2026-05-10T16:20:53Z",
+      "published_lt": "2026-05-10 16:20 UTC",
+      "summary": "2026 m. gegužės 10 d. Hermes Agent, atvirojo kodo save tobulinanti dirbtinio intelekto agentas iš Nous Research, aplenkė OpenClaw ir užėmė pirmąją vietą pasauliniame OpenRouter kasdieniniame žetonų reitinge – sugeneravo 224 milijardus kasdienių žetonų, palyginti su OpenClaw 186 milijardais.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-05-11-06-openclaw-vs-hermes-agent-kodel-nous-research-saves-tobul.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "2026 m.",
+        "gegužės 10 d.",
+        "Hermes Agent, atvirojo kodo save tobulinanti dirbtinio intelekto agentas iš Nous Research, aplenkė OpenClaw ir užėmė pirmąją vietą pasauliniame OpenRouter kasdieniniame žetonų reitinge – sugeneravo 224 milijardus kasdienių žetonų, palyginti su OpenClaw 186 milijardais.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "„Nous Research“ Hermes Agent užima pirmąją vietą „OpenRouter“ kasdieniniame pasauliniame reitinge, aplenkdamas „OpenClaw“ su 224 mlrd. dienos žetonų.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://openrouter.ai/apps",
+        "try_url": "https://openrouter.ai/apps"
+      }
+    },
+    {
+      "title": "Kaip sukurti ekonomišką LLM maršruto parinkimo sistemą naudojant „NadirClaw“, naudojant vietinę greitą klasifikaciją ir „Gemini“ modelio perjungimą",
+      "link": "https://www.marktechpost.com/2026/05/10/how-to-build-a-cost-aware-llm-routing-system-with-nadirclaw-using-local-prompt-classification-and-gemini-model-switching/",
+      "published_iso": "2026-05-10T15:18:43Z",
+      "published_lt": "2026-05-10 15:18 UTC",
+      "summary": "Šioje mokymo programoje mes tyrinėjame „NadirClaw“ kaip išmanųjį maršruto parinkimo sluoksnį, kuris suskirsto raginimus į paprastus ir sudėtingus lygius prieš siunčiant juos į tinkamiausią modelį.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-05-11-07-kaip-sukurti-ekonomiska-llm-marsruto-parinkimo-sistema-n.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje mes tyrinėjame „NadirClaw“ kaip išmanųjį maršruto parinkimo sluoksnį, kuris suskirsto raginimus į paprastus ir sudėtingus lygius prieš siunčiant juos į tinkamiausią modelį.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Supratę vietinę maršruto parinkimo logiką, pereiname prie tiesioginio maršruto parinkimo paleidžiant „NadirClaw“ tarpinį serverį, per jį siunčiant su „OpenAI“ suderinamas užklausas, lyginant nukreipto modelio elgseną...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/10/how-to-build-a-cost-aware-llm-routing-system-with-nadirclaw-using-local-prompt-classification-and-gemini-model-switching/",
+        "try_url": "https://www.marktechpost.com/2026/05/10/how-to-build-a-cost-aware-llm-routing-system-with-nadirclaw-using-local-prompt-classification-and-gemini-model-switching/"
+      }
+    },
     {
       "title": "NVIDIA AI ką tik išleistas cuda oksidas: eksperimentinė „Rust-to-CUDA“ kompiliatoriaus programa, kuri kompiliuoja SIMT GPU branduolius tiesiai į PTX",
       "link": "https://www.marktechpost.com/2026/05/09/nvidia-ai-just-released-cuda-oxide-an-experimental-rust-to-cuda-compiler-backend-that-compiles-simt-gpu-kernels-directly-to-ptx/",
       "published_iso": "2026-05-10T06:01:13Z",
       "published_lt": "2026-05-10 06:01 UTC",
-      "summary": "NVlabs išleidžia cuda-oxide v0.1.0, tinkintą rustc kodavimo sistemą, kuri sukompiliuoja #[branduolio] anotuotas Rust funkcijas į PTX per Rust → Stabilus MIR → Pliron IR → LLVM IR → PTX dujotiekį su vieno šaltinio pagrindinio kompiuterio ir įrenginio kompiliavimu iš vienos krovinio oksido kūrimo komandos.",
+      "summary": "NVlabs išleidžia cuda-oxide v0.1.0, tinkintą rustc kodavimo sistemą, kuri sukompiliuoja #[branduolio] anotuotas Rust funkcijas į PTX per Rust → Stable MIR → Pliron IR → LLVM IR → PTX dujotiekį su vieno šaltinio pagrindinio kompiuterio ir įrenginio kompiliavimu iš vienos krovinio oksido kūrimo komandos.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-05-10-01-nvidia-ai-ka-tik-isleistas-cuda-oksidas-eksperimentine-r.svg",
+      "image_url": "generated-images/2026-05-11-08-nvidia-ai-ka-tik-isleistas-cuda-oksidas-eksperimentine-r.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "NVlabs išleidžia cuda-oxide v0.1.0, tinkintą rustc kodavimo sistemą, kuri sukompiliuoja #[branduolio] anotuotas Rust funkcijas į PTX per Rust → Stabilus MIR → Pliron IR → LLVM IR → PTX dujotiekį su vieno šaltinio pagrindinio kompiuterio ir įrenginio kompiliavimu iš vienos krovinio oksido kūrimo komandos.",
+        "NVlabs išleidžia cuda-oxide v0.1.0, tinkintą rustc kodavimo sistemą, kuri sukompiliuoja #[branduolio] anotuotas Rust funkcijas į PTX per Rust → Stable MIR → Pliron IR → LLVM IR → PTX dujotiekį su vieno šaltinio pagrindinio kompiuterio ir įrenginio kompiliavimu iš vienos krovinio oksido kūrimo komandos.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
         "Veikimo budas: Veikia tiek online, tiek lokaliai.",
         "Prieinamumas: Panasu, kad jau galima bandyti."
@@ -41,7 +238,7 @@
       "summary": "DIDELĖS AI NAUJIENOS: HiDream-O1 Image, Bach 1.0, Zaya1, LabOS, PhysForge ir daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Luma.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/quxnhOeRz7I/hqdefault.jpg",
-      "image_url": "generated-images/2026-05-10-02-savaime-besivystantis-ai-robotu-kovos-naujas-gpt-balsas-.svg",
+      "image_url": "generated-images/2026-05-11-09-savaime-besivystantis-ai-robotu-kovos-naujas-gpt-balsas-.svg",
       "kind": "video",
       "video_id": "quxnhOeRz7I",
       "bullets_lt": [
@@ -66,7 +263,7 @@
       "summary": "Šiame vadove tyrinėjame, kaip FLARE-FLOSS padeda atkurti paslėptas ir užmaskuotas eilutes iš Windows PE failo. Pradedame nuo FLOSS ir MinGW-w64 kryžminio kompiliatoriaus nustatymo.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-05-10-03-kodavimo-igyvendinimas-skirtas-atkurti-pasleptus-kenkeji.svg",
+      "image_url": "generated-images/2026-05-11-10-kodavimo-igyvendinimas-skirtas-atkurti-pasleptus-kenkeji.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -94,7 +291,7 @@
       "summary": "NVIDIA mokslininkai pristatė Star Elastic – metodą po treniruotės, kuris įterpia kelis įdėtus samprotavimo modelius – 30B, 23B ir 12B parametrų skalėse – viename patikros taške, todėl nebereikia atskirų treniruočių ar išsaugoti modelio svorio kiekvienam variantui.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-3.20.16-PM-1-150x150.png",
-      "image_url": "generated-images/2026-05-10-04-nvidia-ai-isleido-star-elastic-vienas-kontrolinis-taskas.svg",
+      "image_url": "generated-images/2026-05-11-11-nvidia-ai-isleido-star-elastic-vienas-kontrolinis-taskas.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -113,122 +310,14 @@
       }
     },
     {
-      "title": "9 geriausi dirbtinio intelekto įrankiai, skirti specifikacijomis pagrįstam vystymuisi 2026 m.: Kiro, BMAD, GSD ir kt.",
-      "link": "https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/",
-      "published_iso": "2026-05-09T06:01:32Z",
-      "published_lt": "2026-05-09 06:01 UTC",
-      "summary": "Vibe kodavimas leidžia jums sukurti prototipą. Specifikacijomis pagrįstas kūrimas leidžia jums pradėti gaminti.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-05-10-05-9-geriausi-dirbtinio-intelekto-irankiai-skirti-specifika.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Vibe kodavimas leidžia jums sukurti prototipą.",
-        "Specifikacijomis pagrįstas kūrimas leidžia jums pradėti gaminti.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/",
-        "try_url": "https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/"
-      }
-    },
-    {
-      "title": "Susipažinkite su „GitHub Spec-Kit“: atvirojo kodo įrankių rinkinys, skirtas specifikacijomis pagrįstam kūrimui su AI kodavimo agentais",
-      "link": "https://www.marktechpost.com/2026/05/08/meet-github-spec-kit-an-open-source-toolkit-for-spec-driven-development-with-ai-coding-agents/",
-      "published_iso": "2026-05-09T03:59:56Z",
-      "published_lt": "2026-05-09 03:59 UTC",
-      "summary": "Jei praleidote laiką naudodamiesi AI kodavimo agentais – „GitHub Copilot“, „Claude Code“, „Gemini CLI“ – tikriausiai susidūrėte su tokia situacija: aprašote tai, ko norite, agentas sugeneruoja kodo bloką, kuris atrodo teisingai, sukompiliuoja ir tada subtiliai praleidžia tikrąjį tikslą.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-05-10-06-susipazinkite-su-github-spec-kit-atvirojo-kodo-irankiu-r.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Jei praleidote laiką naudodamiesi AI kodavimo agentais – „GitHub Copilot“, „Claude Code“, „Gemini CLI“ – tikriausiai susidūrėte su tokia situacija: aprašote tai, ko norite, agentas sugeneruoja kodo bloką, kuris atrodo teisingai, sukompiliuoja ir tada subtiliai praleidžia tikrąjį tikslą.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„OpenAI“ prideda „Chrome“ plėtinį prie „Codex“, leisdamas savo AI agentui pasiekti „LinkedIn“, „Salesforce“, „Gmail“ ir vidinius įrankius per prisijungimo sesijas",
-      "link": "https://www.marktechpost.com/2026/05/08/openai-adds-chrome-extension-to-codex-letting-its-ai-agent-access-linkedin-salesforce-gmail-and-internal-tools-via-signed-in-sessions/",
-      "published_iso": "2026-05-08T22:22:41Z",
-      "published_lt": "2026-05-08 22:22 UTC",
-      "summary": "„OpenAI“ pristatė „Chrome“ plėtinį, skirtą „Codex“, jo AI kodavimo agentui, leidžiantį atlikti naršyklės užduotis tiesiogiai „Google Chrome“ sistemoje „MacOS“ ir „Windows“, įskaitant sąveiką su prisijungtomis svetainėmis, „Chrome DevTools“ naudojimą ir kelių etapų darbo eigą naršyklės skirtukuose.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-05-10-07-openai-prideda-chrome-pletini-prie-codex-leisdamas-savo-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„OpenAI“ pristatė „Chrome“ plėtinį, skirtą „Codex“, jo AI kodavimo agentui, leidžiantį atlikti naršyklės užduotis tiesiogiai „Google Chrome“ sistemoje „MacOS“ ir „Windows“, įskaitant sąveiką su prisijungtomis svetainėmis, „Chrome DevTools“ naudojimą ir kelių etapų darbo eigą naršyklės skirtukuose.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Kaip sukurti vienos ląstelės RNR-seq analizės vamzdyną su Scanpy PBMC klasterizavimui, anotacijai ir trajektorijos atradimui",
-      "link": "https://www.marktechpost.com/2026/05/08/how-to-build-a-single-cell-rna-seq-analysis-pipeline-with-scanpy-for-pbmc-clustering-annotation-and-trajectory-discovery/",
-      "published_iso": "2026-05-08T21:32:12Z",
-      "published_lt": "2026-05-08 21:32 UTC",
-      "summary": "Šioje pamokoje mes atliekame išplėstinę vienos ląstelės RNR-seq analizės darbo eigą naudodami Scanpy PBMC-3k etaloniniame duomenų rinkinyje. Pradedame įkeldami duomenų rinkinį, apžiūrėdami jo struktūrą ir taikydami kokybės kontrolės patikras, kad įvertintume genų skaičių, bendrą skaičių, mitochondrijų turinį ir ribosomų genų signalus.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-05-10-08-kaip-sukurti-vienos-lasteles-rnr-seq-analizes-vamzdyna-s.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje pamokoje mes atliekame išplėstinę vienos ląstelės RNR-seq analizės darbo eigą naudodami Scanpy PBMC-3k etaloniniame duomenų rinkinyje.",
-        "Pradedame įkeldami duomenų rinkinį, apžiūrėdami jo struktūrą ir taikydami kokybės kontrolės patikras, kad įvertintume genų skaičių, bendrą skaičių, mitochondrijų turinį ir ribosomų genų signalus.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„OpenAI“ GPT 5.5 Instant: geri, blogi ir beprotiški",
+      "title": "„OpenAI“ „ChatGPT 5.5 Instant“: geri, blogi ir beprotiški",
       "link": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
       "published_iso": "2026-05-08T16:46:30Z",
       "published_lt": "2026-05-08 16:46 UTC",
       "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 GPT 5.5 Instant: https://deploymentsafety.openai.com/gpt-5-5-instant/introduction https://openai.com/index/gpt-5-5-instant/ Classifiers paper:/ https://arxiv.org/pdf/2501.18837 Mūsų Patreonas, jei norite mus paremti: https://www.patreon.",
       "source": "Two Minute Papers",
       "source_image_url": "https://i1.ytimg.com/vi/4nQnhjimB4Y/hqdefault.jpg",
-      "image_url": "generated-images/2026-05-10-09-openai-gpt-5-5-instant-geri-blogi-ir-beprotiski.svg",
+      "image_url": "generated-images/2026-05-11-12-openai-chatgpt-5-5-instant-geri-blogi-ir-beprotiski.svg",
       "kind": "video",
       "video_id": "4nQnhjimB4Y",
       "bullets_lt": [
@@ -244,86 +333,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=4nQnhjimB4Y",
         "try_url": "https://www.youtube.com/watch?v=4nQnhjimB4Y"
-      }
-    },
-    {
-      "title": "„Codex“ dabar gali naudoti „Chrome“ tiesiogiai „MacOS“ ir „Windows“.",
-      "link": "https://www.youtube.com/watch?v=b6Mxcv1pyBU",
-      "published_iso": "2026-05-08T16:25:50Z",
-      "published_lt": "2026-05-08 16:25 UTC",
-      "summary": "„Codex“ dabar dar geriau dirba su programomis ir svetainėmis „Chrome“ ir dabar gali dirbti lygiagrečiai skirtukuose fone, neperimdamas naršyklės. Norėdami pradėti naudoti „MacOS“ ir „Windows“, „Codex“ programoje įdiekite „Chrome“ papildinį.",
-      "source": "OpenAI",
-      "source_image_url": "https://i3.ytimg.com/vi/b6Mxcv1pyBU/hqdefault.jpg",
-      "image_url": "generated-images/2026-05-10-10-codex-dabar-gali-naudoti-chrome-tiesiogiai-macos-ir-wind.svg",
-      "kind": "video",
-      "video_id": "b6Mxcv1pyBU",
-      "bullets_lt": [
-        "„Codex“ dabar dar geriau dirba su programomis ir svetainėmis „Chrome“ ir dabar gali dirbti lygiagrečiai skirtukuose fone, neperimdamas naršyklės.",
-        "Norėdami pradėti naudoti „MacOS“ ir „Windows“, „Codex“ programoje įdiekite „Chrome“ papildinį.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=b6Mxcv1pyBU",
-        "try_url": "https://www.youtube.com/watch?v=b6Mxcv1pyBU"
-      }
-    },
-    {
-      "title": "Sužinokite, kas atsitinka, kai kūrybinės legendos naudoja dirbtinį intelektą kurdamos reklamas mažoms įmonėms.",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "published_iso": "2026-05-08T15:00:00Z",
-      "published_lt": "2026-05-08 15:00 UTC",
-      "summary": "Šiandien pristatome „The Small Brief“ – iniciatyvą, sujungiančią tris skelbimų pramonės ikonas, kad palaikytume jų mėgstamas vietines įmones. Jų misija yra sukurti pertrauką…",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-05-10-11-suzinokite-kas-atsitinka-kai-kurybines-legendos-naudoja-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šiandien pristatome „The Small Brief“ – iniciatyvą, sujungiančią tris skelbimų pramonės ikonas, kad palaikytume jų mėgstamas vietines įmones.",
-        "Jų misija yra sukurti pertrauką….",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260507-1819",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260507-1819"
-      }
-    },
-    {
-      "title": "„RingCentral“ prie AI registratūros prideda „Shopify“, „Calendly“ ir „WhatsApp“.",
-      "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-      "published_iso": "2026-05-08T14:54:00Z",
-      "published_lt": "2026-05-08 14:54 UTC",
-      "summary": "„RingCentral“ išplėtė savo AI registratūros produktą įtraukdama naujas nuorodas į „Shopify“, „Calendly“ ir „WhatsApp“, nes ryšių programinės įrangos įmonė bando išplėsti gaminį ne tik atsiliepti į skambučius, bet ir atlikti įprastesnes klientų aptarnavimo užduotis.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-05-10-12-ringcentral-prie-ai-registraturos-prideda-shopify-calend.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„RingCentral“ išplėtė savo AI registratūros produktą įtraukdama naujas nuorodas į „Shopify“, „Calendly“ ir „WhatsApp“, nes ryšių programinės įrangos įmonė bando išplėsti gaminį ne tik atsiliepti į skambučius, bet ir atlikti įprastesnes klientų aptarnavimo užduotis.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Bendrovė teigė, kad dirbtinio intelekto administratorius, žinomas kaip AIR, dabar gali tvarkyti kai kurias užsakymų užklausas per Shopify, susitarti dėl susitikimų per Calendly ir atsakyti į gaunamus WhatsApp pranešimus.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-        "try_url": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/"
       }
     }
   ]
