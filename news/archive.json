@@ -1,7 +1,343 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-05-24T09:16:48Z",
+  "updated_at_utc": "2026-05-25T11:05:37Z",
   "digests": [
+    {
+      "digest_date": "2026-05-25",
+      "generated_at_utc": "2026-05-25T11:05:37Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "Geriausios AI agentų ir MCP serverių autentifikavimo platformos 2026 m",
+          "link": "https://www.marktechpost.com/2026/05/25/best-authentication-platforms-for-ai-agents-and-mcp-servers-in-2026/",
+          "published_iso": "2026-05-25T10:34:02Z",
+          "published_lt": "2026-05-25 10:34 UTC",
+          "summary": "Kadangi MCP per mėnesį atsisiunčia 97 milijonus SDK, o dirbtinio intelekto agentai pereina į gamybos darbo eigą, autentifikavimas tapo svarbiausiu sprendimu, su kuriuo susiduria infrastruktūros sprendimų komandos.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-25-01-geriausios-ai-agentu-ir-mcp-serveriu-autentifikavimo-pla.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kadangi MCP per mėnesį atsisiunčia 97 milijonus SDK, o dirbtinio intelekto agentai pereina į gamybos darbo eigą, autentifikavimas tapo svarbiausiu sprendimu, su kuriuo susiduria infrastruktūros sprendimų komandos.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "WorkOS išleidžia auth.md: atviro agento registracijos protokolą, sukurtą remiantis OAuth standartais",
+          "link": "https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/",
+          "published_iso": "2026-05-25T07:38:15Z",
+          "published_lt": "2026-05-25 07:38 UTC",
+          "summary": "Dauguma žiniatinklio programų vis dar neturi struktūrinio būdo AI agentui užsiregistruoti. auth.md siūlo pataisymą: Markdown failo programos paskelbia savo domene, pranešančios agentams, kurie registracijos srautai yra palaikomi, kokios apimties pateikti užklausą ir kaip susieti kredencialus su tikru vartotoju – žmogui nepildant formos.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-25-02-workos-isleidzia-auth-md-atviro-agento-registracijos-pro.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Dauguma žiniatinklio programų vis dar neturi struktūrinio būdo AI agentui užsiregistruoti.",
+            "auth.md siūlo pataisymą: Markdown failo programos paskelbia savo domene, pranešančios agentams, kurie registracijos srautai yra palaikomi, kokios apimties pateikti užklausą ir kaip susieti kredencialus su tikru vartotoju – žmogui nepildant formos.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Agentai jau rašo kodą, atidaro ištraukimo užklausas, nustato bilietus, teikia užklausas sistemoms ir atnaujina įrašus.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Sukurkite visą „Langfuse“ stebėjimo ir vertinimo vamzdyną, skirtą sekimui, greitam valdymui, balams ir eksperimentams",
+          "link": "https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeline-for-tracing-prompt-management-scoring-and-experiments/",
+          "published_iso": "2026-05-24T23:03:09Z",
+          "published_lt": "2026-05-24 23:03 UTC",
+          "summary": "Šioje mokymo programoje įdiegiame „Langfuse“ (atvirojo kodo LLM inžinerijos platforma) vamzdyną, skirtą sekti, greitai valdyti, vertinti balus, duomenų rinkinius ir eksperimentus.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-25-03-sukurkite-visa-langfuse-stebejimo-ir-vertinimo-vamzdyna-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje įdiegiame „Langfuse“ (atvirojo kodo LLM inžinerijos platforma) vamzdyną, skirtą sekti, greitai valdyti, vertinti balus, duomenų rinkinius ir eksperimentus.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Pateikite OpenAI raktą tikroms kartoms.\" def llm_chat(pranešimai, *, modelis=DEFAULT_MODEL, temperatūra=0.3, name=Nėra, langfuse_prompt=Nėra) -> str: \"\"\"Grąžinti pagalbinį tekstą; skambutis atsekamas kaip „Langfuse“ k...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Evaluation/Langfuse_Observability_Evaluation_Tutorial_Marktechpost.ipynb",
+            "try_url": "https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Evaluation/Langfuse_Observability_Evaluation_Tutorial_Marktechpost.ipynb"
+          }
+        },
+        {
+          "title": "„StepFun“ išleido „StepAudio 2.5 Realtime“: balso modelis nuo galo iki galo su vaidmenų žaidimui būdingu RLHF ir paralingvistiniu supratimu",
+          "link": "https://www.marktechpost.com/2026/05/24/stepfun-releases-stepaudio-2-5-realtime-an-end-to-end-voice-model-with-roleplay-specific-rlhf-and-paralinguistic-comprehension/",
+          "published_iso": "2026-05-24T22:51:05Z",
+          "published_lt": "2026-05-24 22:51 UTC",
+          "summary": "Šanchajuje įsikūrusi AI laboratorija StepFun 2026 m. gegužę išleido StepAudio 2.5 Realtime – visapusišką realiojo laiko kalbos didelės kalbos modelį su visiškai pritaikomomis asmens galimybėmis.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-24-at-3.50.40-PM-1-150x150.png",
+          "image_url": "generated-images/2026-05-25-04-stepfun-isleido-stepaudio-2-5-realtime-balso-modelis-nuo.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šanchajuje įsikūrusi AI laboratorija StepFun 2026 m.",
+            "gegužę išleido StepAudio 2.5 Realtime – visapusišką realiojo laiko kalbos didelės kalbos modelį su visiškai pritaikomomis asmens galimybėmis.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.stepfun.com/studio/audio?tab=voice-chat",
+            "try_url": "https://www.stepfun.com/studio/audio?tab=voice-chat"
+          }
+        },
+        {
+          "title": "„Microsoft Research“ išleido „Webwright“: „Terminal-native“ žiniatinklio agentų sistemą, kuri „Odysseys“ surinko 60,1 proc., palyginti su „Base GPT-5.4“ 33,5 proc.",
+          "link": "https://www.marktechpost.com/2026/05/24/microsoft-research-releases-webwright-a-terminal-native-web-agent-framework-that-scores-60-1-on-odysseys-up-from-base-gpt-5-4s-33-5/",
+          "published_iso": "2026-05-24T08:56:19Z",
+          "published_lt": "2026-05-24 08:56 UTC",
+          "summary": "„Microsoft Research“ pristato „Webwright“ – savo terminalo naršyklės agento sistemą, kuri pakeičia žiniatinklio paspaudimų sekimo automatizavimą daugkartiniais „Playwright“ scenarijais.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-24-at-1.42.33-AM-1-150x150.png",
+          "image_url": "generated-images/2026-05-25-05-microsoft-research-isleido-webwright-terminal-native-zin.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Microsoft Research“ pristato „Webwright“ – savo terminalo naršyklės agento sistemą, kuri pakeičia žiniatinklio paspaudimų sekimo automatizavimą daugkartiniais „Playwright“ scenarijais.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Šis veiksmas vienu metu dizainas buvo prasmingas, kai kalbos modeliai turėjo ribotą mąstymo galimybę.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "NVIDIA AI išleido „DeltaNet-2“: linijinį dėmesio sluoksnį, kuris atsieja trynimą ir įrašymą pagal „Delta“ taisyklę",
+          "link": "https://www.marktechpost.com/2026/05/24/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/",
+          "published_iso": "2026-05-24T07:42:09Z",
+          "published_lt": "2026-05-24 07:42 UTC",
+          "summary": "Linijinis dėmesys išspaudžia neribotą KV talpyklą į fiksuoto dydžio pasikartojančią būseną, tačiau sunku redaguoti šią atmintį nešifruojant esamų asociacijų. Ankstesni delta taisyklės modeliai, tokie kaip „Gated DeltaNet“ ir KDA, naudoja vieną skaliarinį užtvarą, kad galėtų valdyti seno turinio ištrynimą ir naujo turinio rašymą.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-24-at-12.26.27-AM-1-150x150.png",
+          "image_url": "generated-images/2026-05-25-06-nvidia-ai-isleido-deltanet-2-linijini-demesio-sluoksni-k.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Linijinis dėmesys išspaudžia neribotą KV talpyklą į fiksuoto dydžio pasikartojančią būseną, tačiau sunku redaguoti šią atmintį nešifruojant esamų asociacijų.",
+            "Ankstesni delta taisyklės modeliai, tokie kaip „Gated DeltaNet“ ir KDA, naudoja vieną skaliarinį užtvarą, kad galėtų valdyti seno turinio ištrynimą ir naujo turinio rašymą.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Jis mokomas pagal 1,3 B parametrus 100 B FineWeb-Edu prieigos raktuose.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "AI bendramokslininkas, DI DNR, AI NPC, atvirojo kodo robotai, naujasis Qwen, nauji vaizdo įrašų redaktoriai: AI NAUJIENOS",
+          "link": "https://www.youtube.com/watch?v=pC6KHflGye0",
+          "published_iso": "2026-05-24T03:34:31Z",
+          "published_lt": "2026-05-24 03:34 UTC",
+          "summary": "DIDELĖS AI NAUJIENOS: Qwen 3.7, Bytedance Lance, Stable Audio 3, L2P, MegaASR ir dar daugiau #ai #ainews #aitools #aivideo #agi #singularity Ačiū mūsų rėmėjui Higgsfieldui.",
+          "source": "AI Search",
+          "source_image_url": "https://i1.ytimg.com/vi/pC6KHflGye0/hqdefault.jpg",
+          "image_url": "generated-images/2026-05-25-07-ai-bendramokslininkas-di-dnr-ai-npc-atvirojo-kodo-robota.svg",
+          "kind": "video",
+          "video_id": "pC6KHflGye0",
+          "bullets_lt": [
+            "DIDELĖS AI NAUJIENOS: Qwen 3.7, Bytedance Lance, Stable Audio 3, L2P, MegaASR ir dar daugiau #ai #ainews #aitools #aivideo #agi #singularity Ačiū mūsų rėmėjui Higgsfieldui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=pC6KHflGye0",
+            "try_url": "https://www.youtube.com/watch?v=pC6KHflGye0"
+          }
+        },
+        {
+          "title": "Tencent atvirojo kodo TencentDB agento atmintis: 4 lygių vietinės atminties vamzdynas dirbtinio intelekto agentams",
+          "link": "https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/",
+          "published_iso": "2026-05-23T19:31:12Z",
+          "published_lt": "2026-05-23 19:31 UTC",
+          "summary": "Tencent turi atviro kodo TencentDB Agent Memory, visiškai vietinę AI agentų atminties sistemą, išleistą pagal MIT licenciją.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-25-08-tencent-atvirojo-kodo-tencentdb-agento-atmintis-4-lygiu-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Tencent turi atviro kodo TencentDB Agent Memory, visiškai vietinę AI agentų atminties sistemą, išleistą pagal MIT licenciją.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Sukurkite SuperClaude Framework darbo eigą su komandomis, agentais, režimais ir seanso atmintimi",
+          "link": "https://www.marktechpost.com/2026/05/23/build-a-superclaude-framework-workflow-with-commands-agents-modes-and-session-memory/",
+          "published_iso": "2026-05-23T19:05:33Z",
+          "published_lt": "2026-05-23 19:05 UTC",
+          "summary": "Šioje mokymo programoje sukuriame išplėstinę darbo eigą, naudodami SuperClaude Framework kaip struktūrinį sluoksnį ant Antropinės API. Įrašas Sukurkite SuperClaude Framework darbo eigą su komandomis, agentais, režimais ir seanso atmintimi appeared first on MarkTechPost.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-25-09-sukurkite-superclaude-framework-darbo-eiga-su-komandomis.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje sukuriame išplėstinę darbo eigą, naudodami SuperClaude Framework kaip struktūrinį sluoksnį ant Antropinės API.",
+            "Įrašas Sukurkite SuperClaude Framework darbo eigą su komandomis, agentais, režimais ir seanso atmintimi appeared first on MarkTechPost.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "\"\"\").strip() def __init__(self, model=MODEL): self.modelis, self.history = modelis, [] def _load(self, kind, name): if not name: return \"\" p = TURTAS[rūšis].get(name.lower()) return p.read_text(encoding=\"utf-8\"\" error...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://github.com/SuperClaude-Org/SuperClaude_Framework",
+            "try_url": "https://github.com/SuperClaude-Org/SuperClaude_Framework"
+          }
+        },
+        {
+          "title": "„Nous Research“ išleido kontrastinį neuronų priskyrimą (CNA): retas MLP grandinės valdymas be SAE treniruočių ar svorio modifikavimo",
+          "link": "https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/",
+          "published_iso": "2026-05-23T10:32:09Z",
+          "published_lt": "2026-05-23 10:32 UTC",
+          "summary": "„Nous Research“ išleido „Contrastive Neuron Attribution“ (CNA) – metodą, kuris identifikuoja ir pašalina negausias MLP neuronų grandines, kad būtų galima valdyti LLM elgseną – nereikalaujama retų automatinio kodavimo įrenginių treniruočių, nekeičiama svorio ir nepablogėja bendrųjų pajėgumų etalonai.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-23-at-2.48.09-AM-150x150.png",
+          "image_url": "generated-images/2026-05-25-10-nous-research-isleido-kontrastini-neuronu-priskyrima-cna.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Nous Research“ išleido „Contrastive Neuron Attribution“ (CNA) – metodą, kuris identifikuoja ir pašalina negausias MLP neuronų grandines, kad būtų galima valdyti LLM elgseną – nereikalaujama retų automatinio kodavimo įrenginių treniruočių, nekeičiama svorio ir nepablogėja bendrųjų pajėgumų etalonai.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Dirbtinis intelektas AI infrastruktūra Techninės naujienos AI Popieriaus santrauka Technologijos AI Shorts Programos Redaktoriai Pasirinkite kalbos modelį Mašininis mokymasis Nauji leidimai Python programinės įrangos...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„Perplexity Open-Sources Bumblebee“: tik skaitomas tiekimo grandinės skaitytuvas, skirtas kūrėjų galutiniams taškams",
+          "link": "https://www.marktechpost.com/2026/05/23/perplexity-open-sources-bumblebee-a-read-only-supply-chain-scanner-for-developer-endpoints/",
+          "published_iso": "2026-05-23T08:17:27Z",
+          "published_lt": "2026-05-23 08:17 UTC",
+          "summary": "„Perplexity“ turi atvirojo kodo „Bumblebee“ – vidinės saugos įrankį, kurį naudoja, kad apsaugotų kūrėjų sistemas, esančias už savo paieškos produkto „Comet“ ir „Comet“. „Bumblebee“ yra tik skaitomas inventoriaus rinkiklis, skirtas „MacOS“ ir „Linux“ kūrėjų galutiniams taškams.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-23-at-1.20.14-AM-1-150x150.png",
+          "image_url": "generated-images/2026-05-25-11-perplexity-open-sources-bumblebee-tik-skaitomas-tiekimo-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Perplexity“ turi atvirojo kodo „Bumblebee“ – vidinės saugos įrankį, kurį naudoja, kad apsaugotų kūrėjų sistemas, esančias už savo paieškos produkto „Comet“ ir „Comet“.",
+            "„Bumblebee“ yra tik skaitomas inventoriaus rinkiklis, skirtas „MacOS“ ir „Linux“ kūrėjų galutiniams taškams.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Jis išveda struktūrinius įrašus kaip NDJSON (nauja eilutės atskirtas JSON), po vieną eilutėje, o diagnostika siunčiama į stderr.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Darbo srities agentai ChatGPT: administratoriaus ir kūrėjo valdikliai",
+          "link": "https://www.youtube.com/watch?v=HaaKUFAOi84",
+          "published_iso": "2026-05-22T22:48:37Z",
+          "published_lt": "2026-05-22 22:48 UTC",
+          "summary": "„ChatGPT“ darbo srities agentai padeda komandoms pakartojamas darbo eigas paversti bendrai naudojamomis priemonėmis, kurios gali atsižvelgti į kontekstą, naudoti įrankius ir pačios judėti pirmyn. Šioje demonstracijoje pamatysite, kaip administratoriai ir kūrėjai gali nustatyti darbo vietos agentų apsaugos priemones.",
+          "source": "OpenAI",
+          "source_image_url": "https://i1.ytimg.com/vi/HaaKUFAOi84/hqdefault.jpg",
+          "image_url": "generated-images/2026-05-25-12-darbo-srities-agentai-chatgpt-administratoriaus-ir-kurej.svg",
+          "kind": "video",
+          "video_id": "HaaKUFAOi84",
+          "bullets_lt": [
+            "„ChatGPT“ darbo srities agentai padeda komandoms pakartojamas darbo eigas paversti bendrai naudojamomis priemonėmis, kurios gali atsižvelgti į kontekstą, naudoti įrankius ir pačios judėti pirmyn.",
+            "Šioje demonstracijoje pamatysite, kaip administratoriai ir kūrėjai gali nustatyti darbo vietos agentų apsaugos priemones."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=HaaKUFAOi84",
+            "try_url": "https://www.youtube.com/watch?v=HaaKUFAOi84"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-05-24",
       "generated_at_utc": "2026-05-24T09:16:48Z",
