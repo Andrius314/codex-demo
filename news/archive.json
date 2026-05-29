@@ -1,7 +1,344 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-05-28T10:50:25Z",
+  "updated_at_utc": "2026-05-29T10:39:52Z",
   "digests": [
+    {
+      "digest_date": "2026-05-29",
+      "generated_at_utc": "2026-05-29T10:39:52Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "Susipažinkite su mKernel: kelių GPU, kelių mazgų sujungta branduolio biblioteka, skirta GPU valdomam ryšiui",
+          "link": "https://www.marktechpost.com/2026/05/29/meet-mkernel-a-multi-gpu-multi-node-fused-kernel-library-for-gpu-driven-communication/",
+          "published_iso": "2026-05-29T08:43:32Z",
+          "published_lt": "2026-05-29 08:43 UTC",
+          "summary": "UC Berkeley UCCL komanda išleidžia mKernel, sujungdama vidinio mazgo NVLink, tarp mazgo RDMA ir tankų skaičiavimą į vieną nuolatinį CUDA branduolį. Įrašas Susipažinkite su mKernel: kelių GPU, kelių mazgų sulieta branduolio biblioteka, skirta GPU valdomai komunikacijai, pirmą kartą pasirodė MarkTechPost .",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-29-01-susipazinkite-su-mkernel-keliu-gpu-keliu-mazgu-sujungta-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "UC Berkeley UCCL komanda išleidžia mKernel, sujungdama vidinio mazgo NVLink, tarp mazgo RDMA ir tankų skaičiavimą į vieną nuolatinį CUDA branduolį.",
+            "Įrašas Susipažinkite su mKernel: kelių GPU, kelių mazgų sulieta branduolio biblioteka, skirta GPU valdomai komunikacijai, pirmą kartą pasirodė MarkTechPost .",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Aptikta: CUDA",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Hexo Labs Open-Source SIA: save tobulinanti priemonė, atnaujinanti ir diržus, ir modelio svorius",
+          "link": "https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/",
+          "published_iso": "2026-05-29T07:28:37Z",
+          "published_lt": "2026-05-29 07:28 UTC",
+          "summary": "„Hexo Labs“ pagal MIT licenciją išleido SIA, atvirojo kodo savęs tobulinimo kilpą. Atsiliepimo agentas nuskaito kiekvieno bėgimo trajektoriją, tada perrašo pastolius arba suaktyvina LoRA svorio atnaujinimą gpt-oss-120b.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-12.13.58-AM-1-150x150.png",
+          "image_url": "generated-images/2026-05-29-02-hexo-labs-open-source-sia-save-tobulinanti-priemone-atna.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Hexo Labs“ pagal MIT licenciją išleido SIA, atvirojo kodo savęs tobulinimo kilpą.",
+            "Atsiliepimo agentas nuskaito kiekvieno bėgimo trajektoriją, tada perrašo pastolius arba suaktyvina LoRA svorio atnaujinimą gpt-oss-120b.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://github.com/hexo-ai/sia",
+            "try_url": "https://github.com/hexo-ai/sia"
+          }
+        },
+        {
+          "title": "Kaip sukurti visapusišką automatizavimo laboratoriją su žaidimų knygelėmis, atsargomis, vaidmenimis, saugykla, dinamine inventorizacija ir pasirinktiniais moduliais",
+          "link": "https://www.marktechpost.com/2026/05/28/how-to-design-an-end-to-end-ansible-automation-lab-with-playbooks-inventories-roles-vault-dynamic-inventory-and-custom-modules/",
+          "published_iso": "2026-05-29T03:49:31Z",
+          "published_lt": "2026-05-29 03:49 UTC",
+          "summary": "Šioje mokymo programoje mes sukuriame visą Ansible laboratoriją, kuri veikia visapusiškai „Google Colab“ arba bet kurioje „Linux“ aplinkoje. Pradedame nuo ansible-core įdiegimo, vietinės darbo srities nustatymo, Ansible konfigūracijos failo kūrimo ir statinių bei dinaminių atsargų apibrėžimo.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-29-03-kaip-sukurti-visapusiska-automatizavimo-laboratorija-su-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje mes sukuriame visą Ansible laboratoriją, kuri veikia visapusiškai „Google Colab“ arba bet kurioje „Linux“ aplinkoje.",
+            "Pradedame nuo ansible-core įdiegimo, vietinės darbo srities nustatymo, Ansible konfigūracijos failo kūrimo ir statinių bei dinaminių atsargų apibrėžimo.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://github.com/ansible/ansible",
+            "try_url": "https://github.com/ansible/ansible"
+          }
+        },
+        {
+          "title": "Liquid AI išleidžia LFM2.5-8B-A1B: įrenginyje esantį MoE modelį su 8,3 B iš viso ir 1,5 B aktyvių parametrų",
+          "link": "https://www.marktechpost.com/2026/05/28/liquid-ai-releases-lfm2-5-8b-a1b-an-on-device-moe-model-with-8-3b-total-and-1-5b-active-parameters/",
+          "published_iso": "2026-05-28T23:29:49Z",
+          "published_lt": "2026-05-28 23:29 UTC",
+          "summary": "Liquid AI LFM2.5-8B-A1B suaktyvina 1.5B 8.3B parametrų, siūlydamas 128K kontekstą, samprotavimus ir įrankį, iškviečiantį vartotojo aparatinę įrangą. Įrašas Skystas AI išleidžia LFM2.5-8B-A1B: įrenginyje esantis MoE modelis su 8,3 B iš viso ir 1,5 B aktyvių parametrų, pirmą kartą pasirodė MarkTechPost.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-4.29.30-PM-1-150x150.png",
+          "image_url": "generated-images/2026-05-29-04-liquid-ai-isleidzia-lfm2-5-8b-a1b-irenginyje-esanti-moe-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Liquid AI LFM2.5-8B-A1B suaktyvina 1.5B 8.3B parametrų, siūlydamas 128K kontekstą, samprotavimus ir įrankį, iškviečiantį vartotojo aparatinę įrangą.",
+            "Įrašas Skystas AI išleidžia LFM2.5-8B-A1B: įrenginyje esantis MoE modelis su 8,3 B iš viso ir 1,5 B aktyvių parametrų, pirmą kartą pasirodė MarkTechPost.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Konteksto ilgis yra 131 072 žetonai.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Antropiniai laivai „Claude Opus 4.8“ kartu su dinaminėmis darbo eigomis ir pigesniu greituoju režimu, kai darbo eigos apribotos iki 1 000 antrinių agentų",
+          "link": "https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/",
+          "published_iso": "2026-05-28T22:12:16Z",
+          "published_lt": "2026-05-28 22:12 UTC",
+          "summary": "Anthropic Claude Opus 4.8 suteikia dinamines darbo eigas ir pigesnį greitąjį režimą Claude Code, dabar peržiūroje The post Anthropic Ships Claude Opus 4.8, kartu su dinaminėmis darbo eigomis ir pigesniu greituoju režimu, su darbo eigos riba iki 1 000 antrinių agentų appeared first on MarkTechPost .",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-29-05-antropiniai-laivai-claude-opus-4-8-kartu-su-dinaminemis-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Anthropic Claude Opus 4.8 suteikia dinamines darbo eigas ir pigesnį greitąjį režimą Claude Code, dabar peržiūroje The post Anthropic Ships Claude Opus 4.8, kartu su dinaminėmis darbo eigomis ir pigesniu greituoju režimu, su darbo eigos riba iki 1 000 antrinių agentų appeared first on MarkTechPost .",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Abi yra tyrimų apžvalgos.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/",
+            "try_url": "https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/"
+          }
+        },
+        {
+          "title": "Sukūrimo valanda: agentų SDK",
+          "link": "https://www.youtube.com/watch?v=tK32trvj_b4",
+          "published_iso": "2026-05-28T20:09:34Z",
+          "published_lt": "2026-05-28 20:09 UTC",
+          "summary": "Kurkite naudodami kitą agentų SDK evoliuciją. Šioje kūrimo valandoje sužinosite, kaip naudoti atnaujintą agentų SDK, kad būtų galima kurti ilgalaikius agentus su savojo modelio laidais.",
+          "source": "OpenAI",
+          "source_image_url": "https://i1.ytimg.com/vi/tK32trvj_b4/hqdefault.jpg",
+          "image_url": "generated-images/2026-05-29-06-sukurimo-valanda-agentu-sdk.svg",
+          "kind": "video",
+          "video_id": "tK32trvj_b4",
+          "bullets_lt": [
+            "Kurkite naudodami kitą agentų SDK evoliuciją.",
+            "Šioje kūrimo valandoje sužinosite, kaip naudoti atnaujintą agentų SDK, kad būtų galima kurti ilgalaikius agentus su savojo modelio laidais."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=tK32trvj_b4",
+            "try_url": "https://www.youtube.com/watch?v=tK32trvj_b4"
+          }
+        },
+        {
+          "title": "Susipažinkite su 12 pagrindinių 2026 m. I/O akimirkų",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+          "published_iso": "2026-05-28T15:00:00Z",
+          "published_lt": "2026-05-28 15:00 UTC",
+          "summary": "Čia yra 12 didžiausių „Google I/O 2026“ pagrindinių akimirkų, įskaitant naujienas apie „Gemini Omni“, „Gemini 3.5 Flash“ ir kt.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-05-29-07-susipazinkite-su-12-pagrindiniu-2026-m-i-o-akimirku.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Čia yra 12 didžiausių „Google I/O 2026“ pagrindinių akimirkų, įskaitant naujienas apie „Gemini Omni“, „Gemini 3.5 Flash“ ir kt.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647"
+          }
+        },
+        {
+          "title": "„Google Pay“ ruošiasi dirbtinio intelekto agentams su Universaliosios prekybos protokolu",
+          "link": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+          "published_iso": "2026-05-28T14:55:43Z",
+          "published_lt": "2026-05-28 14:55 UTC",
+          "summary": "„Google Pay“ pertvarko savo mokėjimų infrastruktūrą dėl artėjančios AI agentų operacijų bangos. Naujausiuose atnaujinimuose pristatomas universalus komercijos protokolas ir nauja serverio architektūra, todėl „Google Pay“ yra centrinė atsiskaitymo vieta pirkimams, kuriuos vykdo savarankiški agentai, o ne žmonės.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-29-08-google-pay-ruosiasi-dirbtinio-intelekto-agentams-su-univ.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google Pay“ pertvarko savo mokėjimų infrastruktūrą dėl artėjančios AI agentų operacijų bangos.",
+            "Naujausiuose atnaujinimuose pristatomas universalus komercijos protokolas ir nauja serverio architektūra, todėl „Google Pay“ yra centrinė atsiskaitymo vieta pirkimams, kuriuos vykdo savarankiški agentai, o ne žmonės.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.1.1",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.1.1"
+          }
+        },
+        {
+          "title": "NBA planuoja dirbtinio intelekto sistemą, skirtą automatiniams skambučiams už ribų",
+          "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
+          "published_iso": "2026-05-28T10:00:00Z",
+          "published_lt": "2026-05-28 10:00 UTC",
+          "summary": "NBA komisaras Adamas Silveris sakė, kad lyga planuoja įdiegti automatizuotą tam tikrų teisėjų sprendimų, įskaitant skambučius už ribų, sistemą. Sistema naudotų dirbtinį intelektą ir kameras, esančias aplink aikštę, kad nustatytų turėjimą.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-29-09-nba-planuoja-dirbtinio-intelekto-sistema-skirta-automati.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "NBA komisaras Adamas Silveris sakė, kad lyga planuoja įdiegti automatizuotą tam tikrų teisėjų sprendimų, įskaitant skambučius už ribų, sistemą.",
+            "Sistema naudotų dirbtinį intelektą ir kameras, esančias aplink aikštę, kad nustatytų turėjimą.",
+            "Kaina: Labiau panasu i mokama sprendima."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.1.1",
+            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.1.1"
+          }
+        },
+        {
+          "title": "Perplexity AI atvirojo kodo Unigram žetonų įtaisas, pasiekiantis 5 kartus mažesnį p50 delsą nei apkabinimo veido žetonų dėžė",
+          "link": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/",
+          "published_iso": "2026-05-28T09:08:20Z",
+          "published_lt": "2026-05-28 09:08 UTC",
+          "summary": "„Perplexity AI“ sukuria atvirojo kodo perrašytą „Unigram“ prieigos raktą, kuris sumažina perrinkimo delsą ir 5–6 kartus sumažina gamybos procesoriaus naudojimą. The post Perplexity AI Open-Source Unigram Tokenizer, kuris pasiekia 5 kartus mažesnį p50 delsą nei Hugging Face tokenizers Crate appeared first on MarkTechPost .",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-29-10-perplexity-ai-atvirojo-kodo-unigram-zetonu-itaisas-pasie.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Perplexity AI“ sukuria atvirojo kodo perrašytą „Unigram“ prieigos raktą, kuris sumažina perrinkimo delsą ir 5–6 kartus sumažina gamybos procesoriaus naudojimą.",
+            "The post Perplexity AI Open-Source Unigram Tokenizer, kuris pasiekia 5 kartus mažesnį p50 delsą nei Hugging Face tokenizers Crate appeared first on MarkTechPost .",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Kodavimo vadovas, skirtas įdiegti pgvektoriaus semantinę, hibridinę, retąją ir kvantuotos vektorinės paieškos sistemą",
+          "link": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/",
+          "published_iso": "2026-05-28T08:07:09Z",
+          "published_lt": "2026-05-28 08:07 UTC",
+          "summary": "Šioje mokymo programoje mes sukuriame visą pgvector žaidimų aikštelę „Google Colab“ viduje ir tyrinėjame, kaip „PostgreSQL“ gali veikti kaip galinga vektorinė duomenų bazė šiuolaikinėms AI programoms.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-05-29-11-kodavimo-vadovas-skirtas-idiegti-pgvektoriaus-semantine-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šioje mokymo programoje mes sukuriame visą pgvector žaidimų aikštelę „Google Colab“ viduje ir tyrinėjame, kaip „PostgreSQL“ gali veikti kaip galinga vektorinė duomenų bazė šiuolaikinėms AI programoms.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "print(\"\\n[3/10] HNSW indekso kūrimas ir semantinės paieškos vykdymas...\") conn.execute( \"KURTI INDEKSO dokumentuose NAUDOJANT hnsw (įterpiant vektorius_kosino_ops) \" \"WITH (m = 16, ef_construction = 64)\" ) conn.execut...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Pagreitis jau čia!",
+          "link": "https://www.youtube.com/watch?v=QvN6Tu6dHYM",
+          "published_iso": "2026-05-28T03:28:19Z",
+          "published_lt": "2026-05-28 03:28 UTC",
+          "summary": "AI bendramokslis ir Robino agentų sistema. AI automatizuoja medicinos atradimus. Nauji vėžio gydymo būdai, atsparumas antibiotikams, regėjimo praradimas ir kt.",
+          "source": "AI Search",
+          "source_image_url": "https://i2.ytimg.com/vi/QvN6Tu6dHYM/hqdefault.jpg",
+          "image_url": "generated-images/2026-05-29-12-pagreitis-jau-cia.svg",
+          "kind": "video",
+          "video_id": "QvN6Tu6dHYM",
+          "bullets_lt": [
+            "AI bendramokslis ir Robino agentų sistema.",
+            "AI automatizuoja medicinos atradimus.",
+            "Nauji vėžio gydymo būdai, atsparumas antibiotikams, regėjimo praradimas ir kt."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=QvN6Tu6dHYM",
+            "try_url": "https://www.youtube.com/watch?v=QvN6Tu6dHYM"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-05-28",
       "generated_at_utc": "2026-05-28T10:50:25Z",
