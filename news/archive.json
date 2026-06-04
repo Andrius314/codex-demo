@@ -1,7 +1,326 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-06-03T11:51:03Z",
+  "updated_at_utc": "2026-06-04T10:35:20Z",
   "digests": [
+    {
+      "digest_date": "2026-06-04",
+      "generated_at_utc": "2026-06-04T10:35:20Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„Amazon“ kartu su Kate Spade pristato AI apsipirkimo asistentą mažmenininkams",
+          "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
+          "published_iso": "2026-06-04T10:00:00Z",
+          "published_lt": "2026-06-04 10:00 UTC",
+          "summary": "„Amazon“ siūlo savo dirbtinio intelekto apsipirkimo technologiją kitiems mažmenininkams per naują „Agentic Shopping Assistant“, sukurtą remiantis AWS, o Kate Spade yra viena iš pirmųjų prekių ženklų, kurie ją naudoja. Ši paslauga leidžia mažmenininkams kurti AI apsipirkimo pagalbininkus savo svetainėms ir programoms.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-06-04-01-amazon-kartu-su-kate-spade-pristato-ai-apsipirkimo-asist.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Amazon“ siūlo savo dirbtinio intelekto apsipirkimo technologiją kitiems mažmenininkams per naują „Agentic Shopping Assistant“, sukurtą remiantis AWS, o Kate Spade yra viena iš pirmųjų prekių ženklų, kurie ją naudoja.",
+            "Ši paslauga leidžia mažmenininkams kurti AI apsipirkimo pagalbininkus savo svetainėms ir programoms."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
+            "try_url": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/"
+          }
+        },
+        {
+          "title": "„Miso Labs“ išleido „MisoTTS“: 8B emocinį teksto į kalbą modelį su atvirais svoriais",
+          "link": "https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/",
+          "published_iso": "2026-06-04T08:11:05Z",
+          "published_lt": "2026-06-04 08:11 UTC",
+          "summary": "„Miso Labs“ išleido „MisoTTS“ – atvirojo svorio 8B teksto į kalbą modelį. Jis naudoja likutinį vektorių kvantavimą (RVQ), kad padidintų savo garso diapazoną be mastelio parametrų ir teksto bei garso konteksto sąlygas, kad reaguotų į garsiakalbio toną. Architektūra suporuoja 7.7B pagrindą su 300M gylio dekoderiu.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-04-at-12.56.18-AM-1-150x150.png",
+          "image_url": "generated-images/2026-06-04-02-miso-labs-isleido-misotts-8b-emocini-teksto-i-kalba-mode.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Miso Labs“ išleido „MisoTTS“ – atvirojo svorio 8B teksto į kalbą modelį.",
+            "Jis naudoja likutinį vektorių kvantavimą (RVQ), kad padidintų savo garso diapazoną be mastelio parametrų ir teksto bei garso konteksto sąlygas, kad reaguotų į garsiakalbio toną.",
+            "Architektūra suporuoja 7.7B pagrindą su 300M gylio dekoderiu."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/",
+            "try_url": "https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/"
+          }
+        },
+        {
+          "title": "Susipažinkite su „OpenJarvis“: „Asmeninių dirbtinio intelekto agentų“ įrenginyje programa, skirta pirmiausia vietinei sistemai su įrankiais, atmintimi ir mokymusi",
+          "link": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+          "published_iso": "2026-06-04T06:23:10Z",
+          "published_lt": "2026-06-04 06:23 UTC",
+          "summary": "Stanfordo mokslininkai išleido „OpenJarvis“ – atvirojo kodo sistemą, kuri atlieka išvadas, agentus, atmintį ir mokymąsi tik įrenginyje.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.15.16-PM-1-150x150.png",
+          "image_url": "generated-images/2026-06-04-03-susipazinkite-su-openjarvis-asmeniniu-dirbtinio-intelekt.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Stanfordo mokslininkai išleido „OpenJarvis“ – atvirojo kodo sistemą, kuri atlieka išvadas, agentus, atmintį ir mokymąsi tik įrenginyje."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+            "try_url": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/"
+          }
+        },
+        {
+          "title": "Kaip sukurti dokumentų žvalgybos pagrindinę programą naudojant iii naudojant darbuotojus, funkcijas ir Cron paleidiklius",
+          "link": "https://www.marktechpost.com/2026/06/03/how-to-build-a-document-intelligence-backend-with-iii-using-workers-functions-and-cron-triggers/",
+          "published_iso": "2026-06-03T19:15:07Z",
+          "published_lt": "2026-06-03 19:15 UTC",
+          "summary": "Sukuriame dokumentų žvalgybos pagrindinę programą su iii, registruodami modulines funkcijas ir pakartotinai jas naudodami keliuose aktyvikliuose. Įrašas „Kaip sukurti dokumentų žvalgybos pagrindinę programą naudojant iii naudojant darbuotojus, funkcijas ir „Cron“ aktyviklius pirmą kartą pasirodė „MarkTechPost“.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-06-04-04-kaip-sukurti-dokumentu-zvalgybos-pagrindine-programa-nau.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Sukuriame dokumentų žvalgybos pagrindinę programą su iii, registruodami modulines funkcijas ir pakartotinai jas naudodami keliuose aktyvikliuose.",
+            "Įrašas „Kaip sukurti dokumentų žvalgybos pagrindinę programą naudojant iii naudojant darbuotojus, funkcijas ir „Cron“ aktyviklius pirmą kartą pasirodė „MarkTechPost“."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/03/how-to-build-a-document-intelligence-backend-with-iii-using-workers-functions-and-cron-triggers/",
+            "try_url": "https://www.marktechpost.com/2026/06/03/how-to-build-a-document-intelligence-backend-with-iii-using-workers-functions-and-cron-triggers/"
+          }
+        },
+        {
+          "title": "Atėjo laikas skristi | Kodeksas",
+          "link": "https://www.youtube.com/watch?v=bJcA23ckzcY",
+          "published_iso": "2026-06-03T19:11:26Z",
+          "published_lt": "2026-06-03 19:11 UTC",
+          "summary": "Sveiki atvykę į naują statybos sieną. Imkitės daugiau užduočių, be vargo pereikite prie projektų ir pristatykite greičiau. Išbandykite Codex nemokamai šiandien: https://openai.com/codex/",
+          "source": "OpenAI",
+          "source_image_url": "https://i3.ytimg.com/vi/bJcA23ckzcY/hqdefault.jpg",
+          "image_url": "generated-images/2026-06-04-05-atejo-laikas-skristi-kodeksas.svg",
+          "kind": "video",
+          "video_id": "bJcA23ckzcY",
+          "bullets_lt": [
+            "Sveiki atvykę į naują statybos sieną.",
+            "Imkitės daugiau užduočių, be vargo pereikite prie projektų ir pristatykite greičiau.",
+            "Išbandykite Codex nemokamai šiandien: https://openai.com/codex/.",
+            "Kaina: Yra nemokamas ir mokamas variantas."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=bJcA23ckzcY",
+            "try_url": "https://www.youtube.com/watch?v=bJcA23ckzcY"
+          }
+        },
+        {
+          "title": "„Google DeepMind“ išleido „Gemma 4 12B“: daugiarūšį modelį be kodavimo su vietiniu garsu, kuris veikia 16 GB nešiojamajame kompiuteryje",
+          "link": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
+          "published_iso": "2026-06-03T18:46:41Z",
+          "published_lt": "2026-06-03 18:46 UTC",
+          "summary": "„Gemma 4 12B“ tiekia vaizdą ir garsą tiesiai į LLM pagrindą, veikia vietoje pagal „Apache 2.0“ licenciją. Įrašas „Google DeepMind“ išleido „Gemma 4 12B: Multimodal Model Be Encoder“ su vietiniu garsu, kuris veikia 16 GB nešiojamajame kompiuteryje, pirmą kartą pasirodė „MarkTechPost“.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.33.27-AM-1-150x150.png",
+          "image_url": "generated-images/2026-06-04-06-google-deepmind-isleido-gemma-4-12b-daugiarusi-modeli-be.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Gemma 4 12B“ tiekia vaizdą ir garsą tiesiai į LLM pagrindą, veikia vietoje pagal „Apache 2.0“ licenciją.",
+            "Įrašas „Google DeepMind“ išleido „Gemma 4 12B: Multimodal Model Be Encoder“ su vietiniu garsu, kuris veikia 16 GB nešiojamajame kompiuteryje, pirmą kartą pasirodė „MarkTechPost“."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
+            "try_url": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/"
+          }
+        },
+        {
+          "title": "Susipažinkite su AI „bendramokslininku“, keičiančiu viską 🤖🧪 #ai",
+          "link": "https://www.youtube.com/shorts/iz7elwbqZVI",
+          "published_iso": "2026-06-03T17:00:19Z",
+          "published_lt": "2026-06-03 17:00 UTC",
+          "summary": "Santrauka nepateikta saltinyje.",
+          "source": "Two Minute Papers",
+          "source_image_url": "https://i2.ytimg.com/vi/iz7elwbqZVI/hqdefault.jpg",
+          "image_url": "generated-images/2026-06-04-07-susipazinkite-su-ai-bendramokslininku-keicianciu-viska-a.svg",
+          "kind": "video",
+          "video_id": "iz7elwbqZVI",
+          "bullets_lt": [
+            "Santrauka nepateikta saltinyje."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/iz7elwbqZVI",
+            "try_url": "https://www.youtube.com/shorts/iz7elwbqZVI"
+          }
+        },
+        {
+          "title": "5 būdai, kaip „Google“ paieška gali padidinti jūsų taupumą ir senovinį apsipirkimą",
+          "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+          "published_iso": "2026-06-03T13:00:00Z",
+          "published_lt": "2026-06-03 13:00 UTC",
+          "summary": "Atraskite naudotus balus naudodami AI įrankius „Google“ paieškoje ir apsipirkime.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-06-04-08-5-budai-kaip-google-paieska-gali-padidinti-jusu-taupuma-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Atraskite naudotus balus naudodami AI įrankius „Google“ paieškoje ir apsipirkime.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647"
+          }
+        },
+        {
+          "title": "Kaip E.ON naudoja SAP S/4HANA tinkleliui modernizuoti naudojant AI",
+          "link": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
+          "published_iso": "2026-06-03T12:29:42Z",
+          "published_lt": "2026-06-03 12:29 UTC",
+          "summary": "Tinklelio duomenų standartizavimas per SAP S/4HANA leidžia E.ON modernizuoti infrastruktūrą ir vykdyti DI diegimus. Komunalinių paslaugų milžinas valdo infrastruktūrą trijose skirtingose ​​srityse: energijos tinklų, klientų sprendimų ir energetikos infrastruktūros sprendimų.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-06-04-09-kaip-e-on-naudoja-sap-s-4hana-tinkleliui-modernizuoti-na.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Tinklelio duomenų standartizavimas per SAP S/4HANA leidžia E.ON modernizuoti infrastruktūrą ir vykdyti DI diegimus.",
+            "Komunalinių paslaugų milžinas valdo infrastruktūrą trijose skirtingose ​​srityse: energijos tinklų, klientų sprendimų ir energetikos infrastruktūros sprendimų."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
+            "try_url": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/"
+          }
+        },
+        {
+          "title": "„Nous Research“ išleido „Hermes Desktop“: vietinę kelių platformų sąsają, skirtą „Hermes Agent v0.15.2“ su srautinio perdavimo įrankio išvestimi",
+          "link": "https://www.marktechpost.com/2026/06/03/nous-research-releases-hermes-desktop-a-native-cross-platform-front-end-for-hermes-agent-v0-15-2-with-streaming-tool-output/",
+          "published_iso": "2026-06-03T09:38:32Z",
+          "published_lt": "2026-06-03 09:38 UTC",
+          "summary": "„Hermes Desktop“ yra be terminalo GUI, kuri dalijasi vienu agento branduoliu, įgūdžiais ir atmintimi su „Hermes Agent CLI“. Įrašas „Nous Research Releases Hermes Desktop: A Native Cross-Platform Front End for Hermes Agent v0.15.2 with Streaming Tool Output appeared first on MarkTechPost .",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-06-04-10-nous-research-isleido-hermes-desktop-vietine-keliu-platf.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Hermes Desktop“ yra be terminalo GUI, kuri dalijasi vienu agento branduoliu, įgūdžiais ir atmintimi su „Hermes Agent CLI“.",
+            "Įrašas „Nous Research Releases Hermes Desktop: A Native Cross-Platform Front End for Hermes Agent v0.15.2 with Streaming Tool Output appeared first on MarkTechPost ."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/03/nous-research-releases-hermes-desktop-a-native-cross-platform-front-end-for-hermes-agent-v0-15-2-with-streaming-tool-output/",
+            "try_url": "https://www.marktechpost.com/2026/06/03/nous-research-releases-hermes-desktop-a-native-cross-platform-front-end-for-hermes-agent-v0-15-2-with-streaming-tool-output/"
+          }
+        },
+        {
+          "title": "„Walmart“ AI darbo eigos atitinka balanso realijas",
+          "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
+          "published_iso": "2026-06-03T09:33:00Z",
+          "published_lt": "2026-06-03 09:33 UTC",
+          "summary": "Pranešama, kad „Walmart“ pradėjo riboti darbuotojų naudojimąsi vidiniu AI asistentu, vadinamu „Code Puppy“, po to, kai įrankį palaikančiai LLM buvo keliami didesni reikalavimai, nei tikėtasi.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-06-04-11-walmart-ai-darbo-eigos-atitinka-balanso-realijas.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Pranešama, kad „Walmart“ pradėjo riboti darbuotojų naudojimąsi vidiniu AI asistentu, vadinamu „Code Puppy“, po to, kai įrankį palaikančiai LLM buvo keliami didesni reikalavimai, nei tikėtasi."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
+            "try_url": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/"
+          }
+        },
+        {
+          "title": "„Microsoft“ „Majorana 2“ kvantinis lustas taip pat yra agentinio AI atvejo tyrimas MTTP srityje",
+          "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
+          "published_iso": "2026-06-03T09:00:00Z",
+          "published_lt": "2026-06-03 09:00 UTC",
+          "summary": "Šią savaitę pasirodė „Microsoft“ „Majorana 2“ kvantinė mikroschema su skaičiais, kuriuos tikrai sunku nustatyti kontekste: kubitai 1000 kartų patikimesni nei pirmosios kartos modelių, vidutinė kubitų tarnavimo trukmė yra 20 sekundžių, palyginti su pramonės norma, matuojama mikrosekundėmis, ir peržiūrėtas planas, skirtas komercijai.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-06-04-12-microsoft-majorana-2-kvantinis-lustas-taip-pat-yra-agent.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šią savaitę pasirodė „Microsoft“ „Majorana 2“ kvantinė mikroschema su skaičiais, kuriuos tikrai sunku nustatyti kontekste: kubitai 1000 kartų patikimesni nei pirmosios kartos modelių, vidutinė kubitų tarnavimo trukmė yra 20 sekundžių, palyginti su pramonės norma, matuojama mikrosekundėmis, ir peržiūrėtas planas, skirtas komercijai.",
+            "Kaina: Labiau panasu i mokama sprendima."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
+            "try_url": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-06-03",
       "generated_at_utc": "2026-06-03T11:51:03Z",
