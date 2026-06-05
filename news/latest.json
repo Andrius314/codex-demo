@@ -1,166 +1,36 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-06-04",
-  "generated_at_utc": "2026-06-04T10:35:20Z",
+  "digest_date": "2026-06-05",
+  "generated_at_utc": "2026-06-05T10:41:58Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "„Amazon“ kartu su Kate Spade pristato AI apsipirkimo asistentą mažmenininkams",
-      "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
-      "published_iso": "2026-06-04T10:00:00Z",
-      "published_lt": "2026-06-04 10:00 UTC",
-      "summary": "„Amazon“ siūlo savo dirbtinio intelekto apsipirkimo technologiją kitiems mažmenininkams per naują „Agentic Shopping Assistant“, sukurtą remiantis AWS, o Kate Spade yra viena iš pirmųjų prekių ženklų, kurie ją naudoja. Ši paslauga leidžia mažmenininkams kurti AI apsipirkimo pagalbininkus savo svetainėms ir programoms.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-04-01-amazon-kartu-su-kate-spade-pristato-ai-apsipirkimo-asist.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Amazon“ siūlo savo dirbtinio intelekto apsipirkimo technologiją kitiems mažmenininkams per naują „Agentic Shopping Assistant“, sukurtą remiantis AWS, o Kate Spade yra viena iš pirmųjų prekių ženklų, kurie ją naudoja.",
-        "Ši paslauga leidžia mažmenininkams kurti AI apsipirkimo pagalbininkus savo svetainėms ir programoms."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
-        "try_url": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/"
-      }
-    },
-    {
-      "title": "„Miso Labs“ išleido „MisoTTS“: 8B emocinį teksto į kalbą modelį su atvirais svoriais",
-      "link": "https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/",
-      "published_iso": "2026-06-04T08:11:05Z",
-      "published_lt": "2026-06-04 08:11 UTC",
-      "summary": "„Miso Labs“ išleido „MisoTTS“ – atvirojo svorio 8B teksto į kalbą modelį. Jis naudoja likutinį vektorių kvantavimą (RVQ), kad padidintų savo garso diapazoną be mastelio parametrų ir teksto bei garso konteksto sąlygas, kad reaguotų į garsiakalbio toną. Architektūra suporuoja 7.7B pagrindą su 300M gylio dekoderiu.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-04-at-12.56.18-AM-1-150x150.png",
-      "image_url": "generated-images/2026-06-04-02-miso-labs-isleido-misotts-8b-emocini-teksto-i-kalba-mode.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Miso Labs“ išleido „MisoTTS“ – atvirojo svorio 8B teksto į kalbą modelį.",
-        "Jis naudoja likutinį vektorių kvantavimą (RVQ), kad padidintų savo garso diapazoną be mastelio parametrų ir teksto bei garso konteksto sąlygas, kad reaguotų į garsiakalbio toną.",
-        "Architektūra suporuoja 7.7B pagrindą su 300M gylio dekoderiu."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/",
-        "try_url": "https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/"
-      }
-    },
-    {
-      "title": "Susipažinkite su „OpenJarvis“: „Asmeninių dirbtinio intelekto agentų“ įrenginyje programa, skirta pirmiausia vietinei sistemai su įrankiais, atmintimi ir mokymusi",
-      "link": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
-      "published_iso": "2026-06-04T06:23:10Z",
-      "published_lt": "2026-06-04 06:23 UTC",
-      "summary": "Stanfordo mokslininkai išleido „OpenJarvis“ – atvirojo kodo sistemą, kuri atlieka išvadas, agentus, atmintį ir mokymąsi tik įrenginyje.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.15.16-PM-1-150x150.png",
-      "image_url": "generated-images/2026-06-04-03-susipazinkite-su-openjarvis-asmeniniu-dirbtinio-intelekt.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Stanfordo mokslininkai išleido „OpenJarvis“ – atvirojo kodo sistemą, kuri atlieka išvadas, agentus, atmintį ir mokymąsi tik įrenginyje."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
-        "try_url": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/"
-      }
-    },
-    {
-      "title": "Kaip sukurti dokumentų žvalgybos pagrindinę programą naudojant iii naudojant darbuotojus, funkcijas ir Cron paleidiklius",
-      "link": "https://www.marktechpost.com/2026/06/03/how-to-build-a-document-intelligence-backend-with-iii-using-workers-functions-and-cron-triggers/",
-      "published_iso": "2026-06-03T19:15:07Z",
-      "published_lt": "2026-06-03 19:15 UTC",
-      "summary": "Sukuriame dokumentų žvalgybos pagrindinę programą su iii, registruodami modulines funkcijas ir pakartotinai jas naudodami keliuose aktyvikliuose. Įrašas „Kaip sukurti dokumentų žvalgybos pagrindinę programą naudojant iii naudojant darbuotojus, funkcijas ir „Cron“ aktyviklius pirmą kartą pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-04-04-kaip-sukurti-dokumentu-zvalgybos-pagrindine-programa-nau.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Sukuriame dokumentų žvalgybos pagrindinę programą su iii, registruodami modulines funkcijas ir pakartotinai jas naudodami keliuose aktyvikliuose.",
-        "Įrašas „Kaip sukurti dokumentų žvalgybos pagrindinę programą naudojant iii naudojant darbuotojus, funkcijas ir „Cron“ aktyviklius pirmą kartą pasirodė „MarkTechPost“."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/03/how-to-build-a-document-intelligence-backend-with-iii-using-workers-functions-and-cron-triggers/",
-        "try_url": "https://www.marktechpost.com/2026/06/03/how-to-build-a-document-intelligence-backend-with-iii-using-workers-functions-and-cron-triggers/"
-      }
-    },
-    {
-      "title": "Atėjo laikas skristi | Kodeksas",
-      "link": "https://www.youtube.com/watch?v=bJcA23ckzcY",
-      "published_iso": "2026-06-03T19:11:26Z",
-      "published_lt": "2026-06-03 19:11 UTC",
-      "summary": "Sveiki atvykę į naują statybos sieną. Imkitės daugiau užduočių, be vargo pereikite prie projektų ir pristatykite greičiau. Išbandykite Codex nemokamai šiandien: https://openai.com/codex/",
+      "title": "Codex yra jūsų BFF, kai viskas yra viskas, visur ir vienu metu 💫",
+      "link": "https://www.youtube.com/shorts/BdBxQz8e-o8",
+      "published_iso": "2026-06-04T20:27:50Z",
+      "published_lt": "2026-06-04 20:27 UTC",
+      "summary": "„Zapier“ yra pirmoji nuotolinė įmonė, todėl jų komanda dirba su keliais įrankiais, pvz., „Slack“, „Google Docs“ ir „Coda“. Ryanui Fitzgeraldui „Codex“ yra ta dalis, kuri viską sujungia. ➡️ https://lnkd.in/dnxrM282",
       "source": "OpenAI",
-      "source_image_url": "https://i3.ytimg.com/vi/bJcA23ckzcY/hqdefault.jpg",
-      "image_url": "generated-images/2026-06-04-05-atejo-laikas-skristi-kodeksas.svg",
+      "source_image_url": "https://i3.ytimg.com/vi/BdBxQz8e-o8/hqdefault.jpg",
+      "image_url": "generated-images/2026-06-05-01-codex-yra-jusu-bff-kai-viskas-yra-viskas-visur-ir-vienu-.svg",
       "kind": "video",
-      "video_id": "bJcA23ckzcY",
+      "video_id": "BdBxQz8e-o8",
       "bullets_lt": [
-        "Sveiki atvykę į naują statybos sieną.",
-        "Imkitės daugiau užduočių, be vargo pereikite prie projektų ir pristatykite greičiau.",
-        "Išbandykite Codex nemokamai šiandien: https://openai.com/codex/.",
-        "Kaina: Yra nemokamas ir mokamas variantas."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=bJcA23ckzcY",
-        "try_url": "https://www.youtube.com/watch?v=bJcA23ckzcY"
-      }
-    },
-    {
-      "title": "„Google DeepMind“ išleido „Gemma 4 12B“: daugiarūšį modelį be kodavimo su vietiniu garsu, kuris veikia 16 GB nešiojamajame kompiuteryje",
-      "link": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
-      "published_iso": "2026-06-03T18:46:41Z",
-      "published_lt": "2026-06-03 18:46 UTC",
-      "summary": "„Gemma 4 12B“ tiekia vaizdą ir garsą tiesiai į LLM pagrindą, veikia vietoje pagal „Apache 2.0“ licenciją. Įrašas „Google DeepMind“ išleido „Gemma 4 12B: Multimodal Model Be Encoder“ su vietiniu garsu, kuris veikia 16 GB nešiojamajame kompiuteryje, pirmą kartą pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.33.27-AM-1-150x150.png",
-      "image_url": "generated-images/2026-06-04-06-google-deepmind-isleido-gemma-4-12b-daugiarusi-modeli-be.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Gemma 4 12B“ tiekia vaizdą ir garsą tiesiai į LLM pagrindą, veikia vietoje pagal „Apache 2.0“ licenciją.",
-        "Įrašas „Google DeepMind“ išleido „Gemma 4 12B: Multimodal Model Be Encoder“ su vietiniu garsu, kuris veikia 16 GB nešiojamajame kompiuteryje, pirmą kartą pasirodė „MarkTechPost“."
+        "„Zapier“ yra pirmoji nuotolinė įmonė, todėl jų komanda dirba su keliais įrankiais, pvz., „Slack“, „Google Docs“ ir „Coda“.",
+        "Ryanui Fitzgeraldui „Codex“ yra ta dalis, kuri viską sujungia.",
+        "➡️ https://lnkd.in/dnxrM282.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
-        "try_url": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/BdBxQz8e-o8",
+        "try_url": "https://www.youtube.com/shorts/BdBxQz8e-o8"
       }
     },
     {
@@ -171,7 +41,7 @@
       "summary": "Santrauka nepateikta saltinyje.",
       "source": "Two Minute Papers",
       "source_image_url": "https://i2.ytimg.com/vi/iz7elwbqZVI/hqdefault.jpg",
-      "image_url": "generated-images/2026-06-04-07-susipazinkite-su-ai-bendramokslininku-keicianciu-viska-a.svg",
+      "image_url": "generated-images/2026-06-05-02-susipazinkite-su-ai-bendramokslininku-keicianciu-viska-a.svg",
       "kind": "video",
       "video_id": "iz7elwbqZVI",
       "bullets_lt": [
@@ -196,7 +66,7 @@
       "summary": "Atraskite naudotus balus naudodami AI įrankius „Google“ paieškoje ir apsipirkime.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-06-04-08-5-budai-kaip-google-paieska-gali-padidinti-jusu-taupuma-.svg",
+      "image_url": "generated-images/2026-06-05-03-5-budai-kaip-google-paieska-gali-padidinti-jusu-taupuma-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -215,106 +85,242 @@
       }
     },
     {
-      "title": "Kaip E.ON naudoja SAP S/4HANA tinkleliui modernizuoti naudojant AI",
-      "link": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
-      "published_iso": "2026-06-03T12:29:42Z",
-      "published_lt": "2026-06-03 12:29 UTC",
-      "summary": "Tinklelio duomenų standartizavimas per SAP S/4HANA leidžia E.ON modernizuoti infrastruktūrą ir vykdyti DI diegimus. Komunalinių paslaugų milžinas valdo infrastruktūrą trijose skirtingose ​​srityse: energijos tinklų, klientų sprendimų ir energetikos infrastruktūros sprendimų.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-04-09-kaip-e-on-naudoja-sap-s-4hana-tinkleliui-modernizuoti-na.svg",
+      "title": "GERIAUSIAS AI 4K vaizdams. Nemokamai ir greitai",
+      "link": "https://www.youtube.com/watch?v=DlvhlQOBHBw",
+      "published_iso": "2026-06-02T03:26:17Z",
+      "published_lt": "2026-06-02 03:26 UTC",
+      "summary": "„Nvidia“ PiD pikselių difuzija. Geriausias AI vaizdo modelis didelės raiškos vaizdams. Nemokamas ir atviro kodo #ai #aitools #aiart #imagegeneration #agi Ačiū mūsų rėmėjui Higgsfieldui.",
+      "source": "AI Search",
+      "source_image_url": "https://i1.ytimg.com/vi/DlvhlQOBHBw/hqdefault.jpg",
+      "image_url": "generated-images/2026-06-05-04-geriausias-ai-4k-vaizdams-nemokamai-ir-greitai.svg",
+      "kind": "video",
+      "video_id": "DlvhlQOBHBw",
+      "bullets_lt": [
+        "„Nvidia“ PiD pikselių difuzija.",
+        "Geriausias AI vaizdo modelis didelės raiškos vaizdams.",
+        "Nemokamas ir atviro kodo #ai #aitools #aiart #imagegeneration #agi Ačiū mūsų rėmėjui Higgsfieldui.",
+        "Kaina: Yra nemokamas ir mokamas variantas."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=DlvhlQOBHBw",
+        "try_url": "https://www.youtube.com/watch?v=DlvhlQOBHBw"
+      }
+    },
+    {
+      "title": "Kaip mes panaudojome Gemini kurdami „Google I/O 2026“.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "published_iso": "2026-06-01T16:00:00Z",
+      "published_lt": "2026-06-01 16:00 UTC",
+      "summary": "Sužinokite, kaip „Google“ darbuotojai naudojo AI kurdami „Google I/O 2026“.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-06-05-05-kaip-mes-panaudojome-gemini-kurdami-google-i-o-2026.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Tinklelio duomenų standartizavimas per SAP S/4HANA leidžia E.ON modernizuoti infrastruktūrą ir vykdyti DI diegimus.",
-        "Komunalinių paslaugų milžinas valdo infrastruktūrą trijose skirtingose ​​srityse: energijos tinklų, klientų sprendimų ir energetikos infrastruktūros sprendimų."
+        "Sužinokite, kaip „Google“ darbuotojai naudojo AI kurdami „Google I/O 2026“.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
-        "try_url": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/"
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647"
       }
     },
     {
-      "title": "„Nous Research“ išleido „Hermes Desktop“: vietinę kelių platformų sąsają, skirtą „Hermes Agent v0.15.2“ su srautinio perdavimo įrankio išvestimi",
-      "link": "https://www.marktechpost.com/2026/06/03/nous-research-releases-hermes-desktop-a-native-cross-platform-front-end-for-hermes-agent-v0-15-2-with-streaming-tool-output/",
-      "published_iso": "2026-06-03T09:38:32Z",
-      "published_lt": "2026-06-03 09:38 UTC",
-      "summary": "„Hermes Desktop“ yra be terminalo GUI, kuri dalijasi vienu agento branduoliu, įgūdžiais ir atmintimi su „Hermes Agent CLI“. Įrašas „Nous Research Releases Hermes Desktop: A Native Cross-Platform Front End for Hermes Agent v0.15.2 with Streaming Tool Output appeared first on MarkTechPost .",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-04-10-nous-research-isleido-hermes-desktop-vietine-keliu-platf.svg",
+      "title": "Dalyvaukite mūsų I/O 2026 viktorinoje, kuri užkoduota „Google AI Studio“.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "published_iso": "2026-05-29T19:00:00Z",
+      "published_lt": "2026-05-29 19:00 UTC",
+      "summary": "Naudojome „Google AI Studio“, kad sukurtume viktoriną apie populiariausius 2026 m. I/O pranešimus.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-06-05-06-dalyvaukite-musu-i-o-2026-viktorinoje-kuri-uzkoduota-goo.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Hermes Desktop“ yra be terminalo GUI, kuri dalijasi vienu agento branduoliu, įgūdžiais ir atmintimi su „Hermes Agent CLI“.",
-        "Įrašas „Nous Research Releases Hermes Desktop: A Native Cross-Platform Front End for Hermes Agent v0.15.2 with Streaming Tool Output appeared first on MarkTechPost ."
+        "Naudojome „Google AI Studio“, kad sukurtume viktoriną apie populiariausius 2026 m.",
+        "I/O pranešimus.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/03/nous-research-releases-hermes-desktop-a-native-cross-platform-front-end-for-hermes-agent-v0-15-2-with-streaming-tool-output/",
-        "try_url": "https://www.marktechpost.com/2026/06/03/nous-research-releases-hermes-desktop-a-native-cross-platform-front-end-for-hermes-agent-v0-15-2-with-streaming-tool-output/"
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647"
       }
     },
     {
-      "title": "„Walmart“ AI darbo eigos atitinka balanso realijas",
-      "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
-      "published_iso": "2026-06-03T09:33:00Z",
-      "published_lt": "2026-06-03 09:33 UTC",
-      "summary": "Pranešama, kad „Walmart“ pradėjo riboti darbuotojų naudojimąsi vidiniu AI asistentu, vadinamu „Code Puppy“, po to, kai įrankį palaikančiai LLM buvo keliami didesni reikalavimai, nei tikėtasi.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-04-11-walmart-ai-darbo-eigos-atitinka-balanso-realijas.svg",
+      "title": "9 „Gemini Omni“ ir „Gemini 3.5“ demonstracinės versijos veikia",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "published_iso": "2026-05-29T17:30:00Z",
+      "published_lt": "2026-05-29 17:30 UTC",
+      "summary": "Peržiūrėkite 9 vaizdo įrašus, kuriuose parodomos „Gemini Omni“ ir „Gemini 3.5“ galimybės, paskelbtos „Google I/O 2026“.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-06-05-07-9-gemini-omni-ir-gemini-3-5-demonstracines-versijos-veik.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Pranešama, kad „Walmart“ pradėjo riboti darbuotojų naudojimąsi vidiniu AI asistentu, vadinamu „Code Puppy“, po to, kai įrankį palaikančiai LLM buvo keliami didesni reikalavimai, nei tikėtasi."
+        "Peržiūrėkite 9 vaizdo įrašus, kuriuose parodomos „Gemini Omni“ ir „Gemini 3.5“ galimybės, paskelbtos „Google I/O 2026“.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
-        "try_url": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/"
+        "kur_isbandyti": "Galima tikrinti cia: https://twitter.com/intent/tweet?text=9%20demos%20of%20Gemini%20Omni%20and%20Gemini%203.5%20in%20action%20%40google&url=https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+        "try_url": "https://twitter.com/intent/tweet?text=9%20demos%20of%20Gemini%20Omni%20and%20Gemini%203.5%20in%20action%20%40google&url=https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/"
       }
     },
     {
-      "title": "„Microsoft“ „Majorana 2“ kvantinis lustas taip pat yra agentinio AI atvejo tyrimas MTTP srityje",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
-      "published_iso": "2026-06-03T09:00:00Z",
-      "published_lt": "2026-06-03 09:00 UTC",
-      "summary": "Šią savaitę pasirodė „Microsoft“ „Majorana 2“ kvantinė mikroschema su skaičiais, kuriuos tikrai sunku nustatyti kontekste: kubitai 1000 kartų patikimesni nei pirmosios kartos modelių, vidutinė kubitų tarnavimo trukmė yra 20 sekundžių, palyginti su pramonės norma, matuojama mikrosekundėmis, ir peržiūrėtas planas, skirtas komercijai.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-04-12-microsoft-majorana-2-kvantinis-lustas-taip-pat-yra-agent.svg",
+      "title": "Peržiūrėkite realius AI prototipus iš „Futures Lab“.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "published_iso": "2026-05-29T12:00:00Z",
+      "published_lt": "2026-05-29 12:00 UTC",
+      "summary": "Vaterlo universiteto studentai kuria dirbtinio intelekto prototipus, pvz., gestų kalbos mokytojus, kad pakeistų švietimo ir darbo ateitį.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-06-05-08-perziurekite-realius-ai-prototipus-is-futures-lab.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Šią savaitę pasirodė „Microsoft“ „Majorana 2“ kvantinė mikroschema su skaičiais, kuriuos tikrai sunku nustatyti kontekste: kubitai 1000 kartų patikimesni nei pirmosios kartos modelių, vidutinė kubitų tarnavimo trukmė yra 20 sekundžių, palyginti su pramonės norma, matuojama mikrosekundėmis, ir peržiūrėtas planas, skirtas komercijai.",
-        "Kaina: Labiau panasu i mokama sprendima."
+        "Vaterlo universiteto studentai kuria dirbtinio intelekto prototipus, pvz., gestų kalbos mokytojus, kad pakeistų švietimo ir darbo ateitį.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
+        "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
-        "try_url": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/"
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647"
+      }
+    },
+    {
+      "title": "Susipažinkite su 12 pagrindinių 2026 m. I/O akimirkų",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "published_iso": "2026-05-28T15:00:00Z",
+      "published_lt": "2026-05-28 15:00 UTC",
+      "summary": "Štai 12 didžiausių „Google I/O 2026“ pagrindinių akimirkų, įskaitant naujienas apie „Gemini Omni“, „Gemini 3.5 Flash“ ir kt.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-06-05-09-susipazinkite-su-12-pagrindiniu-2026-m-i-o-akimirku.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Štai 12 didžiausių „Google I/O 2026“ pagrindinių akimirkų, įskaitant naujienas apie „Gemini Omni“, „Gemini 3.5 Flash“ ir kt.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647"
+      }
+    },
+    {
+      "title": "Susipažinkite su dialogų etapu „Google I/O 2026“.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "published_iso": "2026-05-22T18:00:00Z",
+      "published_lt": "2026-05-22 18:00 UTC",
+      "summary": "2026 m. I/O dialogų, kuriuose lyderiai diskutuoja apie dirbtinio intelekto ateitį, kvantinį skaičiavimą, robotiką ir kūrybiškumą, santrauka.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-06-05-10-susipazinkite-su-dialogu-etapu-google-i-o-2026.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "2026 m.",
+        "I/O dialogų, kuriuose lyderiai diskutuoja apie dirbtinio intelekto ateitį, kvantinį skaičiavimą, robotiką ir kūrybiškumą, santrauka.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647"
+      }
+    },
+    {
+      "title": "Skelbiame apie naujas bendruomenės investicijas Misūryje.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "published_iso": "2026-05-20T20:40:00Z",
+      "published_lt": "2026-05-20 20:40 UTC",
+      "summary": "Mes padedame kurti valstybės naujos kartos darbo jėgą ir investuojame į energetikos programas.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-06-05-11-skelbiame-apie-naujas-bendruomenes-investicijas-misuryje.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Mes padedame kurti valstybės naujos kartos darbo jėgą ir investuojame į energetikos programas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647"
+      }
+    },
+    {
+      "title": "100 dalykų, apie kuriuos paskelbėme I/O 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "published_iso": "2026-05-20T19:30:00Z",
+      "published_lt": "2026-05-20 19:30 UTC",
+      "summary": "Pateikiame populiariausių „I/O 2026“ pranešimų, pristatymų ir demonstracinių versijų apžvalgą.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-06-05-12-100-dalyku-apie-kuriuos-paskelbeme-i-o-2026.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Pateikiame populiariausių „I/O 2026“ pranešimų, pristatymų ir demonstracinių versijų apžvalgą.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260528-1647"
       }
     }
   ]
