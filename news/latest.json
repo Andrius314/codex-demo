@@ -1,10 +1,87 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-06-13",
-  "generated_at_utc": "2026-06-13T09:53:33Z",
+  "digest_date": "2026-06-14",
+  "generated_at_utc": "2026-06-14T10:20:52Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "„Databricks Open-Sources Omnigent“: Meta laidai, kurie sudaro, valdo ir dalijasi dirbtinio intelekto agentais Claude Code, Codex ir Pi",
+      "link": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
+      "published_iso": "2026-06-14T05:01:39Z",
+      "published_lt": "2026-06-14 05:01 UTC",
+      "summary": "„Databricks“ turi atvirojo kodo „Omnigent“ – meta-raktus, kurie yra aukščiau už kodavimo agentus, tokius kaip „Claude Code“, „Codex“ ir „Pi“. Ji prideda kompoziciją, kontekstinę politiką ir tiesioginį seansų bendrinimą vienoje sąsajoje terminale, žiniatinklyje, darbalaukyje ir mobiliajame telefone. Apache 2.0 projektas yra alfa versijos.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-13-at-9.49.47-PM-1-150x150.png",
+      "image_url": "generated-images/2026-06-14-01-databricks-open-sources-omnigent-meta-laidai-kurie-sudar.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Databricks“ turi atvirojo kodo „Omnigent“ – meta-raktus, kurie yra aukščiau už kodavimo agentus, tokius kaip „Claude Code“, „Codex“ ir „Pi“.",
+        "Ji prideda kompoziciją, kontekstinę politiką ir tiesioginį seansų bendrinimą vienoje sąsajoje terminale, žiniatinklyje, darbalaukyje ir mobiliajame telefone.",
+        "Apache 2.0 projektas yra alfa versijos."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
+        "try_url": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/"
+      }
+    },
+    {
+      "title": "RIP Claude Fable, atvirojo kodo dirbtinis intelektas, viso kūno avatarai, nauji „Google“ modeliai, nauji TTS: AI NAUJIENOS",
+      "link": "https://www.youtube.com/watch?v=SxiRANj0xLs",
+      "published_iso": "2026-06-14T03:29:37Z",
+      "published_lt": "2026-06-14 03:29 UTC",
+      "summary": "DIDELĖS AI NAUJIENOS: GLM 5.2, Kimi K2.7, Claude Fable Mythos uždraustas, SCAIL 2, Minimax M3 ir dar daugiau #ainews #ai #aitools #agi #singularity Ačiū mūsų rėmėjui Luma AI.",
+      "source": "AI Search",
+      "source_image_url": "https://i4.ytimg.com/vi/SxiRANj0xLs/hqdefault.jpg",
+      "image_url": "generated-images/2026-06-14-02-rip-claude-fable-atvirojo-kodo-dirbtinis-intelektas-viso.svg",
+      "kind": "video",
+      "video_id": "SxiRANj0xLs",
+      "bullets_lt": [
+        "DIDELĖS AI NAUJIENOS: GLM 5.2, Kimi K2.7, Claude Fable Mythos uždraustas, SCAIL 2, Minimax M3 ir dar daugiau #ainews #ai #aitools #agi #singularity Ačiū mūsų rėmėjui Luma AI."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=SxiRANj0xLs",
+        "try_url": "https://www.youtube.com/watch?v=SxiRANj0xLs"
+      }
+    },
+    {
+      "title": "Kaip sukurti „QwenPaw“ agento darbo sritį naudojant tinkintus įgūdžius, modelių teikėjus, konsolės prieigą ir srautinio API testavimą",
+      "link": "https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/",
+      "published_iso": "2026-06-13T17:27:22Z",
+      "published_lt": "2026-06-13 17:27 UTC",
+      "summary": "Šioje mokymo programoje įdiegiame QwenPaw darbo eigą, kuri suteikia praktinę aplinką agento valdomo asistento kūrimui ir testavimui.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-06-14-03-kaip-sukurti-qwenpaw-agento-darbo-sriti-naudojant-tinkin.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje įdiegiame QwenPaw darbo eigą, kuri suteikia praktinę aplinką agento valdomo asistento kūrimui ir testavimui."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/",
+        "try_url": "https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/"
+      }
+    },
     {
       "title": "Antropiniai neįgalieji Claude Fable 5 ir Mythos 5 po JAV vyriausybės įsakymo",
       "link": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
@@ -13,7 +90,7 @@
       "summary": "uždarymas po JAV vyriausybės eksporto kontrolės direktyvos, nurodančios nacionalinės saugumo institucijos. Visi kiti Antropiniai modeliai, įskaitant Opus 4.8, išlieka prieinami. The post Antropiniai neįgalieji Claude Fable 5 ir Mythos 5 po JAV vyriausybės įsakymo appeared first on MarkTechPost.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-13-01-antropiniai-neigalieji-claude-fable-5-ir-mythos-5-po-jav.svg",
+      "image_url": "generated-images/2026-06-14-04-antropiniai-neigalieji-claude-fable-5-ir-mythos-5-po-jav.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -40,7 +117,7 @@
       "summary": "Moonshot AI turi atvirojo kodo Kimi K2.7 kodą pagal modifikuotą MIT licenciją. Tai į kodavimą orientuotas agentinis modelis, sukurtas naudojant Kimi K2.6, turintis 256 000 konteksto langą ir maždaug 30 % mažiau samprotavimo ženklų. „Moonshot“ praneša, kad pagal šešis etalonus išaugo daugiau nei K2,6, įskaitant +21,8% Kimi Code Bench v2.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-13-02-moonshot-ai-isleido-kimi-k2-7-code-kodavimo-modelis-apie.svg",
+      "image_url": "generated-images/2026-06-14-05-moonshot-ai-isleido-kimi-k2-7-code-kodavimo-modelis-apie.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -67,7 +144,7 @@
       "summary": "Sukuriame erdvinio grafiko mokymosi dujotiekį nuo galo iki galo naudodami city2graph. Mes renkame miesto POI ir gatvių tinklo duomenis iš OpenStreetMap su sintetiniu atsarginiu patikimumu. Kuriame erdvines ypatybes, sukuriame kelias artumo grafikų šeimas ir palyginame, kaip kiekviena iš jų reprezentuoja tą pačią miesto aplinką.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-13-03-kodavimo-igyvendinimas-erdviniuose-grafiniuose-neuronini.svg",
+      "image_url": "generated-images/2026-06-14-06-kodavimo-igyvendinimas-erdviniuose-grafiniuose-neuronini.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -94,7 +171,7 @@
       "summary": "Mes žiūrime į Gemini-SQL2 – teksto į SQL funkciją, kurią „Google Research“ paskelbė 2026 m. birželio 12 d. Naudojama Gemini 3.1 Pro, BIRD vieno modelio pirmaujančiųjų sąraše paskelbtas 80,04 % vykdymo tikslumas. Paaiškiname, ką matuoja rezultatas, kaip išsidėsto lyderių lentelė ir ko „Google“ dar neatskleidė.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/jk1-150x150.jpeg",
-      "image_url": "generated-images/2026-06-13-04-google-isleido-gemini-sql2-gemini-3-1-pro-teksto-i-sql-i.svg",
+      "image_url": "generated-images/2026-06-14-07-google-isleido-gemini-sql2-gemini-3-1-pro-teksto-i-sql-i.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -121,7 +198,7 @@
       "summary": "Pažiūrėkite, kaip „Codex“ investavimo į viešąjį kapitalą papildinys paverčia naujausią įmonės ketvirtį pelno analize. Naudodamas prijungtus duomenis iš tokių šaltinių kaip „Quartr“, „Daloopa“ ir „S&P Global“, „Codex“ įvertina įmonės augimo veiksnius, gaires, maržos tendencijas ir spausdinimo kokybę.",
       "source": "OpenAI",
       "source_image_url": "https://i3.ytimg.com/vi/Rlju1Z9e110/hqdefault.jpg",
-      "image_url": "generated-images/2026-06-13-05-isanalizuokite-pajamas-ir-atnaujinkite-savo-investiciju-.svg",
+      "image_url": "generated-images/2026-06-14-08-isanalizuokite-pajamas-ir-atnaujinkite-savo-investiciju-.svg",
       "kind": "video",
       "video_id": "Rlju1Z9e110",
       "bullets_lt": [
@@ -148,7 +225,7 @@
       "summary": "Coinbase for Agents sujungia dirbtinį intelektą su finansų vykdymo kanalais, kad automatizuotų prekybą ir mokėjimus tiesiai iš vartotojų portfelių. Dideli kalbiniai modeliai apdoroja didelius duomenų kiekius, tačiau jiems trūksta tiesioginės integracijos su aktyviais finansiniais portfeliais.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-13-06-coinbase-agentams-prekybos-portfelio-automatizavimas-nau.svg",
+      "image_url": "generated-images/2026-06-14-09-coinbase-agentams-prekybos-portfelio-automatizavimas-nau.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -174,7 +251,7 @@
       "summary": "Moonshot AI Kimi Work yra vietinis darbalaukio agentas, skirtas MacOS ir Windows. Jis paleidžia 300 antrinių agentų būrį, valdo prisijungtą naršyklę per „WebBridge“ ir suplanuoja fonines užduotis.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-13-07-moonshot-ai-pristato-kimi-work-vietini-staliniu-kompiute.svg",
+      "image_url": "generated-images/2026-06-14-10-moonshot-ai-pristato-kimi-work-vietini-staliniu-kompiute.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -202,7 +279,7 @@
       "summary": "„Zyphra“ išleido „Zamba2-VL“ – atviro matymo kalbų modelių šeimą su 1.2B, 2.7B ir 7B parametrais. Modeliuose naudojama hibridinė „Mamba2“ būsenos erdvė ir „Transformer“ stuburas, pristatomas naudojant „Apache 2.0“.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-12-at-1.05.59-AM-1-150x150.png",
-      "image_url": "generated-images/2026-06-13-08-zyphra-leidimas-zamba2-vl-hibridiniai-mamba2-transformer.svg",
+      "image_url": "generated-images/2026-06-14-11-zyphra-leidimas-zamba2-vl-hibridiniai-mamba2-transformer.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -228,7 +305,7 @@
       "summary": "Šioje pamokoje mes sukuriame galutinį 3D medicininių vaizdų segmentavimo dujotiekį naudodami MONAI, kad segmentuotume blužnį medicinos segmento „Decathlon Task09“ duomenų rinkinyje.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-13-09-monai-kodavimo-igyvendinimas-skirtas-3d-bluznies-segment.svg",
+      "image_url": "generated-images/2026-06-14-12-monai-kodavimo-igyvendinimas-skirtas-3d-bluznies-segment.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -243,86 +320,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-monai-for-end-to-end-3d-spleen-segmentation-using-unet-on-medical-ct-volumes/",
         "try_url": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-monai-for-end-to-end-3d-spleen-segmentation-using-unet-on-medical-ct-volumes/"
-      }
-    },
-    {
-      "title": "Perplexity perkelia gilius tyrimus į kompiuterį, nukreipia tyrimo antrines užduotis per 20 ir daugiau pasienio modelių, skirtų ataskaitoms, denims ir prietaisų skydeliams",
-      "link": "https://www.marktechpost.com/2026/06/11/perplexity-moves-deep-research-into-computer-routing-research-subtasks-across-20-frontier-models-for-reports-decks-and-dashboards/",
-      "published_iso": "2026-06-11T22:21:32Z",
-      "published_lt": "2026-06-11 22:21 UTC",
-      "summary": "„Deep Research“ dabar yra „Perplexity Computer“ viduje, suskirstydamas sudėtingus klausimus į papildomas užduotis ir nukreipdamas daugiau nei 20 skirtingų modelių. Įrašas Perplexity Moves Deep Research to Computer, Routing Research Subtass Across 20+ Frontier Models for Reports, Decks and Dashboards said first on MarkTechPost.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-13-10-perplexity-perkelia-gilius-tyrimus-i-kompiuteri-nukreipi.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Deep Research“ dabar yra „Perplexity Computer“ viduje, suskirstydamas sudėtingus klausimus į papildomas užduotis ir nukreipdamas daugiau nei 20 skirtingų modelių.",
-        "Įrašas Perplexity Moves Deep Research to Computer, Routing Research Subtass Across 20+ Frontier Models for Reports, Decks and Dashboards said first on MarkTechPost.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/11/perplexity-moves-deep-research-into-computer-routing-research-subtasks-across-20-frontier-models-for-reports-decks-and-dashboards/",
-        "try_url": "https://www.marktechpost.com/2026/06/11/perplexity-moves-deep-research-into-computer-routing-research-subtasks-across-20-frontier-models-for-reports-decks-and-dashboards/"
-      }
-    },
-    {
-      "title": "„xAI“ pristato „Grok Build Plugin Marketplace“ su „MongoDB“, „Vercel“, „Sentry“, „Chrome DevTools“, „Cloudflare“ ir „Superpowers“ papildiniais.",
-      "link": "https://www.marktechpost.com/2026/06/11/xai-ships-grok-build-plugin-marketplace-with-mongodb-vercel-sentry-chrome-devtools-cloudflare-and-superpowers-plugins-at-launch/",
-      "published_iso": "2026-06-11T21:30:31Z",
-      "published_lt": "2026-06-11 21:30 UTC",
-      "summary": "„Grok Build“ terminalo prekyvietė sujungia įgūdžius, agentus, kabliukus ir MCP serverius, o kiekviename nuotoliniame papildinyje atlieka commit-SHA patvirtinimą. Įrašas „xAI Ships Grok Build Plugin Marketplace with MongoDB“, „Vercel“, „Sentry“, „Chrome DevTools“, „Cloudflare“ ir „Superpowers Plugins at Launch“ pirmą kartą pasirodė MarkTechPost .",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-13-11-xai-pristato-grok-build-plugin-marketplace-su-mongodb-ve.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Grok Build“ terminalo prekyvietė sujungia įgūdžius, agentus, kabliukus ir MCP serverius, o kiekviename nuotoliniame papildinyje atlieka commit-SHA patvirtinimą.",
-        "Įrašas „xAI Ships Grok Build Plugin Marketplace with MongoDB“, „Vercel“, „Sentry“, „Chrome DevTools“, „Cloudflare“ ir „Superpowers Plugins at Launch“ pirmą kartą pasirodė MarkTechPost .",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/11/xai-ships-grok-build-plugin-marketplace-with-mongodb-vercel-sentry-chrome-devtools-cloudflare-and-superpowers-plugins-at-launch/",
-        "try_url": "https://www.marktechpost.com/2026/06/11/xai-ships-grok-build-plugin-marketplace-with-mongodb-vercel-sentry-chrome-devtools-cloudflare-and-superpowers-plugins-at-launch/"
-      }
-    },
-    {
-      "title": "„Claude Fable 5“ jau čia!",
-      "link": "https://www.youtube.com/watch?v=GUEE9OA4keo",
-      "published_iso": "2026-06-11T03:30:58Z",
-      "published_lt": "2026-06-11 03:30 UTC",
-      "summary": "Claude Mythos 5 / Fable 5 apžvalga. #ai #aitools #ainews #llm #singularity #aiagent #agi Ačiū mūsų rėmėjui Hubspot.",
-      "source": "AI Search",
-      "source_image_url": "https://i4.ytimg.com/vi/GUEE9OA4keo/hqdefault.jpg",
-      "image_url": "generated-images/2026-06-13-12-claude-fable-5-jau-cia.svg",
-      "kind": "video",
-      "video_id": "GUEE9OA4keo",
-      "bullets_lt": [
-        "Claude Mythos 5 / Fable 5 apžvalga.",
-        "#ai #aitools #ainews #llm #singularity #aiagent #agi Ačiū mūsų rėmėjui Hubspot."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=GUEE9OA4keo",
-        "try_url": "https://www.youtube.com/watch?v=GUEE9OA4keo"
       }
     }
   ]
