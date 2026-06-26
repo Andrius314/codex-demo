@@ -1,10 +1,143 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-06-25",
-  "generated_at_utc": "2026-06-25T10:12:28Z",
+  "digest_date": "2026-06-26",
+  "generated_at_utc": "2026-06-26T10:17:45Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Susipažinkite su konteineriu: „Apple“ atvirojo kodo „Swift“ įrankis, skirtas „Linux“ konteineriams paleisti kaip lengvas VM „Apple Silicon“",
+      "link": "https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/",
+      "published_iso": "2026-06-26T08:48:39Z",
+      "published_lt": "2026-06-26 08:48 UTC",
+      "summary": "„Apple“ išleido konteinerį 1.0 – atvirojo kodo „Swift“ įrankį, kuriame „Linux“ konteineriai veikia kaip lengvos virtualios mašinos „Apple“ silicyje. Įrašas Susipažinkite su konteineriu: „Apple“ atvirojo kodo „Swift“ įrankis, skirtas „Linux“ konteineriams paleisti kaip lengvus VM „Apple Silicon“, pirmiausia pasirodė „MarkTechPost“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-06-26-01-susipazinkite-su-konteineriu-apple-atvirojo-kodo-swift-i.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Apple“ išleido konteinerį 1.0 – atvirojo kodo „Swift“ įrankį, kuriame „Linux“ konteineriai veikia kaip lengvos virtualios mašinos „Apple“ silicyje.",
+        "Įrašas Susipažinkite su konteineriu: „Apple“ atvirojo kodo „Swift“ įrankis, skirtas „Linux“ konteineriams paleisti kaip lengvus VM „Apple Silicon“, pirmiausia pasirodė „MarkTechPost“."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/",
+        "try_url": "https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/"
+      }
+    },
+    {
+      "title": "Sukurkite nanoboto stiliaus AI agentą „Google Colab“ naudodami įrankių iškvietimą, seanso atmintį, įgūdžius ir MCP serverius",
+      "link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
+      "published_iso": "2026-06-26T08:00:07Z",
+      "published_lt": "2026-06-26 08:00 UTC",
+      "summary": "Šioje mokymo programoje sukuriame lengvą asmeninį dirbtinio intelekto agentą, įkvėptą nanoboto architektūros, kurią galima paleisti tik „Google Colab“. Pradedame nuo teikėjo abstrakcijos, tada pridedame įrankių registraciją, seanso atmintį, gyvavimo ciklo kabliukus, įgūdžius ir MCP stiliaus įrankių serverį.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-06-26-02-sukurkite-nanoboto-stiliaus-ai-agenta-google-colab-naudo.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje sukuriame lengvą asmeninį dirbtinio intelekto agentą, įkvėptą nanoboto architektūros, kurią galima paleisti tik „Google Colab“.",
+        "Pradedame nuo teikėjo abstrakcijos, tada pridedame įrankių registraciją, seanso atmintį, gyvavimo ciklo kabliukus, įgūdžius ir MCP stiliaus įrankių serverį."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
+        "try_url": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/"
+      }
+    },
+    {
+      "title": "O kas, jei augalai galėtų kalbėti?",
+      "link": "https://www.youtube.com/watch?v=q_diWy3xdrw",
+      "published_iso": "2026-06-25T17:19:53Z",
+      "published_lt": "2026-06-25 17:19 UTC",
+      "summary": "Dabar mūsų augalai neužsimerks. Suteikite savo augalams balsą: https://github.com/openai/planttalk",
+      "source": "OpenAI",
+      "source_image_url": "https://i2.ytimg.com/vi/q_diWy3xdrw/hqdefault.jpg",
+      "image_url": "generated-images/2026-06-26-03-o-kas-jei-augalai-galetu-kalbeti.svg",
+      "kind": "video",
+      "video_id": "q_diWy3xdrw",
+      "bullets_lt": [
+        "Dabar mūsų augalai neužsimerks.",
+        "Suteikite savo augalams balsą: https://github.com/openai/planttalk.",
+        "Kaina: Labiau panasu i mokama sprendima."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=q_diWy3xdrw",
+        "try_url": "https://www.youtube.com/watch?v=q_diWy3xdrw"
+      }
+    },
+    {
+      "title": "„DeepReinforce“ išleido „Ornith-1.0“: atvirojo kodo kodavimo modelių šeimą, kuri mokosi savo RL pastolių",
+      "link": "https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
+      "published_iso": "2026-06-25T17:11:37Z",
+      "published_lt": "2026-06-25 17:11 UTC",
+      "summary": "„DeepReinforce“ išleido „Ornith-1.0“, atvirojo kodo kodavimo modelių šeimą, sukurtą „Gemma 4“ ir „Qwen 3.5“. Vietoj fiksuotų diržų modelis mokydamasis sustiprinimo išmoksta savo pastolius. 397B flagmanas SWE-Bench Verified rodo 82,4, su visais svoriais pagal MIT licenciją.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-06-26-04-deepreinforce-isleido-ornith-1-0-atvirojo-kodo-kodavimo-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„DeepReinforce“ išleido „Ornith-1.0“, atvirojo kodo kodavimo modelių šeimą, sukurtą „Gemma 4“ ir „Qwen 3.5“.",
+        "Vietoj fiksuotų diržų modelis mokydamasis sustiprinimo išmoksta savo pastolius.",
+        "397B flagmanas SWE-Bench Verified rodo 82,4, su visais svoriais pagal MIT licenciją."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
+        "try_url": "https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/"
+      }
+    },
+    {
+      "title": "Naujausi „Google“ finansų naujinimai, įskaitant naują programą",
+      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "published_iso": "2026-06-25T16:00:00Z",
+      "published_lt": "2026-06-25 16:00 UTC",
+      "summary": "Naujasis „Google Finance“ išleidžiamas beta versijos ir pristato naują „Android“ programą.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-06-26-05-naujausi-google-finansu-naujinimai-iskaitant-nauja-progr.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Naujasis „Google Finance“ išleidžiamas beta versijos ir pristato naują „Android“ programą.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260624-1707",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260624-1707"
+      }
+    },
     {
       "title": "„OpenAI Jalapeño“ lusto matematika",
       "link": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
@@ -13,7 +146,7 @@
       "summary": "„OpenAI“ finansinė trajektorija labai priklauso nuo infrastruktūros sąnaudų – realybė, kuri paskatino naujojo „OpenAI Jalapeño“ lusto kūrimą.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-25-01-openai-jalape-o-lusto-matematika.svg",
+      "image_url": "generated-images/2026-06-26-06-openai-jalape-o-lusto-matematika.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -38,7 +171,7 @@
       "summary": "Baidu atvirojo kodo Unlimited OCR, 3B parametrų MoE modelis, kuris vienu pirminiu žingsniu analizuoja daugybę dokumento puslapių. Jo orientacinis slankiojančio lango dėmesys (R-SWA) išlaiko KV talpyklą pastovią, todėl atmintis ir delsa išlieka nepakitusios, kai išvestis auga.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-10.39.15-PM-1-150x150.png",
-      "image_url": "generated-images/2026-06-25-02-baidu-isleidzia-neribota-ocr-3b-modeli-kuris-islaiko-kv-.svg",
+      "image_url": "generated-images/2026-06-26-07-baidu-isleidzia-neribota-ocr-3b-modeli-kuris-islaiko-kv-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -65,7 +198,7 @@
       "summary": "„Gradium“ išleido du kalbos vertimo realiuoju laiku modelius – stt-translate ir s2s-translate, apimančius anglų, prancūzų, vokiečių, ispanų ir portugalų kalbas 20 kalbų porų.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-25-03-gradium-pristato-stt-translate-ir-s2s-translate-realiojo.svg",
+      "image_url": "generated-images/2026-06-26-08-gradium-pristato-stt-translate-ir-s2s-translate-realiojo.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -91,7 +224,7 @@
       "summary": "Šioje mokymo programoje nuo nulio sukuriame OpenHarness stiliaus agentų diržus, kad pamatytume, kaip veikia praktinė agentų sistema. Atkuriame pagrindinius blokus: įrankių naudojimą, įvestas įrankių schemas, leidimus, gyvavimo ciklo kabliukus, atmintį, įgūdžius, konteksto sutankinimą, pakartotinio bandymo logiką, išlaidų stebėjimą ir kelių agentų koordinavimą.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-25-04-kaip-sukurti-openharness-style-agent-runtime-su-irankiai.svg",
+      "image_url": "generated-images/2026-06-26-09-kaip-sukurti-openharness-style-agent-runtime-su-irankiai.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -117,7 +250,7 @@
       "summary": "„Samsung Electronics“ plečia darbuotojų prieigą prie „ChatGPT Enterprise“ ir „Codex“, suteikdama darbuotojams plačiau naudotis AI įrankiais techniniam ir netechniniam darbui. „OpenAI“ teigimu, diegimas apima visus „Samsung Electronics“ darbuotojus Korėjoje ir visus „Device eXperience“ darbuotojus visame pasaulyje.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-25-05-samsung-atidaro-chatgpt-enterprise-ir-codex-prieiga-po-a.svg",
+      "image_url": "generated-images/2026-06-26-10-samsung-atidaro-chatgpt-enterprise-ir-codex-prieiga-po-a.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -142,14 +275,14 @@
       "link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
       "published_iso": "2026-06-24T09:36:59Z",
       "published_lt": "2026-06-24 09:36 UTC",
-      "summary": "Šioje mokymo programoje sukuriame visiškai neprisijungus pasiekiamą „Graphify“ dujotiekį, kuris kelių modulių „Python“ programą paverčia žinių grafiku. Įdiegiame „Graphify“, sugeneruojame prijungtą pavyzdinę programą ir ištraukiame grafiką vietoje, naudodami „tree-sitter“, be API rakto ar LLM sistemos.",
+      "summary": "Šioje mokymo programoje sukuriame visiškai neprisijungus pasiekiamą „Graphify“ konvejerį, kuris kelių modulių „Python“ programą paverčia žinių grafiku. Įdiegiame „Graphify“, sugeneruojame prijungtą pavyzdinę programą ir ištraukiame grafiką vietoje, naudodami „tree-sitter“, be API rakto ar LLM sistemos.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-06-25-06-graphify-ir-networkx-naudojimas-norint-susieti-python-ko.svg",
+      "image_url": "generated-images/2026-06-26-11-graphify-ir-networkx-naudojimas-norint-susieti-python-ko.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Šioje mokymo programoje sukuriame visiškai neprisijungus pasiekiamą „Graphify“ dujotiekį, kuris kelių modulių „Python“ programą paverčia žinių grafiku.",
+        "Šioje mokymo programoje sukuriame visiškai neprisijungus pasiekiamą „Graphify“ konvejerį, kuris kelių modulių „Python“ programą paverčia žinių grafiku.",
         "Įdiegiame „Graphify“, sugeneruojame prijungtą pavyzdinę programą ir ištraukiame grafiką vietoje, naudodami „tree-sitter“, be API rakto ar LLM sistemos.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
@@ -165,114 +298,6 @@
       }
     },
     {
-      "title": "„Nous Research“ prideda / išmoksta „Hermes“ agento įgūdžių sistemą, fiksuodamas darbo eigas kaip pasvirusias komandas be rašymo ranka SKILL.md",
-      "link": "https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/",
-      "published_iso": "2026-06-24T09:21:49Z",
-      "published_lt": "2026-06-24 09:21 UTC",
-      "summary": "„Nous Research“ įtraukė / išmokti „Hermes Agent Skills“ sistemą. Komanda sukuria standartus atitinkantį failą SKILL.md iš vietinio katalogo, dokumento URL, ankstesnio pokalbio arba įklijuotų pastabų. Tiesioginis agentas gauna medžiagą naudodamas savo įrankius, tada užrašo įgūdžius – be rašymo ranka ir jokio atskiro įvedimo variklio.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-25-07-nous-research-prideda-ismoksta-hermes-agento-igudziu-sis.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Nous Research“ įtraukė / išmokti „Hermes Agent Skills“ sistemą.",
-        "Komanda sukuria standartus atitinkantį failą SKILL.md iš vietinio katalogo, dokumento URL, ankstesnio pokalbio arba įklijuotų pastabų.",
-        "Tiesioginis agentas gauna medžiagą naudodamas savo įrankius, tada užrašo įgūdžius – be rašymo ranka ir jokio atskiro įvedimo variklio."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/",
-        "try_url": "https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/"
-      }
-    },
-    {
-      "title": "Antropiniai lašai „darbo vietos AI agentai“ tiesiai „Slack“.",
-      "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
-      "published_iso": "2026-06-24T09:00:00Z",
-      "published_lt": "2026-06-24 09:00 UTC",
-      "summary": "„Anthropic“ išleido „Claude Tag“ funkcijos beta versiją, skirtą Enterprise ir Team lygiams, perkeldama savo pokalbių modelį į bendrinamus „Slack“ kanalus. Atsitraukdami nuo tradicinių izoliuotų pokalbių langelių, vartotojai įtraukia dirbtinio intelekto modelį į aktyvias grupių gijas, įvesdami @Claude.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-25-08-antropiniai-lasai-darbo-vietos-ai-agentai-tiesiai-slack.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Anthropic“ išleido „Claude Tag“ funkcijos beta versiją, skirtą Enterprise ir Team lygiams, perkeldama savo pokalbių modelį į bendrinamus „Slack“ kanalus.",
-        "Atsitraukdami nuo tradicinių izoliuotų pokalbių langelių, vartotojai įtraukia dirbtinio intelekto modelį į aktyvias grupių gijas, įvesdami @Claude.",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
-        "try_url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/"
-      }
-    },
-    {
-      "title": "16 geriausių generuojamųjų AI kodavimo įrankių 2026 m., Palyginti: funkcijos ir geriausiai tinka",
-      "link": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
-      "published_iso": "2026-06-24T08:12:27Z",
-      "published_lt": "2026-06-24 08:12 UTC",
-      "summary": "Generatyvusis AI pakeitė programinės įrangos kūrimo būdą. Tai, kas prasidėjo kaip eilutė po eilutės automatinio užbaigimo, dabar apima visą programų generavimą, kelių agentų kūrimo konvejerius ir natūralios kalbos sąsajas su ištisomis kodų bazėmis.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-06-25-09-16-geriausiu-generuojamuju-ai-kodavimo-irankiu-2026-m-pa.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Generatyvusis AI pakeitė programinės įrangos kūrimo būdą.",
-        "Tai, kas prasidėjo kaip eilutė po eilutės automatinio užbaigimo, dabar apima visą programų generavimą, kelių agentų kūrimo konvejerius ir natūralios kalbos sąsajas su ištisomis kodų bazėmis.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
-        "try_url": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/"
-      }
-    },
-    {
-      "title": "DFlash spekuliacinis dekodavimas lygiagrečiai sukuria visus žetonų blokus, kad NVIDIA Blackwell pralaidumas būtų iki 15 kartų didesnis",
-      "link": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
-      "published_iso": "2026-06-24T07:21:10Z",
-      "published_lt": "2026-06-24 07:21 UTC",
-      "summary": "UC San Diego DFlash pakeičia autoregresyvų braižą lengvu blokų difuzijos modeliu spekuliaciniam dekodavimui. Jis nubraižo ištisus žetonų blokus vienu perėjimu į priekį ir nustato tikslines paslėptas funkcijas per KV injekciją.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-12.00.06-AM-1-150x150.png",
-      "image_url": "generated-images/2026-06-25-10-dflash-spekuliacinis-dekodavimas-lygiagreciai-sukuria-vi.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "UC San Diego DFlash pakeičia autoregresyvų braižą lengvu blokų difuzijos modeliu spekuliaciniam dekodavimui.",
-        "Jis nubraižo ištisus žetonų blokus vienu perėjimu į priekį ir nustato tikslines paslėptas funkcijas per KV injekciją."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
-        "try_url": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/"
-      }
-    },
-    {
       "title": "Naujas populiariausias vietinis AI vaizdų generatorius jau čia! Jau necenzūruota",
       "link": "https://www.youtube.com/watch?v=1U8dJ94QFNc",
       "published_iso": "2026-06-24T03:24:57Z",
@@ -280,7 +305,7 @@
       "summary": "Krea 2 peržiūros ir diegimo pamoka. Geriausias atvirojo kodo AI vaizdų generatorius. Kaip naudoti Krea 2 ComfyUI.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/1U8dJ94QFNc/hqdefault.jpg",
-      "image_url": "generated-images/2026-06-25-11-naujas-populiariausias-vietinis-ai-vaizdu-generatorius-j.svg",
+      "image_url": "generated-images/2026-06-26-12-naujas-populiariausias-vietinis-ai-vaizdu-generatorius-j.svg",
       "kind": "video",
       "video_id": "1U8dJ94QFNc",
       "bullets_lt": [
@@ -297,33 +322,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=1U8dJ94QFNc",
         "try_url": "https://www.youtube.com/watch?v=1U8dJ94QFNc"
-      }
-    },
-    {
-      "title": "„ChatGPT Futures“, 2026 m. klasė: naujos kartos dirbtinio intelekto lyderiai",
-      "link": "https://www.youtube.com/shorts/mVpCDzoNtxA",
-      "published_iso": "2026-06-23T18:45:29Z",
-      "published_lt": "2026-06-23 18:45 UTC",
-      "summary": "2026 m. „ChatGPT Futures Class“ paklausėme, ką jie tikisi, kad dirbtinis intelektas padės žmonėms daryti toliau. Jų atsakymai sugrįžo į prieigą, išsilavinimą, ryšį ir galimybes: AI, padedantis užpildyti spragas, o ne jas didinti, suteikia daugiau žmonių mokymosi ir kūrimo įrankių ir suteikia daugiau erdvės žmogaus gyvenimo dalims.",
-      "source": "OpenAI",
-      "source_image_url": "https://i2.ytimg.com/vi/mVpCDzoNtxA/hqdefault.jpg",
-      "image_url": "generated-images/2026-06-25-12-chatgpt-futures-2026-m-klase-naujos-kartos-dirbtinio-int.svg",
-      "kind": "video",
-      "video_id": "mVpCDzoNtxA",
-      "bullets_lt": [
-        "2026 m.",
-        "„ChatGPT Futures Class“ paklausėme, ką jie tikisi, kad dirbtinis intelektas padės žmonėms daryti toliau.",
-        "Jų atsakymai sugrįžo į prieigą, išsilavinimą, ryšį ir galimybes: AI, padedantis užpildyti spragas, o ne jas didinti, suteikia daugiau žmonių mokymosi ir kūrimo įrankių ir suteikia daugiau erdvės žmogaus gyvenimo dalims."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/mVpCDzoNtxA",
-        "try_url": "https://www.youtube.com/shorts/mVpCDzoNtxA"
       }
     }
   ]
