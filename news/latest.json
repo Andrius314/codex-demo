@@ -1,10 +1,115 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-07-10",
-  "generated_at_utc": "2026-07-10T10:17:36Z",
+  "digest_date": "2026-07-11",
+  "generated_at_utc": "2026-07-11T08:42:54Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Ant grupės „Robbyant“ pristato „LingBot-VA 2.0“: priežastinį vaizdo veiksmo modelį, sukurtą specialiai fiziniam AI",
+      "link": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
+      "published_iso": "2026-07-11T07:56:11Z",
+      "published_lt": "2026-07-11 07:56 UTC",
+      "summary": "Ant Group Robbyant išleido LingBot-VA 2.0 techninę ataskaitą – fizinio dirbtinio intelekto vaizdo veiksmo pagrindo modelį, sukurtą nuo nulio, kad būtų galima įkūnyti, o ne tiksliai suderintą iš vaizdo generatoriaus.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-11-at-12.53.47-AM-1-150x150.png",
+      "image_url": "generated-images/2026-07-11-01-ant-grupes-robbyant-pristato-lingbot-va-2-0-priezastini-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Ant Group Robbyant išleido LingBot-VA 2.0 techninę ataskaitą – fizinio dirbtinio intelekto vaizdo veiksmo pagrindo modelį, sukurtą nuo nulio, kad būtų galima įkūnyti, o ne tiksliai suderintą iš vaizdo generatoriaus."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
+        "try_url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/"
+      }
+    },
+    {
+      "title": "RingCentral Scales klientų programos su ChatGPT darbu",
+      "link": "https://www.youtube.com/shorts/MdTqoR-7oHg",
+      "published_iso": "2026-07-10T21:21:13Z",
+      "published_lt": "2026-07-10 21:21 UTC",
+      "summary": "„ChatGPT Work padėjo man padidinti nuo šešių klientų, kuriuos stebėjau bandomajame etape, iki maždaug 80“. Vaneet Seth, „RingCentral“ tyrimų ir plėtros efektyvumo vadovė, naudoja „ChatGPT Work“, kad suburtų informaciją įvairiose komandose, paverstų išsklaidytas žinias į gyvą operacinę sistemą ir greitai pereitų nuo įžvalgų prie vykdymo.",
+      "source": "OpenAI",
+      "source_image_url": "https://i2.ytimg.com/vi/MdTqoR-7oHg/hqdefault.jpg",
+      "image_url": "generated-images/2026-07-11-02-ringcentral-scales-klientu-programos-su-chatgpt-darbu.svg",
+      "kind": "video",
+      "video_id": "MdTqoR-7oHg",
+      "bullets_lt": [
+        "„ChatGPT Work padėjo man padidinti nuo šešių klientų, kuriuos stebėjau bandomajame etape, iki maždaug 80“.",
+        "Vaneet Seth, „RingCentral“ tyrimų ir plėtros efektyvumo vadovė, naudoja „ChatGPT Work“, kad suburtų informaciją įvairiose komandose, paverstų išsklaidytas žinias į gyvą operacinę sistemą ir greitai pereitų nuo įžvalgų prie vykdymo."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/MdTqoR-7oHg",
+        "try_url": "https://www.youtube.com/shorts/MdTqoR-7oHg"
+      }
+    },
+    {
+      "title": "Kyutai išleido „MuScriptor“: tik atviro svorio dekoderio transformatorių, skirtą kelių instrumentų muzikos transkripcijai į MIDI",
+      "link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+      "published_iso": "2026-07-10T20:21:08Z",
+      "published_lt": "2026-07-10 20:21 UTC",
+      "summary": "„MuScriptor“ yra atviras, tik dekoderis skirtas transformatorius iš Kyutai ir Mirelo. Išmokytas 170 000 tikrų įrašų ir 1,45 mln. sintetinių MIDI, jis perrašo visus kelių instrumentų mišinius į MIDI.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-11-03-kyutai-isleido-muscriptor-tik-atviro-svorio-dekoderio-tr.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„MuScriptor“ yra atviras, tik dekoderis skirtas transformatorius iš Kyutai ir Mirelo.",
+        "Išmokytas 170 000 tikrų įrašų ir 1,45 mln.",
+        "sintetinių MIDI, jis perrašo visus kelių instrumentų mišinius į MIDI."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+        "try_url": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/"
+      }
+    },
+    {
+      "title": "Kaip sukurti T4 pritaikytą autonominį duomenų mokslo agentą naudojant DeepAnalyze-8B, smėlio dėžės kodo vykdymą ir kartotinę analizę",
+      "link": "https://www.marktechpost.com/2026/07/10/how-to-build-a-t4-friendly-autonomous-data-science-agent-with-deepanalyze-8b-sandboxed-code-execution-and-iterative-analysis/",
+      "published_iso": "2026-07-10T19:24:00Z",
+      "published_lt": "2026-07-10 19:24 UTC",
+      "summary": "Sukuriame savarankišką duomenų mokslo agentą aplink DeepAnalyze-8B ir vykdome jį iki galo. Paruošiame stabilų „Colab“ vykdymo laiką, įdiegiame mašininio mokymosi priklausomybes ir įkeliame prieigos raktą bei modelį 4 bitų režimu, kad tilptų ribota GPU atmintis.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-11-04-kaip-sukurti-t4-pritaikyta-autonomini-duomenu-mokslo-age.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Sukuriame savarankišką duomenų mokslo agentą aplink DeepAnalyze-8B ir vykdome jį iki galo.",
+        "Paruošiame stabilų „Colab“ vykdymo laiką, įdiegiame mašininio mokymosi priklausomybes ir įkeliame prieigos raktą bei modelį 4 bitų režimu, kad tilptų ribota GPU atmintis.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/10/how-to-build-a-t4-friendly-autonomous-data-science-agent-with-deepanalyze-8b-sandboxed-code-execution-and-iterative-analysis/",
+        "try_url": "https://www.marktechpost.com/2026/07/10/how-to-build-a-t4-friendly-autonomous-data-science-agent-with-deepanalyze-8b-sandboxed-code-execution-and-iterative-analysis/"
+      }
+    },
     {
       "title": "Kaip sumažinti simbolinį biudžetą nesumažinant komandos",
       "link": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
@@ -13,7 +118,7 @@
       "summary": "Jensenas Huangas išbando, ar verta išlaikyti inžinierių, ir pridedamas simbolinis biudžetas.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-10-01-kaip-sumazinti-simbolini-biudzeta-nesumazinant-komandos.svg",
+      "image_url": "generated-images/2026-07-11-05-kaip-sumazinti-simbolini-biudzeta-nesumazinant-komandos.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -31,31 +136,6 @@
       }
     },
     {
-      "title": "Kaip „Deutsche Telekom“ perjungia telekomunikacijas su AI",
-      "link": "https://www.youtube.com/watch?v=SvGLxXHYCd8",
-      "published_iso": "2026-07-10T09:19:42Z",
-      "published_lt": "2026-07-10 09:19 UTC",
-      "summary": "Šioje klientų istorijoje Jonathanas Abrahamsonas, „Deutsche Telekom“ vyriausiasis produktų ir skaitmeninių technologijų pareigūnas, dalijasi, kaip įmonė iš naujo įsivaizduoja telekomunikacijas su AI – keičia darbuotojų darbo eigą, klientų aptarnavimą, tinklo operacijas ir balso ateitį.",
-      "source": "OpenAI",
-      "source_image_url": "https://i4.ytimg.com/vi/SvGLxXHYCd8/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-10-02-kaip-deutsche-telekom-perjungia-telekomunikacijas-su-ai.svg",
-      "kind": "video",
-      "video_id": "SvGLxXHYCd8",
-      "bullets_lt": [
-        "Šioje klientų istorijoje Jonathanas Abrahamsonas, „Deutsche Telekom“ vyriausiasis produktų ir skaitmeninių technologijų pareigūnas, dalijasi, kaip įmonė iš naujo įsivaizduoja telekomunikacijas su AI – keičia darbuotojų darbo eigą, klientų aptarnavimą, tinklo operacijas ir balso ateitį."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=SvGLxXHYCd8",
-        "try_url": "https://www.youtube.com/watch?v=SvGLxXHYCd8"
-      }
-    },
-    {
       "title": "„Google Research“ pristato „SensorFM“: nešiojamo sveikatos fondo modelį, paruoštą naudojant trilijoną minučių jutiklio duomenų",
       "link": "https://www.marktechpost.com/2026/07/10/google-research-introduces-sensorfm-a-wearable-health-foundation-model-pretrained-on-one-trillion-minutes-of-sensor-data/",
       "published_iso": "2026-07-10T08:52:04Z",
@@ -63,7 +143,7 @@
       "summary": "„SensorFM“, nešiojamas sveikatos pagrindo modelis, sukurtas „Google Research“, „Google DeepMind“ ir universitetų bendradarbių. Mes einame per ViT-1D maskuoto automatinio kodavimo pagrindą, iš anksto apmokydami daugiau nei trilijoną minučių nepažymėtų jutiklių signalų iš 5 000 000 dalyvių.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-1.44.28-AM-1-150x150.png",
-      "image_url": "generated-images/2026-07-10-03-google-research-pristato-sensorfm-nesiojamo-sveikatos-fo.svg",
+      "image_url": "generated-images/2026-07-11-06-google-research-pristato-sensorfm-nesiojamo-sveikatos-fo.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -89,7 +169,7 @@
       "summary": "„Robbyant“, „Ant Group“ įkūnytos žvalgybos padalinys, išleido „LingBot-World-Infinity“ (LingBot-World 2.0). Tai 14B priežastinio vaizdo generavimo modelis, kuris veikia kaip interaktyvus pasaulio simuliatorius.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-10-04-susipazinkite-su-lingbot-world-infinity-atviro-priezasti.svg",
+      "image_url": "generated-images/2026-07-11-07-susipazinkite-su-lingbot-world-infinity-atviro-priezasti.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -108,14 +188,14 @@
       }
     },
     {
-      "title": "GPT 5.6 jau čia!",
+      "title": "GPT 5.6 yra žvėris",
       "link": "https://www.youtube.com/watch?v=SettwwX2cCI",
       "published_iso": "2026-07-10T04:06:44Z",
       "published_lt": "2026-07-10 04:06 UTC",
       "summary": "#ai #aitools #ainews #llm #openai #agi #singularity Ačiū mūsų rėmėjui Hubspot.",
       "source": "AI Search",
       "source_image_url": "https://i4.ytimg.com/vi/SettwwX2cCI/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-10-05-gpt-5-6-jau-cia.svg",
+      "image_url": "generated-images/2026-07-11-08-gpt-5-6-yra-zveris.svg",
       "kind": "video",
       "video_id": "SettwwX2cCI",
       "bullets_lt": [
@@ -140,7 +220,7 @@
       "summary": "2026 m. liepos 9 d. „Meta Superintelligence Labs“ išleido „Muse Spark 1.1“ kartu su vieša „Meta Model“ API peržiūra.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-10-06-meta-superintelligence-labs-isleido-muse-spark-1-1-daugi.svg",
+      "image_url": "generated-images/2026-07-11-09-meta-superintelligence-labs-isleido-muse-spark-1-1-daugi.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -168,7 +248,7 @@
       "summary": "„OpenAI“ perkėlė GPT-5.6 į bendrą prieinamumą 2026 m. liepos 9 d., vietoj vieno modelio pristatydama tris pakopas. Sol kainuoja 5 USD/30 USD už 1 mln. žetonų, „Terra“ – 2,50 USD/15 USD, o „Luna“ – 1 USD/6 USD.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-10-07-openai-isleido-gpt-5-6-sol-terra-luna-triju-pakopu-model.svg",
+      "image_url": "generated-images/2026-07-11-10-openai-isleido-gpt-5-6-sol-terra-luna-triju-pakopu-model.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -192,16 +272,16 @@
       "link": "https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/",
       "published_iso": "2026-07-09T19:31:25Z",
       "published_lt": "2026-07-09 19:31 UTC",
-      "summary": "NVIDIA išleido Nemotron-Labs-3-Puzzle-75B-A9B, suspaustą Nemotron-3-Super variantą. Iteratyvus galvosūkis kaitalioja aparatinę įrangą suvokiantį struktūrinį glaudinimą su trumpomis žinių distiliavimo atkūrimo fazėmis. Modelis nukrenta nuo 120,7 B bendrųjų / 12,8 B aktyvių parametrų iki 75,3 B / 9,3 B.",
+      "summary": "NVIDIA išleido Nemotron-Labs-3-Puzzle-75B-A9B, suspaustą Nemotron-3-Super variantą. Iteratyvus galvosūkis kaitalioja aparatinę įrangą suvokiantį struktūrinį glaudinimą su trumpomis žinių distiliavimo atkūrimo fazėmis. Modelis nukrenta nuo 120,7B bendrųjų / 12,8B aktyvių parametrų iki 75,3B / 9,3B.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.25.52-AM-1-150x150.png",
-      "image_url": "generated-images/2026-07-10-08-susipazinkite-su-nemotron-labs-3-puzzle-75b-a9b-suspaust.svg",
+      "image_url": "generated-images/2026-07-11-11-susipazinkite-su-nemotron-labs-3-puzzle-75b-a9b-suspaust.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "NVIDIA išleido Nemotron-Labs-3-Puzzle-75B-A9B, suspaustą Nemotron-3-Super variantą.",
         "Iteratyvus galvosūkis kaitalioja aparatinę įrangą suvokiantį struktūrinį glaudinimą su trumpomis žinių distiliavimo atkūrimo fazėmis.",
-        "Modelis nukrenta nuo 120,7 B bendrųjų / 12,8 B aktyvių parametrų iki 75,3 B / 9,3 B."
+        "Modelis nukrenta nuo 120,7B bendrųjų / 12,8B aktyvių parametrų iki 75,3B / 9,3B."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -222,7 +302,7 @@
       "summary": "Neseniai įdiegus AWS GraphRAG, vaistų tyrimų ir plėtros ciklai farmacinėje aplinkoje sumažėjo 87 procentais. Šis pagreitis pasiekiamas integruojant anksčiau atskirtas patentuotas duomenų bazes į vieningą ir užklausą pateikiamą žinių grafiką.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-10-09-aws-graphrag-diegimas-sumazina-vaistu-tyrimu-ciklus-87-p.svg",
+      "image_url": "generated-images/2026-07-11-12-aws-graphrag-diegimas-sumazina-vaistu-tyrimu-ciklus-87-p.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -238,84 +318,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
         "try_url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/"
-      }
-    },
-    {
-      "title": "NHS AI kraujo tyrimas gali sumažinti invazinių gimdos vėžio patikrinimų skaičių",
-      "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
-      "published_iso": "2026-07-09T10:00:00Z",
-      "published_lt": "2026-07-09 10:00 UTC",
-      "summary": "Keletas NHS ligoninių ruošiasi naudoti AI pagrįstą kraujo tyrimą, kad padėtų įvertinti moteris, kurioms siunčiama dėl galimo gimdos vėžio, prieš atliekant invazinius patikrinimus. Anot „The Guardian“, maždaug 90 000 moterų po menopauzės Anglijoje kasmet siunčiami bendrosios praktikos gydytojų pasitikrinti patyrus stiprų kraujavimą.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-10-10-nhs-ai-kraujo-tyrimas-gali-sumazinti-invaziniu-gimdos-ve.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Keletas NHS ligoninių ruošiasi naudoti AI pagrįstą kraujo tyrimą, kad padėtų įvertinti moteris, kurioms siunčiama dėl galimo gimdos vėžio, prieš atliekant invazinius patikrinimus.",
-        "Anot „The Guardian“, maždaug 90 000 moterų po menopauzės Anglijoje kasmet siunčiami bendrosios praktikos gydytojų pasitikrinti patyrus stiprų kraujavimą."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
-        "try_url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/"
-      }
-    },
-    {
-      "title": "„Google AI Studio“ prideda importavimą iš „GitHub“, kad sukurtų diegiamą programą",
-      "link": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
-      "published_iso": "2026-07-09T07:58:06Z",
-      "published_lt": "2026-07-09 07:58 UTC",
-      "summary": "„Google AI Studio“ pradeda importuoti iš „GitHub“ kūrimo režimu. Jis paverčia esamą repo į su vykdymo laiku suderinamą formatą. Tada galite jį kartoti, įdiegti ir dar daugiau.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-10-11-google-ai-studio-prideda-importavima-is-github-kad-sukur.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google AI Studio“ pradeda importuoti iš „GitHub“ kūrimo režimu.",
-        "Jis paverčia esamą repo į su vykdymo laiku suderinamą formatą.",
-        "Tada galite jį kartoti, įdiegti ir dar daugiau."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
-        "try_url": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/"
-      }
-    },
-    {
-      "title": "„Datalab Lift“ palyginti su lauku: kaip „9B Schema-First Extractor“ lyginamas su „NuExtract3“, „LlamaExtract“, „Marker“ ir „Docling“",
-      "link": "https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/",
-      "published_iso": "2026-07-09T07:50:47Z",
-      "published_lt": "2026-07-09 07:50 UTC",
-      "summary": "„Datalab's Lift“ yra tikslinis dokumentų išgavimo įrankis, turintis konkretų pažadą: suteikite jam PDF failą arba vaizdą ir JSON schemą, ir jis tiesiogiai grąžins schemos formos JSON.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-10-12-datalab-lift-palyginti-su-lauku-kaip-9b-schema-first-ext.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Datalab's Lift“ yra tikslinis dokumentų išgavimo įrankis, turintis konkretų pažadą: suteikite jam PDF failą arba vaizdą ir JSON schemą, ir jis tiesiogiai grąžins schemos formos JSON."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/",
-        "try_url": "https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/"
       }
     }
   ]
