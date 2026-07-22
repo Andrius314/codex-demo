@@ -1,10 +1,250 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-07-21",
-  "generated_at_utc": "2026-07-21T09:23:09Z",
+  "digest_date": "2026-07-22",
+  "generated_at_utc": "2026-07-22T09:22:33Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Unsloth vs Axolotl vs TRL vs LLaMA-Factory: Tikslus greičio, VRAM ir kelių GPU suderinimo sistemos palyginimas",
+      "link": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/",
+      "published_iso": "2026-07-22T09:16:40Z",
+      "published_lt": "2026-07-22 09:16 UTC",
+      "summary": "Keturi atvirojo kodo projektai šiandien dominuoja LLM koreguojant. „Unsloth“, „Axolotl“, TRL ir „LLaMA-Factory“ apima tą patį „PyTorch“ ir „Hugging Face“ paketą. Jie skiriasi tuo, kur išleidžia inžinerines pastangas.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-22-01-unsloth-vs-axolotl-vs-trl-vs-llama-factory-tikslus-greic.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Keturi atvirojo kodo projektai šiandien dominuoja LLM koreguojant.",
+        "„Unsloth“, „Axolotl“, TRL ir „LLaMA-Factory“ apima tą patį „PyTorch“ ir „Hugging Face“ paketą.",
+        "Jie skiriasi tuo, kur išleidžia inžinerines pastangas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/",
+        "try_url": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/"
+      }
+    },
+    {
+      "title": "„Cisco Foundation AI“ išleidžia „Antares“: 350M ir 1B atvirojo svorio modelius, kurie lokalizuoja žinomus pažeidžiamumus tikrose kodų bazėse",
+      "link": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
+      "published_iso": "2026-07-22T06:27:02Z",
+      "published_lt": "2026-07-22 06:27 UTC",
+      "summary": "„Cisco Foundation AI“ išleido „Antares“ – mažų kalbų modelių šeimą, išmokytą tiksliai nustatyti, kur kodų bazėje yra žinomų pažeidžiamumų. Antares-1B pasiekia 0,209 failą F1 pagal naująjį pažeidžiamumo lokalizavimo etaloną, viršijantį GLM-5.2 esant 753B parametrams ir Gemini 3 Pro.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-22-02-cisco-foundation-ai-isleidzia-antares-350m-ir-1b-atviroj.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Cisco Foundation AI“ išleido „Antares“ – mažų kalbų modelių šeimą, išmokytą tiksliai nustatyti, kur kodų bazėje yra žinomų pažeidžiamumų.",
+        "Antares-1B pasiekia 0,209 failą F1 pagal naująjį pažeidžiamumo lokalizavimo etaloną, viršijantį GLM-5.2 esant 753B parametrams ir Gemini 3 Pro."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
+        "try_url": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/"
+      }
+    },
+    {
+      "title": "Prie baseino išleidžiamas „Laguna S 2.1“ – atviro svorio agento kodavimo modelis, kuris SWE-Bench daugiakalbyje yra didesnis už savo svorio klasę",
+      "link": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
+      "published_iso": "2026-07-22T00:01:32Z",
+      "published_lt": "2026-07-22 00:01 UTC",
+      "summary": "„Poolside“ išleido „Laguna S 2.1“ – 118B atviro svorio ekspertų mišinio kodavimo modelį su 8B aktyviais parametrais kiekvienam prieigos raktui ir 1 mln. prieigos rakto kontekstu. Jis atitinka arba kelis kartus lenkia modelius, palyginti su savo dydžiu pagal agentinio kodavimo etalonus, pristatomas naudojant OpenMDW-1.1 ir veikia su vienu NVIDIA DGX Spark.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-22-03-prie-baseino-isleidziamas-laguna-s-2-1-atviro-svorio-age.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Poolside“ išleido „Laguna S 2.1“ – 118B atviro svorio ekspertų mišinio kodavimo modelį su 8B aktyviais parametrais kiekvienam prieigos raktui ir 1 mln.",
+        "prieigos rakto kontekstu.",
+        "Jis atitinka arba kelis kartus lenkia modelius, palyginti su savo dydžiu pagal agentinio kodavimo etalonus, pristatomas naudojant OpenMDW-1.1 ir veikia su vienu NVIDIA DGX Spark."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
+        "try_url": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/"
+      }
+    },
+    {
+      "title": "Papildiniai ChatGPT",
+      "link": "https://www.youtube.com/watch?v=pKwRNdDtai0",
+      "published_iso": "2026-07-21T18:00:39Z",
+      "published_lt": "2026-07-21 18:00 UTC",
+      "summary": "Papildiniai sujungia ChatGPT su įrankiais, kuriuos naudojate el. paštui, saugyklai debesyje, kalendoriams, darbo pokalbiams ir kt. Sužinokite, kaip naršyti įskiepių katalogą, pasirinkti tinkamus įrankius ir įgūdžius atlikti užduotį ir sujungti savo darbo kontekstą, kad pasiektumėte galutinį rezultatą.",
+      "source": "OpenAI",
+      "source_image_url": "https://i1.ytimg.com/vi/pKwRNdDtai0/hqdefault.jpg",
+      "image_url": "generated-images/2026-07-22-04-papildiniai-chatgpt.svg",
+      "kind": "video",
+      "video_id": "pKwRNdDtai0",
+      "bullets_lt": [
+        "Papildiniai sujungia ChatGPT su įrankiais, kuriuos naudojate el.",
+        "paštui, saugyklai debesyje, kalendoriams, darbo pokalbiams ir kt.",
+        "Sužinokite, kaip naršyti įskiepių katalogą, pasirinkti tinkamus įrankius ir įgūdžius atlikti užduotį ir sujungti savo darbo kontekstą, kad pasiektumėte galutinį rezultatą.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=pKwRNdDtai0",
+        "try_url": "https://www.youtube.com/watch?v=pKwRNdDtai0"
+      }
+    },
+    {
+      "title": "„Google“ išleido „Gemini 3.6 Flash“, 3.5 „Flash-Lite“ ir 3.5 „Flash Cyber“: pigesnę, žetonų efektyvesnę „Flash“ pakopą, sukurtą agentų darbo krūviams",
+      "link": "https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/",
+      "published_iso": "2026-07-21T17:45:08Z",
+      "published_lt": "2026-07-21 17:45 UTC",
+      "summary": "2026 m. liepos 21 d. „Google“ išleido „Gemini 3.6 Flash“, 3.5 Flash-Lite ir 3.5 Flash Cyber. „Flash“ pakopa tampa pigesnė ir efektyvesnė, nes 3.6 „Flash“ išvesties žetonai sumažinami 17 %, o produkcijos kaina sumažinama iki 7,50 USD už 1 mln.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/07/HNwo7c1a8AA5h9d-1-150x150.jpeg",
+      "image_url": "generated-images/2026-07-22-05-google-isleido-gemini-3-6-flash-3-5-flash-lite-ir-3-5-fl.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "2026 m.",
+        "liepos 21 d.",
+        "„Google“ išleido „Gemini 3.6 Flash“, 3.5 Flash-Lite ir 3.5 Flash Cyber."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/",
+        "try_url": "https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/"
+      }
+    },
+    {
+      "title": "Paskirstytų LLM aptarnavimo etalonų patvirtinimas naudojant NVIDIA srt-slurm, SLURM receptus, parametrų nuskaitymus ir Pareto analizę",
+      "link": "https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/",
+      "published_iso": "2026-07-21T16:29:36Z",
+      "published_lt": "2026-07-21 16:29 UTC",
+      "summary": "Šioje mokymo programoje tyrinėjame NVIDIA srt-slurm sistemą ir sužinome, kaip naudojame srtctl deklaratyvias YAML konfigūracijas konvertuoti į atkuriamas SLURM etalonines darbo eigas paskirstytam LLM aptarnavimui.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-22-06-paskirstytu-llm-aptarnavimo-etalonu-patvirtinimas-naudoj.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje mokymo programoje tyrinėjame NVIDIA srt-slurm sistemą ir sužinome, kaip naudojame srtctl deklaratyvias YAML konfigūracijas konvertuoti į atkuriamas SLURM etalonines darbo eigas paskirstytam LLM aptarnavimui."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/",
+        "try_url": "https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/"
+      }
+    },
+    {
+      "title": "„Google Gemini 3.6 Flash“ taikoma įmonės agento žetonų išlaidoms",
+      "link": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
+      "published_iso": "2026-07-21T16:06:55Z",
+      "published_lt": "2026-07-21 16:06 UTC",
+      "summary": "„Google“ išleido „Gemini 3.6 Flash“ ir 3.5 „Flash-Lite“ kaip naujus darbinius arklius, skirtus sumažinti įmonių AI agentų delsą ir žetonų išlaidas. Savarankiškų programinės įrangos agentų veikimo gamybinėje aplinkoje ekonomika susiveda į fiksuotą lygtį, kurią keli pardavėjai tiesiogiai reklamuoja.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-22-07-google-gemini-3-6-flash-taikoma-imones-agento-zetonu-isl.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“ išleido „Gemini 3.6 Flash“ ir 3.5 „Flash-Lite“ kaip naujus darbinius arklius, skirtus sumažinti įmonių AI agentų delsą ir žetonų išlaidas.",
+        "Savarankiškų programinės įrangos agentų veikimo gamybinėje aplinkoje ekonomika susiveda į fiksuotą lygtį, kurią keli pardavėjai tiesiogiai reklamuoja."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
+        "try_url": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/"
+      }
+    },
+    {
+      "title": "AI lošimo automato efektas: kodėl generatyvūs tiekimai trikdo gilų darbą ir kaip susigrąžinti dėmesį",
+      "link": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
+      "published_iso": "2026-07-21T12:50:06Z",
+      "published_lt": "2026-07-21 12:50 UTC",
+      "summary": "Atidarote generatyvųjį AI įrankį, tikėdamiesi greito pastiprinimo. Po dešimties minučių jūs vis dar esate ten ir ketvirtą kartą tobulinate raginimą. Užduotis, nuo kurios pradėjote, kažkur nukrypo į šalį.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-22-08-ai-losimo-automato-efektas-kodel-generatyvus-tiekimai-tr.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Atidarote generatyvųjį AI įrankį, tikėdamiesi greito pastiprinimo.",
+        "Po dešimties minučių jūs vis dar esate ten ir ketvirtą kartą tobulinate raginimą.",
+        "Užduotis, nuo kurios pradėjote, kažkur nukrypo į šalį."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
+        "try_url": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/"
+      }
+    },
+    {
+      "title": "Bristolis Myersas Squibbas perka „Nvidia AI“ sistemą, skirtą vaistų atradimui",
+      "link": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+      "published_iso": "2026-07-21T10:00:00Z",
+      "published_lt": "2026-07-21 10:00 UTC",
+      "summary": "Bristol Myers Squibb perka Nvidia DGX SuperPOD, sukurtą pagal lustų gamintojo Vera Rubin architektūrą, kad palaikytų dirbtinio intelekto naudojimą vaistų atradimo ir kūrimo operacijose. Farmacijos bendrovė teigė, kad tai bus pirmoji gyvybės mokslų grupė, įsigijusi DGX SuperPOD, pagrįstą Vera Rubin.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-22-09-bristolis-myersas-squibbas-perka-nvidia-ai-sistema-skirt.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Bristol Myers Squibb perka Nvidia DGX SuperPOD, sukurtą pagal lustų gamintojo Vera Rubin architektūrą, kad palaikytų dirbtinio intelekto naudojimą vaistų atradimo ir kūrimo operacijose.",
+        "Farmacijos bendrovė teigė, kad tai bus pirmoji gyvybės mokslų grupė, įsigijusi DGX SuperPOD, pagrįstą Vera Rubin."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+        "try_url": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/"
+      }
+    },
     {
       "title": "„Meta Open-Sources Astryx“: agentams paruošta „React“ projektavimo sistema su 150 ir daugiau prieinamų komponentų, septyniomis temomis ir CLI",
       "link": "https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/",
@@ -13,7 +253,7 @@
       "summary": "„Meta“ turi atvirojo kodo „Astryx“, „React“ ir „StyleX“ dizaino sistemą, kuri viduje veikė aštuonerius metus daugiau nei 13 000 programų. Jame yra daugiau nei 150 prieinamų komponentų, septynios temos, tamsusis režimas, šablonai ir agentams paruoštas CLI pagal MIT – reikalingas React 19+.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-21-01-meta-open-sources-astryx-agentams-paruosta-react-projekt.svg",
+      "image_url": "generated-images/2026-07-22-10-meta-open-sources-astryx-agentams-paruosta-react-projekt.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -39,7 +279,7 @@
       "summary": "Įmonės, vertinančios Kinijos atviro svorio modelius šį mėnesį, susiduria su niekaip nesusijusiu su etalonais klausimą: ar po metų vis dar bus paprasta jį naudoti.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-21-02-kinijos-atviro-svorio-modeliai-yra-pigus-vasingtonas-spr.svg",
+      "image_url": "generated-images/2026-07-22-11-kinijos-atviro-svorio-modeliai-yra-pigus-vasingtonas-spr.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -57,245 +297,6 @@
       }
     },
     {
-      "title": "NVIDIA išleido „Cosmos 3 Edge“: 4B parametrų atvirojo pasaulio modelį, kuris lemia ir generuoja roboto veiksmus įrenginyje",
-      "link": "https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/",
-      "published_iso": "2026-07-21T07:48:28Z",
-      "published_lt": "2026-07-21 07:48 UTC",
-      "summary": "NVIDIA išleido „Cosmos 3 Edge“ – 4 milijardų parametrų atvirojo pasaulio modelį, sukurtą veikti įrenginyje. Tai padeda robotams ir AI agentams suprasti aplinką, mąstyti realiuoju laiku ir generuoti roboto veiksmus vietoje.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-21-03-nvidia-isleido-cosmos-3-edge-4b-parametru-atvirojo-pasau.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "NVIDIA išleido „Cosmos 3 Edge“ – 4 milijardų parametrų atvirojo pasaulio modelį, sukurtą veikti įrenginyje.",
-        "Tai padeda robotams ir AI agentams suprasti aplinką, mąstyti realiuoju laiku ir generuoti roboto veiksmus vietoje."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/",
-        "try_url": "https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/"
-      }
-    },
-    {
-      "title": "„Alibaba“ „Tongyi“ laboratorija išleidžia „Qwen-Audio-3.0-TTS“, priglobtą teksto į kalbą modelį „Flash“ ir „Plus“ lygiais 16 kalbų",
-      "link": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/",
-      "published_iso": "2026-07-20T21:14:19Z",
-      "published_lt": "2026-07-20 21:14 UTC",
-      "summary": "„Alibaba“ „Tongyi Lab“ išleido „Qwen-Audio-3.0-TTS“, į gamybą orientuotą teksto į kalbą (TTS) sistemą. Modelis pristatomas dviem variantais iš tos pačios linijos. „Flash“ skirta sąveikai realiuoju laiku.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-21-04-alibaba-tongyi-laboratorija-isleidzia-qwen-audio-3-0-tts.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Alibaba“ „Tongyi Lab“ išleido „Qwen-Audio-3.0-TTS“, į gamybą orientuotą teksto į kalbą (TTS) sistemą.",
-        "Modelis pristatomas dviem variantais iš tos pačios linijos.",
-        "„Flash“ skirta sąveikai realiuoju laiku."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/",
-        "try_url": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/"
-      }
-    },
-    {
-      "title": "Kaip „Virgin Atlantic“ naudoja „ChatGPT“ darbą, kad darbo savaitės paverstų valandomis",
-      "link": "https://www.youtube.com/watch?v=WwxZeU4WH14",
-      "published_iso": "2026-07-20T16:24:11Z",
-      "published_lt": "2026-07-20 16:24 UTC",
-      "summary": "„Tai savaitės iki valandos“. Nathanas Boltas, „Virgin Atlantic“ skaitmeninių produktų vadovas, naudoja „ChatGPT Work“ strategijos dokumentams sintezuoti, konkurentams analizuoti ir darbo savaites paversti valandomis.",
-      "source": "OpenAI",
-      "source_image_url": "https://i4.ytimg.com/vi/WwxZeU4WH14/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-21-05-kaip-virgin-atlantic-naudoja-chatgpt-darba-kad-darbo-sav.svg",
-      "kind": "video",
-      "video_id": "WwxZeU4WH14",
-      "bullets_lt": [
-        "„Tai savaitės iki valandos“.",
-        "Nathanas Boltas, „Virgin Atlantic“ skaitmeninių produktų vadovas, naudoja „ChatGPT Work“ strategijos dokumentams sintezuoti, konkurentams analizuoti ir darbo savaites paversti valandomis."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=WwxZeU4WH14",
-        "try_url": "https://www.youtube.com/watch?v=WwxZeU4WH14"
-      }
-    },
-    {
-      "title": "JAV visuomenės sveikatos agentūros išbandys OpenAI ir Anthropic AI modelius",
-      "link": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
-      "published_iso": "2026-07-20T10:00:00Z",
-      "published_lt": "2026-07-20 10:00 UTC",
-      "summary": "Visuomenės sveikatos departamentai Jungtinėse Valstijose išbandys generatyvius AI įrankius pagal naują programą, kurioje dalyvaus sveikatos AI, OpenAI, Anthropic ir Accenture koalicija.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-21-06-jav-visuomenes-sveikatos-agenturos-isbandys-openai-ir-an.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Visuomenės sveikatos departamentai Jungtinėse Valstijose išbandys generatyvius AI įrankius pagal naują programą, kurioje dalyvaus sveikatos AI, OpenAI, Anthropic ir Accenture koalicija."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
-        "try_url": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/"
-      }
-    },
-    {
-      "title": "Kimi K3 atviro svorio modelis: didžiausias Kinijos dirbtinis intelektas yra statymas dėl atminties, o ne skaičiavimo",
-      "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-      "published_iso": "2026-07-20T09:00:00Z",
-      "published_lt": "2026-07-20 09:00 UTC",
-      "summary": "Moonshot AI atviro svorio modelis Kimi K3 buvo nuskaitytas beveik visiškai pagal jo parametrų skaičių nuo pat jo pasirodymo liepos 16 d. Su 2,8 trilijono parametrų tai yra didžiausias iki šiol išleistas atviro svorio modelis.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-21-07-kimi-k3-atviro-svorio-modelis-didziausias-kinijos-dirbti.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Moonshot AI atviro svorio modelis Kimi K3 buvo nuskaitytas beveik visiškai pagal jo parametrų skaičių nuo pat jo pasirodymo liepos 16 d.",
-        "Su 2,8 trilijono parametrų tai yra didžiausias iki šiol išleistas atviro svorio modelis."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-        "try_url": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/"
-      }
-    },
-    {
-      "title": "Kažkas tiksliai sureguliavo OpenBMB MiniCPM5-1B Claude Fable 5 Traces, kad būtų išsiųstas 657 MB vietinio mąstymo modelis",
-      "link": "https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/",
-      "published_iso": "2026-07-20T01:56:50Z",
-      "published_lt": "2026-07-20 01:56 UTC",
-      "summary": "Bendruomenės kūrėjas tiksliai sureguliavo OpenBMB MiniCPM5-1B Claude Fable 5 į 1B modelį, kuris veikia visiškai lokaliai – 657 MB mažiausia konstrukcija, 128 KB kontekstas ir matomi argumentai.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-21-08-kazkas-tiksliai-sureguliavo-openbmb-minicpm5-1b-claude-f.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Bendruomenės kūrėjas tiksliai sureguliavo OpenBMB MiniCPM5-1B Claude Fable 5 į 1B modelį, kuris veikia visiškai lokaliai – 657 MB mažiausia konstrukcija, 128 KB kontekstas ir matomi argumentai."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/",
-        "try_url": "https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/"
-      }
-    },
-    {
-      "title": "Geriausi vietiniai LLM, kuriuos galite paleisti su vienu 24 GB GPU 2026 m.: Qwen, Gemma, Mistral, DeepSeek palyginimas",
-      "link": "https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/",
-      "published_iso": "2026-07-20T01:18:46Z",
-      "published_lt": "2026-07-20 01:18 UTC",
-      "summary": "Vienas 24 GB GPU yra praktiškas pagrindas rimtoms vietinėms išvadoms. Šiame vadove palyginami šeši atviro svorio modeliai, kurie tinka vienai kortelei Q4_K_M. Tai apima Qwen3.6, Gemma 4, Mistral Small, gpt-oss-20b ir DeepSeek-R1-Distill.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-21-09-geriausi-vietiniai-llm-kuriuos-galite-paleisti-su-vienu-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Vienas 24 GB GPU yra praktiškas pagrindas rimtoms vietinėms išvadoms.",
-        "Šiame vadove palyginami šeši atviro svorio modeliai, kurie tinka vienai kortelei Q4_K_M.",
-        "Tai apima Qwen3.6, Gemma 4, Mistral Small, gpt-oss-20b ir DeepSeek-R1-Distill.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/",
-        "try_url": "https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/"
-      }
-    },
-    {
-      "title": "Feyn AI išleidžia SQRL, teksto į SQL modelių šeimą, kuri tikrina duomenų bazę prieš rašant užklausą",
-      "link": "https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/",
-      "published_iso": "2026-07-19T22:20:23Z",
-      "published_lt": "2026-07-19 22:20 UTC",
-      "summary": "„Feyn Labs“ išleido SQRL – teksto į SQL modelių šeimą, kuri prieš atlikdama užklausą tikrina duomenų bazę su tik skaitymo zondais. Flagmanas SQRL-35B-A3B praneša apie 70,6% BIRD Dev vykdymo tikslumą, apvadu Claude Opus 4.6 ir distiliuoja į savarankiškus 4B ir 9B kontrolės punktus.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-21-10-feyn-ai-isleidzia-sqrl-teksto-i-sql-modeliu-seima-kuri-t.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Feyn Labs“ išleido SQRL – teksto į SQL modelių šeimą, kuri prieš atlikdama užklausą tikrina duomenų bazę su tik skaitymo zondais.",
-        "Flagmanas SQRL-35B-A3B praneša apie 70,6% BIRD Dev vykdymo tikslumą, apvadu Claude Opus 4.6 ir distiliuoja į savarankiškus 4B ir 9B kontrolės punktus.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/",
-        "try_url": "https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/"
-      }
-    },
-    {
-      "title": "„Alibaba“ peržiūra „Qwen3.8-Max“, 2,4 trilijono parametrų daugiarūšis modelis, praėjus kelioms dienoms po „Moonshot“ Kimi K3 atviro svorio paleidimo",
-      "link": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
-      "published_iso": "2026-07-19T21:42:50Z",
-      "published_lt": "2026-07-19 21:42 UTC",
-      "summary": "„Alibaba“ „Qwen“ komanda peržiūrėjo „Qwen3.8-Max-Preview“ – 2,4 trilijono parametrų daugiarūšį MoE modelį, kurį ji vadina „tik antruoju po 5 Fable“. Peržiūra tiesiogiai rodoma „Token Plan“, „Qoder“ ir „QoderWork“ už 10 % standartinės kainos. Kas nėra tiesioginė: bet kokia etaloninė lentelė, modelio kortelė, licencija, kaina už prieigos raktą arba aktyvių parametrų skaičius.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-21-11-alibaba-perziura-qwen3-8-max-2-4-trilijono-parametru-dau.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Alibaba“ „Qwen“ komanda peržiūrėjo „Qwen3.8-Max-Preview“ – 2,4 trilijono parametrų daugiarūšį MoE modelį, kurį ji vadina „tik antruoju po 5 Fable“.",
-        "Peržiūra tiesiogiai rodoma „Token Plan“, „Qoder“ ir „QoderWork“ už 10 % standartinės kainos.",
-        "Kas nėra tiesioginė: bet kokia etaloninė lentelė, modelio kortelė, licencija, kaina už prieigos raktą arba aktyvių parametrų skaičius.",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "„Alibaba“ „Qwen“ komanda peržiūrėjo „Qwen3.8-Max-Preview“ – 2,4 trilijono parametrų daugiarūšį MoE modelį, kurį ji vadina „tik antruoju po 5 Fable“.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
-        "try_url": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/"
-      }
-    },
-    {
       "title": "Kimi K3, šokanti waifus, robotas UFC, daina MIDI, GPT Red, skraidyklės: AI NAUJIENOS",
       "link": "https://www.youtube.com/watch?v=uQ2Hqg5MZ-8",
       "published_iso": "2026-07-19T03:32:41Z",
@@ -303,7 +304,7 @@
       "summary": "DIDELĖS AI NAUJIENOS: Kimi K3, Bonsai 27B, Wan Dancer, GPT Red #ai #ainews #aitools #agi #singularity Ačiū mūsų rėmėjui Higgsfield.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/uQ2Hqg5MZ-8/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-21-12-kimi-k3-sokanti-waifus-robotas-ufc-daina-midi-gpt-red-sk.svg",
+      "image_url": "generated-images/2026-07-22-12-kimi-k3-sokanti-waifus-robotas-ufc-daina-midi-gpt-red-sk.svg",
       "kind": "video",
       "video_id": "uQ2Hqg5MZ-8",
       "bullets_lt": [
