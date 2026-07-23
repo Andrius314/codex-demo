@@ -1,10 +1,195 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-07-22",
-  "generated_at_utc": "2026-07-22T09:22:33Z",
+  "digest_date": "2026-07-23",
+  "generated_at_utc": "2026-07-23T09:20:49Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Susipažinkite su „Gigatoken“: „Rust BPE Tokenizers“, koduojantis tekstą 24,53 GB/s greičiu, iki 989 kartų greičiau nei „HuggingFace“ žetonai",
+      "link": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+      "published_iso": "2026-07-23T08:01:22Z",
+      "published_lt": "2026-07-23 08:01 UTC",
+      "summary": "„Gigatoken“ yra MIT licencijuotas „Rust BPE“ prieigos raktas, koduojantis tekstą gigabaitų per sekundę greičiu. 144 branduolių AMD EPYC 9565 naudoja GPT-2 prieigos raktą 24,53 GB/s greičiu. Tai yra 989x HuggingFace žetonai ir 681x tiktokenai, palyginti su pradinėmis linijomis, jau parašytomis daugiagijoje Rust.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-23-01-susipazinkite-su-gigatoken-rust-bpe-tokenizers-koduojant.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Gigatoken“ yra MIT licencijuotas „Rust BPE“ prieigos raktas, koduojantis tekstą gigabaitų per sekundę greičiu.",
+        "144 branduolių AMD EPYC 9565 naudoja GPT-2 prieigos raktą 24,53 GB/s greičiu.",
+        "Tai yra 989x HuggingFace žetonai ir 681x tiktokenai, palyginti su pradinėmis linijomis, jau parašytomis daugiagijoje Rust."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+        "try_url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/"
+      }
+    },
+    {
+      "title": "Anthropic išleido Claude saugos papildinį, skirtą Claude Code beta versijoje: kelių agentų pažeidžiamumo skaitytuvas, kuris veikia jūsų terminale",
+      "link": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
+      "published_iso": "2026-07-23T06:12:05Z",
+      "published_lt": "2026-07-23 06:12 UTC",
+      "summary": "Anthropic išleido Claude Security papildinį, skirtą Claude Code beta versijoje. Papildinys atlieka kelių agentų saugyklos pažeidžiamumo nuskaitymą iš esamos Claude Code seanso, tada paverčia jūsų pasirinktus radinius pataisos failais, kuriuos peržiūrite ir taikote patys.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-23-02-anthropic-isleido-claude-saugos-papildini-skirta-claude-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Anthropic išleido Claude Security papildinį, skirtą Claude Code beta versijoje.",
+        "Papildinys atlieka kelių agentų saugyklos pažeidžiamumo nuskaitymą iš esamos Claude Code seanso, tada paverčia jūsų pasirinktus radinius pataisos failais, kuriuos peržiūrite ir taikote patys.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
+        "try_url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/"
+      }
+    },
+    {
+      "title": "Žymeklis išleidžia žymeklio maršrutizatorių: užklausos lygio klasifikatorius, užtikrinantis pasienio kodavimo kokybę 30–50 % mažesnėmis sąnaudomis",
+      "link": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
+      "published_iso": "2026-07-22T22:37:44Z",
+      "published_lt": "2026-07-22 22:37 UTC",
+      "summary": "„Cursor“ padarė „Cursor Router“ prieinamą komandoms ir įmonių planams. Sistema kiekvieną užklausą klasifikuoja pagal užklausą, kontekstą, užduoties sudėtingumą ir domeną, tada nukreipia ją į tinkamiausią modelį.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-23-03-zymeklis-isleidzia-zymeklio-marsrutizatoriu-uzklausos-ly.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Cursor“ padarė „Cursor Router“ prieinamą komandoms ir įmonių planams.",
+        "Sistema kiekvieną užklausą klasifikuoja pagal užklausą, kontekstą, užduoties sudėtingumą ir domeną, tada nukreipia ją į tinkamiausią modelį.",
+        "Kaina: Labiau panasu i mokama sprendima."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
+        "try_url": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/"
+      }
+    },
+    {
+      "title": "Tyrimų lygio „EdgeBench“ analizė: AI agento lyginamoji analizė, pirmaujančiųjų sąrašo analizė, mastelio keitimo įstatymai ir vertinimo metrika",
+      "link": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
+      "published_iso": "2026-07-22T21:53:58Z",
+      "published_lt": "2026-07-22 21:53 UTC",
+      "summary": "Šioje pamokoje mes tyrinėjame EdgeBench kaip praktinį etaloną, skirtą pažangiems AI agentams įvertinti įvairiose užduočių kategorijose, vykdymo aplinkose ir sąveikos laiko biudžetuose.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-23-04-tyrimu-lygio-edgebench-analize-ai-agento-lyginamoji-anal.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje pamokoje mes tyrinėjame EdgeBench kaip praktinį etaloną, skirtą pažangiems AI agentams įvertinti įvairiose užduočių kategorijose, vykdymo aplinkose ir sąveikos laiko biudžetuose."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
+        "try_url": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/"
+      }
+    },
+    {
+      "title": "Kaip Europos mažosios įmonės naudoja ChatGPT ir Codex | OpenAI akademija",
+      "link": "https://www.youtube.com/watch?v=4Nv--b12hxQ",
+      "published_iso": "2026-07-22T20:43:58Z",
+      "published_lt": "2026-07-22 20:43 UTC",
+      "summary": "Per šešis mėnesius SME AI Accelerator pristatė praktinius AI mokymus mažoms ir vidutinėms įmonėms visoje Europoje. Programa, kurią teikia OpenAI akademija su Booking.com, apjungė mokymąsi internetu su renginiais Dubline, Varšuvoje, Londone, Miunchene, Milane ir Paryžiuje.",
+      "source": "OpenAI",
+      "source_image_url": "https://i1.ytimg.com/vi/4Nv--b12hxQ/hqdefault.jpg",
+      "image_url": "generated-images/2026-07-23-05-kaip-europos-mazosios-imones-naudoja-chatgpt-ir-codex-op.svg",
+      "kind": "video",
+      "video_id": "4Nv--b12hxQ",
+      "bullets_lt": [
+        "Per šešis mėnesius SME AI Accelerator pristatė praktinius AI mokymus mažoms ir vidutinėms įmonėms visoje Europoje.",
+        "Programa, kurią teikia OpenAI akademija su Booking.com, apjungė mokymąsi internetu su renginiais Dubline, Varšuvoje, Londone, Miunchene, Milane ir Paryžiuje."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=4Nv--b12hxQ",
+        "try_url": "https://www.youtube.com/watch?v=4Nv--b12hxQ"
+      }
+    },
+    {
+      "title": "3 „Google“ naujiniai iš „Galaxy Unpacked 2026“.",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "published_iso": "2026-07-22T13:00:00Z",
+      "published_lt": "2026-07-22 13:00 UTC",
+      "summary": "Pasidalinome, kaip „Samsung“ vartotojai gali padidinti produktyvumą ir sugrąžinti laiką pirkdami naujus sulankstomus, laikrodžius ir akinius, kurie netrukus pasirodys.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-23-06-3-google-naujiniai-is-galaxy-unpacked-2026.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Pasidalinome, kaip „Samsung“ vartotojai gali padidinti produktyvumą ir sugrąžinti laiką pirkdami naujus sulankstomus, laikrodžius ir akinius, kurie netrukus pasirodys.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Dar neissleista arba arteja."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Dar neissleista arba arteja.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
+      }
+    },
+    {
+      "title": "„SenseTime“ „Galaxy Project“ skirtas vietiniam AI lusto didinimui",
+      "link": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
+      "published_iso": "2026-07-22T11:21:05Z",
+      "published_lt": "2026-07-22 11:21 UTC",
+      "summary": "„SenseTime“ pradėjo „Galaxy Project“, bendradarbiaudamas su beveik 20 partnerių, siekdamas išplėsti vietinę AI lustų infrastruktūrą Kinijoje.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-23-07-sensetime-galaxy-project-skirtas-vietiniam-ai-lusto-didi.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„SenseTime“ pradėjo „Galaxy Project“, bendradarbiaudamas su beveik 20 partnerių, siekdamas išplėsti vietinę AI lustų infrastruktūrą Kinijoje."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
+        "try_url": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/"
+      }
+    },
     {
       "title": "Unsloth vs Axolotl vs TRL vs LLaMA-Factory: Tikslus greičio, VRAM ir kelių GPU suderinimo sistemos palyginimas",
       "link": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/",
@@ -13,7 +198,7 @@
       "summary": "Keturi atvirojo kodo projektai šiandien dominuoja LLM koreguojant. „Unsloth“, „Axolotl“, TRL ir „LLaMA-Factory“ apima tą patį „PyTorch“ ir „Hugging Face“ paketą. Jie skiriasi tuo, kur išleidžia inžinerines pastangas.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-22-01-unsloth-vs-axolotl-vs-trl-vs-llama-factory-tikslus-greic.svg",
+      "image_url": "generated-images/2026-07-23-08-unsloth-vs-axolotl-vs-trl-vs-llama-factory-tikslus-greic.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -34,14 +219,14 @@
       }
     },
     {
-      "title": "„Cisco Foundation AI“ išleidžia „Antares“: 350M ir 1B atvirojo svorio modelius, kurie lokalizuoja žinomus pažeidžiamumus tikrose kodų bazėse",
+      "title": "„Cisco Foundation AI“ išleidžia „Antares“: 350M ir 1B atviro svorio modelius, kurie lokalizuoja žinomus pažeidžiamumus tikrose kodų bazėse",
       "link": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
       "published_iso": "2026-07-22T06:27:02Z",
       "published_lt": "2026-07-22 06:27 UTC",
       "summary": "„Cisco Foundation AI“ išleido „Antares“ – mažų kalbų modelių šeimą, išmokytą tiksliai nustatyti, kur kodų bazėje yra žinomų pažeidžiamumų. Antares-1B pasiekia 0,209 failą F1 pagal naująjį pažeidžiamumo lokalizavimo etaloną, viršijantį GLM-5.2 esant 753B parametrams ir Gemini 3 Pro.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-22-02-cisco-foundation-ai-isleidzia-antares-350m-ir-1b-atviroj.svg",
+      "image_url": "generated-images/2026-07-23-09-cisco-foundation-ai-isleidzia-antares-350m-ir-1b-atviro-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -64,16 +249,16 @@
       "link": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
       "published_iso": "2026-07-22T00:01:32Z",
       "published_lt": "2026-07-22 00:01 UTC",
-      "summary": "„Poolside“ išleido „Laguna S 2.1“ – 118B atviro svorio ekspertų mišinio kodavimo modelį su 8B aktyviais parametrais kiekvienam prieigos raktui ir 1 mln. prieigos rakto kontekstu. Jis atitinka arba kelis kartus lenkia modelius, palyginti su savo dydžiu pagal agentinio kodavimo etalonus, pristatomas naudojant OpenMDW-1.1 ir veikia su vienu NVIDIA DGX Spark.",
+      "summary": "„Poolside“ išleido „Laguna S 2.1“, 118B atviro svorio ekspertų mišinio kodavimo modelį su 8B aktyviais parametrais kiekvienam prieigos raktui ir 1 mln. prieigos rakto kontekstu. Jis atitinka arba kelis kartus pranoksta modelius pagal agentinio kodavimo etalonus, pristatomas naudojant OpenMDW-1.1 ir veikia naudojant vieną NVIDIA DGX Spark.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-22-03-prie-baseino-isleidziamas-laguna-s-2-1-atviro-svorio-age.svg",
+      "image_url": "generated-images/2026-07-23-10-prie-baseino-isleidziamas-laguna-s-2-1-atviro-svorio-age.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Poolside“ išleido „Laguna S 2.1“ – 118B atviro svorio ekspertų mišinio kodavimo modelį su 8B aktyviais parametrais kiekvienam prieigos raktui ir 1 mln.",
+        "„Poolside“ išleido „Laguna S 2.1“, 118B atviro svorio ekspertų mišinio kodavimo modelį su 8B aktyviais parametrais kiekvienam prieigos raktui ir 1 mln.",
         "prieigos rakto kontekstu.",
-        "Jis atitinka arba kelis kartus lenkia modelius, palyginti su savo dydžiu pagal agentinio kodavimo etalonus, pristatomas naudojant OpenMDW-1.1 ir veikia su vienu NVIDIA DGX Spark."
+        "Jis atitinka arba kelis kartus pranoksta modelius pagal agentinio kodavimo etalonus, pristatomas naudojant OpenMDW-1.1 ir veikia naudojant vieną NVIDIA DGX Spark."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -87,34 +272,6 @@
       }
     },
     {
-      "title": "Papildiniai ChatGPT",
-      "link": "https://www.youtube.com/watch?v=pKwRNdDtai0",
-      "published_iso": "2026-07-21T18:00:39Z",
-      "published_lt": "2026-07-21 18:00 UTC",
-      "summary": "Papildiniai sujungia ChatGPT su įrankiais, kuriuos naudojate el. paštui, saugyklai debesyje, kalendoriams, darbo pokalbiams ir kt. Sužinokite, kaip naršyti įskiepių katalogą, pasirinkti tinkamus įrankius ir įgūdžius atlikti užduotį ir sujungti savo darbo kontekstą, kad pasiektumėte galutinį rezultatą.",
-      "source": "OpenAI",
-      "source_image_url": "https://i1.ytimg.com/vi/pKwRNdDtai0/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-22-04-papildiniai-chatgpt.svg",
-      "kind": "video",
-      "video_id": "pKwRNdDtai0",
-      "bullets_lt": [
-        "Papildiniai sujungia ChatGPT su įrankiais, kuriuos naudojate el.",
-        "paštui, saugyklai debesyje, kalendoriams, darbo pokalbiams ir kt.",
-        "Sužinokite, kaip naršyti įskiepių katalogą, pasirinkti tinkamus įrankius ir įgūdžius atlikti užduotį ir sujungti savo darbo kontekstą, kad pasiektumėte galutinį rezultatą.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=pKwRNdDtai0",
-        "try_url": "https://www.youtube.com/watch?v=pKwRNdDtai0"
-      }
-    },
-    {
       "title": "„Google“ išleido „Gemini 3.6 Flash“, 3.5 „Flash-Lite“ ir 3.5 „Flash Cyber“: pigesnę, žetonų efektyvesnę „Flash“ pakopą, sukurtą agentų darbo krūviams",
       "link": "https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/",
       "published_iso": "2026-07-21T17:45:08Z",
@@ -122,7 +279,7 @@
       "summary": "2026 m. liepos 21 d. „Google“ išleido „Gemini 3.6 Flash“, 3.5 Flash-Lite ir 3.5 Flash Cyber. „Flash“ pakopa tampa pigesnė ir efektyvesnė, nes 3.6 „Flash“ išvesties žetonai sumažinami 17 %, o produkcijos kaina sumažinama iki 7,50 USD už 1 mln.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/07/HNwo7c1a8AA5h9d-1-150x150.jpeg",
-      "image_url": "generated-images/2026-07-22-05-google-isleido-gemini-3-6-flash-3-5-flash-lite-ir-3-5-fl.svg",
+      "image_url": "generated-images/2026-07-23-11-google-isleido-gemini-3-6-flash-3-5-flash-lite-ir-3-5-fl.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -142,173 +299,18 @@
       }
     },
     {
-      "title": "Paskirstytų LLM aptarnavimo etalonų patvirtinimas naudojant NVIDIA srt-slurm, SLURM receptus, parametrų nuskaitymus ir Pareto analizę",
-      "link": "https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/",
-      "published_iso": "2026-07-21T16:29:36Z",
-      "published_lt": "2026-07-21 16:29 UTC",
-      "summary": "Šioje mokymo programoje tyrinėjame NVIDIA srt-slurm sistemą ir sužinome, kaip naudojame srtctl deklaratyvias YAML konfigūracijas konvertuoti į atkuriamas SLURM etalonines darbo eigas paskirstytam LLM aptarnavimui.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-22-06-paskirstytu-llm-aptarnavimo-etalonu-patvirtinimas-naudoj.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje mokymo programoje tyrinėjame NVIDIA srt-slurm sistemą ir sužinome, kaip naudojame srtctl deklaratyvias YAML konfigūracijas konvertuoti į atkuriamas SLURM etalonines darbo eigas paskirstytam LLM aptarnavimui."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/",
-        "try_url": "https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/"
-      }
-    },
-    {
-      "title": "„Google Gemini 3.6 Flash“ taikoma įmonės agento žetonų išlaidoms",
-      "link": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
-      "published_iso": "2026-07-21T16:06:55Z",
-      "published_lt": "2026-07-21 16:06 UTC",
-      "summary": "„Google“ išleido „Gemini 3.6 Flash“ ir 3.5 „Flash-Lite“ kaip naujus darbinius arklius, skirtus sumažinti įmonių AI agentų delsą ir žetonų išlaidas. Savarankiškų programinės įrangos agentų veikimo gamybinėje aplinkoje ekonomika susiveda į fiksuotą lygtį, kurią keli pardavėjai tiesiogiai reklamuoja.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-22-07-google-gemini-3-6-flash-taikoma-imones-agento-zetonu-isl.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google“ išleido „Gemini 3.6 Flash“ ir 3.5 „Flash-Lite“ kaip naujus darbinius arklius, skirtus sumažinti įmonių AI agentų delsą ir žetonų išlaidas.",
-        "Savarankiškų programinės įrangos agentų veikimo gamybinėje aplinkoje ekonomika susiveda į fiksuotą lygtį, kurią keli pardavėjai tiesiogiai reklamuoja."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
-        "try_url": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/"
-      }
-    },
-    {
-      "title": "AI lošimo automato efektas: kodėl generatyvūs tiekimai trikdo gilų darbą ir kaip susigrąžinti dėmesį",
-      "link": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
-      "published_iso": "2026-07-21T12:50:06Z",
-      "published_lt": "2026-07-21 12:50 UTC",
-      "summary": "Atidarote generatyvųjį AI įrankį, tikėdamiesi greito pastiprinimo. Po dešimties minučių jūs vis dar esate ten ir ketvirtą kartą tobulinate raginimą. Užduotis, nuo kurios pradėjote, kažkur nukrypo į šalį.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-22-08-ai-losimo-automato-efektas-kodel-generatyvus-tiekimai-tr.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Atidarote generatyvųjį AI įrankį, tikėdamiesi greito pastiprinimo.",
-        "Po dešimties minučių jūs vis dar esate ten ir ketvirtą kartą tobulinate raginimą.",
-        "Užduotis, nuo kurios pradėjote, kažkur nukrypo į šalį."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
-        "try_url": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/"
-      }
-    },
-    {
-      "title": "Bristolis Myersas Squibbas perka „Nvidia AI“ sistemą, skirtą vaistų atradimui",
-      "link": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
-      "published_iso": "2026-07-21T10:00:00Z",
-      "published_lt": "2026-07-21 10:00 UTC",
-      "summary": "Bristol Myers Squibb perka Nvidia DGX SuperPOD, sukurtą pagal lustų gamintojo Vera Rubin architektūrą, kad palaikytų dirbtinio intelekto naudojimą vaistų atradimo ir kūrimo operacijose. Farmacijos bendrovė teigė, kad tai bus pirmoji gyvybės mokslų grupė, įsigijusi DGX SuperPOD, pagrįstą Vera Rubin.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-22-09-bristolis-myersas-squibbas-perka-nvidia-ai-sistema-skirt.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Bristol Myers Squibb perka Nvidia DGX SuperPOD, sukurtą pagal lustų gamintojo Vera Rubin architektūrą, kad palaikytų dirbtinio intelekto naudojimą vaistų atradimo ir kūrimo operacijose.",
-        "Farmacijos bendrovė teigė, kad tai bus pirmoji gyvybės mokslų grupė, įsigijusi DGX SuperPOD, pagrįstą Vera Rubin."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
-        "try_url": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/"
-      }
-    },
-    {
-      "title": "„Meta Open-Sources Astryx“: agentams paruošta „React“ projektavimo sistema su 150 ir daugiau prieinamų komponentų, septyniomis temomis ir CLI",
-      "link": "https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/",
-      "published_iso": "2026-07-21T08:49:55Z",
-      "published_lt": "2026-07-21 08:49 UTC",
-      "summary": "„Meta“ turi atvirojo kodo „Astryx“, „React“ ir „StyleX“ dizaino sistemą, kuri viduje veikė aštuonerius metus daugiau nei 13 000 programų. Jame yra daugiau nei 150 prieinamų komponentų, septynios temos, tamsusis režimas, šablonai ir agentams paruoštas CLI pagal MIT – reikalingas React 19+.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-22-10-meta-open-sources-astryx-agentams-paruosta-react-projekt.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Meta“ turi atvirojo kodo „Astryx“, „React“ ir „StyleX“ dizaino sistemą, kuri viduje veikė aštuonerius metus daugiau nei 13 000 programų.",
-        "Jame yra daugiau nei 150 prieinamų komponentų, septynios temos, tamsusis režimas, šablonai ir agentams paruoštas CLI pagal MIT – reikalingas React 19+."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/",
-        "try_url": "https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/"
-      }
-    },
-    {
-      "title": "Kinijos atviro svorio modeliai yra pigūs. Vašingtonas sprendžia, kiek tai kainuoja.",
-      "link": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
-      "published_iso": "2026-07-21T08:00:00Z",
-      "published_lt": "2026-07-21 08:00 UTC",
-      "summary": "Įmonės, vertinančios Kinijos atviro svorio modelius šį mėnesį, susiduria su niekaip nesusijusiu su etalonais klausimą: ar po metų vis dar bus paprasta jį naudoti.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-22-11-kinijos-atviro-svorio-modeliai-yra-pigus-vasingtonas-spr.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Įmonės, vertinančios Kinijos atviro svorio modelius šį mėnesį, susiduria su niekaip nesusijusiu su etalonais klausimą: ar po metų vis dar bus paprasta jį naudoti."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
-        "try_url": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/"
-      }
-    },
-    {
-      "title": "Kimi K3, šokanti waifus, robotas UFC, daina MIDI, GPT Red, skraidyklės: AI NAUJIENOS",
+      "title": "Kimi K3, šokantis waifus, robotas UFC, daina MIDI, GPT Red, skraidyklės: AI NAUJIENOS",
       "link": "https://www.youtube.com/watch?v=uQ2Hqg5MZ-8",
       "published_iso": "2026-07-19T03:32:41Z",
       "published_lt": "2026-07-19 03:32 UTC",
-      "summary": "DIDELĖS AI NAUJIENOS: Kimi K3, Bonsai 27B, Wan Dancer, GPT Red #ai #ainews #aitools #agi #singularity Ačiū mūsų rėmėjui Higgsfield.",
+      "summary": "DIDELĖS AI NAUJIENOS: Kimi K3, Bonsai 27B, Wan Dancer, GPT Red #ai #ainews #aitools #agi #singularity Ačiū mūsų rėmėjui Higgsfieldui.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/uQ2Hqg5MZ-8/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-22-12-kimi-k3-sokanti-waifus-robotas-ufc-daina-midi-gpt-red-sk.svg",
+      "image_url": "generated-images/2026-07-23-12-kimi-k3-sokantis-waifus-robotas-ufc-daina-midi-gpt-red-s.svg",
       "kind": "video",
       "video_id": "uQ2Hqg5MZ-8",
       "bullets_lt": [
-        "DIDELĖS AI NAUJIENOS: Kimi K3, Bonsai 27B, Wan Dancer, GPT Red #ai #ainews #aitools #agi #singularity Ačiū mūsų rėmėjui Higgsfield."
+        "DIDELĖS AI NAUJIENOS: Kimi K3, Bonsai 27B, Wan Dancer, GPT Red #ai #ainews #aitools #agi #singularity Ačiū mūsų rėmėjui Higgsfieldui."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
