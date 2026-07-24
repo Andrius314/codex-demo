@@ -1,131 +1,24 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-07-23",
-  "generated_at_utc": "2026-07-23T09:20:49Z",
+  "digest_date": "2026-07-24",
+  "generated_at_utc": "2026-07-24T09:15:49Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "Susipažinkite su „Gigatoken“: „Rust BPE Tokenizers“, koduojantis tekstą 24,53 GB/s greičiu, iki 989 kartų greičiau nei „HuggingFace“ žetonai",
-      "link": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
-      "published_iso": "2026-07-23T08:01:22Z",
-      "published_lt": "2026-07-23 08:01 UTC",
-      "summary": "„Gigatoken“ yra MIT licencijuotas „Rust BPE“ prieigos raktas, koduojantis tekstą gigabaitų per sekundę greičiu. 144 branduolių AMD EPYC 9565 naudoja GPT-2 prieigos raktą 24,53 GB/s greičiu. Tai yra 989x HuggingFace žetonai ir 681x tiktokenai, palyginti su pradinėmis linijomis, jau parašytomis daugiagijoje Rust.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-23-01-susipazinkite-su-gigatoken-rust-bpe-tokenizers-koduojant.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Gigatoken“ yra MIT licencijuotas „Rust BPE“ prieigos raktas, koduojantis tekstą gigabaitų per sekundę greičiu.",
-        "144 branduolių AMD EPYC 9565 naudoja GPT-2 prieigos raktą 24,53 GB/s greičiu.",
-        "Tai yra 989x HuggingFace žetonai ir 681x tiktokenai, palyginti su pradinėmis linijomis, jau parašytomis daugiagijoje Rust."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
-        "try_url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/"
-      }
-    },
-    {
-      "title": "Anthropic išleido Claude saugos papildinį, skirtą Claude Code beta versijoje: kelių agentų pažeidžiamumo skaitytuvas, kuris veikia jūsų terminale",
-      "link": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
-      "published_iso": "2026-07-23T06:12:05Z",
-      "published_lt": "2026-07-23 06:12 UTC",
-      "summary": "Anthropic išleido Claude Security papildinį, skirtą Claude Code beta versijoje. Papildinys atlieka kelių agentų saugyklos pažeidžiamumo nuskaitymą iš esamos Claude Code seanso, tada paverčia jūsų pasirinktus radinius pataisos failais, kuriuos peržiūrite ir taikote patys.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-23-02-anthropic-isleido-claude-saugos-papildini-skirta-claude-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Anthropic išleido Claude Security papildinį, skirtą Claude Code beta versijoje.",
-        "Papildinys atlieka kelių agentų saugyklos pažeidžiamumo nuskaitymą iš esamos Claude Code seanso, tada paverčia jūsų pasirinktus radinius pataisos failais, kuriuos peržiūrite ir taikote patys.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
-        "try_url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/"
-      }
-    },
-    {
-      "title": "Žymeklis išleidžia žymeklio maršrutizatorių: užklausos lygio klasifikatorius, užtikrinantis pasienio kodavimo kokybę 30–50 % mažesnėmis sąnaudomis",
-      "link": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
-      "published_iso": "2026-07-22T22:37:44Z",
-      "published_lt": "2026-07-22 22:37 UTC",
-      "summary": "„Cursor“ padarė „Cursor Router“ prieinamą komandoms ir įmonių planams. Sistema kiekvieną užklausą klasifikuoja pagal užklausą, kontekstą, užduoties sudėtingumą ir domeną, tada nukreipia ją į tinkamiausią modelį.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-23-03-zymeklis-isleidzia-zymeklio-marsrutizatoriu-uzklausos-ly.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Cursor“ padarė „Cursor Router“ prieinamą komandoms ir įmonių planams.",
-        "Sistema kiekvieną užklausą klasifikuoja pagal užklausą, kontekstą, užduoties sudėtingumą ir domeną, tada nukreipia ją į tinkamiausią modelį.",
-        "Kaina: Labiau panasu i mokama sprendima."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
-        "try_url": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/"
-      }
-    },
-    {
-      "title": "Tyrimų lygio „EdgeBench“ analizė: AI agento lyginamoji analizė, pirmaujančiųjų sąrašo analizė, mastelio keitimo įstatymai ir vertinimo metrika",
-      "link": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
-      "published_iso": "2026-07-22T21:53:58Z",
-      "published_lt": "2026-07-22 21:53 UTC",
-      "summary": "Šioje pamokoje mes tyrinėjame EdgeBench kaip praktinį etaloną, skirtą pažangiems AI agentams įvertinti įvairiose užduočių kategorijose, vykdymo aplinkose ir sąveikos laiko biudžetuose.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-23-04-tyrimu-lygio-edgebench-analize-ai-agento-lyginamoji-anal.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje pamokoje mes tyrinėjame EdgeBench kaip praktinį etaloną, skirtą pažangiems AI agentams įvertinti įvairiose užduočių kategorijose, vykdymo aplinkose ir sąveikos laiko biudžetuose."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
-        "try_url": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/"
-      }
-    },
-    {
-      "title": "Kaip Europos mažosios įmonės naudoja ChatGPT ir Codex | OpenAI akademija",
-      "link": "https://www.youtube.com/watch?v=4Nv--b12hxQ",
-      "published_iso": "2026-07-22T20:43:58Z",
-      "published_lt": "2026-07-22 20:43 UTC",
-      "summary": "Per šešis mėnesius SME AI Accelerator pristatė praktinius AI mokymus mažoms ir vidutinėms įmonėms visoje Europoje. Programa, kurią teikia OpenAI akademija su Booking.com, apjungė mokymąsi internetu su renginiais Dubline, Varšuvoje, Londone, Miunchene, Milane ir Paryžiuje.",
+      "title": "Kas yra AI Slop?",
+      "link": "https://www.youtube.com/shorts/-_p2a6uWfjk",
+      "published_iso": "2026-07-23T20:51:09Z",
+      "published_lt": "2026-07-23 20:51 UTC",
+      "summary": "Iki liepos 31 d. tyrinėkite Slopo epistemologijas tiat galerijoje San Franciske.",
       "source": "OpenAI",
-      "source_image_url": "https://i1.ytimg.com/vi/4Nv--b12hxQ/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-23-05-kaip-europos-mazosios-imones-naudoja-chatgpt-ir-codex-op.svg",
+      "source_image_url": "https://i2.ytimg.com/vi/-_p2a6uWfjk/hqdefault.jpg",
+      "image_url": "generated-images/2026-07-24-01-kas-yra-ai-slop.svg",
       "kind": "video",
-      "video_id": "4Nv--b12hxQ",
+      "video_id": "-_p2a6uWfjk",
       "bullets_lt": [
-        "Per šešis mėnesius SME AI Accelerator pristatė praktinius AI mokymus mažoms ir vidutinėms įmonėms visoje Europoje.",
-        "Programa, kurią teikia OpenAI akademija su Booking.com, apjungė mokymąsi internetu su renginiais Dubline, Varšuvoje, Londone, Miunchene, Milane ir Paryžiuje."
+        "Iki liepos 31 d.",
+        "tyrinėkite Slopo epistemologijas tiat galerijoje San Franciske."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -134,8 +27,8 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=4Nv--b12hxQ",
-        "try_url": "https://www.youtube.com/watch?v=4Nv--b12hxQ"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/-_p2a6uWfjk",
+        "try_url": "https://www.youtube.com/shorts/-_p2a6uWfjk"
       }
     },
     {
@@ -146,7 +39,7 @@
       "summary": "Pasidalinome, kaip „Samsung“ vartotojai gali padidinti produktyvumą ir sugrąžinti laiką pirkdami naujus sulankstomus, laikrodžius ir akinius, kurie netrukus pasirodys.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-07-23-06-3-google-naujiniai-is-galaxy-unpacked-2026.svg",
+      "image_url": "generated-images/2026-07-24-02-3-google-naujiniai-is-galaxy-unpacked-2026.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -166,139 +59,6 @@
       }
     },
     {
-      "title": "„SenseTime“ „Galaxy Project“ skirtas vietiniam AI lusto didinimui",
-      "link": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
-      "published_iso": "2026-07-22T11:21:05Z",
-      "published_lt": "2026-07-22 11:21 UTC",
-      "summary": "„SenseTime“ pradėjo „Galaxy Project“, bendradarbiaudamas su beveik 20 partnerių, siekdamas išplėsti vietinę AI lustų infrastruktūrą Kinijoje.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-23-07-sensetime-galaxy-project-skirtas-vietiniam-ai-lusto-didi.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„SenseTime“ pradėjo „Galaxy Project“, bendradarbiaudamas su beveik 20 partnerių, siekdamas išplėsti vietinę AI lustų infrastruktūrą Kinijoje."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
-        "try_url": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/"
-      }
-    },
-    {
-      "title": "Unsloth vs Axolotl vs TRL vs LLaMA-Factory: Tikslus greičio, VRAM ir kelių GPU suderinimo sistemos palyginimas",
-      "link": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/",
-      "published_iso": "2026-07-22T09:16:40Z",
-      "published_lt": "2026-07-22 09:16 UTC",
-      "summary": "Keturi atvirojo kodo projektai šiandien dominuoja LLM koreguojant. „Unsloth“, „Axolotl“, TRL ir „LLaMA-Factory“ apima tą patį „PyTorch“ ir „Hugging Face“ paketą. Jie skiriasi tuo, kur išleidžia inžinerines pastangas.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-23-08-unsloth-vs-axolotl-vs-trl-vs-llama-factory-tikslus-greic.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Keturi atvirojo kodo projektai šiandien dominuoja LLM koreguojant.",
-        "„Unsloth“, „Axolotl“, TRL ir „LLaMA-Factory“ apima tą patį „PyTorch“ ir „Hugging Face“ paketą.",
-        "Jie skiriasi tuo, kur išleidžia inžinerines pastangas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/",
-        "try_url": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/"
-      }
-    },
-    {
-      "title": "„Cisco Foundation AI“ išleidžia „Antares“: 350M ir 1B atviro svorio modelius, kurie lokalizuoja žinomus pažeidžiamumus tikrose kodų bazėse",
-      "link": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
-      "published_iso": "2026-07-22T06:27:02Z",
-      "published_lt": "2026-07-22 06:27 UTC",
-      "summary": "„Cisco Foundation AI“ išleido „Antares“ – mažų kalbų modelių šeimą, išmokytą tiksliai nustatyti, kur kodų bazėje yra žinomų pažeidžiamumų. Antares-1B pasiekia 0,209 failą F1 pagal naująjį pažeidžiamumo lokalizavimo etaloną, viršijantį GLM-5.2 esant 753B parametrams ir Gemini 3 Pro.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-23-09-cisco-foundation-ai-isleidzia-antares-350m-ir-1b-atviro-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Cisco Foundation AI“ išleido „Antares“ – mažų kalbų modelių šeimą, išmokytą tiksliai nustatyti, kur kodų bazėje yra žinomų pažeidžiamumų.",
-        "Antares-1B pasiekia 0,209 failą F1 pagal naująjį pažeidžiamumo lokalizavimo etaloną, viršijantį GLM-5.2 esant 753B parametrams ir Gemini 3 Pro."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
-        "try_url": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/"
-      }
-    },
-    {
-      "title": "Prie baseino išleidžiamas „Laguna S 2.1“ – atviro svorio agento kodavimo modelis, kuris SWE-Bench daugiakalbyje yra didesnis už savo svorio klasę",
-      "link": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
-      "published_iso": "2026-07-22T00:01:32Z",
-      "published_lt": "2026-07-22 00:01 UTC",
-      "summary": "„Poolside“ išleido „Laguna S 2.1“, 118B atviro svorio ekspertų mišinio kodavimo modelį su 8B aktyviais parametrais kiekvienam prieigos raktui ir 1 mln. prieigos rakto kontekstu. Jis atitinka arba kelis kartus pranoksta modelius pagal agentinio kodavimo etalonus, pristatomas naudojant OpenMDW-1.1 ir veikia naudojant vieną NVIDIA DGX Spark.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-23-10-prie-baseino-isleidziamas-laguna-s-2-1-atviro-svorio-age.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Poolside“ išleido „Laguna S 2.1“, 118B atviro svorio ekspertų mišinio kodavimo modelį su 8B aktyviais parametrais kiekvienam prieigos raktui ir 1 mln.",
-        "prieigos rakto kontekstu.",
-        "Jis atitinka arba kelis kartus pranoksta modelius pagal agentinio kodavimo etalonus, pristatomas naudojant OpenMDW-1.1 ir veikia naudojant vieną NVIDIA DGX Spark."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
-        "try_url": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/"
-      }
-    },
-    {
-      "title": "„Google“ išleido „Gemini 3.6 Flash“, 3.5 „Flash-Lite“ ir 3.5 „Flash Cyber“: pigesnę, žetonų efektyvesnę „Flash“ pakopą, sukurtą agentų darbo krūviams",
-      "link": "https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/",
-      "published_iso": "2026-07-21T17:45:08Z",
-      "published_lt": "2026-07-21 17:45 UTC",
-      "summary": "2026 m. liepos 21 d. „Google“ išleido „Gemini 3.6 Flash“, 3.5 Flash-Lite ir 3.5 Flash Cyber. „Flash“ pakopa tampa pigesnė ir efektyvesnė, nes 3.6 „Flash“ išvesties žetonai sumažinami 17 %, o produkcijos kaina sumažinama iki 7,50 USD už 1 mln.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/07/HNwo7c1a8AA5h9d-1-150x150.jpeg",
-      "image_url": "generated-images/2026-07-23-11-google-isleido-gemini-3-6-flash-3-5-flash-lite-ir-3-5-fl.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "2026 m.",
-        "liepos 21 d.",
-        "„Google“ išleido „Gemini 3.6 Flash“, 3.5 Flash-Lite ir 3.5 Flash Cyber."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/",
-        "try_url": "https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/"
-      }
-    },
-    {
       "title": "Kimi K3, šokantis waifus, robotas UFC, daina MIDI, GPT Red, skraidyklės: AI NAUJIENOS",
       "link": "https://www.youtube.com/watch?v=uQ2Hqg5MZ-8",
       "published_iso": "2026-07-19T03:32:41Z",
@@ -306,7 +66,7 @@
       "summary": "DIDELĖS AI NAUJIENOS: Kimi K3, Bonsai 27B, Wan Dancer, GPT Red #ai #ainews #aitools #agi #singularity Ačiū mūsų rėmėjui Higgsfieldui.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/uQ2Hqg5MZ-8/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-23-12-kimi-k3-sokantis-waifus-robotas-ufc-daina-midi-gpt-red-s.svg",
+      "image_url": "generated-images/2026-07-24-03-kimi-k3-sokantis-waifus-robotas-ufc-daina-midi-gpt-red-s.svg",
       "kind": "video",
       "video_id": "uQ2Hqg5MZ-8",
       "bullets_lt": [
@@ -321,6 +81,246 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=uQ2Hqg5MZ-8",
         "try_url": "https://www.youtube.com/watch?v=uQ2Hqg5MZ-8"
+      }
+    },
+    {
+      "title": "Prijunkite daugiau programų prie paieškos",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "published_iso": "2026-07-16T16:00:00Z",
+      "published_lt": "2026-07-16 16:00 UTC",
+      "summary": "Galėsite saugiai susieti ir bendrauti su savo pagrindinėmis paslaugomis tiesiogiai AI režimu.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-24-04-prijunkite-daugiau-programu-prie-paieskos.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Galėsite saugiai susieti ir bendrauti su savo pagrindinėmis paslaugomis tiesiogiai AI režimu.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/products-and-platforms/products/search/connected-apps/",
+        "try_url": "https://blog.google/products-and-platforms/products/search/connected-apps/"
+      }
+    },
+    {
+      "title": "Kurkite, redaguokite ir pažymėkite vaizdo įrašus žvaigždute naudodami du „Google Vids“ naujinius",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "published_iso": "2026-07-16T16:00:00Z",
+      "published_lt": "2026-07-16 16:00 UTC",
+      "summary": "„Gemini Omni“ ir asmeniniai „Google Vids“ avatarai leidžia kurti vaizdo įrašus lengviau nei bet kada anksčiau.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-24-05-kurkite-redaguokite-ir-pazymekite-vaizdo-irasus-zvaigzdu.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Gemini Omni“ ir asmeniniai „Google Vids“ avatarai leidžia kurti vaizdo įrašus lengviau nei bet kada anksčiau.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Taip pat galite sukurti skaitmeninį pseudoportretą, kad pristatytumėte jums pranešimus, įkeldami asmenukę ir balso įrašą.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
+      }
+    },
+    {
+      "title": "Claude'as ką tik atskleidė didžiausią AI problemą",
+      "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "published_iso": "2026-07-16T15:39:17Z",
+      "published_lt": "2026-07-16 15:39 UTC",
+      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://www.anthropic.com/research/AI-assistance-coding-skills 🙏 Norėtume padėkoti mūsų dosniems Patreon rėmėjams, kurie įgalina „Two Minute Papers“: Ra Adamą Camhaną, Bhangji, S.",
+      "source": "Two Minute Papers",
+      "source_image_url": "https://i2.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
+      "image_url": "generated-images/2026-07-24-06-claude-as-ka-tik-atskleide-didziausia-ai-problema.svg",
+      "kind": "video",
+      "video_id": "axOcn--n_lM",
+      "bullets_lt": [
+        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://www.anthropic.com/research/AI-assistance-coding-skills 🙏 Norėtume padėkoti mūsų dosniems Patreon rėmėjams, kurie įgalina „Two Minute Papers“: Ra Adamą Camhaną, Bhangji, S.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=axOcn--n_lM",
+        "try_url": "https://www.youtube.com/watch?v=axOcn--n_lM"
+      }
+    },
+    {
+      "title": "Švenčiame 25-erius vizualinės paieškos inovacijų metus",
+      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "published_iso": "2026-07-14T16:00:00Z",
+      "published_lt": "2026-07-14 16:00 UTC",
+      "summary": "„Google“ vaizdams sukanka 25 metai. Štai keletas pagrindinių etapų ir naujų būdų tyrinėti ir kurti vaizdinį turinį.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-24-07-svenciame-25-erius-vizualines-paieskos-inovaciju-metus.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“ vaizdams sukanka 25 metai.",
+        "Štai keletas pagrindinių etapų ir naujų būdų tyrinėti ir kurti vaizdinį turinį.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
+      }
+    },
+    {
+      "title": "Valdomų agentų išplėtimas naudojant Gemini API: foninės užduotys, nuotolinis MCP ir kt",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "published_iso": "2026-07-07T08:54:00Z",
+      "published_lt": "2026-07-07 08:54 UTC",
+      "summary": "Skelbiame apie naujas Gemini API valdomų agentų galimybes, kad kūrėjai galėtų sukurti patikimus, gamybai paruoštus agentus.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-24-08-valdomu-agentu-ispletimas-naudojant-gemini-api-fonines-u.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Skelbiame apie naujas Gemini API valdomų agentų galimybes, kad kūrėjai galėtų sukurti patikimus, gamybai paruoštus agentus.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
+      }
+    },
+    {
+      "title": "Paskutinės AI naujienos, kurias paskelbėme 2026 m. birželio mėn",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "published_iso": "2026-07-01T18:15:00Z",
+      "published_lt": "2026-07-01 18:15 UTC",
+      "summary": "Štai naujausi „Google“ AI atnaujinimai nuo 2026 m. birželio mėn.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-24-09-paskutines-ai-naujienos-kurias-paskelbeme-2026-m-birzeli.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Štai naujausi „Google“ AI atnaujinimai nuo 2026 m.",
+        "birželio mėn.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
+      }
+    },
+    {
+      "title": "Niujorko pedagogai ir pramonės lyderiai susirinko į „Google“ biurus, kad sukurtų AI ateitį klasėse.",
+      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "published_iso": "2026-07-01T16:00:00Z",
+      "published_lt": "2026-07-01 16:00 UTC",
+      "summary": "„Google“, „New York Jobs“ generalinių direktorių taryba ir „Urban Assembly“ surengė AI viršūnių susitikimą, kuriame dalyvavo 150 švietimo ir pramonės lyderių.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-24-10-niujorko-pedagogai-ir-pramones-lyderiai-susirinko-i-goog.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“, „New York Jobs“ generalinių direktorių taryba ir „Urban Assembly“ surengė AI viršūnių susitikimą, kuriame dalyvavo 150 švietimo ir pramonės lyderių.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
+      }
+    },
+    {
+      "title": "Naujos Didžiosios Britanijos produktyvumo eros atskleidimas: sukurkite dirbtinio intelekto lyderių tautą",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "published_iso": "2026-06-30T06:00:00Z",
+      "published_lt": "2026-06-30 06:00 UTC",
+      "summary": "„Google UK“ dalijasi savo naujausia ekonominio poveikio ataskaita ir tuo, kaip suteikti daugiau žmonių galimybių pasinaudoti dirbtiniu intelektu valdomų technologijų pranašumais.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-24-11-naujos-didziosios-britanijos-produktyvumo-eros-atskleidi.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google UK“ dalijasi savo naujausia ekonominio poveikio ataskaita ir tuo, kaip suteikti daugiau žmonių galimybių pasinaudoti dirbtiniu intelektu valdomų technologijų pranašumais."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
+      }
+    },
+    {
+      "title": "Paklauskite AI eksperto: kas tiksliai yra visas krūvas?",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "published_iso": "2026-06-29T16:00:00Z",
+      "published_lt": "2026-06-29 16:00 UTC",
+      "summary": "„Google“ ekspertas paaiškina, ką reiškia visapusiškas požiūris į AI ir kodėl tai taip ilgai buvo mūsų AI darbo pagrindas.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-24-12-paklauskite-ai-eksperto-kas-tiksliai-yra-visas-kruvas.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“ ekspertas paaiškina, ką reiškia visapusiškas požiūris į AI ir kodėl tai taip ilgai buvo mūsų AI darbo pagrindas.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
       }
     }
   ]
