@@ -1,10 +1,195 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-07-28",
-  "generated_at_utc": "2026-07-28T09:31:40Z",
+  "digest_date": "2026-07-29",
+  "generated_at_utc": "2026-07-29T09:33:24Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Kurti neinteraktyvias agentinio kodavimo darbo eigas naudojant „Moonshot AI“ Kimi CLI, JSONL srautinį perdavimą, testavimą ir seanso atmintį",
+      "link": "https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/",
+      "published_iso": "2026-07-28T23:04:44Z",
+      "published_lt": "2026-07-28 23:04 UTC",
+      "summary": "Šioje pamokoje mes sukonfigūruojame ir valdome Kimi CLI kaip visiškai neinteraktyvų AI kodavimo agentą.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-29-01-kurti-neinteraktyvias-agentinio-kodavimo-darbo-eigas-nau.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje pamokoje mes sukonfigūruojame ir valdome Kimi CLI kaip visiškai neinteraktyvų AI kodavimo agentą."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/",
+        "try_url": "https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/"
+      }
+    },
+    {
+      "title": "Fejerverkų dirbtinis intelektas išleido fejerverkų Nexus: įleidžiamą maršrutą ir išlaidų valdymo sluoksnį, perkeliantį įprastą kodavimo darbą į atviro svorio modelius",
+      "link": "https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/",
+      "published_iso": "2026-07-28T22:45:56Z",
+      "published_lt": "2026-07-28 22:45 UTC",
+      "summary": "Fireworks AI išleido Fireworks Nexus, AI valdymo ir maršruto parinkimo platformą, skirtą inžinerinėms organizacijoms. Jis sujungia kūrėjų jau naudojamus kodavimo įrankius su valdomu atviro svorio modelių sluoksniu. Problema, kuriai ji skirta, yra gerai dokumentuota.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-29-02-fejerverku-dirbtinis-intelektas-isleido-fejerverku-nexus.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Fireworks AI išleido Fireworks Nexus, AI valdymo ir maršruto parinkimo platformą, skirtą inžinerinėms organizacijoms.",
+        "Jis sujungia kūrėjų jau naudojamus kodavimo įrankius su valdomu atviro svorio modelių sluoksniu.",
+        "Problema, kuriai ji skirta, yra gerai dokumentuota."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/",
+        "try_url": "https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/"
+      }
+    },
+    {
+      "title": "Pristatome gpt-transcribe ir gpt-live-transscribe",
+      "link": "https://www.youtube.com/watch?v=WeP9VUf1OoE",
+      "published_iso": "2026-07-28T21:49:18Z",
+      "published_lt": "2026-07-28 21:49 UTC",
+      "summary": "Susipažinkite su dviem naujais paketinio ir tiesioginio transkripcijos modeliais gpt-transcribe ir gpt-live-transcribe. Sužinokite, kaip jie elgiasi su tinkintu žodynu, foniniu triukšmu, daugiakalbe kalba ir įprastais transkripcijos iššūkiais, pvz., kirčiavimo ženklais, vardais, trumpais atsakymais ir skaičiais.",
+      "source": "OpenAI",
+      "source_image_url": "https://i4.ytimg.com/vi/WeP9VUf1OoE/hqdefault.jpg",
+      "image_url": "generated-images/2026-07-29-03-pristatome-gpt-transcribe-ir-gpt-live-transscribe.svg",
+      "kind": "video",
+      "video_id": "WeP9VUf1OoE",
+      "bullets_lt": [
+        "Susipažinkite su dviem naujais paketinio ir tiesioginio transkripcijos modeliais gpt-transcribe ir gpt-live-transcribe.",
+        "Sužinokite, kaip jie elgiasi su tinkintu žodynu, foniniu triukšmu, daugiakalbe kalba ir įprastais transkripcijos iššūkiais, pvz., kirčiavimo ženklais, vardais, trumpais atsakymais ir skaičiais."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=WeP9VUf1OoE",
+        "try_url": "https://www.youtube.com/watch?v=WeP9VUf1OoE"
+      }
+    },
+    {
+      "title": "Gemini API valdomi agentai: 3.6 Flash, kabliukai ir kt",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "published_iso": "2026-07-28T16:00:00Z",
+      "published_lt": "2026-07-28 16:00 UTC",
+      "summary": "Skelbiame dar daugiau naujų Gemini API valdomų agentų galimybių, kad kūrėjai galėtų sukurti patikimus, gamybai paruoštus agentus.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-29-04-gemini-api-valdomi-agentai-3-6-flash-kabliukai-ir-kt.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Skelbiame dar daugiau naujų Gemini API valdomų agentų galimybių, kad kūrėjai galėtų sukurti patikimus, gamybai paruoštus agentus.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
+      }
+    },
+    {
+      "title": "5 būdai, kaip AI režimas paieškoje padeda mėgautis tikru pasauliu",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "published_iso": "2026-07-28T13:00:00Z",
+      "published_lt": "2026-07-28 13:00 UTC",
+      "summary": "Tai gali skambėti prieštaringai, bet paieškos dirbtinio intelekto įrankiai iš tikrųjų gali padėti maksimaliai išnaudoti laiką neprisijungus, nesvarbu, ar norite užsisakyti koncerto bilietus, ar rasti tobulą…",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-29-05-5-budai-kaip-ai-rezimas-paieskoje-padeda-megautis-tikru-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Tai gali skambėti prieštaringai, bet paieškos dirbtinio intelekto įrankiai iš tikrųjų gali padėti maksimaliai išnaudoti laiką neprisijungus, nesvarbu, ar norite užsisakyti koncerto bilietus, ar rasti tobulą….",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
+      }
+    },
+    {
+      "title": "5 būdai surengti puikią vakarienę naudojant „Google“ paiešką",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "published_iso": "2026-07-28T13:00:00Z",
+      "published_lt": "2026-07-28 13:00 UTC",
+      "summary": "Šios AI funkcijos gali padėti sudaryti meniu, sukurti stalo peizažą ir atlikti kitas vakarėlio planavimo užduotis.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-07-29-06-5-budai-surengti-puikia-vakariene-naudojant-google-paies.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šios AI funkcijos gali padėti sudaryti meniu, sukurti stalo peizažą ir atlikti kitas vakarėlio planavimo užduotis.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260715-1455"
+      }
+    },
+    {
+      "title": "„Guardoc Health“ apdoroja klinikinius dokumentus naudodama „Amazon Nova“ modelius",
+      "link": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
+      "published_iso": "2026-07-28T11:30:47Z",
+      "published_lt": "2026-07-28 11:30 UTC",
+      "summary": "„Guardoc Health“ teigia, kad kasdien apdoroja daugiau nei milijoną klinikinių dokumentų, naudodama „Amazon Nova“ modelius per „Bedrock“. AI įtraukimas į klinikinius dokumentus priklauso nuo konkretaus rizikos apskaičiavimo.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-29-07-guardoc-health-apdoroja-klinikinius-dokumentus-naudodama.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Guardoc Health“ teigia, kad kasdien apdoroja daugiau nei milijoną klinikinių dokumentų, naudodama „Amazon Nova“ modelius per „Bedrock“.",
+        "AI įtraukimas į klinikinius dokumentus priklauso nuo konkretaus rizikos apskaičiavimo."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
+        "try_url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/"
+      }
+    },
     {
       "title": "Armėnijos AI statymas nėra lustų gamyba. Tai yra skaičiavimo suverenitetas",
       "link": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/",
@@ -13,7 +198,7 @@
       "summary": "Armėnija nėra didelė šalis. Tai nėra turtinga šalis. Tai nėra garsi šalis.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-28-01-armenijos-ai-statymas-nera-lustu-gamyba-tai-yra-skaiciav.svg",
+      "image_url": "generated-images/2026-07-29-08-armenijos-ai-statymas-nera-lustu-gamyba-tai-yra-skaiciav.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -40,7 +225,7 @@
       "summary": "„Microsoft AI“ išleido MAI-Cyber-1-Flash – pirmąjį modelį, sukurtą specialiai kibernetinei gynybai. Tai yra 137 B iš viso, 5 B aktyvus negausus MAI-Code-1-Flash derinimas su 256 000 konteksto langu.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-28-02-microsoft-ai-isleido-mai-cyber-1-flash-5b-aktyviu-parame.svg",
+      "image_url": "generated-images/2026-07-29-09-microsoft-ai-isleido-mai-cyber-1-flash-5b-aktyviu-parame.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -66,7 +251,7 @@
       "summary": "Šioje mokymo programoje mes įdiegiame 1 bito Bonsai-27B kalbos modelį naudodami llama.cpp PrismML šakę, kuri suteikia specializuotus CUDA branduolius, reikalingus modelio Q1_0_g128 GGUF kvantavimo formatui iššifruoti.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-28-03-1-bito-bonsai-27b-modelio-diegimas-su-prismml-llama-cpp-.svg",
+      "image_url": "generated-images/2026-07-29-10-1-bito-bonsai-27b-modelio-diegimas-su-prismml-llama-cpp-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -91,7 +276,7 @@
       "summary": "Moonshot AI Kimi komanda ir kvcache-ai atviro kodo AgentENV (AENV) pagal MIT, kaip Kimi K3 atvirų durų dienos dalis. Jis paleidžia agentų smėlio dėžes kaip Firecracker mikroVM su milisekundės momentine nuotrauka, gyvenimo aprašymu ir 16 krypčių šakute, už su E2B suderinamos API.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-28-04-kimi-ai-ir-kcache-ai-atvirieji-saltiniai-agentenv-paskir.svg",
+      "image_url": "generated-images/2026-07-29-11-kimi-ai-ir-kcache-ai-atvirieji-saltiniai-agentenv-paskir.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -111,134 +296,6 @@
       }
     },
     {
-      "title": "Įgūdžiais pagrįstų finansinės analizės agentų kūrimas su Claude, Python, MCP jungtimis ir automatizuotais pristatymais",
-      "link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
-      "published_iso": "2026-07-27T18:08:24Z",
-      "published_lt": "2026-07-27 18:08 UTC",
-      "summary": "Šioje mokymo programoje sukuriame pažangią darbo eigą aplink Anthropic finansinių paslaugų saugyklą ir atkuriame jos įgūdžiais pagrįstą architektūrą grynu Python.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-28-05-igudziais-pagristu-finansines-analizes-agentu-kurimas-su.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje mokymo programoje sukuriame pažangią darbo eigą aplink Anthropic finansinių paslaugų saugyklą ir atkuriame jos įgūdžiais pagrįstą architektūrą grynu Python."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
-        "try_url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/"
-      }
-    },
-    {
-      "title": "Perplexity išleidžia pplx, vieno dvejetainio CLI, kuris įdeda savo paieškos API į kodavimo agentų terminalą",
-      "link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
-      "published_iso": "2026-07-27T16:32:47Z",
-      "published_lt": "2026-07-27 16:32 UTC",
-      "summary": "„Perplexity“ išleido „pplx“, oficialų savo paieškos API komandų eilutės klientą. Įrankis atskleidžia dvi komandas – pplx paieškos žiniatinklyje ir pplx turinio gavimą – ir grąžina tiksliai vieną JSON objektą stdout.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-28-06-perplexity-isleidzia-pplx-vieno-dvejetainio-cli-kuris-id.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Perplexity“ išleido „pplx“, oficialų savo paieškos API komandų eilutės klientą.",
-        "Įrankis atskleidžia dvi komandas – pplx paieškos žiniatinklyje ir pplx turinio gavimą – ir grąžina tiksliai vieną JSON objektą stdout.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
-        "try_url": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/"
-      }
-    },
-    {
-      "title": "Naršymas AI transformacijoje teisinėje pramonėje | Jonathanas Williamsas, „Legora“ Prancūzijos vadovas",
-      "link": "https://www.youtube.com/watch?v=oXu6JGxW_YM",
-      "published_iso": "2026-07-27T12:37:15Z",
-      "published_lt": "2026-07-27 12:37 UTC",
-      "summary": "Mes susitikome su Jonathanu Williamsu, Legora Prancūzijos vadovu, RAISE aukščiausiojo lygio susitikime Paryžiuje ir aptarėme, kaip dirbtinis intelektas keičia teisinę pramonę. Advokatų kontoroms ir vidaus teisininkų komandoms priėmus dirbtinį intelektą, iššūkis nebėra tik naujų technologijų pritaikymas – tai padeda ištisoms organizacijoms prisitaikyti prie naujo darbo būdo.",
-      "source": "OpenAI",
-      "source_image_url": "https://i4.ytimg.com/vi/oXu6JGxW_YM/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-28-07-narsymas-ai-transformacijoje-teisineje-pramoneje-jonatha.svg",
-      "kind": "video",
-      "video_id": "oXu6JGxW_YM",
-      "bullets_lt": [
-        "Mes susitikome su Jonathanu Williamsu, Legora Prancūzijos vadovu, RAISE aukščiausiojo lygio susitikime Paryžiuje ir aptarėme, kaip dirbtinis intelektas keičia teisinę pramonę.",
-        "Advokatų kontoroms ir vidaus teisininkų komandoms priėmus dirbtinį intelektą, iššūkis nebėra tik naujų technologijų pritaikymas – tai padeda ištisoms organizacijoms prisitaikyti prie naujo darbo būdo."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=oXu6JGxW_YM",
-        "try_url": "https://www.youtube.com/watch?v=oXu6JGxW_YM"
-      }
-    },
-    {
-      "title": "Kaip AI sutrumpina vaistų atradimo terminus Kinijoje",
-      "link": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
-      "published_iso": "2026-07-27T10:00:00Z",
-      "published_lt": "2026-07-27 10:00 UTC",
-      "summary": "Pasak generalinio direktoriaus Alexo Zhavoronkovo, „Insilico Medicine“ sutrumpino laiką, reikalingą kai kuriems vaistų kūrimo kandidatams gaminti, iki maždaug vienerių metų, derindama dirbtinį intelektą su laboratoriniais tyrimais Kinijoje.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-28-08-kaip-ai-sutrumpina-vaistu-atradimo-terminus-kinijoje.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Pasak generalinio direktoriaus Alexo Zhavoronkovo, „Insilico Medicine“ sutrumpino laiką, reikalingą kai kuriems vaistų kūrimo kandidatams gaminti, iki maždaug vienerių metų, derindama dirbtinį intelektą su laboratoriniais tyrimais Kinijoje."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
-        "try_url": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/"
-      }
-    },
-    {
-      "title": "Amerikos AI investicijų bumas keičia ekonomiką",
-      "link": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
-      "published_iso": "2026-07-27T09:18:53Z",
-      "published_lt": "2026-07-27 09:18 UTC",
-      "summary": "Amerikos AI investicijų bumas keičia ekonomiką Dirbtinis intelektas tapo viena iš svarbiausių investicijų istorijų Jungtinėse Valstijose, o skaičiai toliau auga.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-28-09-amerikos-ai-investiciju-bumas-keicia-ekonomika.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Amerikos AI investicijų bumas keičia ekonomiką Dirbtinis intelektas tapo viena iš svarbiausių investicijų istorijų Jungtinėse Valstijose, o skaičiai toliau auga."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
-        "try_url": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/"
-      }
-    },
-    {
       "title": "Claude Opus 5 yra keistuolis",
       "link": "https://www.youtube.com/watch?v=RCsBJz4W4bA",
       "published_iso": "2026-07-27T03:28:19Z",
@@ -246,7 +303,7 @@
       "summary": "Claude Opus 5 apžvalga ir visas testavimas. #ai #ainews #aitools #llm #agi #singularity Ačiū mūsų rėmėjui Lumai.",
       "source": "AI Search",
       "source_image_url": "https://i3.ytimg.com/vi/RCsBJz4W4bA/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-28-10-claude-opus-5-yra-keistuolis.svg",
+      "image_url": "generated-images/2026-07-29-12-claude-opus-5-yra-keistuolis.svg",
       "kind": "video",
       "video_id": "RCsBJz4W4bA",
       "bullets_lt": [
@@ -262,57 +319,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=RCsBJz4W4bA",
         "try_url": "https://www.youtube.com/watch?v=RCsBJz4W4bA"
-      }
-    },
-    {
-      "title": "Black Forest Labs išleido FLUX 3: daugiarūšio srauto modelį, skirtą vaizdo, vaizdo, garso ir roboto veiksmų numatymui",
-      "link": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
-      "published_iso": "2026-07-26T17:50:23Z",
-      "published_lt": "2026-07-26 17:50 UTC",
-      "summary": "Black Forest Labs (BFL) išleido FLUX 3 – daugiarūšio pagrindo modelį, kuris mokosi iš vaizdų, vaizdo įrašų ir garso vienoje architektūroje. Tai taip pat pirmasis FLUX modelis, kuriame vaizdo, garso ir veiksmo prognozės pateikiamos iš vieno svarmenų rinkinio.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-28-11-black-forest-labs-isleido-flux-3-daugiarusio-srauto-mode.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Black Forest Labs (BFL) išleido FLUX 3 – daugiarūšio pagrindo modelį, kuris mokosi iš vaizdų, vaizdo įrašų ir garso vienoje architektūroje.",
-        "Tai taip pat pirmasis FLUX modelis, kuriame vaizdo, garso ir veiksmo prognozės pateikiamos iš vieno svarmenų rinkinio."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
-        "try_url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/"
-      }
-    },
-    {
-      "title": "KwaiKAT komanda išleido KAT-Coder-V2.5: Agentinio kodavimo modelį, apmokytą daugiau nei 100 000 patikrinamų saugyklų aplinkų",
-      "link": "https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/",
-      "published_iso": "2026-07-26T10:46:19Z",
-      "published_lt": "2026-07-26 10:46 UTC",
-      "summary": "KwaiKAT komanda Kuaishou paskelbė KAT-Coder-V2.5 techninę ataskaitą, teigdama, kad agentinio kodavimo galimybes trukdo mokymo infrastruktūra, o ne modelio mastelis.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-28-12-kwaikat-komanda-isleido-kat-coder-v2-5-agentinio-kodavim.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "KwaiKAT komanda Kuaishou paskelbė KAT-Coder-V2.5 techninę ataskaitą, teigdama, kad agentinio kodavimo galimybes trukdo mokymo infrastruktūra, o ne modelio mastelis."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/",
-        "try_url": "https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/"
       }
     }
   ]
