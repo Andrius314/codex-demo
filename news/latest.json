@@ -1,10 +1,190 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-07-30",
-  "generated_at_utc": "2026-07-30T09:25:39Z",
+  "digest_date": "2026-07-31",
+  "generated_at_utc": "2026-07-31T09:38:06Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "„Nous Research“ pristato tris „Hermes Agent“ ir „Buzz“ integracijos kelius, „Block“ atvirojo kodo „Nostr“ darbo sritį žmonėms ir agentams",
+      "link": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
+      "published_iso": "2026-07-31T09:08:13Z",
+      "published_lt": "2026-07-31 09:08 UTC",
+      "summary": "„Nous Research“ išleido „Hermes Agent“ palaikymą „Buzz“, „Block“ atvirojo kodo, savarankiškai veikiančiai „Nostr“ darbo vietai, kurioje žmonės ir dirbtinio intelekto agentai naudojasi tais pačiais kanalais. Trys integravimo keliai apima darbalaukio vykdymo laiką, perdavimo tiltą ir vietinę šliuzo platformą, kuri išsaugo „Hermes“ atmintį, įgūdžius, patvirtinimus ir cron pristatymą.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-31-01-nous-research-pristato-tris-hermes-agent-ir-buzz-integra.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Nous Research“ išleido „Hermes Agent“ palaikymą „Buzz“, „Block“ atvirojo kodo, savarankiškai veikiančiai „Nostr“ darbo vietai, kurioje žmonės ir dirbtinio intelekto agentai naudojasi tais pačiais kanalais.",
+        "Trys integravimo keliai apima darbalaukio vykdymo laiką, perdavimo tiltą ir vietinę šliuzo platformą, kuri išsaugo „Hermes“ atmintį, įgūdžius, patvirtinimus ir cron pristatymą.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
+        "try_url": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/"
+      }
+    },
+    {
+      "title": "„PolyAI“ išleido „Dialog-RSN-1“: garsinį dialogo modelį, kuris sujungia posūkį, kalbos atpažinimą, funkcinį skambutį ir atsaką",
+      "link": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
+      "published_iso": "2026-07-31T05:06:43Z",
+      "published_lt": "2026-07-31 05:06 UTC",
+      "summary": "„PolyAI“ pristatė „Dialog-RSN-1“ – dialogo modelį, kuris tiesiogiai suvokia skambinančiojo garsą, o ne nuskaito ASR nuorašą.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-31-02-polyai-isleido-dialog-rsn-1-garsini-dialogo-modeli-kuris.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„PolyAI“ pristatė „Dialog-RSN-1“ – dialogo modelį, kuris tiesiogiai suvokia skambinančiojo garsą, o ne nuskaito ASR nuorašą."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
+        "try_url": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/"
+      }
+    },
+    {
+      "title": "Sukurkite politikos valdomų kelių agentų finansinių tyrimų darbo eigą naudodami „Omnigent“.",
+      "link": "https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/",
+      "published_iso": "2026-07-31T04:44:12Z",
+      "published_lt": "2026-07-31 04:44 UTC",
+      "summary": "Šioje pamokoje parodome, kaip sukurti ir vykdyti kelių agentų darbo eigą naudojant „Omnigent“ saugioje, izoliuotoje „Python“ aplinkoje.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-31-03-sukurkite-politikos-valdomu-keliu-agentu-finansiniu-tyri.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje pamokoje parodome, kaip sukurti ir vykdyti kelių agentų darbo eigą naudojant „Omnigent“ saugioje, izoliuotoje „Python“ aplinkoje."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/",
+        "try_url": "https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/"
+      }
+    },
+    {
+      "title": "„Google DeepMind“ pristato tris fizinius AI modelius, skirtus viso kūno kontrolei, miklumui ir kelių robotų bendradarbiavimui",
+      "link": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
+      "published_iso": "2026-07-30T17:20:50Z",
+      "published_lt": "2026-07-30 17:20 UTC",
+      "summary": "„Google DeepMind“ išleido „Gemini Robotics 2“ – naujos kartos robotų žvalgybos sluoksnį.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-31-04-google-deepmind-pristato-tris-fizinius-ai-modelius-skirt.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google DeepMind“ išleido „Gemini Robotics 2“ – naujos kartos robotų žvalgybos sluoksnį."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
+        "try_url": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/"
+      }
+    },
+    {
+      "title": "Zuckerbergas išsamiai aprašo asmeninę Meta AI superintelekto strategiją",
+      "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
+      "published_iso": "2026-07-30T11:12:11Z",
+      "published_lt": "2026-07-30 11:12 UTC",
+      "summary": "Markas Zuckerbergas paskelbė WSJ darbą, kuriame teigiama, kad superintelektas turi pasiekti asmenis, o ne tik kelias institucijas. „Meta“ vadovas paskelbė kūrinį kaip įmonės filosofijos pareiškimą, o ne produkto pranešimą. Jame nėra išleidimo datų, etaloninių skaičių ar įvardintų modelių.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-31-05-zuckerbergas-issamiai-apraso-asmenine-meta-ai-superintel.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Markas Zuckerbergas paskelbė WSJ darbą, kuriame teigiama, kad superintelektas turi pasiekti asmenis, o ne tik kelias institucijas.",
+        "„Meta“ vadovas paskelbė kūrinį kaip įmonės filosofijos pareiškimą, o ne produkto pranešimą.",
+        "Jame nėra išleidimo datų, etaloninių skaičių ar įvardintų modelių."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
+        "try_url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/"
+      }
+    },
+    {
+      "title": "Kaip AI keičia „Linux VPS“ saugumą įmonėms",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
+      "published_iso": "2026-07-30T10:41:02Z",
+      "published_lt": "2026-07-30 10:41 UTC",
+      "summary": "Kibernetinis saugumas iš tikrųjų nebuvo kažkas, dėl ko mažos ir vidutinio dydžio įmonės per daug nerimavo prieš kelerius metus. Kai tik jūsų klientų duomenys, programos ir vidiniai įrankiai patenka į tinklą, už jų esančio serverio apsauga nustoja būti neprivaloma.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-31-06-kaip-ai-keicia-linux-vps-sauguma-imonems.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Kibernetinis saugumas iš tikrųjų nebuvo kažkas, dėl ko mažos ir vidutinio dydžio įmonės per daug nerimavo prieš kelerius metus.",
+        "Kai tik jūsų klientų duomenys, programos ir vidiniai įrankiai patenka į tinklą, už jų esančio serverio apsauga nustoja būti neprivaloma."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
+        "try_url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/"
+      }
+    },
+    {
+      "title": "Tencent atvirojo kodo AngelSpec: vieninga mokymo sistema, skirta MTP ir blokinio lygiagrečiojo spekuliacinio dekodavimo Hy3 modeliuose",
+      "link": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/",
+      "published_iso": "2026-07-30T10:08:18Z",
+      "published_lt": "2026-07-30 10:08 UTC",
+      "summary": "„Tencent“ išleido „AngelSpec“ – atvirojo kodo žibintuvėlio sistemą, skirtą treniruoti spekuliacinio dekodavimo juodraščius šešiose architektūrose.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-07-31-07-tencent-atvirojo-kodo-angelspec-vieninga-mokymo-sistema-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Tencent“ išleido „AngelSpec“ – atvirojo kodo žibintuvėlio sistemą, skirtą treniruoti spekuliacinio dekodavimo juodraščius šešiose architektūrose."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/",
+        "try_url": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/"
+      }
+    },
     {
       "title": "Susipažinkite su Token Saver: atvirojo kodo MCP plėtinys, naudojant vietinį hibridinį RAG, kad sumažintų Claude PDF žetonų išlaidas 90–99 %",
       "link": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/",
@@ -13,7 +193,7 @@
       "summary": "„Marktechpost AI“ išleido „Token Saver“ – atvirojo kodo MCP plėtinį, skirtą „Claude Desktop“, kuris naudoja vietinį hibridinį RAG, kad sumažintų PDF prieigos raktų naudojimą iki 99%, tuo pačiu užtikrinant absoliutų dokumentų privatumą.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-30-01-susipazinkite-su-token-saver-atvirojo-kodo-mcp-pletinys-.svg",
+      "image_url": "generated-images/2026-07-31-08-susipazinkite-su-token-saver-atvirojo-kodo-mcp-pletinys-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -38,7 +218,7 @@
       "summary": "Trys kadencijos dabar konkuruoja dėl tos pačios eilutės AI inžinierių pareigybių aprašymuose. Greita inžinerija yra nustatyta. Ciklų inžinerija į AI žodyną pateko 2025 m. pabaigoje ir dominavo kūrėjų diskusijose iki 2026 m. birželio mėn.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-30-02-greita-inzinerija-vs-ciklo-inzinerija-vs-grafiku-inziner.svg",
+      "image_url": "generated-images/2026-07-31-09-greita-inzinerija-vs-ciklo-inzinerija-vs-grafiku-inziner.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -65,7 +245,7 @@
       "summary": "„Moonshot AI“ turi atvirojo kodo „MoonEP“, „Expert Parallelism“ (EP) komunikacijos biblioteką, skirtą paskirstytam ekspertų mišinio (MoE) darbo krūviui. Komanda paskelbė apie leidimą kaip biblioteką, sukurtą tam, kad ekspertų lygiagretus bendravimas būtų efektyvesnis. Jis siunčiamas pagal MIT licenciją.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-07-30-03-moonshot-ai-atvirojo-kodo-moonep-puikiai-subalansuota-ek.svg",
+      "image_url": "generated-images/2026-07-31-10-moonshot-ai-atvirojo-kodo-moonep-puikiai-subalansuota-ek.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -86,14 +266,14 @@
       }
     },
     {
-      "title": "Balso naudojimas naudojant „ChatGPT Work“.",
+      "title": "Balso naudojimas ChatGPT darbe",
       "link": "https://www.youtube.com/watch?v=_Gd9yzAc-WI",
       "published_iso": "2026-07-29T22:37:43Z",
       "published_lt": "2026-07-29 22:37 UTC",
       "summary": "Kalbėkite dirbdami naudodami „ChatGPT Voice“, kai jis mato jūsų ekraną, veikia prijungtose programose ir atlieka užduotis fone. Sužinokite, kaip balsas padeda sugalvoti „DevDay“ aktyvinimą, koordinuoti veiklą ne svetainėje, pasiruošti kelionei ir dalytis baigtais darbais nepažeidžiant naudotojo srauto.",
       "source": "OpenAI",
       "source_image_url": "https://i4.ytimg.com/vi/_Gd9yzAc-WI/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-30-04-balso-naudojimas-naudojant-chatgpt-work.svg",
+      "image_url": "generated-images/2026-07-31-11-balso-naudojimas-chatgpt-darbe.svg",
       "kind": "video",
       "video_id": "_Gd9yzAc-WI",
       "bullets_lt": [
@@ -119,7 +299,7 @@
       "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Popierius rasite čia: https://arxiv.org/abs/2607.24653 Išbandykite Kimi K3 (jei yra): https://www.kimi.com/ Nuorodos: https://macos27.kimi. https://x.com/mweinbach/status/2077878247920951400 https://x.com/intheworldofa",
       "source": "Two Minute Papers",
       "source_image_url": "https://i1.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
-      "image_url": "generated-images/2026-07-30-05-kimi-k3-tiesiog-sulauze-ai-ekonomika.svg",
+      "image_url": "generated-images/2026-07-31-12-kimi-k3-tiesiog-sulauze-ai-ekonomika.svg",
       "kind": "video",
       "video_id": "Xj-QdEUxJkE",
       "bullets_lt": [
@@ -136,193 +316,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=Xj-QdEUxJkE",
         "try_url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE"
-      }
-    },
-    {
-      "title": "„OpenAI“ ataskaita susieja kodavimo agentus su greitesniais mokslo programinės įrangos kūrimu",
-      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-      "published_iso": "2026-07-29T10:53:39Z",
-      "published_lt": "2026-07-29 10:53 UTC",
-      "summary": "OpenAI išleido naują lauko ataskaitą, kurioje stebimi aštuoni moksliniai skaičiavimo projektai, kuriuose kodavimo agentai sumažina vykdymo laiką. Ataskaitoje dokumentuojami projektai, kuriuose penkiais atvejais buvo naudojamas vienas Codex, o dar trimis atvejais - Codex ir Anthropic's Claude Code derinys.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-30-06-openai-ataskaita-susieja-kodavimo-agentus-su-greitesniai.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "OpenAI išleido naują lauko ataskaitą, kurioje stebimi aštuoni moksliniai skaičiavimo projektai, kuriuose kodavimo agentai sumažina vykdymo laiką.",
-        "Ataskaitoje dokumentuojami projektai, kuriuose penkiais atvejais buvo naudojamas vienas Codex, o dar trimis atvejais - Codex ir Anthropic's Claude Code derinys."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-        "try_url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/"
-      }
-    },
-    {
-      "title": "„Google“ AI apžvalgos vis dažniau naudojamos paieškoje",
-      "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
-      "published_iso": "2026-07-29T10:00:00Z",
-      "published_lt": "2026-07-29 10:00 UTC",
-      "summary": "Remiantis rinkos žvalgybos įmonės 2026 m. „Generative AI Landscape“ ataskaita, „Google“ dirbtinio intelekto sugeneruotos suvestinės buvo pateiktos 43 proc. JAV paieškų, išmatuotų „Sideweb“, palyginti su 15 proc. prieš metus.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-30-07-google-ai-apzvalgos-vis-dazniau-naudojamos-paieskoje.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Remiantis rinkos žvalgybos įmonės 2026 m.",
-        "„Generative AI Landscape“ ataskaita, „Google“ dirbtinio intelekto sugeneruotos suvestinės buvo pateiktos 43 proc.",
-        "JAV paieškų, išmatuotų „Sideweb“, palyginti su 15 proc.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
-        "try_url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/"
-      }
-    },
-    {
-      "title": "Liquid AI išleidžia LFM2.5-Encoder-230M ir LFM2.5-Encoder-350M: dvikrypčius koduotuvus, kurie procesoriaus procese veikia greitai ir 8K kontekste",
-      "link": "https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/",
-      "published_iso": "2026-07-29T09:38:42Z",
-      "published_lt": "2026-07-29 09:38 UTC",
-      "summary": "Liquid AI išleido du atviro svorio dvikrypčius koduotuvus LFM2.5-Encoder-230M ir LFM2.5-Encoder-350M. Abu turi 8 192 žetonų kontekstą ir yra sukurti ant LFM2 hibridinio pagrindo. 350M užima ketvirtą vietą iš 14 modelių pagal 17 užduočių GLUE, SuperGLUE ir kelių kalbų rinkinį, atsiliekant tik nuo didesnių modelių.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-30-08-liquid-ai-isleidzia-lfm2-5-encoder-230m-ir-lfm2-5-encode.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Liquid AI išleido du atviro svorio dvikrypčius koduotuvus LFM2.5-Encoder-230M ir LFM2.5-Encoder-350M.",
-        "Abu turi 8 192 žetonų kontekstą ir yra sukurti ant LFM2 hibridinio pagrindo.",
-        "350M užima ketvirtą vietą iš 14 modelių pagal 17 užduočių GLUE, SuperGLUE ir kelių kalbų rinkinį, atsiliekant tik nuo didesnių modelių."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/",
-        "try_url": "https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/"
-      }
-    },
-    {
-      "title": "Kurti neinteraktyvias agentinio kodavimo darbo eigas naudojant „Moonshot AI“ Kimi CLI, JSONL srautinį perdavimą, testavimą ir seanso atmintį",
-      "link": "https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/",
-      "published_iso": "2026-07-28T23:04:44Z",
-      "published_lt": "2026-07-28 23:04 UTC",
-      "summary": "Šioje pamokoje mes sukonfigūruojame ir valdome Kimi CLI kaip visiškai neinteraktyvų AI kodavimo agentą.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-30-09-kurti-neinteraktyvias-agentinio-kodavimo-darbo-eigas-nau.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Šioje pamokoje mes sukonfigūruojame ir valdome Kimi CLI kaip visiškai neinteraktyvų AI kodavimo agentą."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/",
-        "try_url": "https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/"
-      }
-    },
-    {
-      "title": "Fejerverkų dirbtinis intelektas išleido fejerverkų Nexus: įleidžiamą maršrutą ir išlaidų valdymo sluoksnį, perkeliantį įprastą kodavimo darbą į atviro svorio modelius",
-      "link": "https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/",
-      "published_iso": "2026-07-28T22:45:56Z",
-      "published_lt": "2026-07-28 22:45 UTC",
-      "summary": "Fireworks AI išleido Fireworks Nexus, AI valdymo ir maršruto parinkimo platformą, skirtą inžinerinėms organizacijoms. Jis sujungia kūrėjų jau naudojamus kodavimo įrankius su valdomu atviro svorio modelių sluoksniu. Problema, kuriai ji skirta, yra gerai dokumentuota.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-07-30-10-fejerverku-dirbtinis-intelektas-isleido-fejerverku-nexus.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Fireworks AI išleido Fireworks Nexus, AI valdymo ir maršruto parinkimo platformą, skirtą inžinerinėms organizacijoms.",
-        "Jis sujungia kūrėjų jau naudojamus kodavimo įrankius su valdomu atviro svorio modelių sluoksniu.",
-        "Problema, kuriai ji skirta, yra gerai dokumentuota."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/",
-        "try_url": "https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/"
-      }
-    },
-    {
-      "title": "Gemini API valdomi agentai: 3.6 Flash, kabliukai ir kt",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "published_iso": "2026-07-28T16:00:00Z",
-      "published_lt": "2026-07-28 16:00 UTC",
-      "summary": "Skelbiame dar daugiau naujų Gemini API valdomų agentų galimybių, kad kūrėjai galėtų sukurti patikimus, gamybai paruoštus agentus.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-07-30-11-gemini-api-valdomi-agentai-3-6-flash-kabliukai-ir-kt.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Skelbiame dar daugiau naujų Gemini API valdomų agentų galimybių, kad kūrėjai galėtų sukurti patikimus, gamybai paruoštus agentus.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260729-1718",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260729-1718"
-      }
-    },
-    {
-      "title": "5 būdai, kaip AI režimas paieškoje padeda mėgautis tikru pasauliu",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "published_iso": "2026-07-28T13:00:00Z",
-      "published_lt": "2026-07-28 13:00 UTC",
-      "summary": "Tai gali skambėti prieštaringai, bet paieškos dirbtinio intelekto įrankiai iš tikrųjų gali padėti maksimaliai išnaudoti laiką neprisijungus, nesvarbu, ar norite užsisakyti koncerto bilietus, ar rasti tobulą…",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-07-30-12-5-budai-kaip-ai-rezimas-paieskoje-padeda-megautis-tikru-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Tai gali skambėti prieštaringai, bet paieškos dirbtinio intelekto įrankiai iš tikrųjų gali padėti maksimaliai išnaudoti laiką neprisijungus, nesvarbu, ar norite užsisakyti koncerto bilietus, ar rasti tobulą….",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260729-1718",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260729-1718"
       }
     }
   ]
