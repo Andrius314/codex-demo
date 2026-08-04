@@ -1,7 +1,322 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-08-03T10:35:24Z",
+  "updated_at_utc": "2026-08-04T09:35:28Z",
   "digests": [
+    {
+      "digest_date": "2026-08-04",
+      "generated_at_utc": "2026-08-04T09:35:28Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "Reflex atvirieji šaltiniai XY: rūdžių pagrindu sukurta ypač greita Python diagramų biblioteka, kuri išlaiko interaktyvias 100 milijonų taškų diagramas",
+          "link": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive/",
+          "published_iso": "2026-08-04T08:57:47Z",
+          "published_lt": "2026-08-04 08:57 UTC",
+          "summary": "„Reflex“ išleido XY, „Apache-2.0 Python“ diagramų biblioteką, kuri perkelia atvaizdavimo darbus į vietinį „Rust“ branduolį ir „WebGL2“ klientą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-08-04-01-reflex-atvirieji-saltiniai-xy-rudziu-pagrindu-sukurta-yp.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Reflex“ išleido XY, „Apache-2.0 Python“ diagramų biblioteką, kuri perkelia atvaizdavimo darbus į vietinį „Rust“ branduolį ir „WebGL2“ klientą.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive/",
+            "try_url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive/"
+          }
+        },
+        {
+          "title": "Pažangaus AI įgūdžių saugos audito sistemos kūrimas naudojant NVIDIA SkillSpector, LangGraph, YARA taisykles, SARIF ir CI Policy Gates",
+          "link": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
+          "published_iso": "2026-08-04T08:12:36Z",
+          "published_lt": "2026-08-04 08:12 UTC",
+          "summary": "Sužinokite, kaip sukurti visapusišką saugos vertinimo vamzdyną, skirtą AI agento įgūdžiams, naudojant NVIDIA SkillSpector ir LangGraph.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-08-04-02-pazangaus-ai-igudziu-saugos-audito-sistemos-kurimas-naud.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Sužinokite, kaip sukurti visapusišką saugos vertinimo vamzdyną, skirtą AI agento įgūdžiams, naudojant NVIDIA SkillSpector ir LangGraph."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
+            "try_url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/"
+          }
+        },
+        {
+          "title": "„Y Combinator“ atvirojo kodo QM: MIT licencijuotas kelių žaidėjų agento rinkinys, veikiantis laisvai ir internete",
+          "link": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
+          "published_iso": "2026-08-04T04:17:18Z",
+          "published_lt": "2026-08-04 04:17 UTC",
+          "summary": "„Y Combinator“ turi atvirojo kodo QM – kelių žaidėjų agentų rinkinį, kurį viduje naudoja apskaitos, teisės, įvykių ir inžinerijos srityse.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-08-04-03-y-combinator-atvirojo-kodo-qm-mit-licencijuotas-keliu-za.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Y Combinator“ turi atvirojo kodo QM – kelių žaidėjų agentų rinkinį, kurį viduje naudoja apskaitos, teisės, įvykių ir inžinerijos srityse."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
+            "try_url": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/"
+          }
+        },
+        {
+          "title": "„Genspark“ atvirųjų šaltinių „GenOffice“: nemokamas AI biuro rinkinys be skelbimų, skirtas „MacOS“ ir „Windows“ su dokumentais, skaičiuoklėmis, skaidrėmis, PDF",
+          "link": "https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/",
+          "published_iso": "2026-08-04T03:46:16Z",
+          "published_lt": "2026-08-04 03:46 UTC",
+          "summary": "„Genspark“ turi atvirojo kodo „GenOffice“ pagal „Apache“ licenciją 2.0. Tai yra dirbtinio intelekto biuro rinkinys, skirtas „MacOS“ ir „Windows“, apimantis dokumentus, skaičiuokles, skaidres ir PDF kaip penkias „Electron“ programas viename bendrame variklio sluoksnyje.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-08-04-04-genspark-atviruju-saltiniu-genoffice-nemokamas-ai-biuro-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Genspark“ turi atvirojo kodo „GenOffice“ pagal „Apache“ licenciją 2.0.",
+            "Tai yra dirbtinio intelekto biuro rinkinys, skirtas „MacOS“ ir „Windows“, apimantis dokumentus, skaičiuokles, skaidres ir PDF kaip penkias „Electron“ programas viename bendrame variklio sluoksnyje.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/",
+            "try_url": "https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/"
+          }
+        },
+        {
+          "title": "Daugiarūšių regėjimo modelių įvertinimas naudojant „Moonshot PerceptionBench“ naudojant patikimą duomenų įkėlimą ir automatinį vertinimą",
+          "link": "https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging/",
+          "published_iso": "2026-08-03T22:26:32Z",
+          "published_lt": "2026-08-03 22:26 UTC",
+          "summary": "Šiame vadove kuriame „PerceptionBench“ vertinimo darbo eigą nuo galo iki galo. Šis multimodalinis etalonas įvertina smulkiagrūdės vizualinio suvokimo galimybes atliekant tokias užduotis kaip OCR, skaičiavimas, lokalizavimas, kontekstinis samprotavimas, palyginimas, gylio supratimas ir haliucinacijų aptikimas.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-08-04-05-daugiarusiu-regejimo-modeliu-ivertinimas-naudojant-moons.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Šiame vadove kuriame „PerceptionBench“ vertinimo darbo eigą nuo galo iki galo.",
+            "Šis multimodalinis etalonas įvertina smulkiagrūdės vizualinio suvokimo galimybes atliekant tokias užduotis kaip OCR, skaičiavimas, lokalizavimas, kontekstinis samprotavimas, palyginimas, gylio supratimas ir haliucinacijų aptikimas."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging/",
+            "try_url": "https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging/"
+          }
+        },
+        {
+          "title": "Kaip apsaugoti AI agentus, MCP serverius ir LLM programas gamyboje",
+          "link": "https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/",
+          "published_iso": "2026-08-03T20:16:56Z",
+          "published_lt": "2026-08-03 20:16 UTC",
+          "summary": "AI agentai, MCP serveriai ir LLM programos pažeidžia pagrindinę AppSec prielaidą, kad programos daro tai, ką sako jų kodas.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-08-04-06-kaip-apsaugoti-ai-agentus-mcp-serverius-ir-llm-programas.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "AI agentai, MCP serveriai ir LLM programos pažeidžia pagrindinę AppSec prielaidą, kad programos daro tai, ką sako jų kodas."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/",
+            "try_url": "https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/"
+          }
+        },
+        {
+          "title": "Įsigalioja ES AI įstatymo 50 straipsnio skaidrumo taisyklės",
+          "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+          "published_iso": "2026-08-03T16:09:25Z",
+          "published_lt": "2026-08-03 16:09 UTC",
+          "summary": "Įsigaliojo ES dirbtinio intelekto įstatymo 50 straipsnis, nustatantis skaidrumo įsipareigojimus dirbtinio intelekto teikėjams ir diegėjams, veikiantiems visame bloke.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-08-04-07-isigalioja-es-ai-istatymo-50-straipsnio-skaidrumo-taisyk.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Įsigaliojo ES dirbtinio intelekto įstatymo 50 straipsnis, nustatantis skaidrumo įsipareigojimus dirbtinio intelekto teikėjams ir diegėjams, veikiantiems visame bloke."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+            "try_url": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/"
+          }
+        },
+        {
+          "title": "Kodėl biologiniai duomenys svarbesni atrandant AI vaistus?",
+          "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
+          "published_iso": "2026-08-03T10:00:00Z",
+          "published_lt": "2026-08-03 10:00 UTC",
+          "summary": "GSK pradėjo mokslinį bendradarbiavimą su Didžiosios Britanijos biotechnologijų įmone „Relation Therapeutics“, kurio vertė siekia iki 110 mln.",
+          "source": "AI News",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-08-04-08-kodel-biologiniai-duomenys-svarbesni-atrandant-ai-vaistu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "GSK pradėjo mokslinį bendradarbiavimą su Didžiosios Britanijos biotechnologijų įmone „Relation Therapeutics“, kurio vertė siekia iki 110 mln."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
+            "try_url": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/"
+          }
+        },
+        {
+          "title": "Atėjo dar viena „DeepSeek“ akimirka",
+          "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+          "published_iso": "2026-08-03T09:47:34Z",
+          "published_lt": "2026-08-03 09:47 UTC",
+          "summary": "❤️ Peržiūrėkite „Lambda“ čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 DeepSeek v4 Flash 0731: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 DeepSeek API: https://platform.deepseek.com, kurie būtų dėkingi mūsų naudotojams🙏/ Galimi dviejų minučių dokumentai: Adam Bridges,",
+          "source": "Two Minute Papers",
+          "source_image_url": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
+          "image_url": "generated-images/2026-08-04-09-atejo-dar-viena-deepseek-akimirka.svg",
+          "kind": "video",
+          "video_id": "bm1BjOjS7sQ",
+          "bullets_lt": [
+            "❤️ Peržiūrėkite „Lambda“ čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 DeepSeek v4 Flash 0731: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 DeepSeek API: https://platform.deepseek.com, kurie būtų dėkingi mūsų naudotojams🙏/ Galimi dviejų minučių dokumentai: Adam Bridges,.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+            "try_url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ"
+          }
+        },
+        {
+          "title": "„Alibaba Qwen“ išleido „Qwen3.8-Max“: 2,4 trilijono parametrų MoE modelį ir iki šiol pajėgiausią Qwen šeimos modelį",
+          "link": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/",
+          "published_iso": "2026-08-03T08:24:16Z",
+          "published_lt": "2026-08-03 08:24 UTC",
+          "summary": "„Alibaba“ „Qwen“ komanda perkėlė „Qwen3.8-Max“ iš peržiūros į bendrą prieinamumą, o kitą savaitę paskelbta vieno žetono kaina ir atviri svoriai. 2.4T parametro MoE modelis priima teksto, vaizdo ir vaizdo įvestį 1M žetono kontekste. Jokia lyginamoji lentelė nepaskelbta.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-08-04-10-alibaba-qwen-isleido-qwen3-8-max-2-4-trilijono-parametru.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Alibaba“ „Qwen“ komanda perkėlė „Qwen3.8-Max“ iš peržiūros į bendrą prieinamumą, o kitą savaitę paskelbta vieno žetono kaina ir atviri svoriai.",
+            "2.4T parametro MoE modelis priima teksto, vaizdo ir vaizdo įvestį 1M žetono kontekste.",
+            "Jokia lyginamoji lentelė nepaskelbta."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/",
+            "try_url": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/"
+          }
+        },
+        {
+          "title": "„Cogent AI Team“ išleido VR-1: pasienio kibernetinio samprotavimo modelį, kuris sudaro ir tikrina įmonės puolimo kelius",
+          "link": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/",
+          "published_iso": "2026-08-03T07:28:14Z",
+          "published_lt": "2026-08-03 07:28 UTC",
+          "summary": "„Cogent AI“ komanda išleido „Cogent VR-1“ – samprotavimo modelį, specialiai parengtą kibernetiniam saugumui, o ne kibernetines galimybes kaip šalutinį bendro kodavimo stiprumo poveikį.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-08-04-11-cogent-ai-team-isleido-vr-1-pasienio-kibernetinio-sampro.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Cogent AI“ komanda išleido „Cogent VR-1“ – samprotavimo modelį, specialiai parengtą kibernetiniam saugumui, o ne kibernetines galimybes kaip šalutinį bendro kodavimo stiprumo poveikį."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/",
+            "try_url": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/"
+          }
+        },
+        {
+          "title": "Naujas BEST AI vaizdo generatorius jau čia!",
+          "link": "https://www.youtube.com/watch?v=Vpvne2istKg",
+          "published_iso": "2026-08-03T03:30:18Z",
+          "published_lt": "2026-08-03 03:30 UTC",
+          "summary": "Seedance 2.5 vs Minimax H3. Populiariausi AI vaizdo generatoriai #ai #aivideo #aitools #agi Ačiū mūsų rėmėjui Abacus AI.",
+          "source": "AI Search",
+          "source_image_url": "https://i3.ytimg.com/vi/Vpvne2istKg/hqdefault.jpg",
+          "image_url": "generated-images/2026-08-04-12-naujas-best-ai-vaizdo-generatorius-jau-cia.svg",
+          "kind": "video",
+          "video_id": "Vpvne2istKg",
+          "bullets_lt": [
+            "Seedance 2.5 vs Minimax H3.",
+            "Populiariausi AI vaizdo generatoriai #ai #aivideo #aitools #agi Ačiū mūsų rėmėjui Abacus AI."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=Vpvne2istKg",
+            "try_url": "https://www.youtube.com/watch?v=Vpvne2istKg"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-08-03",
       "generated_at_utc": "2026-08-03T10:35:24Z",
@@ -39008,341 +39323,6 @@
           "source": "OpenAI",
           "source_image_url": "https://i2.ytimg.com/vi/yNNTLllVbiE/hqdefault.jpg",
           "image_url": "generated-images/2026-04-06-12-openal-x-gradient-labs-ikurejas-spotlight.svg",
-          "kind": "video",
-          "video_id": "yNNTLllVbiE",
-          "bullets_lt": [
-            "„Gradient Labs“ kiekvienam banko klientui suteikia AI sąskaitos tvarkyklę, kurios CSAT skiriamoji geba iki 98 % ir daugiau nei 50 % jau pirmą dieną.",
-            "Banko palaikymo srityje net tokios paprastos problemos, kaip atmestas mokėjimas, gali sukelti kelias komandas, perdavimą ir vėlavimą.",
-            "Gradient Labs pakeičia tai vienu agentu, kuris tvarko visą darbo eigą."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=yNNTLllVbiE",
-            "try_url": "https://www.youtube.com/watch?v=yNNTLllVbiE"
-          }
-        }
-      ]
-    },
-    {
-      "digest_date": "2026-04-05",
-      "generated_at_utc": "2026-04-05T07:52:06Z",
-      "item_count": 12,
-      "items": [
-        {
-          "title": "„Google“ atvirojo kodo AI, nutekėjo Claude Code, naujas Wan, naujas Qwen, vaizdo genas telefone: AI NAUJIENOS",
-          "link": "https://www.youtube.com/watch?v=o5rGuknRw2A",
-          "published_iso": "2026-04-05T03:30:05Z",
-          "published_lt": "2026-04-05 03:30 UTC",
-          "summary": "DIDELĖS AI NAUJIENOS: Gemma 4, Qwen 3.6, Wan 2.7, OmniVoice, DreamLite Claude Code nutekėjimas, GLM-5V ir dar daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Higgsfield.",
-          "source": "AI Search",
-          "source_image_url": "https://i4.ytimg.com/vi/o5rGuknRw2A/hqdefault.jpg",
-          "image_url": "generated-images/2026-04-05-01-google-atvirojo-kodo-ai-nutekejo-claude-code-naujas-wan-.svg",
-          "kind": "video",
-          "video_id": "o5rGuknRw2A",
-          "bullets_lt": [
-            "DIDELĖS AI NAUJIENOS: Gemma 4, Qwen 3.6, Wan 2.7, OmniVoice, DreamLite Claude Code nutekėjimas, GLM-5V ir dar daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Higgsfield."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=o5rGuknRw2A",
-            "try_url": "https://www.youtube.com/watch?v=o5rGuknRw2A"
-          }
-        },
-        {
-          "title": "„Netflix AI Team“ tiesiog atviro kodo VOID: AI modelis, kuris ištrina objektus iš vaizdo įrašų – fizika ir viskas",
-          "link": "https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/",
-          "published_iso": "2026-04-04T09:03:26Z",
-          "published_lt": "2026-04-04 09:03 UTC",
-          "summary": "Vaizdo įrašų montažas visada turėjo nešvarią paslaptį: pašalinti objektą iš filmuotos medžiagos paprasta; žiauriai sunku, kad scena atrodytų taip, lyg to niekada nebuvo. Išimkite žmogų, laikantį gitarą, ir jums beliks plūduriuojantis instrumentas, kuris nepaiso gravitacijos. Holivudo VFX komandos praleidžia savaites spręsdamos būtent tokią problemą.",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-04-at-2.02.50-AM-1-150x150.png",
-          "image_url": "generated-images/2026-04-05-02-netflix-ai-team-tiesiog-atviro-kodo-void-ai-modelis-kuri.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Vaizdo įrašų montažas visada turėjo nešvarią paslaptį: pašalinti objektą iš filmuotos medžiagos paprasta; žiauriai sunku, kad scena atrodytų taip, lyg to niekada nebuvo.",
-            "Išimkite žmogų, laikantį gitarą, ir jums beliks plūduriuojantis instrumentas, kuris nepaiso gravitacijos.",
-            "Holivudo VFX komandos praleidžia savaites spręsdamos būtent tokią problemą.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-            "Prieinamumas: Panasu, kad jau galima bandyti."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Panasu, kad jau galima bandyti.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/",
-            "try_url": "https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/"
-          }
-        },
-        {
-          "title": "Kaip sukurti gamybai paruoštas agentų sistemas naudojant Z.AI GLM-5 naudojant mąstymo režimą, įrankių iškvietimą, srautinį perdavimą ir kelių eigų darbo eigas",
-          "link": "https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/",
-          "published_iso": "2026-04-04T03:06:56Z",
-          "published_lt": "2026-04-04 03:06 UTC",
-          "summary": "Šioje mokymo programoje išnagrinėjame visas Z.AI GLM-5 modelio galimybes ir sukuriame išsamų supratimą apie tai, kaip jį naudoti realiame pasaulyje agentų programoms.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-04-05-03-kaip-sukurti-gamybai-paruostas-agentu-sistemas-naudojant.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Šioje mokymo programoje išnagrinėjame visas Z.AI GLM-5 modelio galimybes ir sukuriame išsamų supratimą apie tai, kaip jį naudoti realiame pasaulyje agentų programoms.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Gaukite vieną nemokamą šiuo adresu: https://z.ai/manage-apikey/apikey-list\" ) os.environ[\"ZAI_API_KEY\"] = API_KEY print(f\"✅ API raktas sukonfigūruotas (baigiasi ...{API_KEY[-4:]})\") iš zai import ZaiClient client(a =...",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/",
-            "try_url": "https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/"
-          }
-        },
-        {
-          "title": "„Google DeepMind“ tyrimas leidžia LLM perrašyti savo žaidimų teorijos algoritmus – ir jis pranoko ekspertus",
-          "link": "https://www.marktechpost.com/2026/04/03/google-deepminds-research-lets-an-llm-rewrite-its-own-game-theory-algorithms-and-it-outperformed-the-experts/",
-          "published_iso": "2026-04-03T22:26:00Z",
-          "published_lt": "2026-04-03 22:26 UTC",
-          "summary": "Kuriant kelių agentų sustiprinimo mokymosi (MARL) algoritmus netobulos informacijos žaidimuose – scenarijuose, kai žaidėjai veikia nuosekliai ir negali matyti vienas kito asmeninės informacijos, pavyzdžiui, pokeryje – istoriškai rėmėsi rankiniu iteravimu.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-04-05-04-google-deepmind-tyrimas-leidzia-llm-perrasyti-savo-zaidi.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Kuriant kelių agentų sustiprinimo mokymosi (MARL) algoritmus netobulos informacijos žaidimuose – scenarijuose, kai žaidėjai veikia nuosekliai ir negali matyti vienas kito asmeninės informacijos, pavyzdžiui, pokeryje – istoriškai rėmėsi rankiniu iteravimu.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-            "Prieinamumas: Prieinama kaip beta/preview."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Prieinama kaip beta/preview.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/03/google-deepminds-research-lets-an-llm-rewrite-its-own-game-theory-algorithms-and-it-outperformed-the-experts/",
-            "try_url": "https://www.marktechpost.com/2026/04/03/google-deepminds-research-lets-an-llm-rewrite-its-own-game-theory-algorithms-and-it-outperformed-the-experts/"
-          }
-        },
-        {
-          "title": "TII išleido „Falcon Perception“: 0,6 B parametro ankstyvojo sintezės transformatorių, skirtą atvirojo žodyno įžeminimui ir segmentavimui pagal natūralios kalbos raginimus",
-          "link": "https://www.marktechpost.com/2026/04/03/tii-releases-falcon-perception-a-0-6b-parameter-early-fusion-transformer-for-open-vocabulary-grounding-and-segmentation-from-natural-language-prompts/",
-          "published_iso": "2026-04-03T08:49:34Z",
-          "published_lt": "2026-04-03 08:49 UTC",
-          "summary": "Dabartinėje kompiuterinio matymo aplinkoje standartinė veikimo procedūra apima modulinį „Lego kaladėlių“ metodą: iš anksto paruoštą regėjimo kodavimo įrenginį, skirtą funkcijų ištraukimui, suporuotą su atskiru dekoderiu užduočių numatymui.",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-03-at-1.47.18-AM-1-150x150.png",
-          "image_url": "generated-images/2026-04-05-05-tii-isleido-falcon-perception-0-6-b-parametro-ankstyvojo.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Dabartinėje kompiuterinio matymo aplinkoje standartinė veikimo procedūra apima modulinį „Lego kaladėlių“ metodą: iš anksto paruoštą regėjimo kodavimo įrenginį, skirtą funkcijų ištraukimui, suporuotą su atskiru dekoderiu užduočių numatymui.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Apdorodama vaizdo pataisas ir teksto žetonus bendroje parametrų erdvėje nuo pat pirmojo sluoksnio, TII tyrimų grupė sukūrė ankstyvojo sintezės krūvą, kuris itin efektyviai tvarko suvokimo ir užduočių modeliavimą.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/03/tii-releases-falcon-perception-a-0-6b-parameter-early-fusion-transformer-for-open-vocabulary-grounding-and-segmentation-from-natural-language-prompts/",
-            "try_url": "https://www.marktechpost.com/2026/04/03/tii-releases-falcon-perception-a-0-6b-parameter-early-fusion-transformer-for-open-vocabulary-grounding-and-segmentation-from-natural-language-prompts/"
-          }
-        },
-        {
-          "title": "Žingsnis po žingsnio vadovas, kaip sukurti išsamų modelio optimizavimo vamzdyną su NVIDIA modelio optimizavimo priemone, naudojant FastNAS genėjimą ir koregavimą",
-          "link": "https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/",
-          "published_iso": "2026-04-03T07:48:18Z",
-          "published_lt": "2026-04-03 07:48 UTC",
-          "summary": "Šioje mokymo programoje mes sukuriame visą išsamų dujotiekį naudodami NVIDIA modelių optimizavimo priemonę, kad mokytume, apkarpytume ir tobulintume giluminio mokymosi modelį tiesiogiai „Google Colab“. Pradedame nuo aplinkos nustatymo ir CIFAR-10 duomenų rinkinio paruošimo, tada apibrėžiame ResNet architektūrą ir mokome ją sukurti tvirtą pagrindą.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-04-05-06-zingsnis-po-zingsnio-vadovas-kaip-sukurti-issamu-modelio.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Šioje mokymo programoje mes sukuriame visą išsamų dujotiekį naudodami NVIDIA modelių optimizavimo priemonę, kad mokytume, apkarpytume ir tobulintume giluminio mokymosi modelį tiesiogiai „Google Colab“.",
-            "Pradedame nuo aplinkos nustatymo ir CIFAR-10 duomenų rinkinio paruošimo, tada apibrėžiame ResNet architektūrą ir mokome ją sukurti tvirtą pagrindą.",
-            "Kaina: Yra nemokamas ir mokamas variantas.",
-            "Veikimo budas: Veikia tiek online, tiek lokaliai."
-          ],
-          "practical": {
-            "kaina": "Yra nemokamas ir mokamas variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Aptikta: cuda",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/",
-            "try_url": "https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/"
-          }
-        },
-        {
-          "title": "„Arcee AI“ išleido „Trinity Large Thinking: Apache 2.0 Open Reasoning“ modelį, skirtą „Long Horizon“ agentams ir įrankių naudojimui",
-          "link": "https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/",
-          "published_iso": "2026-04-02T23:56:20Z",
-          "published_lt": "2026-04-02 23:56 UTC",
-          "summary": "Atvirojo kodo dirbtinio intelekto kraštovaizdis perėjo nuo grynai generatyvių modelių prie sistemų, galinčių sudėtingai, daugiapakopiu samprotavimu. Nors pokalbyje dominavo patentuoti „samprotavimo“ modeliai, „Arcee AI“ išleido „Trinity Large Thinking“.",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/pinchbench-success-rate-by-model-1-150x150.png",
-          "image_url": "generated-images/2026-04-05-07-arcee-ai-isleido-trinity-large-thinking-apache-2-0-open-.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Atvirojo kodo dirbtinio intelekto kraštovaizdis perėjo nuo grynai generatyvių modelių prie sistemų, galinčių sudėtingai, daugiapakopiu samprotavimu.",
-            "Nors pokalbyje dominavo patentuoti „samprotavimo“ modeliai, „Arcee AI“ išleido „Trinity Large Thinking“.",
-            "Kaina: Yra nemokamas ir mokamas variantas.",
-            "Prieinamumas: Panasu, kad jau galima bandyti."
-          ],
-          "practical": {
-            "kaina": "Yra nemokamas ir mokamas variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Panasu, kad jau galima bandyti.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/",
-            "try_url": "https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/"
-          }
-        },
-        {
-          "title": "„Token Tax“ nugalėjimas: kaip „Google Gemma 4“, „NVIDIA“ ir „OpenClaw“ daro revoliuciją vietinio agento AI: nuo RTX stalinių kompiuterių iki DGX Spark",
-          "link": "https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/",
-          "published_iso": "2026-04-02T20:35:54Z",
-          "published_lt": "2026-04-02 20:35 UTC",
-          "summary": "Greičiau paleiskite naujausius „Google“ atvirus modelius, kuriuose yra visos galimybės, naudodami NVIDIA RTX AI kompiuterius, pradedant NVIDIA Jetson Orin Nano, GeForce RTX staliniais kompiuteriais ir baigiant naujuoju DGX Spark, kad sukurtumėte suasmenintus, visada veikiančius AI asistentus, tokius kaip „OpenClaw“, nemokėdami didžiulio „ženklinio mokesčio“ už kiekvieną veiksmą. Šiuolaikinio AI kraštovaizdis sparčiai keičiasi.",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/04/Screenshot-2026-04-02-at-1.10.18-PM-1-150x150.png",
-          "image_url": "generated-images/2026-04-05-08-token-tax-nugalejimas-kaip-google-gemma-4-nvidia-ir-open.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Greičiau paleiskite naujausius „Google“ atvirus modelius, kuriuose yra visos galimybės, naudodami NVIDIA RTX AI kompiuterius, pradedant NVIDIA Jetson Orin Nano, GeForce RTX staliniais kompiuteriais ir baigiant naujuoju DGX Spark, kad sukurtumėte suasmenintus, visada veikiančius AI asistentus, tokius kaip „OpenClaw“, nemokėdami didžiulio „ženklinio mokesčio“ už kiekvieną veiksmą.",
-            "Šiuolaikinio AI kraštovaizdis sparčiai keičiasi.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-            "Veikimo budas: Veikia tiek online, tiek lokaliai."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Aptikta: NVIDIA GPU",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/",
-            "try_url": "https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/"
-          }
-        },
-        {
-          "title": "„KiloClaw“ taiko šešėlinį AI su autonominiu agento valdymu",
-          "link": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
-          "published_iso": "2026-04-02T16:30:53Z",
-          "published_lt": "2026-04-02 16:30 UTC",
-          "summary": "Pradėjus naudoti „KiloClaw“, įmonės dabar turi įrankį, skirtą valdyti autonominius agentus ir valdyti šešėlinį AI. Nors praėjusius metus įmonės praleido siekdamos didelių kalbų modelių ir formalizdamos pardavėjų sutartis, kūrėjai ir žinių darbuotojai pradėjo judėti savarankiškai.",
-          "source": "AI News",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-04-05-09-kiloclaw-taiko-seselini-ai-su-autonominiu-agento-valdymu.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Pradėjus naudoti „KiloClaw“, įmonės dabar turi įrankį, skirtą valdyti autonominius agentus ir valdyti šešėlinį AI.",
-            "Nors praėjusius metus įmonės praleido siekdamos didelių kalbų modelių ir formalizdamos pardavėjų sutartis, kūrėjai ir žinių darbuotojai pradėjo judėti savarankiškai.",
-            "Kaina: Labiau panasu i mokama sprendima.",
-            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-            "Prieinamumas: Panasu, kad jau galima bandyti."
-          ],
-          "practical": {
-            "kaina": "Labiau panasu i mokama sprendima.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Panasu, kad jau galima bandyti.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1",
-            "try_url": "https://www.artificialintelligence-news.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.1"
-          }
-        },
-        {
-          "title": "Nauji būdai subalansuoti išlaidas ir patikimumą naudojant Gemini API",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-          "published_iso": "2026-04-02T16:00:00Z",
-          "published_lt": "2026-04-02 16:00 UTC",
-          "summary": "Siekdama subalansuoti išlaidas ir delsą, „Google“ į „Gemini“ API pristato dvi naujas išvadų pakopas – „Flex“ ir „Priority“.",
-          "source": "AI",
-          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp",
-          "image_url": "generated-images/2026-04-05-10-nauji-budai-subalansuoti-islaidas-ir-patikimuma-naudojan.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Siekdama subalansuoti išlaidas ir delsą, „Google“ į „Gemini“ API pristato dvi naujas išvadų pakopas – „Flex“ ir „Priority“.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641",
-            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641"
-          }
-        },
-        {
-          "title": "Kurkite, redaguokite ir bendrinkite vaizdo įrašus nemokamai naudodami „Google Vids“.",
-          "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-          "published_iso": "2026-04-02T16:00:00Z",
-          "published_lt": "2026-04-02 16:00 UTC",
-          "summary": "Naujos dirbtinio intelekto galimybės ateina į „Google Vids“, kurią palaiko Lyria 3 ir Veo 3.1, pavyzdžiui, aukštos kokybės vaizdo įrašų generavimas nemokamai ir dar daugiau.",
-          "source": "AI",
-          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp",
-          "image_url": "generated-images/2026-04-05-11-kurkite-redaguokite-ir-bendrinkite-vaizdo-irasus-nemokam.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Naujos dirbtinio intelekto galimybės ateina į „Google Vids“, kurią palaiko Lyria 3 ir Veo 3.1, pavyzdžiui, aukštos kokybės vaizdo įrašų generavimas nemokamai ir dar daugiau.",
-            "Kaina: Yra nemokamas ir mokamas variantas.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Yra nemokamas ir mokamas variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641",
-            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641"
-          }
-        },
-        {
-          "title": "„OpenAl x Gradient Labs“ įkūrėjas „Spotlight“.",
-          "link": "https://www.youtube.com/watch?v=yNNTLllVbiE",
-          "published_iso": "2026-04-01T21:12:13Z",
-          "published_lt": "2026-04-01 21:12 UTC",
-          "summary": "„Gradient Labs“ kiekvienam banko klientui suteikia AI sąskaitos tvarkyklę, kurios CSAT skiriamoji geba iki 98 % ir daugiau nei 50 % jau pirmą dieną. Banko palaikymo srityje net tokios paprastos problemos, kaip atmestas mokėjimas, gali sukelti kelias komandas, perdavimą ir vėlavimą. Gradient Labs pakeičia tai vienu agentu, kuris tvarko visą darbo eigą.",
-          "source": "OpenAI",
-          "source_image_url": "https://i2.ytimg.com/vi/yNNTLllVbiE/hqdefault.jpg",
-          "image_url": "generated-images/2026-04-05-12-openal-x-gradient-labs-ikurejas-spotlight.svg",
           "kind": "video",
           "video_id": "yNNTLllVbiE",
           "bullets_lt": [
