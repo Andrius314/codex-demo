@@ -1,10 +1,89 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-08-22",
-  "generated_at_utc": "2026-08-22T07:24:53Z",
+  "digest_date": "2026-08-23",
+  "generated_at_utc": "2026-08-23T07:27:09Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Naujas AI waifus, naujas „Deepseek“, realaus laiko pasauliai, „Happy Shrimp“, mažytė TTS: AI NAUJIENOS",
+      "link": "https://www.youtube.com/watch?v=rQ4yX5qNYdY",
+      "published_iso": "2026-08-23T03:33:46Z",
+      "published_lt": "2026-08-23 03:33 UTC",
+      "summary": "DIDELĖS AI NAUJIENOS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi Ačiū mūsų rėmėjui Hubspot.",
+      "source": "AI Search",
+      "source_image_url": "https://i3.ytimg.com/vi/rQ4yX5qNYdY/hqdefault.jpg",
+      "image_url": "generated-images/2026-08-23-01-naujas-ai-waifus-naujas-deepseek-realaus-laiko-pasauliai.svg",
+      "kind": "video",
+      "video_id": "rQ4yX5qNYdY",
+      "bullets_lt": [
+        "DIDELĖS AI NAUJIENOS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi Ačiū mūsų rėmėjui Hubspot."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=rQ4yX5qNYdY",
+        "try_url": "https://www.youtube.com/watch?v=rQ4yX5qNYdY"
+      }
+    },
+    {
+      "title": "Kūrėjo vadovas „NeMo Guardrails“, skirtas įmonės AI saugai",
+      "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+      "published_iso": "2026-08-22T23:49:38Z",
+      "published_lt": "2026-08-22 23:49 UTC",
+      "summary": "Šiame vadove mes tiriame, kaip sukurti gamybos lygio saugą LLM pagrįstoms programoms naudojant NeMo Guardrails sistemą. Siekdami įgyvendinti daugiasluoksnę architektūrą, apimančią deterministinį AII redagavimą, gavimo filtravimą, išvesties maskavimą ir politika pagrįstą įrankių blokavimą, nesiekiame paprasto greito filtravimo.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-08-23-02-kurejo-vadovas-nemo-guardrails-skirtas-imones-ai-saugai.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šiame vadove mes tiriame, kaip sukurti gamybos lygio saugą LLM pagrįstoms programoms naudojant NeMo Guardrails sistemą.",
+        "Siekdami įgyvendinti daugiasluoksnę architektūrą, apimančią deterministinį AII redagavimą, gavimo filtravimą, išvesties maskavimą ir politika pagrįstą įrankių blokavimą, nesiekiame paprasto greito filtravimo.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+        "try_url": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/"
+      }
+    },
+    {
+      "title": "AI atvirojo kodo kursų dekodavimas pateikia tris būdus, kaip vykdyti agento kilpą, ir paslaugų teikėjo ekonomiką.",
+      "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+      "published_iso": "2026-08-22T13:43:13Z",
+      "published_lt": "2026-08-22 13:43 UTC",
+      "summary": "Daugelis komandų „kurį modelį“ laiko svarbiu sprendimu. Pakabų inžinerijos literatūra vis rodo kažkur kitur. „LangChain“ terminalo ir stendo eksperimente, pakeitus tik diržus (visą tą patį modelį), kodavimo agentas buvo perkeltas iš maždaug 30 vietos į 5 geriausius.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-08-23-03-ai-atvirojo-kodo-kursu-dekodavimas-pateikia-tris-budus-k.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Daugelis komandų „kurį modelį“ laiko svarbiu sprendimu.",
+        "Pakabų inžinerijos literatūra vis rodo kažkur kitur.",
+        "„LangChain“ terminalo ir stendo eksperimente, pakeitus tik diržus (visą tą patį modelį), kodavimo agentas buvo perkeltas iš maždaug 30 vietos į 5 geriausius."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+        "try_url": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/"
+      }
+    },
     {
       "title": "Geriausi 2026 m. GPU „Neoclouds“: „CoreWeave“, „Nebius“, „Lambda“, „Crusoe“ ir „Groq“ reitinguojami pagal paskelbtą kainą ir sutartinę galią",
       "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
@@ -13,7 +92,7 @@
       "summary": "Penki didžiausi GPU neokloudai dabar veikia labai skirtingais modeliais. CoreWeave ir Nebius atsiskaito SEC; „Lambda“ ir „Crusoe“ yra privatūs ir siekia IPO; „Groq“ atkūrė save kaip išvadų debesį po to, kai licencijavo savo LPU technologiją NVIDIA.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-08-22-01-geriausi-2026-m-gpu-neoclouds-coreweave-nebius-lambda-cr.svg",
+      "image_url": "generated-images/2026-08-23-04-geriausi-2026-m-gpu-neoclouds-coreweave-nebius-lambda-cr.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -40,7 +119,7 @@
       "summary": "Šioje mokymo programoje nagrinėjama „AutoFigure“ – praktiškas įrankių rinkinys, skirtas profesionaliems moksliniams skaičiams generuoti tiesiai iš teksto aprašymų ir mokslinių darbų.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-08-22-02-agentiniu-dokumentu-zvalgybos-vamzdynu-kurimas-moksliniu.svg",
+      "image_url": "generated-images/2026-08-23-05-agentiniu-dokumentu-zvalgybos-vamzdynu-kurimas-moksliniu.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -65,7 +144,7 @@
       "summary": "„Anthropic“ perkėlė savo labiausiai kibernetinį pajėgumą turintį modelį į produktą, kurį saugos komandos gali įsijungti pačios. „Claude Security“ nuskaitymai dabar vykdomi naudojant „Claude Mythos 5“, viešą beta versiją „Claude Enterprise“ klientams be atskiro modelio priedo.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-08-22-03-anthropic-atnesa-claude-mythos-5-i-claude-security-imoni.svg",
+      "image_url": "generated-images/2026-08-23-06-anthropic-atnesa-claude-mythos-5-i-claude-security-imoni.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -86,33 +165,6 @@
       }
     },
     {
-      "title": "Kaip AI kodavimo įrankiai prisideda prie JavaScript populiarumo",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "published_iso": "2026-08-21T08:41:29Z",
-      "published_lt": "2026-08-21 08:41 UTC",
-      "summary": "2025 m. rugpjūčio mėn. „TypeScript“ tapo dažniausiai naudojama kalba „GitHub“. Tai buvo didžiausias „GitHub“ kalbų reitingų pokytis per pastaruosius dešimt metų ir įvyko sparčiausiai koduojančių AI agentų priėmimo laikotarpiu.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-08-22-04-kaip-ai-kodavimo-irankiai-prisideda-prie-javascript-popu.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "2025 m.",
-        "rugpjūčio mėn.",
-        "„TypeScript“ tapo dažniausiai naudojama kalba „GitHub“."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-        "try_url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/"
-      }
-    },
-    {
       "title": "Susipažinkite su S1-mini: „Superwhisper“ 462 MB atvirojo svorio teksto normalizatorius, kuris neapdorotus ASR nuorašus paverčia švariu rašytu tekstu",
       "link": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
       "published_iso": "2026-08-20T22:23:17Z",
@@ -120,7 +172,7 @@
       "summary": "S1-mini yra 462 MB atvirojo svorio normalizatorius, kuris veikia po ASR, pašalina užpildus ir išsprendžia savaiminius pataisymus vietoje. Įrašas Susipažinkite su S1-mini: „Superwhisper“ 462 MB atvirojo svorio teksto normalizatorius, kuris neapdorotus ASR nuorašus paverčia švariu rašytiniu tekstu, pirmą kartą pasirodė „MarkTechPost“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-08-22-05-susipazinkite-su-s1-mini-superwhisper-462-mb-atvirojo-sv.svg",
+      "image_url": "generated-images/2026-08-23-07-susipazinkite-su-s1-mini-superwhisper-462-mb-atvirojo-sv.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -146,7 +198,7 @@
       "summary": "PDF failus lengva skaityti ir sunku pakeisti. Dabar dirbtinis intelektas gali apibendrinti 90 puslapių sutartį per kelias sekundes, tačiau šaltinio failas vis tiek neperrašys švariai. UPDF sukurtas šiai antrajai pusei: tiesioginis redagavimas, 14 formatų konvertavimas, 38 kalbų OCR ir dešimt AI agentų, pristatytų 2.5 versijoje.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-08-22-06-susipazinkite-su-updf-lengva-adobe-alternatyva-sukurta-a.svg",
+      "image_url": "generated-images/2026-08-23-08-susipazinkite-su-updf-lengva-adobe-alternatyva-sukurta-a.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -174,7 +226,7 @@
       "summary": "Trys ~300M braižytuvai pritaiko spekuliatyvų dekodavimą į LFM2.5 ir užtikrina iki 3,18 karto greitesnį dekodavimą su identiška gobša išvestimi. Įrašas Skystas AI išleidžia LFM2.5-DSpark juodraščius modelius, kurie užtikrina iki 3,18 karto greitesnį dekodavimą nekeičiant modelio išvesties, pirmą kartą pasirodė MarkTechPost.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-08-22-07-liquid-ai-isleidzia-lfm2-5-dspark-juodrascius-modelius-k.svg",
+      "image_url": "generated-images/2026-08-23-09-liquid-ai-isleidzia-lfm2-5-dspark-juodrascius-modelius-k.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -193,47 +245,43 @@
       }
     },
     {
-      "title": "„Amazon“ „Prime Air“ autonominiai dronai pasieks 500 JAV miestų",
-      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "published_iso": "2026-08-20T14:05:18Z",
-      "published_lt": "2026-08-20 14:05 UTC",
-      "summary": "„Amazon“ iki 2026 m. pabaigos planuoja išplėsti „Prime Air“ dronų pristatymo paslaugą į beveik 500 JAV miestų ir miestelių. „Amazon“ teigimu, šis skaičius šešis kartus viršija vietų, kurias šiandien aptarnauja „Prime Air“, skaičių, todėl ši galimybė bus išplėsta bendruomenėms, turinčioms dešimtis milijonų klientų.",
-      "source": "AI News",
+      "title": "Pirmenybių šališkumo auditas ir kalbos modelių koregavimas naudojant tiesioginį pirmenybių optimizavimą antropiniame HH-RLHF naudojant TRL ir LoRA",
+      "link": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
+      "published_iso": "2026-08-20T08:51:38Z",
+      "published_lt": "2026-08-20 08:51 UTC",
+      "summary": "Šioje mokymo programoje pateikiama visapusiška darbo eiga, skirta koreguoti kalbos modelius naudojant tiesioginį nuostatų optimizavimą (DPO).",
+      "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-08-22-08-amazon-prime-air-autonominiai-dronai-pasieks-500-jav-mie.svg",
+      "image_url": "generated-images/2026-08-23-10-pirmenybiu-saliskumo-auditas-ir-kalbos-modeliu-koregavim.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Amazon“ iki 2026 m.",
-        "pabaigos planuoja išplėsti „Prime Air“ dronų pristatymo paslaugą į beveik 500 JAV miestų ir miestelių.",
-        "„Amazon“ teigimu, šis skaičius šešis kartus viršija vietų, kurias šiandien aptarnauja „Prime Air“, skaičių, todėl ši galimybė bus išplėsta bendruomenėms, turinčioms dešimtis milijonų klientų.",
-        "Kaina: Labiau panasu i mokama sprendima."
+        "Šioje mokymo programoje pateikiama visapusiška darbo eiga, skirta koreguoti kalbos modelius naudojant tiesioginį nuostatų optimizavimą (DPO)."
       ],
       "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
+        "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Neaptikta siame saltinyje.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-        "try_url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
+        "try_url": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/"
       }
     },
     {
-      "title": "„Stripe“ sutinka pirkti „OpenRouter“, plečiantis AI modelio maršrutizavimui",
-      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-      "published_iso": "2026-08-20T10:00:00Z",
-      "published_lt": "2026-08-20 10:00 UTC",
-      "summary": "„Stripe“ sutiko įsigyti „OpenRouter“, AI modelių maršruto parinkimo platformą, kuri suteikia kūrėjams prieigą prie šimtų modelių per vieną sąsają. Sandoris papildo modelių pasirinkimą ir maršruto parinkimą prie esamo „Stripe“ darbo, susijusio su AI naudojimu ir žetonais pagrįstu atsiskaitymu.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-08-22-09-stripe-sutinka-pirkti-openrouter-pleciantis-ai-modelio-m.svg",
+      "title": "5 nauji būdai, kaip pagerinti mokymąsi naudojant Paiešką",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "published_iso": "2026-08-19T19:00:00Z",
+      "published_lt": "2026-08-19 19:00 UTC",
+      "summary": "Štai kaip galite naudoti „Google“ paieškos įrankius, kad galėtumėte mokytis klasėms ir standartizuotiems testams.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-08-23-11-5-nauji-budai-kaip-pagerinti-mokymasi-naudojant-paieska.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Stripe“ sutiko įsigyti „OpenRouter“, AI modelių maršruto parinkimo platformą, kuri suteikia kūrėjams prieigą prie šimtų modelių per vieną sąsają.",
-        "Sandoris papildo modelių pasirinkimą ir maršruto parinkimą prie esamo „Stripe“ darbo, susijusio su AI naudojimu ir žetonais pagrįstu atsiskaitymu.",
+        "Štai kaip galite naudoti „Google“ paieškos įrankius, kad galėtumėte mokytis klasėms ir standartizuotiems testams.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
@@ -243,35 +291,8 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-        "try_url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/"
-      }
-    },
-    {
-      "title": "Agentiškas AI vyriausybėje tiesiog paveikė sunkią dalį: nuspręsti, ką gali nuspręsti mašina",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
-      "published_iso": "2026-08-20T09:00:00Z",
-      "published_lt": "2026-08-20 09:00 UTC",
-      "summary": "Jungtiniai Arabų Emyratai (JAE) jau 9 metus pradėjo taikyti dirbtinį intelektą. 2017 m. spalį ji paskelbė nacionalinę dirbtinio intelekto strategiją, o po kelių dienų įsteigė ministro postą jai vadovauti, todėl Omaras Sultanas Al Olama, būdamas 27 metų, tapo pirmuoju pasaulyje dirbtinio intelekto valstybės ministru.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-08-22-10-agentiskas-ai-vyriausybeje-tiesiog-paveike-sunkia-dali-n.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Jungtiniai Arabų Emyratai (JAE) jau 9 metus pradėjo taikyti dirbtinį intelektą.",
-        "2017 m.",
-        "spalį ji paskelbė nacionalinę dirbtinio intelekto strategiją, o po kelių dienų įsteigė ministro postą jai vadovauti, todėl Omaras Sultanas Al Olama, būdamas 27 metų, tapo pirmuoju pasaulyje dirbtinio intelekto valstybės ministru."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
-        "try_url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/"
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260820-1820",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260820-1820"
       }
     },
     {
@@ -282,7 +303,7 @@
       "summary": "❤️ Peržiūrėkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers DeepSeek V4 Pro 0813: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813 DSpark visas epizodas: https://www.youtube.com/watch?v=Qhw https://x.com/cline/status/2087602193205694891 https://x.com/TypingMindApp/status/208",
       "source": "Two Minute Papers",
       "source_image_url": "https://i4.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
-      "image_url": "generated-images/2026-08-22-11-deepseek-ka-tik-padare-uzdara-ai-juokinga-isvaizda.svg",
+      "image_url": "generated-images/2026-08-23-12-deepseek-ka-tik-padare-uzdara-ai-juokinga-isvaizda.svg",
       "kind": "video",
       "video_id": "kyYepbhe1g8",
       "bullets_lt": [
@@ -298,31 +319,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=kyYepbhe1g8",
         "try_url": "https://www.youtube.com/watch?v=kyYepbhe1g8"
-      }
-    },
-    {
-      "title": "Kaip verslo klausimą paversti strategijos paketu naudojant „ChatGPT Work“ | Pamoka",
-      "link": "https://www.youtube.com/watch?v=XjSJ6ybS9I8",
-      "published_iso": "2026-08-18T19:05:08Z",
-      "published_lt": "2026-08-18 19:05 UTC",
-      "summary": "Verslo klausimą paverskite aiškia rekomendacija – nepraleiskite dienų rinkdami tyrimus ir nekurdami skaidres.",
-      "source": "OpenAI",
-      "source_image_url": "https://i1.ytimg.com/vi/XjSJ6ybS9I8/hqdefault.jpg",
-      "image_url": "generated-images/2026-08-22-12-kaip-verslo-klausima-paversti-strategijos-paketu-naudoja.svg",
-      "kind": "video",
-      "video_id": "XjSJ6ybS9I8",
-      "bullets_lt": [
-        "Verslo klausimą paverskite aiškia rekomendacija – nepraleiskite dienų rinkdami tyrimus ir nekurdami skaidres."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=XjSJ6ybS9I8",
-        "try_url": "https://www.youtube.com/watch?v=XjSJ6ybS9I8"
       }
     }
   ]
