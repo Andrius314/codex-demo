@@ -1,7 +1,335 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-09-01T12:16:08Z",
+  "updated_at_utc": "2026-09-02T11:53:45Z",
   "digests": [
+    {
+      "digest_date": "2026-09-02",
+      "generated_at_utc": "2026-09-02T11:53:45Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„Anthropic“ pristato įmonės sienų apsaugos priemones (EFS): nulinio duomenų saugojimo privatumas ir kryžminio seanso netinkamo naudojimo aptikimas",
+          "link": "https://www.marktechpost.com/2026/09/02/anthropic-enterprise-frontier-safeguards-efs/",
+          "published_iso": "2026-09-02T07:38:18Z",
+          "published_lt": "2026-09-02 07:38 UTC",
+          "summary": "2026 m. rugsėjo 1 d. „Anthropic“ paskelbė apie „Enterprise Frontier Safeguards“ – architektūrą, kurioje stebėjimo duomenys saugomi paties kliento debesies paskyroje, o ne „Anthropic“ paskyroje. Aptikimas išlieka automatizuotas ir vykdomas antropiškai; saugojimas, šifravimo raktai ir vėliavėlės peržiūra lieka su klientu.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-09-02-01-anthropic-pristato-imones-sienu-apsaugos-priemones-efs-n.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "2026 m.",
+            "rugsėjo 1 d.",
+            "„Anthropic“ paskelbė apie „Enterprise Frontier Safeguards“ – architektūrą, kurioje stebėjimo duomenys saugomi paties kliento debesies paskyroje, o ne „Anthropic“ paskyroje.",
+            "Kaina: Labiau panasu i mokama sprendima.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/02/anthropic-enterprise-frontier-safeguards-efs/",
+            "try_url": "https://www.marktechpost.com/2026/09/02/anthropic-enterprise-frontier-safeguards-efs/"
+          }
+        },
+        {
+          "title": "„Meta Superintelligence Labs“ išleido „Muse Voice Transcribe“: vieną realaus laiko modelį, skirtą srautiniam ASR, diarizavimui ir galutiniam taškui",
+          "link": "https://www.marktechpost.com/2026/09/01/meta-superintelligence-labs-releases-muse-voice-transcribe-one-real-time-model-for-streaming-asr-diarization-and-endpointing/",
+          "published_iso": "2026-09-02T05:37:12Z",
+          "published_lt": "2026-09-02 05:37 UTC",
+          "summary": "Daugumą gamybinių balso rinkinių sudaro trys sujungtos sistemos. Vienas modelis transkribuoja, antrasis atskiria garsiakalbius, o detektorius nusprendžia, kada vartotojas nustojo kalbėti. Kiekvienas perdavimas padidina delsą ir naują gedimo režimą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-09-02-02-meta-superintelligence-labs-isleido-muse-voice-transcrib.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Daugumą gamybinių balso rinkinių sudaro trys sujungtos sistemos.",
+            "Vienas modelis transkribuoja, antrasis atskiria garsiakalbius, o detektorius nusprendžia, kada vartotojas nustojo kalbėti.",
+            "Kiekvienas perdavimas padidina delsą ir naują gedimo režimą."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/01/meta-superintelligence-labs-releases-muse-voice-transcribe-one-real-time-model-for-streaming-asr-diarization-and-endpointing/",
+            "try_url": "https://www.marktechpost.com/2026/09/01/meta-superintelligence-labs-releases-muse-voice-transcribe-one-real-time-model-for-streaming-asr-diarization-and-endpointing/"
+          }
+        },
+        {
+          "title": "„Perplexity“ išleidžia hibridinį skaičiavimą „Mac“: „Cloud Agents“ rengia vietinį modelį, susietą įrenginyje",
+          "link": "https://www.marktechpost.com/2026/09/01/perplexity-releases-hybrid-compute-on-mac-cloud-agents-orchestrate-down-to-a-local-model-gated-on-device/",
+          "published_iso": "2026-09-02T05:12:00Z",
+          "published_lt": "2026-09-02 05:12 UTC",
+          "summary": "Agentų padėjėjai turi struktūrinę problemą: kontekstas, dėl kurio jie yra naudingi (tvarkyti dokumentus, privilegijuotus failus, klientų įrašus), yra būtent tas kontekstas, kurio vartotojai negali siųsti į debesies galinį tašką. Šią savaitę „Perplexity“ pateikė atsakymą, skirtą „Mac“.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-09-02-03-perplexity-isleidzia-hibridini-skaiciavima-mac-cloud-age.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Agentų padėjėjai turi struktūrinę problemą: kontekstas, dėl kurio jie yra naudingi (tvarkyti dokumentus, privilegijuotus failus, klientų įrašus), yra būtent tas kontekstas, kurio vartotojai negali siųsti į debesies galinį tašką.",
+            "Šią savaitę „Perplexity“ pateikė atsakymą, skirtą „Mac“."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/01/perplexity-releases-hybrid-compute-on-mac-cloud-agents-orchestrate-down-to-a-local-model-gated-on-device/",
+            "try_url": "https://www.marktechpost.com/2026/09/01/perplexity-releases-hybrid-compute-on-mac-cloud-agents-orchestrate-down-to-a-local-model-gated-on-device/"
+          }
+        },
+        {
+          "title": "Paskutinės AI naujienos, kurias paskelbėme 2026 m. rugpjūčio mėn",
+          "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+          "published_iso": "2026-09-01T20:45:00Z",
+          "published_lt": "2026-09-01 20:45 UTC",
+          "summary": "Štai naujausi „Google“ dirbtinio intelekto atnaujinimai nuo 2026 m. rugpjūčio mėn",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-09-02-04-paskutines-ai-naujienos-kurias-paskelbeme-2026-m-rugpjuc.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Štai naujausi „Google“ dirbtinio intelekto atnaujinimai nuo 2026 m.",
+            "rugpjūčio mėn.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260820-1820",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260820-1820"
+          }
+        },
+        {
+          "title": "Anthropic leidimai Claude Fable 5.1 ir Claude Mythos 5.1: 52,6 % Terminal-Bench-Science ir 75 % pigesni talpyklos skaitymai",
+          "link": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
+          "published_iso": "2026-09-01T20:30:21Z",
+          "published_lt": "2026-09-01 20:30 UTC",
+          "summary": "„Anthropic“ išleido „Claude Fable 5.1“ ir „Claude Mythos 5.1“ – tą patį modelį už dviejų skirtingų apsaugos sluoksnių. „Fable 5.1“ paprastai pasiekiama „Claude“ API, AWS, „Google Cloud“ ir „Microsoft Foundry“; „Mythos 5.1“ tebegalioja tik patikrintoms organizacijoms pagal „Project Glasswing“.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-09-02-05-anthropic-leidimai-claude-fable-5-1-ir-claude-mythos-5-1.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Anthropic“ išleido „Claude Fable 5.1“ ir „Claude Mythos 5.1“ – tą patį modelį už dviejų skirtingų apsaugos sluoksnių.",
+            "„Fable 5.1“ paprastai pasiekiama „Claude“ API, AWS, „Google Cloud“ ir „Microsoft Foundry“; „Mythos 5.1“ tebegalioja tik patikrintoms organizacijoms pagal „Project Glasswing“.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
+            "try_url": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/"
+          }
+        },
+        {
+          "title": "Išbandykite „Google Pics“: paprastas vaizdų kūrimas ir redagavimas „Google Workspace“.",
+          "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+          "published_iso": "2026-09-01T16:00:00Z",
+          "published_lt": "2026-09-01 16:00 UTC",
+          "summary": "Sukurta pagal mūsų naujausią „Nano Banana“ modelį, „Google Pics“ – mūsų vaizdų kūrimo ir redagavimo įrankis – dabar pasiekiamas.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-09-02-06-isbandykite-google-pics-paprastas-vaizdu-kurimas-ir-reda.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Sukurta pagal mūsų naujausią „Nano Banana“ modelį, „Google Pics“ – mūsų vaizdų kūrimo ir redagavimo įrankis – dabar pasiekiamas.",
+            "Prieinamumas: Dar neissleista arba arteja."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Dar neissleista arba arteja.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260820-1820",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260820-1820"
+          }
+        },
+        {
+          "title": "Tyrėjai iš Prinstono, Ant Group ir Stanfordo pristato AQuA: dviejų dalių agentų sistemą, skirtą autonominių faktorių atradimui ir modelių kūrimui kiekybiniuose finansuose",
+          "link": "https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/",
+          "published_iso": "2026-09-01T15:54:14Z",
+          "published_lt": "2026-09-01 15:54 UTC",
+          "summary": "Kiekybinių tyrimų agentai, rašantys savo eksperimentus, gali sugadinti įrodymus, iš kurių vėliau mokosi. Nesandari funkcija, kuri gerai vertinama, išsaugoma kaip sėkmingas precedentas ir išplatinamas vėlesnių iteracijų metu.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-09-02-07-tyrejai-is-prinstono-ant-group-ir-stanfordo-pristato-aqu.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kiekybinių tyrimų agentai, rašantys savo eksperimentus, gali sugadinti įrodymus, iš kurių vėliau mokosi.",
+            "Nesandari funkcija, kuri gerai vertinama, išsaugoma kaip sėkmingas precedentas ir išplatinamas vėlesnių iteracijų metu."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/",
+            "try_url": "https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/"
+          }
+        },
+        {
+          "title": "GLM 5.3: galingas AI tampa beveik nemokamas",
+          "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
+          "published_iso": "2026-09-01T09:04:56Z",
+          "published_lt": "2026-09-01 09:04 UTC",
+          "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Šaltiniai: https://x.com/louszbd/status/2092694163104113016 https://x.com/semianalysis_/status/2092623833630998556 https://x.com/skalskip92/status/2092748209802154201 https://x.com/louszbd/s",
+          "source": "Two Minute Papers",
+          "source_image_url": "https://i4.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
+          "image_url": "generated-images/2026-09-02-08-glm-5-3-galingas-ai-tampa-beveik-nemokamas.svg",
+          "kind": "video",
+          "video_id": "w9RDunJACkc",
+          "bullets_lt": [
+            "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Šaltiniai: https://x.com/louszbd/status/2092694163104113016 https://x.com/semianalysis_/status/2092623833630998556 https://x.com/skalskip92/status/2092748209802154201 https://x.com/louszbd/s.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=w9RDunJACkc",
+            "try_url": "https://www.youtube.com/watch?v=w9RDunJACkc"
+          }
+        },
+        {
+          "title": "„Gradium AI“ išleido naują numatytąjį TTS modelį: 81,0 % kietojo atvejo perdavimo dažnis, esant 216 ms, laikas iki pirmo garso",
+          "link": "https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/",
+          "published_iso": "2026-09-01T03:39:05Z",
+          "published_lt": "2026-09-01 03:39 UTC",
+          "summary": "Greitis ir tikslumas paprastai traukia vienas kitą keičiant tekstą į kalbą. Naujasis numatytasis „Gradium AI“ modelis praneša apie 81,0 % žmogaus įvertintą 500 sunkių sakinių penkiomis kalbomis išlaikymo koeficientą, 216 ms P50 laikas iki pirmojo garso įrašo „Coval“. Vertinimo rinkinys atidarytas Hugging Face pagal CC BY 4.0.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-09-02-09-gradium-ai-isleido-nauja-numatytaji-tts-modeli-81-0-kiet.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Greitis ir tikslumas paprastai traukia vienas kitą keičiant tekstą į kalbą.",
+            "Naujasis numatytasis „Gradium AI“ modelis praneša apie 81,0 % žmogaus įvertintą 500 sunkių sakinių penkiomis kalbomis išlaikymo koeficientą, 216 ms P50 laikas iki pirmojo garso įrašo „Coval“.",
+            "Vertinimo rinkinys atidarytas Hugging Face pagal CC BY 4.0.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/",
+            "try_url": "https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/"
+          }
+        },
+        {
+          "title": "Keenable AI atvirojo kodo NEEDLE: tiesioginės paieškos etalonas, kuris kiekvieną valandą atkuria užklausų rinkinį",
+          "link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+          "published_iso": "2026-08-31T23:43:26Z",
+          "published_lt": "2026-08-31 23:43 UTC",
+          "summary": "Kaip palyginti žiniatinklio paieškos API, kai bandomas dalykas gali nuskaityti atsakymo raktą? Paieškos agentas turi gavimo įrankį. Jei auksinės etiketės yra viešame duomenų rinkinyje, agentas gali jas atsisiųsti tarpinio įvertinimo metu ir visiškai praleisti paiešką.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-09-02-10-keenable-ai-atvirojo-kodo-needle-tiesiogines-paieskos-et.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Kaip palyginti žiniatinklio paieškos API, kai bandomas dalykas gali nuskaityti atsakymo raktą?",
+            "Paieškos agentas turi gavimo įrankį.",
+            "Jei auksinės etiketės yra viešame duomenų rinkinyje, agentas gali jas atsisiųsti tarpinio įvertinimo metu ir visiškai praleisti paiešką.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+            "try_url": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/"
+          }
+        },
+        {
+          "title": "„Google AI“ išleido TimesFM-3: 330M parametrų nulinio kadro pagrindo modelis, skirtas daugiamatėms laiko eilėms prognozuoti",
+          "link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+          "published_iso": "2026-08-31T21:20:16Z",
+          "published_lt": "2026-08-31 21:20 UTC",
+          "summary": "„Google Research“ išleido „TimesFM-3“ – 330 mln. parametrų laiko eilučių pagrindo modelį, kuris prognozuoja kelias susijusias eilutes vienu į priekį.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-09-02-11-google-ai-isleido-timesfm-3-330m-parametru-nulinio-kadro.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google Research“ išleido „TimesFM-3“ – 330 mln.",
+            "parametrų laiko eilučių pagrindo modelį, kuris prognozuoja kelias susijusias eilutes vienu į priekį."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+            "try_url": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/"
+          }
+        },
+        {
+          "title": "„Ox Alpha“ atskleidimas, „Minimax“ realiuoju laiku, „Qwen Next“, „Hy4“, robotų olimpinės žaidynės: AI NAUJIENOS",
+          "link": "https://www.youtube.com/watch?v=4wjHNgMLeyY",
+          "published_iso": "2026-08-30T03:30:59Z",
+          "published_lt": "2026-08-30 03:30 UTC",
+          "summary": "DIDELĖS AI NAUJIENOS: GLM 5.3 Flash, Qwen 3.8 Flash Next, Minimax FastH3, Hy4 #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Luma.",
+          "source": "AI Search",
+          "source_image_url": "https://i1.ytimg.com/vi/4wjHNgMLeyY/hqdefault.jpg",
+          "image_url": "generated-images/2026-09-02-12-ox-alpha-atskleidimas-minimax-realiuoju-laiku-qwen-next-.svg",
+          "kind": "video",
+          "video_id": "4wjHNgMLeyY",
+          "bullets_lt": [
+            "DIDELĖS AI NAUJIENOS: GLM 5.3 Flash, Qwen 3.8 Flash Next, Minimax FastH3, Hy4 #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Luma."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=4wjHNgMLeyY",
+            "try_url": "https://www.youtube.com/watch?v=4wjHNgMLeyY"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-09-01",
       "generated_at_utc": "2026-09-01T12:16:08Z",
@@ -38785,332 +39113,6 @@
             "prieinamumas": "Neaptikta siame saltinyje.",
             "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=7r_WJ9xpne0",
             "try_url": "https://www.youtube.com/watch?v=7r_WJ9xpne0"
-          }
-        }
-      ]
-    },
-    {
-      "digest_date": "2026-05-04",
-      "generated_at_utc": "2026-05-04T09:12:42Z",
-      "item_count": 12,
-      "items": [
-        {
-          "title": "Sisteminio raginimo kūrėjo vadovas: neigiamų suvaržymų, struktūrinių JSON išėjimų ir kelių hipotezių verbalinio atrankos valdymas",
-          "link": "https://www.marktechpost.com/2026/05/03/a-developers-guide-to-systematic-prompting-mastering-negative-constraints-structured-json-outputs-and-multi-hypothesis-verbalized-sampling/",
-          "published_iso": "2026-05-03T21:41:48Z",
-          "published_lt": "2026-05-03 21:41 UTC",
-          "summary": "Daugelis kūrėjų raginimą traktuoja kaip pasekmes – parašykite ką nors pagrįsto, stebėkite išvestį ir, jei reikia, pakartokite. Šis metodas veikia tol, kol patikimumas tampa kritinis.",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-5-150x150.png",
-          "image_url": "generated-images/2026-05-04-01-sisteminio-raginimo-kurejo-vadovas-neigiamu-suvarzymu-st.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Daugelis kūrėjų raginimą traktuoja kaip pasekmes – parašykite ką nors pagrįsto, stebėkite išvestį ir, jei reikia, pakartokite.",
-            "Šis metodas veikia tol, kol patikimumas tampa kritinis.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-            "Veikimo budas: Veikia tiek online, tiek lokaliai."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-            "online_limitai": "Jei dar neturite API rakto, galite jį sukurti oficialioje prietaisų skydelyje: https://platform.openai.com/api-keys import json iš openai import OpenAI import OS iš getpass import getpass os.environ['OPENAI_API_KEY']...",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-          }
-        },
-        {
-          "title": "Kodavimo įgyvendinimas, skirtas tyrinėti ir analizuoti „TaskTrove“ duomenų rinkinį su srautinio analizavimo vizualizacija ir tikrintuvo aptikimu",
-          "link": "https://www.marktechpost.com/2026/05/03/a-coding-implementation-to-explore-and-analyze-the-tasktrove-dataset-with-streaming-parsing-visualization-and-verifier-detection/",
-          "published_iso": "2026-05-03T21:26:42Z",
-          "published_lt": "2026-05-03 21:26 UTC",
-          "summary": "Šiame vadove mes giliai pasineriame į TaskTrove duomenų rinkinį apie Hugging Face ir sukuriame išsamią, praktinę darbo eigą, kad galėtume efektyviai jį ištirti. Užuot atsisiuntę visą kelių gigabaitų duomenų rinkinį, perduodame jį tiesiogiai ir dirbame su atskirais pavyzdžiais realiuoju laiku.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-05-04-02-kodavimo-igyvendinimas-skirtas-tyrineti-ir-analizuoti-ta.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Šiame vadove mes giliai pasineriame į TaskTrove duomenų rinkinį apie Hugging Face ir sukuriame išsamią, praktinę darbo eigą, kad galėtume efektyviai jį ištirti.",
-            "Užuot atsisiuntę visą kelių gigabaitų duomenų rinkinį, perduodame jį tiesiogiai ir dirbame su atskirais pavyzdžiais realiuoju laiku.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-            "Veikimo budas: Veikia tiek online, tiek lokaliai."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-          }
-        },
-        {
-          "title": "Naujasis NVIDIA dirbtinis intelektas vieną nuotrauką paverčia pasauliu, kuris niekada nenutrūksta",
-          "link": "https://www.youtube.com/watch?v=eCw33snvoNI",
-          "published_iso": "2026-05-03T17:02:48Z",
-          "published_lt": "2026-05-03 17:02 UTC",
-          "summary": "❤️ Apžiūrėkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://research.nvidia.com/labs/sil/projects/lyra2/ Mūsų Patreonas, jei norite mus paremti: https://www.patreon.com/TwoMinutePapers, kuriems padėkotume PatreonPapers🙏",
-          "source": "Two Minute Papers",
-          "source_image_url": "https://i2.ytimg.com/vi/eCw33snvoNI/hqdefault.jpg",
-          "image_url": "generated-images/2026-05-04-03-naujasis-nvidia-dirbtinis-intelektas-viena-nuotrauka-pav.svg",
-          "kind": "video",
-          "video_id": "eCw33snvoNI",
-          "bullets_lt": [
-            "❤️ Apžiūrėkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Straipsnį rasite čia: https://research.nvidia.com/labs/sil/projects/lyra2/ Mūsų Patreonas, jei norite mus paremti: https://www.patreon.com/TwoMinutePapers, kuriems padėkotume PatreonPapers🙏.",
-            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=eCw33snvoNI",
-            "try_url": "https://www.youtube.com/watch?v=eCw33snvoNI"
-          }
-        },
-        {
-          "title": "„Sakana AI“ pristato KAME: tandeminę kalbos į kalbą architektūrą, kuri realiu laiku įneša LLM žinias",
-          "link": "https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/",
-          "published_iso": "2026-05-03T07:47:42Z",
-          "published_lt": "2026-05-03 07:47 UTC",
-          "summary": "„Sakana AI“ pristato KAME: tandeminę architektūrą, kuri realiuoju laiku LLM žinias perkelia į kalbos ir kalbos DI nepridedant delsos Įrašas „Sakana AI“ pristato KAME: tandeminę kalbos į kalbą architektūrą, kuri įneša LLMPost žinias realiuoju laiku.",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-03-at-12.46.41-AM-1-150x150.png",
-          "image_url": "generated-images/2026-05-04-04-sakana-ai-pristato-kame-tandemine-kalbos-i-kalba-archite.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Sakana AI“ pristato KAME: tandeminę architektūrą, kuri realiuoju laiku LLM žinias perkelia į kalbos ir kalbos DI nepridedant delsos Įrašas „Sakana AI“ pristato KAME: tandeminę kalbos į kalbą architektūrą, kuri įneša LLMPost žinias realiuoju laiku."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/",
-            "try_url": "https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/"
-          }
-        },
-        {
-          "title": "Kas yra Tokenization Drift ir kaip jį ištaisyti?",
-          "link": "https://www.marktechpost.com/2026/05/03/what-is-tokenization-drift-and-how-to-fix-it/",
-          "published_iso": "2026-05-03T07:06:45Z",
-          "published_lt": "2026-05-03 07:06 UTC",
-          "summary": "Modelis gali puikiai veikti vieną akimirką, o kitą pablogėti – nekeičiant duomenų, konvejerio ar logikos. Pagrindinė priežastis dažnai slypi kažkuo kur kas subtilesniame: kaip jūsų įvestis patvirtinama.",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/image-2-150x150.png",
-          "image_url": "generated-images/2026-05-04-05-kas-yra-tokenization-drift-ir-kaip-ji-istaisyti.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Modelis gali puikiai veikti vieną akimirką, o kitą pablogėti – nekeičiant duomenų, konvejerio ar logikos.",
-            "Pagrindinė priežastis dažnai slypi kažkuo kur kas subtilesniame: kaip jūsų įvestis patvirtinama.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Šiame straipsnyje mes išskaidysime tai naudodami GPT-2 prieigos raktą, kad parodytume, kaip nedideli formatavimo pakeitimai veikia prieigos raktus, ir sukursime paprastą metriką, skirtą raginimų nukrypimui matuoti.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/03/what-is-tokenization-drift-and-how-to-fix-it/",
-            "try_url": "https://www.marktechpost.com/2026/05/03/what-is-tokenization-drift-and-how-to-fix-it/"
-          }
-        },
-        {
-          "title": "Draugės robotai, rekursyvūs AI agentai, išsamus AI tyrimas, Happy Horse: AI NAUJIENOS",
-          "link": "https://www.youtube.com/watch?v=7r_WJ9xpne0",
-          "published_iso": "2026-05-03T03:28:46Z",
-          "published_lt": "2026-05-03 03:28 UTC",
-          "summary": "DIDELĖS AI NAUJIENOS: Happy Horse, SenseNova U1, Talkie, Grok 4.3, Vista 4D ir daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Merlin.",
-          "source": "AI Search",
-          "source_image_url": "https://i4.ytimg.com/vi/7r_WJ9xpne0/hqdefault.jpg",
-          "image_url": "generated-images/2026-05-04-06-drauges-robotai-rekursyvus-ai-agentai-issamus-ai-tyrimas.svg",
-          "kind": "video",
-          "video_id": "7r_WJ9xpne0",
-          "bullets_lt": [
-            "DIDELĖS AI NAUJIENOS: Happy Horse, SenseNova U1, Talkie, Grok 4.3, Vista 4D ir daugiau #ai #ainews #aitools #aivideo #agi Ačiū mūsų rėmėjui Merlin."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=7r_WJ9xpne0",
-            "try_url": "https://www.youtube.com/watch?v=7r_WJ9xpne0"
-          }
-        },
-        {
-          "title": "„Mistral AI“ pristato nuotolinius agentus „Vibe“ ir „Mistral Medium 3.5“ su 77,6 % „SWE-Bench“ patvirtintu balu",
-          "link": "https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/",
-          "published_iso": "2026-05-03T00:38:20Z",
-          "published_lt": "2026-05-03 00:38 UTC",
-          "summary": "Naujausias „Mistral AI“ leidimas suteikia „Le Chat“ asinchroninių debesų pagrindu veikiančių kodavimo seansų, naują 128B pavyzdinį modelį ir agentinį darbo režimą – tai reikšmingas žingsnis į priekį kūrėjams, kurie kuria dirbtinio intelekto agentus.",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-02-at-5.36.17-PM-1-150x150.png",
-          "image_url": "generated-images/2026-05-04-07-mistral-ai-pristato-nuotolinius-agentus-vibe-ir-mistral-.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Naujausias „Mistral AI“ leidimas suteikia „Le Chat“ asinchroninių debesų pagrindu veikiančių kodavimo seansų, naują 128B pavyzdinį modelį ir agentinį darbo režimą – tai reikšmingas žingsnis į priekį kūrėjams, kurie kuria dirbtinio intelekto agentus.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-            "Prieinamumas: Prieinama kaip beta/preview."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-            "online_limitai": "„Mistral“ komanda paskelbė apie nuotolinius agentus „Vibe“, savo kodavimo agento platformoje, kartu su vieša „Mistral Medium 3.5“ peržiūra – naujo 128B tankaus modelio, kuris dabar naudojamas kaip numatytasis „Vibe“ i...",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Prieinama kaip beta/preview.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/",
-            "try_url": "https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/"
-          }
-        },
-        {
-          "title": "Sukurkite kelių agentų AI darbo eigą, skirtą biologinio tinklo modeliavimui, baltymų sąveikai, metabolizmui ir ląstelių signalų modeliavimui",
-          "link": "https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/",
-          "published_iso": "2026-05-02T20:31:07Z",
-          "published_lt": "2026-05-02 20:31 UTC",
-          "summary": "Sukurkite kelių agentų AI darbo eigą, skirtą biologinio tinklo modeliavimui, baltymų sąveikai, metabolizmui ir ląstelių signalizacijos modeliavimui The post Sukurkite kelių agentų AI darbo eigą, skirtą biologinio tinklo modeliavimui, baltymų sąveikai, metabolizmui ir ląstelių signalizacijos modeliavimui appeared first on MarkTechPost.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-05-04-08-sukurkite-keliu-agentu-ai-darbo-eiga-skirta-biologinio-t.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Sukurkite kelių agentų AI darbo eigą, skirtą biologinio tinklo modeliavimui, baltymų sąveikai, metabolizmui ir ląstelių signalizacijos modeliavimui The post Sukurkite kelių agentų AI darbo eigą, skirtą biologinio tinklo modeliavimui, baltymų sąveikai, metabolizmui ir ląstelių signalizacijos modeliavimui appeared first on MarkTechPost.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-            "Veikimo budas: Veikia tiek online, tiek lokaliai."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/",
-            "try_url": "https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/"
-          }
-        },
-        {
-          "title": "Kodavimo įgyvendinimas agento samprotavimo pėdsakų analizei, analizei, vizualizavimui ir koregavimui naudojant lambda/hermes-agent-reasoning-traces duomenų rinkinį",
-          "link": "https://www.marktechpost.com/2026/05/02/a-coding-implementation-to-parsing-analyzing-visualizing-and-fine-tuning-agent-reasoning-traces-using-the-lambda-hermes-agent-reasoning-traces-dataset/",
-          "published_iso": "2026-05-02T07:47:46Z",
-          "published_lt": "2026-05-02 07:47 UTC",
-          "summary": "Šioje mokymo programoje tyrinėjame lambda/hermes-agent-reasoning-traces duomenų rinkinį, kad suprastume, kaip agentais pagrįsti modeliai mąsto, naudoja įrankius ir generuoja atsakymus kelių pokalbių metu.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-05-04-09-kodavimo-igyvendinimas-agento-samprotavimo-pedsaku-anali.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Šioje mokymo programoje tyrinėjame lambda/hermes-agent-reasoning-traces duomenų rinkinį, kad suprastume, kaip agentais pagrįsti modeliai mąsto, naudoja įrankius ir generuoja atsakymus kelių pokalbių metu."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/02/a-coding-implementation-to-parsing-analyzing-visualizing-and-fine-tuning-agent-reasoning-traces-using-the-lambda-hermes-agent-reasoning-traces-dataset/",
-            "try_url": "https://www.marktechpost.com/2026/05/02/a-coding-implementation-to-parsing-analyzing-visualizing-and-fine-tuning-agent-reasoning-traces-using-the-lambda-hermes-agent-reasoning-traces-dataset/"
-          }
-        },
-        {
-          "title": "Naujas NVIDIA tyrimas rodo, kad „NeMo RL“ spekuliacinis dekodavimas pasiekia 1,8 × išleidimo generavimo pagreitį esant 8 B, o projektų – 2,5 karto pagreitį nuo 235 B.",
-          "link": "https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/",
-          "published_iso": "2026-05-02T03:47:47Z",
-          "published_lt": "2026-05-02 03:47 UTC",
-          "summary": "Naujame NVIDIA tyrimų dokumente spekuliacinis dekodavimas integruojamas tiesiai į NeMo RL su vLLM užpakaline programa, užtikrinantis be nuostolių išleidimo pagreitį tiek 8B, tiek prognozuojamoje 235B modelio skalėje.",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-8.46.43-PM-1-150x150.png",
-          "image_url": "generated-images/2026-05-04-10-naujas-nvidia-tyrimas-rodo-kad-nemo-rl-spekuliacinis-dek.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Naujame NVIDIA tyrimų dokumente spekuliacinis dekodavimas integruojamas tiesiai į NeMo RL su vLLM užpakaline programa, užtikrinantis be nuostolių išleidimo pagreitį tiek 8B, tiek prognozuojamoje 235B modelio skalėje.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-            "online_limitai": "Spekuliacinis dekodavimas yra metodas, kai mažesnis, greitesnis juodraščio modelis siūlo kelis žetonus vienu metu, o didesnis tikslinis modelis (tas, kurį iš tikrųjų moko) patikrina juos naudodamas atmetimo atrankos p...",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/",
-            "try_url": "https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/"
-          }
-        },
-        {
-          "title": "Kodavimo įgyvendinimas nuo galo iki galo smegenų dekodavimo iš MEG signalų naudojant NeuralSet ir giluminį mokymąsi, kad būtų galima nuspėti kalbines ypatybes",
-          "link": "https://www.marktechpost.com/2026/05/01/a-coding-implementation-of-end-to-end-brain-decoding-from-meg-signals-using-neuralset-and-deep-learning-for-predicting-linguistic-features/",
-          "published_iso": "2026-05-01T23:09:48Z",
-          "published_lt": "2026-05-01 23:09 UTC",
-          "summary": "Šiame vadove mes tiriame, kaip galime iššifruoti kalbines ypatybes tiesiai iš smegenų signalų, naudojant šiuolaikinį neuroAI vamzdyną. Dirbame su MEG duomenimis ir sukuriame visą sistemą, kuri neapdorotą nervinę veiklą paverčia prasmingomis prognozėmis, šiuo atveju įvertina žodžio ilgį pagal smegenų atsakymus.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-05-04-11-kodavimo-igyvendinimas-nuo-galo-iki-galo-smegenu-dekodav.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Šiame vadove mes tiriame, kaip galime iššifruoti kalbines ypatybes tiesiai iš smegenų signalų, naudojant šiuolaikinį neuroAI vamzdyną.",
-            "Dirbame su MEG duomenimis ir sukuriame visą sistemą, kuri neapdorotą nervinę veiklą paverčia prasmingomis prognozėmis, šiuo atveju įvertina žodžio ilgį pagal smegenų atsakymus.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Aptikta: cuda",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/01/a-coding-implementation-of-end-to-end-brain-decoding-from-meg-signals-using-neuralset-and-deep-learning-for-predicting-linguistic-features/",
-            "try_url": "https://www.marktechpost.com/2026/05/01/a-coding-implementation-of-end-to-end-brain-decoding-from-meg-signals-using-neuralset-and-deep-learning-for-predicting-linguistic-features/"
-          }
-        },
-        {
-          "title": "„Meta“ pristato „Autodata“: agentinę sistemą, kuri AI modelius paverčia autonominiais duomenų mokslininkais aukštos kokybės mokymo duomenims kurti",
-          "link": "https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/",
-          "published_iso": "2026-05-01T22:24:02Z",
-          "published_lt": "2026-05-01 22:24 UTC",
-          "summary": "„Meta“ pristato „Autodata“: „Agentic Framework“, kuri paverčia dirbtinio intelekto modelius autonominiais duomenų mokslininkais aukštos kokybės mokymo duomenims kurti The post Meta pristato „Autodata“: „Agentic Framework“, kuri paverčia AI modelius autonominiais duomenų mokslininkais aukštos kokybės mokymo duomenų kūrimui appeared first on MarkTechPost",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-3.22.52-PM-1-150x150.png",
-          "image_url": "generated-images/2026-05-04-12-meta-pristato-autodata-agentine-sistema-kuri-ai-modelius.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Meta“ pristato „Autodata“: „Agentic Framework“, kuri paverčia dirbtinio intelekto modelius autonominiais duomenų mokslininkais aukštos kokybės mokymo duomenims kurti The post Meta pristato „Autodata“: „Agentic Framework“, kuri paverčia AI modelius autonominiais duomenų mokslininkais aukštos kokybės mokymo duomenų kūrimui appeared first on MarkTechPost.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/",
-            "try_url": "https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/"
           }
         }
       ]
