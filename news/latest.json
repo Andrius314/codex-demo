@@ -1,24 +1,78 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-09-08",
-  "generated_at_utc": "2026-09-08T11:55:02Z",
+  "digest_date": "2026-09-09",
+  "generated_at_utc": "2026-09-09T12:05:02Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "Arm launches Total Design for Physical AI and robotics framework",
-      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
-      "published_iso": "2026-09-08T11:44:10Z",
-      "published_lt": "2026-09-08 11:44 UTC",
-      "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems.",
+      "title": "„CloudNC“ siekia paspartinti AI tiekimo grandinės apdirbimą",
+      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "published_iso": "2026-09-09T10:34:20Z",
+      "published_lt": "2026-09-09 10:34 UTC",
+      "summary": "„CloudNC“ užsitikrino 20 mln. USD naujo kapitalo, kad pritaikytų savo AI tikslaus apdirbimo technologiją pasauliniuose tiekimo grandinės tinkluose.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-08-01-arm-launches-total-design-for-physical-ai-and-robotics-f.svg",
+      "image_url": "generated-images/2026-09-09-01-cloudnc-siekia-paspartinti-ai-tiekimo-grandines-apdirbim.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
+        "„CloudNC“ užsitikrino 20 mln.",
+        "USD naujo kapitalo, kad pritaikytų savo AI tikslaus apdirbimo technologiją pasauliniuose tiekimo grandinės tinkluose.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+        "try_url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/"
+      }
+    },
+    {
+      "title": "„Samsung“ naudoja „Mistral AI“ modelius puslaidininkių gamybai",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "published_iso": "2026-09-09T08:52:19Z",
+      "published_lt": "2026-09-09 08:52 UTC",
+      "summary": "„Samsung“ bendradarbiauja su „Mistral AI“, kad įdiegtų vietinius modelius puslaidininkių gamybos ir inžinerijos operacijose. Apie susitarimą buvo pranešta Paryžiuje vykusiame dvišaliame Pietų Korėjos ir Prancūzijos valstybių viršūnių susitikime.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-09-02-samsung-naudoja-mistral-ai-modelius-puslaidininkiu-gamyb.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Samsung“ bendradarbiauja su „Mistral AI“, kad įdiegtų vietinius modelius puslaidininkių gamybos ir inžinerijos operacijose.",
+        "Apie susitarimą buvo pranešta Paryžiuje vykusiame dvišaliame Pietų Korėjos ir Prancūzijos valstybių viršūnių susitikime.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+        "try_url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/"
+      }
+    },
+    {
+      "title": "„Gradium“ pristato balso dizainą: parašykite raginimą ir per kelias sekundes gaukite visiškai naują sintetinį balsą",
+      "link": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/",
+      "published_iso": "2026-09-09T07:29:13Z",
+      "published_lt": "2026-09-09 07:29 UTC",
+      "summary": "Balso agentų komandos vis atsitrenkia į tą pačią sieną. Kataloge yra 400 balsų, o trumpajame klausiama to, kurio jame nėra: Monrealio atstovybės Kvebeko registratūros darbuotojo, šeštą dešimtį įkopusio pasakotojo, turinčio paskaitų salės autoritetą.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-09-03-gradium-pristato-balso-dizaina-parasykite-raginima-ir-pe.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Balso agentų komandos vis atsitrenkia į tą pačią sieną.",
+        "Kataloge yra 400 balsų, o trumpajame klausiama to, kurio jame nėra: Monrealio atstovybės Kvebeko registratūros darbuotojo, šeštą dešimtį įkopusio pasakotojo, turinčio paskaitų salės autoritetą."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -26,24 +80,156 @@
         "veikimo_budas": "Neaptikta siame saltinyje.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/",
+        "try_url": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/"
+      }
+    },
+    {
+      "title": "„Meta“ pristato „Muse“, asmeninį AI agentą, kuris veikia tam skirtame saugaus debesies kompiuteryje",
+      "link": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
+      "published_iso": "2026-09-09T04:38:13Z",
+      "published_lt": "2026-09-09 04:38 UTC",
+      "summary": "Šiandien Meta pristatė Muse – asmeninį AI agentą, kuris imasi veiksmų, o ne tik atsako į klausimus. „Muse“ gali siųsti el. laiškus, užsisakyti keliones, derėtis dėl sąskaitų ir siekti ilgalaikių tikslų. Jis toliau veikia uždarius programą ir grįžta tik tada, kai reikia patvirtinti.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-09-04-meta-pristato-muse-asmenini-ai-agenta-kuris-veikia-tam-s.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šiandien Meta pristatė Muse – asmeninį AI agentą, kuris imasi veiksmų, o ne tik atsako į klausimus.",
+        "„Muse“ gali siųsti el.",
+        "laiškus, užsisakyti keliones, derėtis dėl sąskaitų ir siekti ilgalaikių tikslų."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
+        "try_url": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/"
+      }
+    },
+    {
+      "title": "NVIDIA paskelbia CUDA Rust su cuda oksidu (SIMT) ir cutile-rs (Tile), skirtus kompiliavimo laikui saugiems GPU branduoliams",
+      "link": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
+      "published_iso": "2026-09-08T19:51:54Z",
+      "published_lt": "2026-09-08 19:51 UTC",
+      "summary": "NVIDIA paskelbė CUDA Rust – pastangas, kad Rust taptų aukščiausios klasės GPU branduolių kalba.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-09-05-nvidia-paskelbia-cuda-rust-su-cuda-oksidu-simt-ir-cutile.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "NVIDIA paskelbė CUDA Rust – pastangas, kad Rust taptų aukščiausios klasės GPU branduolių kalba.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Aptikta: CUDA",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
+        "try_url": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/"
+      }
+    },
+    {
+      "title": "Pristatome GPT-Image-2.5 API",
+      "link": "https://www.youtube.com/watch?v=A7MSwdXj86k",
+      "published_iso": "2026-09-08T19:11:55Z",
+      "published_lt": "2026-09-08 19:11 UTC",
+      "summary": "Susipažinkite su mūsų dviem naujais GPT-Image-2.5 modeliais Sunburst ir Flare. „Sunburst“ suteikia ryškesnių detalių, natūralesnį apšvietimą ir geresnę redagavimo valdymą. „Fare“ suteikia aukštos kokybės vaizdus daugiau nei 50 % greičiau.",
+      "source": "OpenAI",
+      "source_image_url": "https://i2.ytimg.com/vi/A7MSwdXj86k/hqdefault.jpg",
+      "image_url": "generated-images/2026-09-09-06-pristatome-gpt-image-2-5-api.svg",
+      "kind": "video",
+      "video_id": "A7MSwdXj86k",
+      "bullets_lt": [
+        "Susipažinkite su mūsų dviem naujais GPT-Image-2.5 modeliais Sunburst ir Flare.",
+        "„Sunburst“ suteikia ryškesnių detalių, natūralesnį apšvietimą ir geresnę redagavimo valdymą.",
+        "„Fare“ suteikia aukštos kokybės vaizdus daugiau nei 50 % greičiau."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=A7MSwdXj86k",
+        "try_url": "https://www.youtube.com/watch?v=A7MSwdXj86k"
+      }
+    },
+    {
+      "title": "„Google DeepMind“ išleido „AlphaGenome“ atlasą su iš anksto apskaičiuotomis molekulinio efekto prognozėmis ir AVI balais 9 milijardams žmogaus DNR variantų",
+      "link": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/",
+      "published_iso": "2026-09-08T19:00:09Z",
+      "published_lt": "2026-09-08 19:00 UTC",
+      "summary": "„DeepMind“ AlphaGenome atlasas atvaizduoja kiekvieną žmogaus genomo raidės pokytį su 1 poveikio balu kiekvienam variantui. Įrašas Google DeepMind išleido AlphaGenome atlasą su iš anksto apskaičiuotomis molekulinio efekto prognozėmis ir AVI balais 9 milijardams žmogaus DNR variantų appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-09-07-google-deepmind-isleido-alphagenome-atlasa-su-is-anksto-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„DeepMind“ AlphaGenome atlasas atvaizduoja kiekvieną žmogaus genomo raidės pokytį su 1 poveikio balu kiekvienam variantui.",
+        "Įrašas Google DeepMind išleido AlphaGenome atlasą su iš anksto apskaičiuotomis molekulinio efekto prognozėmis ir AVI balais 9 milijardams žmogaus DNR variantų appeared first on MarkTechPost .",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/",
+        "try_url": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/"
+      }
+    },
+    {
+      "title": "Arm pristato Total Design for Physical AI ir robotikos sistemą",
+      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "published_iso": "2026-09-08T11:44:10Z",
+      "published_lt": "2026-09-08 11:44 UTC",
+      "summary": "„Arm“ pristatė „Arm Total Design for Physical AI“ kartu su nauja robotikos sistema, kuria siekiama nustatyti bendrus automatizuotų sistemų standartus.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-09-08-arm-pristato-total-design-for-physical-ai-ir-robotikos-s.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Arm“ pristatė „Arm Total Design for Physical AI“ kartu su nauja robotikos sistema, kuria siekiama nustatyti bendrus automatizuotų sistemų standartus."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
         "try_url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/"
       }
     },
     {
-      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "title": "„Coca-Cola“ naudoja dirbtinį intelektą, kad pagerintų mažmenininkų užsakymus Malaizijoje",
       "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
       "published_iso": "2026-09-08T10:00:00Z",
       "published_lt": "2026-09-08 10:00 UTC",
-      "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform.",
+      "summary": "„Coca-Cola“ naudoja dirbtinį intelektą, kad rekomenduotų, kuriuos produktus Malaizijos mažmenininkai turėtų užsisakyti ir kokius kiekius per savo „Coke Buddy“ platformą.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-08-02-coca-cola-uses-ai-to-improve-retailer-ordering-in-malays.svg",
+      "image_url": "generated-images/2026-09-09-09-coca-cola-naudoja-dirbtini-intelekta-kad-pagerintu-mazme.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform."
+        "„Coca-Cola“ naudoja dirbtinį intelektą, kad rekomenduotų, kuriuos produktus Malaizijos mažmenininkai turėtų užsisakyti ir kokius kiekius per savo „Coke Buddy“ platformą."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -57,25 +243,24 @@
       }
     },
     {
-      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "title": "AI orų prognozės patenka į energijos rinką, kai „Google“ taikosi į tinklo operatorius su „WeatherNext 3“.",
       "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
       "published_iso": "2026-09-08T09:00:00Z",
       "published_lt": "2026-09-08 09:00 UTC",
-      "summary": "Google’s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour.",
+      "summary": "Naujausias „Google“ dirbtinio intelekto orų prognozavimo modelis prognozuoja vėjo greitį 100 metrų virš žemės, maždaug šiuolaikinės vėjo turbinos aukščio. Jis taip pat prognozuoja debesuotumą ir tai, kiek saulės spindulių pasiekia paviršių, ir atnaujinama kas valandą.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-08-03-ai-weather-forecasting-enters-the-energy-market-as-googl.svg",
+      "image_url": "generated-images/2026-09-09-10-ai-oru-prognozes-patenka-i-energijos-rinka-kai-google-ta.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Google’s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine.",
-        "It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+        "Naujausias „Google“ dirbtinio intelekto orų prognozavimo modelis prognozuoja vėjo greitį 100 metrų virš žemės, maždaug šiuolaikinės vėjo turbinos aukščio.",
+        "Jis taip pat prognozuoja debesuotumą ir tai, kiek saulės spindulių pasiekia paviršių, ir atnaujinama kas valandą."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
@@ -84,19 +269,19 @@
       }
     },
     {
-      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "title": "„YouTube“ pateikiama 53 % „Google“ dirbtinio intelekto apžvalgų, skirtų vitaminų ir papildų paieškoms",
       "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
       "published_iso": "2026-09-08T08:50:39Z",
       "published_lt": "2026-09-08 08:50 UTC",
-      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected.",
+      "summary": "Remiantis nauju tyrimu, „YouTube“ buvo dažniausiai cituojama „Google AI apžvalgų“ svetainė vitaminų ir papildų paieškų skydelyje. Vaizdo įrašų platforma buvo pateikta 186 iš 350 dirbtinio intelekto sugeneruotų atsakymų, arba 53,1%, todėl tai yra vienintelė svetainė, nurodyta daugiau nei pusėje surinktų atsakymų.",
       "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-08-04-youtube-appears-in-53-of-google-ai-overviews-for-vitamin.svg",
+      "image_url": "generated-images/2026-09-09-11-youtube-pateikiama-53-google-dirbtinio-intelekto-apzvalg.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research.",
-        "The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected.",
+        "Remiantis nauju tyrimu, „YouTube“ buvo dažniausiai cituojama „Google AI apžvalgų“ svetainė vitaminų ir papildų paieškų skydelyje.",
+        "Vaizdo įrašų platforma buvo pateikta 186 iš 350 dirbtinio intelekto sugeneruotų atsakymų, arba 53,1%, todėl tai yra vienintelė svetainė, nurodyta daugiau nei pusėje surinktų atsakymų.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
@@ -111,215 +296,29 @@
       }
     },
     {
-      "title": "GPT-6 Astra Changes Everything",
+      "title": "GPT-6 Astra keičia viską",
       "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
       "published_iso": "2026-09-08T08:24:27Z",
       "published_lt": "2026-09-08 08:24 UTC",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/status/2095661874037813298?s=20 https://x.co",
+      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers Nuorodos / šaltiniai: Honey sim: ieškokite \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" čia: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/status/2095661874037813298?s=20 https://x.co",
       "source": "Two Minute Papers",
       "source_image_url": "https://i2.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-08-05-gpt-6-astra-changes-everything.svg",
+      "image_url": "generated-images/2026-09-09-12-gpt-6-astra-keicia-viska.svg",
       "kind": "video",
       "video_id": "eVBJIUxv8N8",
       "bullets_lt": [
-        "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/status/2095661874037813298?s=20 https://x.co.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers Nuorodos / šaltiniai: Honey sim: ieškokite \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" čia: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/status/2095661874037813298?s=20 https://x.co.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=eVBJIUxv8N8",
         "try_url": "https://www.youtube.com/watch?v=eVBJIUxv8N8"
-      }
-    },
-    {
-      "title": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page",
-      "link": "https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page/",
-      "published_iso": "2026-09-08T03:07:15Z",
-      "published_lt": "2026-09-08 03:07 UTC",
-      "summary": "We look at r-1, the document parsing model Reducto released on September 1, 2026. We walk through how it folds OCR, layout detection, tables, formatting and grounding into one full page pass, replacing the multi stage agentic pipeline it ships alongside.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-08-06-reducto-releases-r-1-a-single-pass-document-parsing-mode.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "We look at r-1, the document parsing model Reducto released on September 1, 2026.",
-        "We walk through how it folds OCR, layout detection, tables, formatting and grounding into one full page pass, replacing the multi stage agentic pipeline it ships alongside.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page/",
-        "try_url": "https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page/"
-      }
-    },
-    {
-      "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
-      "link": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/",
-      "published_iso": "2026-09-07T19:18:07Z",
-      "published_lt": "2026-09-07 19:18 UTC",
-      "summary": "OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its model card, ahead of Qwen3.5-4B at 51.1, with its clearest leads in tool use, coding agents and long-context retrieval.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-08-07-openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averagi.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context.",
-        "It averages 53.9 across the 34 benchmarks in its model card, ahead of Qwen3.5-4B at 51.1, with its clearest leads in tool use, coding agents and long-context retrieval.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/",
-        "try_url": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/"
-      }
-    },
-    {
-      "title": "Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories",
-      "link": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/",
-      "published_iso": "2026-09-07T18:38:47Z",
-      "published_lt": "2026-09-07 18:38 UTC",
-      "summary": "Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware. AXIS moves demonstration collection into a web browser and pushes everything expensive to backend GPUs.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-08-08-axis-robotics-releases-axis-a-browser-based-data-engine-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware.",
-        "AXIS moves demonstration collection into a web browser and pushes everything expensive to backend GPUs.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/",
-        "try_url": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/"
-      }
-    },
-    {
-      "title": "GPT-6 Astra with Tom Krcha",
-      "link": "https://www.youtube.com/watch?v=QDLlQ5IL2Bk",
-      "published_iso": "2026-09-07T17:15:32Z",
-      "published_lt": "2026-09-07 17:15 UTC",
-      "summary": "Tom Krcha shares his first impressions of GPT-6 Astra through a customizable logo tool, website designs with coordinated visual details, and adjustable photo shaders.",
-      "source": "OpenAI",
-      "source_image_url": "https://i2.ytimg.com/vi/QDLlQ5IL2Bk/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-08-09-gpt-6-astra-with-tom-krcha.svg",
-      "kind": "video",
-      "video_id": "QDLlQ5IL2Bk",
-      "bullets_lt": [
-        "Tom Krcha shares his first impressions of GPT-6 Astra through a customizable logo tool, website designs with coordinated visual details, and adjustable photo shaders.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=QDLlQ5IL2Bk",
-        "try_url": "https://www.youtube.com/watch?v=QDLlQ5IL2Bk"
-      }
-    },
-    {
-      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
-      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
-      "published_iso": "2026-09-07T13:01:23Z",
-      "published_lt": "2026-09-07 13:01 UTC",
-      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns.",
-      "source": "AI News",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-08-10-mg-ship-adds-ai-route-optimisation-as-logistics-returns-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
-        "try_url": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/"
-      }
-    },
-    {
-      "title": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
-      "link": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/",
-      "published_iso": "2026-09-07T05:00:37Z",
-      "published_lt": "2026-09-07 05:00 UTC",
-      "summary": "Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-08-11-ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Most open model launches release one checkpoint and a benchmark table.",
-        "The Institute of Foundation Models (IFM) released something wider last week.",
-        "IFM is the frontier lab launched by MBZUAI in May 2025.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/",
-        "try_url": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/"
-      }
-    },
-    {
-      "title": "GPT 6 Astra is a freak",
-      "link": "https://www.youtube.com/watch?v=Ji4amrxrzVM",
-      "published_iso": "2026-09-07T03:30:48Z",
-      "published_lt": "2026-09-07 03:30 UTC",
-      "summary": "GPT 6 Astra review #ai #ainews #aitools #agi #singularity #llm #openai Thanks to our sponsor Luma.",
-      "source": "AI Search",
-      "source_image_url": "https://i3.ytimg.com/vi/Ji4amrxrzVM/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-08-12-gpt-6-astra-is-a-freak.svg",
-      "kind": "video",
-      "video_id": "Ji4amrxrzVM",
-      "bullets_lt": [
-        "GPT 6 Astra review #ai #ainews #aitools #agi #singularity #llm #openai Thanks to our sponsor Luma."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=Ji4amrxrzVM",
-        "try_url": "https://www.youtube.com/watch?v=Ji4amrxrzVM"
       }
     }
   ]
