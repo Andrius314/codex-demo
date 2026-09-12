@@ -1,24 +1,23 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-09-11",
-  "generated_at_utc": "2026-09-11T11:58:27Z",
+  "digest_date": "2026-09-12",
+  "generated_at_utc": "2026-09-12T11:24:45Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "„Cohere“ išleido „North Small“ vertimą: 218B MoE vertimo modelis, kurio WMT26 balas yra 83,6 50 kalbų",
-      "link": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
-      "published_iso": "2026-09-11T06:57:22Z",
-      "published_lt": "2026-09-11 06:57 UTC",
-      "summary": "„Cohere“ išleido „North Small Translate“ – atvirą „Mixture of-Experts“ modelį, sukurtą mašininiam vertimui į 50 kalbų. Jis naudoja 25 B iš 218 B parametrų vienam prieigos raktui, o įvertindamas „Cohere“ WMT26, jis gauna 83,6 balo.",
+      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+      "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+      "published_iso": "2026-09-11T22:01:08Z",
+      "published_lt": "2026-09-11 22:01 UTC",
+      "summary": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-11-01-cohere-isleido-north-small-vertima-218b-moe-vertimo-mode.svg",
+      "image_url": "generated-images/2026-09-12-01-can-llms-engineer-their-own-agent-harness-bytedance-seed.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Cohere“ išleido „North Small Translate“ – atvirą „Mixture of-Experts“ modelį, sukurtą mašininiam vertimui į 50 kalbų.",
-        "Jis naudoja 25 B iš 218 B parametrų vienam prieigos raktui, o įvertindamas „Cohere“ WMT26, jis gauna 83,6 balo."
+        "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -27,25 +26,24 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
-        "try_url": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+        "try_url": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/"
       }
     },
     {
-      "title": "„Sakana AI“ pristato „Fugu Max“ ir „Fugu Ultra v2“, kad būtų sukurtas pigesnis, stipresnis kelių agentų orkestravimas",
-      "link": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
-      "published_iso": "2026-09-11T06:34:39Z",
-      "published_lt": "2026-09-11 06:34 UTC",
-      "summary": "„Sakana AI“ išleido „Fugu Max“ ir „Fugu Ultra v2“ – 2 modelius, sukurtus pagal tą pačią išmoktą orkestravimo architektūrą. Fugu Max nukreipia užduotis į atvirus ir specializuotus modelius, įskaitant NVIDIA Nemotron, už 2 USD/6 USD už 1 mln. „Fugu Ultra v2“ siekia didžiausio pajėgumo – 48,3 balo „Chartography“ ir 74,3 „DeepSWE“.",
+      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+      "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+      "published_iso": "2026-09-11T21:05:55Z",
+      "published_lt": "2026-09-11 21:05 UTC",
+      "summary": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-11-02-sakana-ai-pristato-fugu-max-ir-fugu-ultra-v2-kad-butu-su.svg",
+      "image_url": "generated-images/2026-09-12-02-anthropic-adds-plugin-evals-to-claude-code-6-grader-type.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Sakana AI“ išleido „Fugu Max“ ir „Fugu Ultra v2“ – 2 modelius, sukurtus pagal tą pačią išmoktą orkestravimo architektūrą.",
-        "Fugu Max nukreipia užduotis į atvirus ir specializuotus modelius, įskaitant NVIDIA Nemotron, už 2 USD/6 USD už 1 mln.",
-        "„Fugu Ultra v2“ siekia didžiausio pajėgumo – 48,3 balo „Chartography“ ir 74,3 „DeepSWE“."
+        "Anthropic has published a new plugin evals workflow for Claude Code.",
+        "The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -54,47 +52,21 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
-        "try_url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+        "try_url": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/"
       }
     },
     {
-      "title": "„Google Research“ išleido „ToolGrad“: „Answer-First Framework“ atitinka 99,8 % įrankio naudojimo duomenų generavimo rezultatų",
-      "link": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
-      "published_iso": "2026-09-11T06:01:25Z",
-      "published_lt": "2026-09-11 06:01 UTC",
-      "summary": "„Google Research“ išleido „ToolGrad“, „ACL 2026 Findings“ sistemą, kuri apverčia įrankių naudojimo duomenų rinkinio generavimą: pirmiausia sukuria patvirtintą API grandinę, tada parašo atitinkamą vartotojo užklausą.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-11-03-google-research-isleido-toolgrad-answer-first-framework-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google Research“ išleido „ToolGrad“, „ACL 2026 Findings“ sistemą, kuri apverčia įrankių naudojimo duomenų rinkinio generavimą: pirmiausia sukuria patvirtintą API grandinę, tada parašo atitinkamą vartotojo užklausą.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
-        "try_url": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/"
-      }
-    },
-    {
-      "title": "GPT-6 Astra pastatė šrifto žaidimų aikštelę",
-      "link": "https://www.youtube.com/shorts/0NUm552iB3U",
-      "published_iso": "2026-09-11T04:08:16Z",
-      "published_lt": "2026-09-11 04:08 UTC",
+      "title": "GPT-6 Astra added unexpected details",
+      "link": "https://www.youtube.com/shorts/ZlvkQYZo3ZE",
+      "published_iso": "2026-09-11T21:00:04Z",
+      "published_lt": "2026-09-11 21:00 UTC",
       "summary": "Santrauka nepateikta saltinyje.",
       "source": "OpenAI",
-      "source_image_url": "https://i1.ytimg.com/vi/0NUm552iB3U/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-11-04-gpt-6-astra-pastate-srifto-zaidimu-aikstele.svg",
+      "source_image_url": "https://i3.ytimg.com/vi/ZlvkQYZo3ZE/hqdefault.jpg",
+      "image_url": "generated-images/2026-09-12-03-gpt-6-astra-added-unexpected-details.svg",
       "kind": "video",
-      "video_id": "0NUm552iB3U",
+      "video_id": "ZlvkQYZo3ZE",
       "bullets_lt": [
         "Santrauka nepateikta saltinyje."
       ],
@@ -105,24 +77,133 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/0NUm552iB3U",
-        "try_url": "https://www.youtube.com/shorts/0NUm552iB3U"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/ZlvkQYZo3ZE",
+        "try_url": "https://www.youtube.com/shorts/ZlvkQYZo3ZE"
       }
     },
     {
-      "title": "Susipažinkite su Redis LangCache: valdoma semantinė talpykla, kuri sumažina LLM API sąnaudas iki 90% ir grąžina talpyklos rezultatus iki 15 kartų greičiau",
-      "link": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
-      "published_iso": "2026-09-10T22:34:48Z",
-      "published_lt": "2026-09-10 22:34 UTC",
-      "summary": "Gamybos LLM programos retai sulaukia klausimų, kurių niekas anksčiau neuždavė. Pagalbiniai pagalbininkai ir RAG dujotiekiai tūkstančius kartų per dieną pateikia tuos pačius ketinimus, kiekvienas suformuluotas skirtingai, o daugumoje rinkinių kiekviena frazė laikoma nauja, visiškai apmokėta užklausa.",
-      "source": "MarkTechPost",
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "published_iso": "2026-09-11T12:00:18Z",
+      "published_lt": "2026-09-11 12:00 UTC",
+      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token.",
+      "source": "AI News",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-11-05-susipazinkite-su-redis-langcache-valdoma-semantine-talpy.svg",
+      "image_url": "generated-images/2026-09-12-04-palantir-foundry-and-cuopt-drive-nvidia-supply-chain-all.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Gamybos LLM programos retai sulaukia klausimų, kurių niekas anksčiau neuždavė.",
-        "Pagalbiniai pagalbininkai ir RAG dujotiekiai tūkstančius kartų per dieną pateikia tuos pačius ketinimus, kiekvienas suformuluotas skirtingai, o daugumoje rinkinių kiekviena frazė laikoma nauja, visiškai apmokėta užklausa."
+        "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites.",
+        "The company measures operational delivery from wafer-out to first token."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+        "try_url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/"
+      }
+    },
+    {
+      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
+      "link": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
+      "published_iso": "2026-09-11T06:57:22Z",
+      "published_lt": "2026-09-11 06:57 UTC",
+      "summary": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-12-05-cohere-releases-north-small-translate-a-218b-moe-transla.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages.",
+        "It uses 25B of its 218B parameters per token and scores 83.6 on Cohere's WMT26 evaluation.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
+        "try_url": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/"
+      }
+    },
+    {
+      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
+      "link": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
+      "published_iso": "2026-09-11T06:34:39Z",
+      "published_lt": "2026-09-11 06:34 UTC",
+      "summary": "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-12-06-sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheape.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture.",
+        "Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens.",
+        "Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "$2/, $6 per",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
+        "try_url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/"
+      }
+    },
+    {
+      "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
+      "link": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
+      "published_iso": "2026-09-11T06:01:25Z",
+      "published_lt": "2026-09-11 06:01 UTC",
+      "summary": "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-12-07-google-research-releases-toolgrad-answer-first-framework.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
+        "try_url": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/"
+      }
+    },
+    {
+      "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
+      "link": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
+      "published_iso": "2026-09-10T22:34:48Z",
+      "published_lt": "2026-09-10 22:34 UTC",
+      "summary": "Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-12-08-meet-redis-langcache-a-managed-semantic-cache-that-cuts-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Production LLM applications rarely receive a question nobody has asked before.",
+        "Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -136,18 +217,18 @@
       }
     },
     {
-      "title": "NVIDIA išsami informacija BioNeMo išvados vykdymo laikas (BioIR): 2,90 karto didesnis Boltz-2 sulankstomas pralaidumas ir 58,5 tūkst. likučių per GPU valandą 8xH100",
+      "title": "NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100",
       "link": "https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/",
       "published_iso": "2026-09-10T21:57:06Z",
       "published_lt": "2026-09-10 21:57 UTC",
-      "summary": "NVIDIA pateikė išsamią „BioNeMo Inference Runtime“ (BioIR), „Python“ biblioteką, kuri pagreitina biomolekulinės struktūros numatymo modelius NVIDIA GPU, o lieka paprastame „PyTorch“.",
+      "summary": "NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-11-06-nvidia-issami-informacija-bionemo-isvados-vykdymo-laikas.svg",
+      "image_url": "generated-images/2026-09-12-09-nvidia-details-bionemo-inference-runtime-bioir-2-90x-hig.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "NVIDIA pateikė išsamią „BioNeMo Inference Runtime“ (BioIR), „Python“ biblioteką, kuri pagreitina biomolekulinės struktūros numatymo modelius NVIDIA GPU, o lieka paprastame „PyTorch“.",
+        "NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch.",
         "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
       ],
       "practical": {
@@ -162,20 +243,20 @@
       }
     },
     {
-      "title": "„OpenAI“ paleidžia „Agents“ API viešoje beta versijoje, suteikdama Codex Harness už vieno API skambučio",
+      "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
       "link": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
       "published_iso": "2026-09-10T21:21:58Z",
       "published_lt": "2026-09-10 21:21 UTC",
-      "summary": "OpenAI išleido Agents API viešą beta versiją. Tai suteikia kūrėjams tuos pačius laidus ir infrastruktūrą, kaip ir „Codex“. OpenAI talpina ir prižiūri diržus.",
+      "summary": "OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-11-07-openai-paleidzia-agents-api-viesoje-beta-versijoje-sutei.svg",
+      "image_url": "generated-images/2026-09-12-10-openai-launches-the-agents-api-in-public-beta-putting-th.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "OpenAI išleido Agents API viešą beta versiją.",
-        "Tai suteikia kūrėjams tuos pačius laidus ir infrastruktūrą, kaip ir „Codex“.",
-        "OpenAI talpina ir prižiūri diržus.",
+        "OpenAI has released the Agents API in public beta.",
+        "It gives developers the same harness and infrastructure that run Codex.",
+        "OpenAI hosts and maintains the harness.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
         "Prieinamumas: Prieinama kaip beta/preview."
       ],
@@ -191,134 +272,57 @@
       }
     },
     {
-      "title": "3 būdai, kaip pasiruošti kitoms didelėms lenktynėms naudojant paiešką",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "published_iso": "2026-09-10T16:00:00Z",
-      "published_lt": "2026-09-10 16:00 UTC",
-      "summary": "Paieška gali padėti bėgikams pasiruošti lenktynių dienai su registracijos įspėjimais, pritaikytais treniruočių planais ir kt.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-11-08-3-budai-kaip-pasiruosti-kitoms-didelems-lenktynems-naudo.svg",
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "published_iso": "2026-09-10T16:34:43Z",
+      "published_lt": "2026-09-10 16:34 UTC",
+      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-12-11-supply-chains-detect-fast-act-slow-how-ai-agents-fix-it.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Paieška gali padėti bėgikams pasiruošti lenktynių dienai su registracijos įspėjimais, pritaikytais treniruočių planais ir kt.",
+        "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S.",
+        "Held Global Risk Report, and most of that bill still buys faster detection, not faster action.",
+        "That figure is usually treated as weather (i.e.",
         "Kaina: Labiau panasu i mokama sprendima."
       ],
       "practical": {
         "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
+        "kainos_detales": "$184",
         "veikimo_budas": "Neaptikta siame saltinyje.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+        "try_url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/"
       }
     },
     {
-      "title": "Niekada nemaniau, kad tai įvyks",
+      "title": "I Never Thought I’d See This Happen",
       "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
       "published_iso": "2026-09-10T08:47:23Z",
       "published_lt": "2026-09-10 08:47 UTC",
-      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Navier-Stokes sprendimo dokumentą rasite čia: https://openai.com/index/navier-stokes-solution/ Mano skysčių modeliai ir dokumentai: https://users.cg.tuwien.ac.at/zsolcnnai/theisfxms/g https://users.cg.tuwien.ac.at/zso",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Navier-Stokes solution paper is available here: https://openai.com/index/navier-stokes-solution/ My fluid simulations and papers: https://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/ https://users.cg.tuwien.ac.at/zso",
       "source": "Two Minute Papers",
       "source_image_url": "https://i2.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-11-09-niekada-nemaniau-kad-tai-ivyks.svg",
+      "image_url": "generated-images/2026-09-12-12-i-never-thought-i-d-see-this-happen.svg",
       "kind": "video",
       "video_id": "mOvtumfyjCs",
       "bullets_lt": [
-        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Navier-Stokes sprendimo dokumentą rasite čia: https://openai.com/index/navier-stokes-solution/ Mano skysčių modeliai ir dokumentai: https://users.cg.tuwien.ac.at/zsolcnnai/theisfxms/g https://users.cg.tuwien.ac.at/zso.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+        "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Navier-Stokes solution paper is available here: https://openai.com/index/navier-stokes-solution/ My fluid simulations and papers: https://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/ https://users.cg.tuwien.ac.at/zso.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=mOvtumfyjCs",
         "try_url": "https://www.youtube.com/watch?v=mOvtumfyjCs"
-      }
-    },
-    {
-      "title": "DeepSeek AI išleido DeepSeek-V4.1-Flash su 1M kontekstu, FP4 KV talpykla ir kelių sluoksnių dėmesio pakartotiniu naudojimu",
-      "link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
-      "published_iso": "2026-09-10T07:31:01Z",
-      "published_lt": "2026-09-10 07:31 UTC",
-      "summary": "Ilgo horizonto agentai LLM aptarnavimą pavertė dideliu darbo krūviu. Pasikartojantys išankstiniai užpildymai ir milijonų atpažinimo ženklų kontekstai palieka KV talpyklas, kurios apkrauna HBM, SSD talpą ir pralaidumą. „DeepSeek AI“ sukūrė savo naujausią leidimą būtent dėl ​​šios kliūties.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-11-10-deepseek-ai-isleido-deepseek-v4-1-flash-su-1m-kontekstu-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Ilgo horizonto agentai LLM aptarnavimą pavertė dideliu darbo krūviu.",
-        "Pasikartojantys išankstiniai užpildymai ir milijonų atpažinimo ženklų kontekstai palieka KV talpyklas, kurios apkrauna HBM, SSD talpą ir pralaidumą.",
-        "„DeepSeek AI“ sukūrė savo naujausią leidimą būtent dėl ​​šios kliūties."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
-        "try_url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/"
-      }
-    },
-    {
-      "title": "Naujas BEST AI vaizdo generatorius yra čia",
-      "link": "https://www.youtube.com/watch?v=q9tpIc8PVKM",
-      "published_iso": "2026-09-10T03:29:16Z",
-      "published_lt": "2026-09-10 03:29 UTC",
-      "summary": "ChatGPT Images 2.5 vs 2 vs Nano Banana 2 #ai #aitools #aiart #imagegenerator #aiphoto #agi #singularity Ačiū mūsų rėmėjui Higgsfieldui.",
-      "source": "AI Search",
-      "source_image_url": "https://i2.ytimg.com/vi/q9tpIc8PVKM/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-11-11-naujas-best-ai-vaizdo-generatorius-yra-cia.svg",
-      "kind": "video",
-      "video_id": "q9tpIc8PVKM",
-      "bullets_lt": [
-        "ChatGPT Images 2.5 vs 2 vs Nano Banana 2 #ai #aitools #aiart #imagegenerator #aiphoto #agi #singularity Ačiū mūsų rėmėjui Higgsfieldui."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=q9tpIc8PVKM",
-        "try_url": "https://www.youtube.com/watch?v=q9tpIc8PVKM"
-      }
-    },
-    {
-      "title": "„LandingAI“ išleido „Agentic Document Extraction Gen2“ su „DPT-3 Pro“ ir „DPT-3 Verity“",
-      "link": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
-      "published_iso": "2026-09-10T02:13:12Z",
-      "published_lt": "2026-09-10 02:13 UTC",
-      "summary": "„LandingAI“ išsiuntė „Agentic Document Extraction Gen2“ – savo dokumentų krūvos atkūrimą pagal DPT-3 modelių šeimą. Dalys išimamos iš dokumento, puslapio ir bloko medžio.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-11-12-landingai-isleido-agentic-document-extraction-gen2-su-dp.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„LandingAI“ išsiuntė „Agentic Document Extraction Gen2“ – savo dokumentų krūvos atkūrimą pagal DPT-3 modelių šeimą.",
-        "Dalys išimamos iš dokumento, puslapio ir bloko medžio.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
-        "try_url": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/"
       }
     }
   ]
