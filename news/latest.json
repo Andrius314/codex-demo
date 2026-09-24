@@ -1,23 +1,24 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-09-23",
-  "generated_at_utc": "2026-09-23T12:28:42Z",
+  "digest_date": "2026-09-24",
+  "generated_at_utc": "2026-09-24T12:28:01Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "Taip, Jev yra beprotiškas, bet yra laimikis",
-      "link": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "published_iso": "2026-09-22T09:32:13Z",
-      "published_lt": "2026-09-22 09:32 UTC",
-      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Visa daina: https://www.youtube.com/watch?v=4RtUJkjrKMI Ankstesni modeliai:, diegimas https://huggingface.co/convaiinnovations/laya https://arxiv.org/abs/25",
+      "title": "Claude Opus 5.5 AI: neįtikėtinas šuolis į priekį",
+      "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "published_iso": "2026-09-24T08:40:55Z",
+      "published_lt": "2026-09-24 08:40 UTC",
+      "summary": "❤️ Peržiūrėkite „Lambda“ čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 Vaikštančių būtybių vaizdo įrašas ir popierius: https://www.youtube.com/watch?v=kQ2bqz3HPJEpa/per.1/sgo/search/per. Medaus vyniojimo vaizdo įrašas ir popierius: https://www.youtu",
       "source": "Two Minute Papers",
-      "source_image_url": "https://i2.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-23-01-taip-jev-yra-beprotiskas-bet-yra-laimikis.svg",
+      "source_image_url": "https://i4.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
+      "image_url": "generated-images/2026-09-24-01-claude-opus-5-5-ai-neitiketinas-suolis-i-prieki.svg",
       "kind": "video",
-      "video_id": "qBBRRsH0rQc",
+      "video_id": "SA9kdAX2Zj0",
       "bullets_lt": [
-        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Visa daina: https://www.youtube.com/watch?v=4RtUJkjrKMI Ankstesni modeliai:, diegimas https://huggingface.co/convaiinnovations/laya https://arxiv.org/abs/25.",
+        "❤️ Peržiūrėkite „Lambda“ čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 Vaikštančių būtybių vaizdo įrašas ir popierius: https://www.youtube.com/watch?v=kQ2bqz3HPJEpa/per.1/sgo/search/per.",
+        "Medaus vyniojimo vaizdo įrašas ir popierius: https://www.youtu.",
         "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
       ],
       "practical": {
@@ -27,52 +28,50 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=qBBRRsH0rQc",
-        "try_url": "https://www.youtube.com/watch?v=qBBRRsH0rQc"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+        "try_url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0"
       }
     },
     {
-      "title": "Pagaliau! Čia yra naujas geriausias vietinis AI vaizdo redaktorius",
-      "link": "https://www.youtube.com/watch?v=BaE6UBfNdQk",
-      "published_iso": "2026-09-22T03:26:02Z",
-      "published_lt": "2026-09-22 03:26 UTC",
-      "summary": "Qwen Image 2.1 apžvalga ir pamoka. Kaip paleisti Qwen Image 2.1 ComfyUI. Geriausias nemokamas atvirojo kodo AI vaizdų generatorius.",
+      "title": "Contrastive-LM išleido CLM-8B: atviros sistemos modelį, kuris agento veiksmus atlieka iki 9 kartų greičiau nei Jev",
+      "link": "https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/",
+      "published_iso": "2026-09-24T05:27:41Z",
+      "published_lt": "2026-09-24 05:27 UTC",
+      "summary": "Contrastive-LM išleido CLM-8B – atvirą „System One“ modelį, kuris įvertina kandidato veiksmus prieš būseną, o ne generuoja tekstą. Prie užšaldyto Qwen3-8B koduotuvo pridedamos 2 mažos projekcijos galvutės ir treniruojamos kontrastingo InfoNCE objektyvo pagalba. Atliekant nulinius bandymus, jis veikia iki 9 kartų greičiau nei TypeSafe Jev.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-24-02-contrastive-lm-isleido-clm-8b-atviros-sistemos-modeli-ku.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Contrastive-LM išleido CLM-8B – atvirą „System One“ modelį, kuris įvertina kandidato veiksmus prieš būseną, o ne generuoja tekstą.",
+        "Prie užšaldyto Qwen3-8B koduotuvo pridedamos 2 mažos projekcijos galvutės ir treniruojamos kontrastingo InfoNCE objektyvo pagalba.",
+        "Atliekant nulinius bandymus, jis veikia iki 9 kartų greičiau nei TypeSafe Jev."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/",
+        "try_url": "https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/"
+      }
+    },
+    {
+      "title": "Claude Opus 5.5 yra juokinga",
+      "link": "https://www.youtube.com/watch?v=gX0L0aFA2xg",
+      "published_iso": "2026-09-24T03:25:26Z",
+      "published_lt": "2026-09-24 03:25 UTC",
+      "summary": "#ai #ainews #llm #agi #singularity Ačiū mūsų rėmėjui Higgsfieldui.",
       "source": "AI Search",
-      "source_image_url": "https://i3.ytimg.com/vi/BaE6UBfNdQk/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-23-02-pagaliau-cia-yra-naujas-geriausias-vietinis-ai-vaizdo-re.svg",
+      "source_image_url": "https://i4.ytimg.com/vi/gX0L0aFA2xg/hqdefault.jpg",
+      "image_url": "generated-images/2026-09-24-03-claude-opus-5-5-yra-juokinga.svg",
       "kind": "video",
-      "video_id": "BaE6UBfNdQk",
+      "video_id": "gX0L0aFA2xg",
       "bullets_lt": [
-        "Qwen Image 2.1 apžvalga ir pamoka.",
-        "Kaip paleisti Qwen Image 2.1 ComfyUI.",
-        "Geriausias nemokamas atvirojo kodo AI vaizdų generatorius.",
-        "Kaina: Yra nemokamas ir mokamas variantas."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=BaE6UBfNdQk",
-        "try_url": "https://www.youtube.com/watch?v=BaE6UBfNdQk"
-      }
-    },
-    {
-      "title": "Figma suteikė GPT-6 Astra Moonshot. Štai kas atsitiko.",
-      "link": "https://www.youtube.com/watch?v=rRm3Vnb7UPY",
-      "published_iso": "2026-09-21T19:25:46Z",
-      "published_lt": "2026-09-21 19:25 UTC",
-      "summary": "Johnas pademonstravo GPT-6 Astra: sukurkite skrydžio valdymo patirtį naujam asmeniniam orlaiviui. Atotrūkis tarp sąsajos sukūrimo ir sistemos projektavimo yra didžiulis, o dirbtinio intelekto modeliai visada buvo nepakankami.",
-      "source": "OpenAI",
-      "source_image_url": "https://i3.ytimg.com/vi/rRm3Vnb7UPY/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-23-03-figma-suteike-gpt-6-astra-moonshot-stai-kas-atsitiko.svg",
-      "kind": "video",
-      "video_id": "rRm3Vnb7UPY",
-      "bullets_lt": [
-        "Johnas pademonstravo GPT-6 Astra: sukurkite skrydžio valdymo patirtį naujam asmeniniam orlaiviui.",
-        "Atotrūkis tarp sąsajos sukūrimo ir sistemos projektavimo yra didžiulis, o dirbtinio intelekto modeliai visada buvo nepakankami."
+        "#ai #ainews #llm #agi #singularity Ačiū mūsų rėmėjui Higgsfieldui."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -81,23 +80,23 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=rRm3Vnb7UPY",
-        "try_url": "https://www.youtube.com/watch?v=rRm3Vnb7UPY"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=gX0L0aFA2xg",
+        "try_url": "https://www.youtube.com/watch?v=gX0L0aFA2xg"
       }
     },
     {
-      "title": "Nauji ekspertai prisijungia prie „Google“ AI ir ekonomikos komandos",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "published_iso": "2026-09-18T14:00:00Z",
-      "published_lt": "2026-09-18 14:00 UTC",
-      "summary": "Plečiame savo AI ir ekonomikos komandą pasaulinio lygio akademiniais patarėjais, kolegomis ir pagrindiniais vidaus tyrinėtojais.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-23-04-nauji-ekspertai-prisijungia-prie-google-ai-ir-ekonomikos.svg",
+      "title": "„TypeSafe AI Jev“ kodavimo vadovas: įvesti sprendimai, sukalibruotas pasitikėjimas ir spekuliatyvus išpūtimas naudojant „System One“ modelį",
+      "link": "https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/",
+      "published_iso": "2026-09-24T00:53:09Z",
+      "published_lt": "2026-09-24 00:53 UTC",
+      "summary": "Šiame vadove pateikiamas išsamus „TypeSafe AI Jev“ – „System One“ modelio, skirto netekstiniams, struktūriniams sprendimams, kodavimo vadovas.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-24-04-typesafe-ai-jev-kodavimo-vadovas-ivesti-sprendimai-sukal.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Plečiame savo AI ir ekonomikos komandą pasaulinio lygio akademiniais patarėjais, kolegomis ir pagrindiniais vidaus tyrinėtojais."
+        "Šiame vadove pateikiamas išsamus „TypeSafe AI Jev“ – „System One“ modelio, skirto netekstiniams, struktūriniams sprendimams, kodavimo vadovas."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -106,177 +105,25 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/",
+        "try_url": "https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/"
       }
     },
     {
-      "title": "Kuriame mados ateitį kartu su „Google“.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "published_iso": "2026-09-18T13:00:00Z",
-      "published_lt": "2026-09-18 13:00 UTC",
-      "summary": "„Google“ kartu su dizaineriais Jane Wade ir Sergio Hudsonu sukūrė „Google Flow“ įrankius, kad pasiruoštų NYFW.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-23-05-kuriame-mados-ateiti-kartu-su-google.svg",
+      "title": "„Google“ išleido „Gemini 3.8 Flash TTS“ ir „Flash-Lite TTS“ su raginimu pagrįstu balso dizainu",
+      "link": "https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/",
+      "published_iso": "2026-09-23T20:20:12Z",
+      "published_lt": "2026-09-23 20:20 UTC",
+      "summary": "„Google“ išleido „Gemini 3.8 Flash TTS“ ir „Flash-Lite TTS“ – 2 naujus teksto į kalbą modelius, dabar pasiekiamus per „Gemini“ API ir „Google AI Studio“. „Flash TTS“ kuria naujus balsus iš natūralios kalbos raginimų daugiau nei 100 kalbų. Jis užima pirmąją vietą pagal Hume AI balso dizaino etaloną su 71,4 balo.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-24-05-google-isleido-gemini-3-8-flash-tts-ir-flash-lite-tts-su.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Google“ kartu su dizaineriais Jane Wade ir Sergio Hudsonu sukūrė „Google Flow“ įrankius, kad pasiruoštų NYFW."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
-      }
-    },
-    {
-      "title": "Kad būtų lengviau tyrinėti pasaulinius duomenis",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "published_iso": "2026-09-17T20:00:00Z",
-      "published_lt": "2026-09-17 20:00 UTC",
-      "summary": "„Google“ ir JT sistema pristatė „UN System Data Commons“ – naują atvirą platformą, leidžiančią pasiekti pasaulinę statistiką ir lengvai jos ieškoti.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-23-06-kad-butu-lengviau-tyrineti-pasaulinius-duomenis.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google“ ir JT sistema pristatė „UN System Data Commons“ – naują atvirą platformą, leidžiančią pasiekti pasaulinę statistiką ir lengvai jos ieškoti.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
-      }
-    },
-    {
-      "title": "AI socialiniam poveikiui",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "published_iso": "2026-09-15T16:00:00Z",
-      "published_lt": "2026-09-15 16:00 UTC",
-      "summary": "Naršykite šią kolekciją ir sužinokite, kaip ekspertai ir vietos lyderiai naudojasi DI proveržiais, siekdami užtikrinti, kad visi galėtų pasidalyti DI galimybe.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-      "image_url": "generated-images/2026-09-23-07-ai-socialiniam-poveikiui.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Naršykite šią kolekciją ir sužinokite, kaip ekspertai ir vietos lyderiai naudojasi DI proveržiais, siekdami užtikrinti, kad visi galėtų pasidalyti DI galimybe.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
-      }
-    },
-    {
-      "title": "AI kūrimas siekiant paspartinti mokslą ir pagerinti gyvenimą",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "published_iso": "2026-09-15T16:00:00Z",
-      "published_lt": "2026-09-15 16:00 UTC",
-      "summary": "Tikrasis AI matas yra tai, kam jis padeda. Štai kaip tai daro įtaką šiandieniniam gyvenimui. Mes sutelkiame dėmesį į pagrindines sritis, kuriose pažangios technologijos gali padėti pasiekti nepaprastą pažangą…",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-23-08-ai-kurimas-siekiant-paspartinti-moksla-ir-pagerinti-gyve.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Tikrasis AI matas yra tai, kam jis padeda.",
-        "Štai kaip tai daro įtaką šiandieniniam gyvenimui.",
-        "Mes sutelkiame dėmesį į pagrindines sritis, kuriose pažangios technologijos gali padėti pasiekti nepaprastą pažangą…."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-        "try_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
-      }
-    },
-    {
-      "title": "AI skirta visiems visomis kalbomis",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "published_iso": "2026-09-15T16:00:00Z",
-      "published_lt": "2026-09-15 16:00 UTC",
-      "summary": "Peržengiame tradicinio teksto vertimo ribas, kad sukurtume modelius, kurie suprastų turtingas, gyvas pasaulio kalbas tiksliai taip, kaip jos išreiškiamos.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-23-09-ai-skirta-visiems-visomis-kalbomis.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Peržengiame tradicinio teksto vertimo ribas, kad sukurtume modelius, kurie suprastų turtingas, gyvas pasaulio kalbas tiksliai taip, kaip jos išreiškiamos."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
-      }
-    },
-    {
-      "title": "Naujos įžvalgos iš „Google“ AI ir ekonomikos ATLAS",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "published_iso": "2026-09-15T13:00:00Z",
-      "published_lt": "2026-09-15 13:00 UTC",
-      "summary": "Milijonus ATLAS pasaulinių duomenų taškų pavertėme interaktyvia, atviros prieigos patirtimi.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-23-10-naujos-izvalgos-is-google-ai-ir-ekonomikos-atlas.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Milijonus ATLAS pasaulinių duomenų taškų pavertėme interaktyvia, atviros prieigos patirtimi."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
-      }
-    },
-    {
-      "title": "Stebėkite astronautė Christina Koch ir „Google“ atstovas Jamesas Manyika diskutuoja apie kosmosą, technologijas ir atradimus.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "published_iso": "2026-09-14T19:00:00Z",
-      "published_lt": "2026-09-14 19:00 UTC",
-      "summary": "Christina Koch susėda su Jamesu Manyika, „Google“ tyrimų, laboratorijų, technologijų ir visuomenės vyresniuoju viceprezidentu.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-23-11-stebekite-astronaute-christina-koch-ir-google-atstovas-j.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Christina Koch susėda su Jamesu Manyika, „Google“ tyrimų, laboratorijų, technologijų ir visuomenės vyresniuoju viceprezidentu.",
+        "„Google“ išleido „Gemini 3.8 Flash TTS“ ir „Flash-Lite TTS“ – 2 naujus teksto į kalbą modelius, dabar pasiekiamus per „Gemini“ API ir „Google AI Studio“.",
+        "„Flash TTS“ kuria naujus balsus iš natūralios kalbos raginimų daugiau nei 100 kalbų.",
+        "Jis užima pirmąją vietą pagal Hume AI balso dizaino etaloną su 71,4 balo.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
@@ -286,23 +133,76 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/",
+        "try_url": "https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/"
       }
     },
     {
-      "title": "„DevFest“ grįžta",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "published_iso": "2026-09-14T16:00:00Z",
-      "published_lt": "2026-09-14 16:00 UTC",
-      "summary": "„DevFest 2026“ grįžta ir štai kaip galite prisijungti prie vieno iš daugiau nei 800 pasaulinių įvykių, kad sukurtumėte, apsaugotumėte ir padidintumėte mastą agentinio AI eroje.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-23-12-devfest-grizta.svg",
+      "title": "Šiandienos prognozė? Nieko, išskyrus 80-uosius, mažute.",
+      "link": "https://www.youtube.com/shorts/rmDu2sSBIrw",
+      "published_iso": "2026-09-23T18:48:52Z",
+      "published_lt": "2026-09-23 18:48 UTC",
+      "summary": "Sukurkite savo naudodami „ChatGPT“ vaizdus.",
+      "source": "OpenAI",
+      "source_image_url": "https://i3.ytimg.com/vi/rmDu2sSBIrw/hqdefault.jpg",
+      "image_url": "generated-images/2026-09-24-06-siandienos-prognoze-nieko-isskyrus-80-uosius-mazute.svg",
+      "kind": "video",
+      "video_id": "rmDu2sSBIrw",
+      "bullets_lt": [
+        "Sukurkite savo naudodami „ChatGPT“ vaizdus."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/rmDu2sSBIrw",
+        "try_url": "https://www.youtube.com/shorts/rmDu2sSBIrw"
+      }
+    },
+    {
+      "title": "NVIDIA išleido Nemotron 3 Diarization: 100M parametrų atviro svorio modelį, kuris realiuoju laiku stebi 8 garsiakalbius",
+      "link": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/",
+      "published_iso": "2026-09-23T18:17:14Z",
+      "published_lt": "2026-09-23 18:17 UTC",
+      "summary": "NVIDIA išleido Nemotron 3 Diarization, atviro svorio garsiakalbių diarizavimo modelį Hugging Face. Tai atsako į vieną klausimą apie bet kokį pokalbį: kas kada kalbėjo. 100M parametrų modelis seka iki 8 garsiakalbių, įskaitant kai balsai persidengia.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-24-07-nvidia-isleido-nemotron-3-diarization-100m-parametru-atv.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„DevFest 2026“ grįžta ir štai kaip galite prisijungti prie vieno iš daugiau nei 800 pasaulinių įvykių, kad sukurtumėte, apsaugotumėte ir padidintumėte mastą agentinio AI eroje."
+        "NVIDIA išleido Nemotron 3 Diarization, atviro svorio garsiakalbių diarizavimo modelį Hugging Face.",
+        "Tai atsako į vieną klausimą apie bet kokį pokalbį: kas kada kalbėjo.",
+        "100M parametrų modelis seka iki 8 garsiakalbių, įskaitant kai balsai persidengia.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/",
+        "try_url": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/"
+      }
+    },
+    {
+      "title": "„Google Beam“ plečiasi naujais regionais, partneriais ir klientais",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "published_iso": "2026-09-23T18:00:00Z",
+      "published_lt": "2026-09-23 18:00 UTC",
+      "summary": "Išplečiame „Google Beam“ į penkias naujas šalis ir bendradarbiaujame su „Industrious“, siekdami išplėsti tinklą.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-09-24-08-google-beam-pleciasi-naujais-regionais-partneriais-ir-kl.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Išplečiame „Google Beam“ į penkias naujas šalis ir bendradarbiaujame su „Industrious“, siekdami išplėsti tinklą."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -313,6 +213,112 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
         "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
+      }
+    },
+    {
+      "title": "JAV TRANSCOM naudoja atsitiktinių imčių AI, kad apsaugotų karinę logistiką",
+      "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+      "published_iso": "2026-09-23T13:13:15Z",
+      "published_lt": "2026-09-23 13:13 UTC",
+      "summary": "Atsitiktinių imčių DI logistikos diegimas suteikia kariniams planuotojams perspektyvią apsaugą nuo priešiško sekimo, o tai leidžia JAV transporto vadovybei (TRANSCOM) apsaugoti pasaulinius platinimo tinklus nuo ginčijamų sutrikimų.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-24-09-jav-transcom-naudoja-atsitiktiniu-imciu-ai-kad-apsaugotu.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Atsitiktinių imčių DI logistikos diegimas suteikia kariniams planuotojams perspektyvią apsaugą nuo priešiško sekimo, o tai leidžia JAV transporto vadovybei (TRANSCOM) apsaugoti pasaulinius platinimo tinklus nuo ginčijamų sutrikimų.",
+        "Kaina: Labiau panasu i mokama sprendima."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+        "try_url": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/"
+      }
+    },
+    {
+      "title": "AI agentai tampa nauju kenkėjiškų programų platinimo kanalu",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "published_iso": "2026-09-23T07:44:17Z",
+      "published_lt": "2026-09-23 07:44 UTC",
+      "summary": "Farukhas Rakhimovas, „AdTech Holding“ atitikties, duomenų apsaugos ir informacijos saugos vadovas. Maždaug 7 600 netikrų „GitHub“ saugyklų, 6 600 apgaulingų profilių ir daugiau nei 14 milijonų atsisiuntimų: tai yra „FakeGit“ – kenkėjiškų programų kampanijos, kurią Island dokumentavo 2026 m. liepos mėn., mastas.",
+      "source": "AI News",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-24-10-ai-agentai-tampa-nauju-kenkejisku-programu-platinimo-kan.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Farukhas Rakhimovas, „AdTech Holding“ atitikties, duomenų apsaugos ir informacijos saugos vadovas.",
+        "Maždaug 7 600 netikrų „GitHub“ saugyklų, 6 600 apgaulingų profilių ir daugiau nei 14 milijonų atsisiuntimų: tai yra „FakeGit“ – kenkėjiškų programų kampanijos, kurią Island dokumentavo 2026 m.",
+        "liepos mėn., mastas."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+        "try_url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/"
+      }
+    },
+    {
+      "title": "„Nokia Open-Sources AnyJev“: sluoksnis be mokymų, kuris bet kokį atvirą LLM paverčia kalibruotu sprendimų modeliu",
+      "link": "https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/",
+      "published_iso": "2026-09-23T07:09:38Z",
+      "published_lt": "2026-09-23 07:09 UTC",
+      "summary": "„Nokia“ taikomųjų tyrimų komanda turi atvirojo kodo „AnyJev“, „Python“ biblioteką, kuri atvirą LLM paverčia sprendimų modeliu. Jis skirtas įprastam gamybos darbui: pasirinkti vieną atsakymą iš fiksuoto rinkinio, o ne parašyti sakinį.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-24-11-nokia-open-sources-anyjev-sluoksnis-be-mokymu-kuris-bet-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Nokia“ taikomųjų tyrimų komanda turi atvirojo kodo „AnyJev“, „Python“ biblioteką, kuri atvirą LLM paverčia sprendimų modeliu.",
+        "Jis skirtas įprastam gamybos darbui: pasirinkti vieną atsakymą iš fiksuoto rinkinio, o ne parašyti sakinį."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/",
+        "try_url": "https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/"
+      }
+    },
+    {
+      "title": "Kyutai išleidžia proto balsą: kalbėjimo gimtosios kalbos modelį, kuris sprendžia šnekamą matematiką stiprindamas mokymąsi",
+      "link": "https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/",
+      "published_iso": "2026-09-23T06:33:18Z",
+      "published_lt": "2026-09-23 06:33 UTC",
+      "summary": "„Kyutai“ išleido „Voice of Reason“ – 2 atviro svorio kalbos į kalbą modelius, paremtus GLM-4-Voice-9B. Prižiūrimas koregavimas ir mokymosi pastiprinimas padidina kalbinio GSM8K tikslumą nuo 27,3 % iki 77,1 %. Cikle nėra transkripcijos žingsnio ir teksto LLM.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-24-12-kyutai-isleidzia-proto-balsa-kalbejimo-gimtosios-kalbos-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Kyutai“ išleido „Voice of Reason“ – 2 atviro svorio kalbos į kalbą modelius, paremtus GLM-4-Voice-9B.",
+        "Prižiūrimas koregavimas ir mokymosi pastiprinimas padidina kalbinio GSM8K tikslumą nuo 27,3 % iki 77,1 %.",
+        "Cikle nėra transkripcijos žingsnio ir teksto LLM."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/",
+        "try_url": "https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/"
       }
     }
   ]
