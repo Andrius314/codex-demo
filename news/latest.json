@@ -1,10 +1,145 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-09-25",
-  "generated_at_utc": "2026-09-25T12:29:15Z",
+  "digest_date": "2026-09-26",
+  "generated_at_utc": "2026-09-26T11:59:36Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "„Exa“ pristato „Agent Ultra“: „Subagent Swarm Deep Research“ API, sukurta išsamiam sąrašui sudaryti",
+      "link": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
+      "published_iso": "2026-09-26T08:04:08Z",
+      "published_lt": "2026-09-26 08:04 UTC",
+      "summary": "„Exa“ išleido „Agent Ultra“ – didžiausių pastangų reikalaujantį „Exa Agent API“ režimą. Jis koordinuoja subagentus tūkstančiuose šaltinių sąrašo sudarymui ir subjektų praturtinimui. „Exa“ praneša, kad jis lenkia „Opus 5.5“, „GPT-6 Astra“ ir „Perplexity Agent“ pagal 4 etalonus, įskaitant 81,4 % WANDR atšaukimo.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-26-01-exa-pristato-agent-ultra-subagent-swarm-deep-research-ap.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Exa“ išleido „Agent Ultra“ – didžiausių pastangų reikalaujantį „Exa Agent API“ režimą.",
+        "Jis koordinuoja subagentus tūkstančiuose šaltinių sąrašo sudarymui ir subjektų praturtinimui.",
+        "„Exa“ praneša, kad jis lenkia „Opus 5.5“, „GPT-6 Astra“ ir „Perplexity Agent“ pagal 4 etalonus, įskaitant 81,4 % WANDR atšaukimo.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
+        "try_url": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/"
+      }
+    },
+    {
+      "title": "Visapusiškas multimodalinis duomenų papildymas ir priešpriešinio patikimumo etalonas su AugLy vaizdams, tekstui, garsui ir „PyTorch“",
+      "link": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
+      "published_iso": "2026-09-26T07:22:46Z",
+      "published_lt": "2026-09-26 07:22 UTC",
+      "summary": "Sužinokite, kaip sukurti visapusišką daugiarūšio papildymo ir priešpriešinio tvirtumo darbo eigą naudojant AugLy vaizdams, tekstui, garsui ir PyTorch duomenų rinkiniams.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-26-02-visapusiskas-multimodalinis-duomenu-papildymas-ir-priesp.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Sužinokite, kaip sukurti visapusišką daugiarūšio papildymo ir priešpriešinio tvirtumo darbo eigą naudojant AugLy vaizdams, tekstui, garsui ir PyTorch duomenų rinkiniams.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
+        "try_url": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/"
+      }
+    },
+    {
+      "title": "Liquid AI išleidžia LFM2.5-VL-3B-DSpark: spekuliacinis dekodavimas vizijos kalbos modeliams su iki 3,13 karto greitesniu dekodavimu",
+      "link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
+      "published_iso": "2026-09-25T23:11:59Z",
+      "published_lt": "2026-09-25 23:11 UTC",
+      "summary": "Liquid AI išleido LFM2.5-VL-3B-DSpark, 279,5M parametrų juodraščio modelį, kuris suteikia spekuliacinį dekodavimą LFM2.5-VL-3B regos kalbos modeliui. Jis užtikrina iki 3,13 karto greitesnį dekodavimą naudojant „Apple M5 Max“ ir 2,66 karto greitesnį „H100“ išvestį su identiška išvestimi, kai dekoduojamas godus. Palaikykite laivus llama.cpp, MLX-VLM ir SGLang.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-26-03-liquid-ai-isleidzia-lfm2-5-vl-3b-dspark-spekuliacinis-de.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Liquid AI išleido LFM2.5-VL-3B-DSpark, 279,5M parametrų juodraščio modelį, kuris suteikia spekuliacinį dekodavimą LFM2.5-VL-3B regos kalbos modeliui.",
+        "Jis užtikrina iki 3,13 karto greitesnį dekodavimą naudojant „Apple M5 Max“ ir 2,66 karto greitesnį „H100“ išvestį su identiška išvestimi, kai dekoduojamas godus.",
+        "Palaikykite laivus llama.cpp, MLX-VLM ir SGLang."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
+        "try_url": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/"
+      }
+    },
+    {
+      "title": "„Aikido Security“ išleido „Altar-1“: atviro svorio saugos modelį, sumažintą nuo GLM-5.3 iki 328 GB",
+      "link": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
+      "published_iso": "2026-09-25T15:14:45Z",
+      "published_lt": "2026-09-25 15:14 UTC",
+      "summary": "Aikido Security išleido Altar-1, savo pirmąjį atviro svorio apsaugos modelį. Tai suglaudinta Z.AI GLM-5.3 versija, sukurta veikti kliento valdomoje infrastruktūroje. Altar-1 maitina Aikido Machine, įmonės autonominį tikrinimo įrenginį, skirtą vietiniams ir oro tarpams skirtiems tinklams.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-26-04-aikido-security-isleido-altar-1-atviro-svorio-saugos-mod.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Aikido Security išleido Altar-1, savo pirmąjį atviro svorio apsaugos modelį.",
+        "Tai suglaudinta Z.AI GLM-5.3 versija, sukurta veikti kliento valdomoje infrastruktūroje.",
+        "Altar-1 maitina Aikido Machine, įmonės autonominį tikrinimo įrenginį, skirtą vietiniams ir oro tarpams skirtiems tinklams."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
+        "try_url": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/"
+      }
+    },
+    {
+      "title": "„Perplexity“ moko savo kompiuterių agentą padaryti tikras klaidas, naudodamas užuominų valdomą savaiminį distiliavimą",
+      "link": "https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/",
+      "published_iso": "2026-09-25T14:30:26Z",
+      "published_lt": "2026-09-25 14:30 UTC",
+      "summary": "„Perplexity Research“ paskelbė naują tyrimą po treniruotės. Jis apmoko modelį „Perplexity Computer“ realiose vartotojo sesijose, įskaitant nepavykusias. Metodas suporuoja atmetimo mėginių ėmimo koregavimą su užuominomis valdoma savaiminio distiliavimu.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-26-05-perplexity-moko-savo-kompiuteriu-agenta-padaryti-tikras-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Perplexity Research“ paskelbė naują tyrimą po treniruotės.",
+        "Jis apmoko modelį „Perplexity Computer“ realiose vartotojo sesijose, įskaitant nepavykusias.",
+        "Metodas suporuoja atmetimo mėginių ėmimo koregavimą su užuominomis valdoma savaiminio distiliavimu."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/",
+        "try_url": "https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/"
+      }
+    },
     {
       "title": "Fastino išleido GLiNER2.5-Decide: 340M atviro svorio sprendimų modelį, kuris veikia su procesoriumi",
       "link": "https://www.marktechpost.com/2026/09/24/fastino-releases-gliner2-5-decide-a-340m-open-weight-decision-model-that-runs-on-cpu/",
@@ -13,7 +148,7 @@
       "summary": "Fastino Labs išleido GLiNER2.5-Decide, 340M parametrų atviro svorio sprendimo modelį. Jis paima tekstą ir įvestų klausimų schemą ir pateikia struktūrinius atsakymus. Kiekvienas atsakymas pateikiamas su tikimybių pasiskirstymu, patikimumo balu ir suvaržymo galimybių metaduomenimis.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-25-01-fastino-isleido-gliner2-5-decide-340m-atviro-svorio-spre.svg",
+      "image_url": "generated-images/2026-09-26-06-fastino-isleido-gliner2-5-decide-340m-atviro-svorio-spre.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -37,15 +172,15 @@
       "link": "https://www.marktechpost.com/2026/09/24/black-forest-labs-releases-flux-3-action-a-7b-open-weights-world-action-model-that-tops-robolab-120/",
       "published_iso": "2026-09-25T04:24:01Z",
       "published_lt": "2026-09-25 04:24 UTC",
-      "summary": "Black Forest Labs (BFL), FLUX vaizdo modelių laboratorija, išleido FLUX 3 Action. Tai 7B atvirų svorių pasaulinis veiksmo modelis (WAM), skirtas roboto valdymui. Modelis nuskaito fotoaparato kadrus, roboto būseną ir tekstinę instrukciją.",
+      "summary": "Black Forest Labs (BFL), FLUX vaizdo modelių laboratorija, išleido FLUX 3 Action. Tai 7B atvirų svorių pasaulinio veiksmo modelis (WAM), skirtas roboto valdymui. Modelis nuskaito fotoaparato kadrus, roboto būseną ir tekstinę instrukciją.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-25-02-black-forest-labs-isleido-flux-3-veiksma-7b-atviro-svori.svg",
+      "image_url": "generated-images/2026-09-26-07-black-forest-labs-isleido-flux-3-veiksma-7b-atviro-svori.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "Black Forest Labs (BFL), FLUX vaizdo modelių laboratorija, išleido FLUX 3 Action.",
-        "Tai 7B atvirų svorių pasaulinis veiksmo modelis (WAM), skirtas roboto valdymui.",
+        "Tai 7B atvirų svorių pasaulinio veiksmo modelis (WAM), skirtas roboto valdymui.",
         "Modelis nuskaito fotoaparato kadrus, roboto būseną ir tekstinę instrukciją."
       ],
       "practical": {
@@ -67,7 +202,7 @@
       "summary": "„BottleCap AI“ išleido „ThinkingCap-Qwen3.8-27B“, tobulą Qwen3.8-27B derinį, kuris išleidžia 37,2 % mažiau mąstymo žetonų 12 etalonų. Makrokomandos tikslumas keičiasi nuo 86,65% iki 85,79%, o ilgo konteksto AA-LCR pagerėja 2,25 pp.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-25-03-bottlecap-ai-isleidzia-thinkingcap-qwen3-8-27b-37-2-mazi.svg",
+      "image_url": "generated-images/2026-09-26-08-bottlecap-ai-isleidzia-thinkingcap-qwen3-8-27b-37-2-mazi.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -93,7 +228,7 @@
       "summary": "❤️ Peržiūrėkite „Lambda“ čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 Vaikštančių būtybių vaizdo įrašas ir popierius: https://www.youtube.com/watch?v=kQ2bqz3HPJEpa/per.1/sgo/search/per. Medaus vyniojimo vaizdo įrašas ir popierius: https://www.youtu",
       "source": "Two Minute Papers",
       "source_image_url": "https://i4.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-25-04-claude-opus-5-5-ai-neitiketinas-suolis-i-prieki.svg",
+      "image_url": "generated-images/2026-09-26-09-claude-opus-5-5-ai-neitiketinas-suolis-i-prieki.svg",
       "kind": "video",
       "video_id": "SA9kdAX2Zj0",
       "bullets_lt": [
@@ -120,7 +255,7 @@
       "summary": "Contrastive-LM išleido CLM-8B – atvirą „System One“ modelį, kuris įvertina kandidato veiksmus prieš būseną, o ne generuoja tekstą. Prie užšaldyto Qwen3-8B koduotuvo pridedamos 2 mažos projekcijos galvutės ir treniruojamos kontrastingo InfoNCE objektyvo pagalba. Atliekant nulinius bandymus, jis veikia iki 9 kartų greičiau nei TypeSafe Jev.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-25-05-contrastive-lm-isleido-clm-8b-atviros-sistemos-modeli-ku.svg",
+      "image_url": "generated-images/2026-09-26-10-contrastive-lm-isleido-clm-8b-atviros-sistemos-modeli-ku.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -147,7 +282,7 @@
       "summary": "#ai #ainews #llm #agi #singularity Ačiū mūsų rėmėjui Higgsfieldui.",
       "source": "AI Search",
       "source_image_url": "https://i4.ytimg.com/vi/gX0L0aFA2xg/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-25-06-claude-opus-5-5-yra-juokinga.svg",
+      "image_url": "generated-images/2026-09-26-11-claude-opus-5-5-yra-juokinga.svg",
       "kind": "video",
       "video_id": "gX0L0aFA2xg",
       "bullets_lt": [
@@ -172,7 +307,7 @@
       "summary": "Šiame vadove pateikiamas išsamus „TypeSafe AI Jev“ – „System One“ modelio, skirto netekstiniams, struktūriniams sprendimams, kodavimo vadovas.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-25-07-typesafe-ai-jev-kodavimo-vadovas-ivesti-sprendimai-sukal.svg",
+      "image_url": "generated-images/2026-09-26-12-typesafe-ai-jev-kodavimo-vadovas-ivesti-sprendimai-sukal.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -187,138 +322,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/",
         "try_url": "https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/"
-      }
-    },
-    {
-      "title": "„Google“ išleido „Gemini 3.8 Flash TTS“ ir „Flash-Lite TTS“ su raginimu pagrįstu balso dizainu",
-      "link": "https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/",
-      "published_iso": "2026-09-23T20:20:12Z",
-      "published_lt": "2026-09-23 20:20 UTC",
-      "summary": "„Google“ išleido „Gemini 3.8 Flash TTS“ ir „Flash-Lite TTS“ – 2 naujus teksto į kalbą modelius, dabar pasiekiamus per „Gemini“ API ir „Google AI Studio“. „Flash TTS“ kuria naujus balsus iš natūralios kalbos raginimų daugiau nei 100 kalbų. Jis užima pirmąją vietą pagal Hume AI balso dizaino etaloną su 71,4 balo.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-25-08-google-isleido-gemini-3-8-flash-tts-ir-flash-lite-tts-su.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google“ išleido „Gemini 3.8 Flash TTS“ ir „Flash-Lite TTS“ – 2 naujus teksto į kalbą modelius, dabar pasiekiamus per „Gemini“ API ir „Google AI Studio“.",
-        "„Flash TTS“ kuria naujus balsus iš natūralios kalbos raginimų daugiau nei 100 kalbų.",
-        "Jis užima pirmąją vietą pagal Hume AI balso dizaino etaloną su 71,4 balo.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/",
-        "try_url": "https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/"
-      }
-    },
-    {
-      "title": "Šiandienos prognozė? Nieko, išskyrus 80-uosius, mažute.",
-      "link": "https://www.youtube.com/shorts/rmDu2sSBIrw",
-      "published_iso": "2026-09-23T18:48:52Z",
-      "published_lt": "2026-09-23 18:48 UTC",
-      "summary": "Sukurkite savo naudodami „ChatGPT“ vaizdus.",
-      "source": "OpenAI",
-      "source_image_url": "https://i3.ytimg.com/vi/rmDu2sSBIrw/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-25-09-siandienos-prognoze-nieko-isskyrus-80-uosius-mazute.svg",
-      "kind": "video",
-      "video_id": "rmDu2sSBIrw",
-      "bullets_lt": [
-        "Sukurkite savo naudodami „ChatGPT“ vaizdus."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/rmDu2sSBIrw",
-        "try_url": "https://www.youtube.com/shorts/rmDu2sSBIrw"
-      }
-    },
-    {
-      "title": "NVIDIA išleido Nemotron 3 Diarization: 100M parametrų atviro svorio modelį, kuris realiuoju laiku stebi 8 garsiakalbius",
-      "link": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/",
-      "published_iso": "2026-09-23T18:17:14Z",
-      "published_lt": "2026-09-23 18:17 UTC",
-      "summary": "NVIDIA išleido Nemotron 3 Diarization, atviro svorio garsiakalbių diarizavimo modelį Hugging Face. Tai atsako į vieną klausimą apie bet kokį pokalbį: kas kada kalbėjo. 100M parametrų modelis seka iki 8 garsiakalbių, įskaitant kai balsai persidengia.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-25-10-nvidia-isleido-nemotron-3-diarization-100m-parametru-atv.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "NVIDIA išleido Nemotron 3 Diarization, atviro svorio garsiakalbių diarizavimo modelį Hugging Face.",
-        "Tai atsako į vieną klausimą apie bet kokį pokalbį: kas kada kalbėjo.",
-        "100M parametrų modelis seka iki 8 garsiakalbių, įskaitant kai balsai persidengia.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/",
-        "try_url": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/"
-      }
-    },
-    {
-      "title": "„Google Beam“ plečiasi naujais regionais, partneriais ir klientais",
-      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "published_iso": "2026-09-23T18:00:00Z",
-      "published_lt": "2026-09-23 18:00 UTC",
-      "summary": "Išplečiame „Google Beam“ į penkias naujas šalis ir bendradarbiaujame su „Industrious“, siekdami išplėsti tinklą.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-25-11-google-beam-pleciasi-naujais-regionais-partneriais-ir-kl.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Išplečiame „Google Beam“ į penkias naujas šalis ir bendradarbiaujame su „Industrious“, siekdami išplėsti tinklą."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
-      }
-    },
-    {
-      "title": "„Nokia Open-Sources AnyJev“: sluoksnis be mokymų, kuris bet kokį atvirą LLM paverčia kalibruotu sprendimų modeliu",
-      "link": "https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/",
-      "published_iso": "2026-09-23T07:09:38Z",
-      "published_lt": "2026-09-23 07:09 UTC",
-      "summary": "„Nokia“ taikomųjų tyrimų komanda turi atvirojo kodo „AnyJev“, „Python“ biblioteką, kuri atvirą LLM paverčia sprendimų modeliu. Jis skirtas įprastam gamybos darbui: pasirinkti vieną atsakymą iš fiksuoto rinkinio, o ne parašyti sakinį.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-25-12-nokia-open-sources-anyjev-sluoksnis-be-mokymu-kuris-bet-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Nokia“ taikomųjų tyrimų komanda turi atvirojo kodo „AnyJev“, „Python“ biblioteką, kuri atvirą LLM paverčia sprendimų modeliu.",
-        "Jis skirtas įprastam gamybos darbui: pasirinkti vieną atsakymą iš fiksuoto rinkinio, o ne parašyti sakinį."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/",
-        "try_url": "https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/"
       }
     }
   ]
