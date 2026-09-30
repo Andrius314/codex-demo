@@ -1,23 +1,25 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-09-29",
-  "generated_at_utc": "2026-09-29T13:38:31Z",
+  "digest_date": "2026-09-30",
+  "generated_at_utc": "2026-09-30T13:13:51Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "„The Defender's Window“ įmonės mastu su „Standard Chartered“.",
-      "link": "https://www.youtube.com/watch?v=a75xDflRooI",
-      "published_iso": "2026-09-29T10:01:43Z",
-      "published_lt": "2026-09-29 10:01 UTC",
-      "summary": "Mattas Weaveris, OpenAI taikomųjų dirbtinio intelekto architektų skyriaus vadovas, ir Reubenas Athaide'as, „Standard Chartered“ inovacijų, taikomųjų programų ir užtikrinimo vadovas, aptaria, kaip pasaulinis bankas naudoja „OpenAI Daybreak“, kad aplenktų užpuolikus.",
-      "source": "OpenAI",
-      "source_image_url": "https://i2.ytimg.com/vi/a75xDflRooI/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-29-01-the-defender-s-window-imones-mastu-su-standard-chartered.svg",
-      "kind": "video",
-      "video_id": "a75xDflRooI",
+      "title": "„Perplexity“ pristato fotoną: rūdžių paėmimo variklį, kuris sumažina p99 delsą nuo 800 ms iki 65 ms",
+      "link": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
+      "published_iso": "2026-09-30T08:26:52Z",
+      "published_lt": "2026-09-30 08:26 UTC",
+      "summary": "„Perplexity“ išleido „Photon“ – vidinį paieškos ir reitingavimo variklį, parašytą „Rust“. Jis pakeičia atvirojo kodo variklį, kurį „Perplexity“ sukūrė savo dirbtinio intelekto paieškos rinkiniui. Dabar „Photon“ tvarko viso gamybos srauto nuskaitymą ir reitingavimą.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-30-01-perplexity-pristato-fotona-rudziu-paemimo-varikli-kuris-.svg",
+      "kind": "article",
+      "video_id": "",
       "bullets_lt": [
-        "Mattas Weaveris, OpenAI taikomųjų dirbtinio intelekto architektų skyriaus vadovas, ir Reubenas Athaide'as, „Standard Chartered“ inovacijų, taikomųjų programų ir užtikrinimo vadovas, aptaria, kaip pasaulinis bankas naudoja „OpenAI Daybreak“, kad aplenktų užpuolikus."
+        "„Perplexity“ išleido „Photon“ – vidinį paieškos ir reitingavimo variklį, parašytą „Rust“.",
+        "Jis pakeičia atvirojo kodo variklį, kurį „Perplexity“ sukūrė savo dirbtinio intelekto paieškos rinkiniui.",
+        "Dabar „Photon“ tvarko viso gamybos srauto nuskaitymą ir reitingavimą."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -26,8 +28,169 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=a75xDflRooI",
-        "try_url": "https://www.youtube.com/watch?v=a75xDflRooI"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
+        "try_url": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/"
+      }
+    },
+    {
+      "title": "NVIDIA tyrėjai pristato Physis-Lang: savaime besivystančią fizinę kalbą, kuri pakelia „Cosmos 3“ ankstesnį „Veo 3.1“ fizikos etalonuose",
+      "link": "https://www.marktechpost.com/2026/09/30/nvidia-researchers-introduce-physis-lang-self-evolving-physical-language-that-lifts-cosmos-3-past-veo-3-1-on-physics-benchmarks/",
+      "published_iso": "2026-09-30T07:32:34Z",
+      "published_lt": "2026-09-30 07:32 UTC",
+      "summary": "Vaizdo įrašų pasaulio modeliai gali pateikti įtikinamus klipus, kurie vis dar laužo fiziką. Sviestas tepasi kaip dažai. Kamuoliai praeina per sienas.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-30-02-nvidia-tyrejai-pristato-physis-lang-savaime-besivystanci.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Vaizdo įrašų pasaulio modeliai gali pateikti įtikinamus klipus, kurie vis dar laužo fiziką.",
+        "Sviestas tepasi kaip dažai.",
+        "Kamuoliai praeina per sienas."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/30/nvidia-researchers-introduce-physis-lang-self-evolving-physical-language-that-lifts-cosmos-3-past-veo-3-1-on-physics-benchmarks/",
+        "try_url": "https://www.marktechpost.com/2026/09/30/nvidia-researchers-introduce-physis-lang-self-evolving-physical-language-that-lifts-cosmos-3-past-veo-3-1-on-physics-benchmarks/"
+      }
+    },
+    {
+      "title": "Vienas blogas raginimas nuvertė įmonės „Salesforce“: RSA atstovas Jimas Tayloras dėl agento ID ir 4000 šešėlinių AI agentų, besislepiančių jūsų įmonėje, sutramdymas",
+      "link": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
+      "published_iso": "2026-09-30T01:30:17Z",
+      "published_lt": "2026-09-30 01:30 UTC",
+      "summary": "RSA pristatė Agent ID AI konferencijoje San Franciske. Tai agentinė tapatybės saugumo platforma, skirta finansams, vyriausybei, sveikatos priežiūrai ir kritinei infrastruktūrai. Atraskite randa sankcionuotus ir šešėlinius agentus bei MCP serverius.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/09/image-4-150x150.png",
+      "image_url": "generated-images/2026-09-30-03-vienas-blogas-raginimas-nuverte-imones-salesforce-rsa-at.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "RSA pristatė Agent ID AI konferencijoje San Franciske.",
+        "Tai agentinė tapatybės saugumo platforma, skirta finansams, vyriausybei, sveikatos priežiūrai ir kritinei infrastruktūrai.",
+        "Atraskite randa sankcionuotus ir šešėlinius agentus bei MCP serverius."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
+        "try_url": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/"
+      }
+    },
+    {
+      "title": "Liquid AI leidimai d1: sprendimo modelis, kuris grąžina kalibruotas tikimybes su nuliniais išvesties žetonais",
+      "link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
+      "published_iso": "2026-09-29T21:47:09Z",
+      "published_lt": "2026-09-29 21:47 UTC",
+      "summary": "Liquid AI išleido d1 – sprendimų modelį, sukurtą struktūriniams pasirinkimams, o ne teksto generavimui. Pateikiate kontekstą ir atspausdintų klausimų rinkinį. Jis grąžina kalibruotas tikimybes fiksuotam rezultatų rinkiniui per vieną skambutį su nuliu sugeneruotų žetonų.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-30-04-liquid-ai-leidimai-d1-sprendimo-modelis-kuris-grazina-ka.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Liquid AI išleido d1 – sprendimų modelį, sukurtą struktūriniams pasirinkimams, o ne teksto generavimui.",
+        "Pateikiate kontekstą ir atspausdintų klausimų rinkinį.",
+        "Jis grąžina kalibruotas tikimybes fiksuotam rezultatų rinkiniui per vieną skambutį su nuliu sugeneruotų žetonų."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
+        "try_url": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/"
+      }
+    },
+    {
+      "title": "Kurkite greičiau naudodami „Ultrafast“.",
+      "link": "https://www.youtube.com/watch?v=sKltfHvsDQM",
+      "published_iso": "2026-09-29T18:47:34Z",
+      "published_lt": "2026-09-29 18:47 UTC",
+      "summary": "„Ultrafast“ yra kol kas greičiausias būdas kurti naudojant „Astra“: „Codex“ jis veikia iki 8 kartų greičiau nei „Astra Standard“ ir 4 kartus greičiau nei „Astra Fast“. Įgyvendinkite savo idėjas taip greitai, kaip galite jas įvesti.",
+      "source": "OpenAI",
+      "source_image_url": "https://i4.ytimg.com/vi/sKltfHvsDQM/hqdefault.jpg",
+      "image_url": "generated-images/2026-09-30-05-kurkite-greiciau-naudodami-ultrafast.svg",
+      "kind": "video",
+      "video_id": "sKltfHvsDQM",
+      "bullets_lt": [
+        "„Ultrafast“ yra kol kas greičiausias būdas kurti naudojant „Astra“: „Codex“ jis veikia iki 8 kartų greičiau nei „Astra Standard“ ir 4 kartus greičiau nei „Astra Fast“.",
+        "Įgyvendinkite savo idėjas taip greitai, kaip galite jas įvesti."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=sKltfHvsDQM",
+        "try_url": "https://www.youtube.com/watch?v=sKltfHvsDQM"
+      }
+    },
+    {
+      "title": "OpenAI pristato taškus: visada įjungtus GPT-6 Astra agentus, kurie veikia iš savo debesies kompiuterių",
+      "link": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
+      "published_iso": "2026-09-29T18:30:13Z",
+      "published_lt": "2026-09-29 18:30 UTC",
+      "summary": "„OpenAI“ šiandien pristatė taškus savo „DevDay“. Taškai yra nuolatiniai AI agentai, kuriuos maitina GPT-6 Astra. Kiekvienas taškas gauna savo debesies kompiuterį ir naršyklę.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-09-30-06-openai-pristato-taskus-visada-ijungtus-gpt-6-astra-agent.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„OpenAI“ šiandien pristatė taškus savo „DevDay“.",
+        "Taškai yra nuolatiniai AI agentai, kuriuos maitina GPT-6 Astra.",
+        "Kiekvienas taškas gauna savo debesies kompiuterį ir naršyklę."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
+        "try_url": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/"
+      }
+    },
+    {
+      "title": "Nebiusas atidaro 2026 m. fizinio AI apdovanojimus: penkis 150 000 USD skaičiavimo kredito prizus",
+      "link": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
+      "published_iso": "2026-09-29T17:48:10Z",
+      "published_lt": "2026-09-29 17:48 UTC",
+      "summary": "„Nebius“ ir „NVIDIA“ rengia 2026 m. „Physical AI Awards“ apdovanojimus pradedantiesiems, turintiems produktus šioje srityje. Kiekvienas penkių kategorijų nugalėtojas gauna 150 000 USD skaičiavimo kreditų, bendrą reklamą, vadovų patarimus ir vietas vadovų vakarienėje. Paraiškų teikimas baigiasi spalio 25 d.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/09/image-3-150x150.png",
+      "image_url": "generated-images/2026-09-30-07-nebiusas-atidaro-2026-m-fizinio-ai-apdovanojimus-penkis-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Nebius“ ir „NVIDIA“ rengia 2026 m.",
+        "„Physical AI Awards“ apdovanojimus pradedantiesiems, turintiems produktus šioje srityje.",
+        "Kiekvienas penkių kategorijų nugalėtojas gauna 150 000 USD skaičiavimo kreditų, bendrą reklamą, vadovų patarimus ir vietas vadovų vakarienėje."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
+        "try_url": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/"
       }
     },
     {
@@ -38,7 +201,7 @@
       "summary": "„Google Cloud AI Research“ turi atvirojo kodo RRSI – sistemą, kuri leidžia LLM agentams perrašyti savo raginimus, įrankius ir atmintį, o modelio svoriai lieka fiksuoti. Tai prideda nuotėkio kritiką, triukšmo lygį, išlaidų taisyklę ir genėjimą, todėl pelnas perkeliamas į naujas užduotis.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-29-02-google-tyrimu-atvirojo-kodo-rrsi-ai-agentai-kurie-tobuli.svg",
+      "image_url": "generated-images/2026-09-30-08-google-tyrimu-atvirojo-kodo-rrsi-ai-agentai-kurie-tobuli.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -65,7 +228,7 @@
       "summary": "„H Company“ išleido „Holo4“ – bendrų kompiuterių naudojimo modelių, skirtų AI agentams, šeimą. Vienas svarmenų rinkinys spustelėja ir įveda ekranus. Jis taip pat rašo kodą ir iškviečia MCP arba API įrankius.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-29-03-h-imone-isleidzia-holo4-atviro-svorio-kompiuterinio-naud.svg",
+      "image_url": "generated-images/2026-09-30-09-h-imone-isleidzia-holo4-atviro-svorio-kompiuterinio-naud.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -93,7 +256,7 @@
       "summary": "„Alibaba“ „Qwen“ komanda išleido „Qwen-Audio-3.1-Realtime“ – dvipusio balso modelį, išmokytą mąstyti, iškviesti įrankius ir nuspręsti, kada kalbėti. Pritaikius τ-Voice, užduoties sėkmė padidėja iki 82,0 % nuo 78,4 %. Atsakymų į foninę kalbą sumažėjo nuo 73% iki 13%.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-29-04-alibaba-qwen-isleido-qwen-audio-3-1-realtime-visiskai-dv.svg",
+      "image_url": "generated-images/2026-09-30-10-alibaba-qwen-isleido-qwen-audio-3-1-realtime-visiskai-dv.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -117,16 +280,16 @@
       "link": "https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/",
       "published_iso": "2026-09-29T04:20:59Z",
       "published_lt": "2026-09-29 04:20 UTC",
-      "summary": "Anthropic išleido Claude Sonnet 5.5, antrąjį savo Claude 5.5 šeimos modelį. „Terminal-Bench 4.0“ surinko 70,6 proc., o „GDPval-AA“ yra per 2 taškus nuo Opus 5.5. Jis taip pat generuoja 30%+ greičiau nei „Sonnet 5“ ir išlaiko tą pačią 2 USD / 10 USD už milijoną žetonų kainą.",
+      "summary": "Anthropic išleido Claude Sonnet 5.5, antrąjį savo Claude 5.5 šeimos modelį. „Terminal-Bench 4.0“ surinko 70,6 proc., o „GDPval-AA“ yra per 2 taškus nuo Opus 5.5. Jis taip pat generuoja 30%+ greitesnį našumą nei „Sonnet 5“ ir išlaiko tą pačią 2/10 USD už milijoną žetonų kainą.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-09-29-05-anthropic-releases-claude-sonnet-5-5-70-6-terminalo-sten.svg",
+      "image_url": "generated-images/2026-09-30-11-anthropic-releases-claude-sonnet-5-5-70-6-terminalo-sten.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "Anthropic išleido Claude Sonnet 5.5, antrąjį savo Claude 5.5 šeimos modelį.",
         "„Terminal-Bench 4.0“ surinko 70,6 proc., o „GDPval-AA“ yra per 2 taškus nuo Opus 5.5.",
-        "Jis taip pat generuoja 30%+ greičiau nei „Sonnet 5“ ir išlaiko tą pačią 2 USD / 10 USD už milijoną žetonų kainą."
+        "Jis taip pat generuoja 30%+ greitesnį našumą nei „Sonnet 5“ ir išlaiko tą pačią 2/10 USD už milijoną žetonų kainą."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -140,167 +303,6 @@
       }
     },
     {
-      "title": "„NVIDIA“ pristato „Open Agent“ saugos platformą: „OpenShell Sandboxes“ agentai „Vera“ procesoriuose, o „Sentry“ naudojant „BlueField-4“ juos karantinuoja per milisekundes",
-      "link": "https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/",
-      "published_iso": "2026-09-28T19:21:25Z",
-      "published_lt": "2026-09-28 19:21 UTC",
-      "summary": "NVIDIA pristatė Open Agent saugos platformą – atvirą orientacinį dizainą, kuris užtikrina AI agento saugą už paties agento ribų. „OpenShell“, „Apache 2.0“ vykdymo laikas, sujungia agentus pagal YAML politiką.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-29-06-nvidia-pristato-open-agent-saugos-platforma-openshell-sa.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "NVIDIA pristatė Open Agent saugos platformą – atvirą orientacinį dizainą, kuris užtikrina AI agento saugą už paties agento ribų.",
-        "„OpenShell“, „Apache 2.0“ vykdymo laikas, sujungia agentus pagal YAML politiką."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/",
-        "try_url": "https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/"
-      }
-    },
-    {
-      "title": "Žiūrėkite laimėjusį „Future Vision XPRIZE“ anonsą „The Gifted“.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "published_iso": "2026-09-28T19:00:00Z",
-      "published_lt": "2026-09-28 19:00 UTC",
-      "summary": "Žiūrėkite laimėjusį „Future Vision XPRIZE“ anonsą „The Gifted“.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-09-29-07-ziurekite-laimejusi-future-vision-xprize-anonsa-the-gift.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Žiūrėkite laimėjusį „Future Vision XPRIZE“ anonsą „The Gifted“.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260902-1737"
-      }
-    },
-    {
-      "title": "Fejerverkų dirbtinis intelektas išleido „Ember-1“: „Kimi K3“ po treniruotės, kuris naudoja apie 40% mažiau žetonų",
-      "link": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/",
-      "published_iso": "2026-09-28T07:22:33Z",
-      "published_lt": "2026-09-28 07:22 UTC",
-      "summary": "Fejerverkų dirbtinis intelektas išleido Ember-1, po treniruotės Kimi K3, kuris mokosi sukurti trumpesnius samprotavimo pėdsakus, užuot sumažinęs samprotavimo pastangas. Fejerverkai praneša apie 40 % mažiau žetonų, o išvesties žetonų skaičius vienoje užduotyje sumažėjo nuo 49,3 000 iki 29,9 9 gamybinio A/B testo metu, kai rezultatas iš esmės nepakito.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-29-08-fejerverku-dirbtinis-intelektas-isleido-ember-1-kimi-k3-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Fejerverkų dirbtinis intelektas išleido Ember-1, po treniruotės Kimi K3, kuris mokosi sukurti trumpesnius samprotavimo pėdsakus, užuot sumažinęs samprotavimo pastangas.",
-        "Fejerverkai praneša apie 40 % mažiau žetonų, o išvesties žetonų skaičius vienoje užduotyje sumažėjo nuo 49,3 000 iki 29,9 9 gamybinio A/B testo metu, kai rezultatas iš esmės nepakito.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/",
-        "try_url": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/"
-      }
-    },
-    {
-      "title": "20 „TypeSafe AI“ agento naudojimo atvejų Jev",
-      "link": "https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/",
-      "published_iso": "2026-09-28T03:07:10Z",
-      "published_lt": "2026-09-28 03:07 UTC",
-      "summary": "TypeSafe AI's Jev skips text generation and returns typed decisions with calibrated probabilities. Input costs $0.042 per million tokens and output is free.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-29-09-20-typesafe-ai-agento-naudojimo-atveju-jev.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "TypeSafe AI's Jev skips text generation and returns typed decisions with calibrated probabilities.",
-        "Input costs $0.042 per million tokens and output is free.",
-        "Kaina: Yra nemokamas ir mokamas variantas."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$0.04",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Įvestis kainuoja 0,042 USD už milijoną žetonų, o išvestis yra nemokama.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/",
-        "try_url": "https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/"
-      }
-    },
-    {
-      "title": "„Google Research“ pristato dirbtinio intelekto vaizdo įrašų direktorių: 4 agentų sistemos, skirtos nuosekliems, minučių trukmės vaizdo įrašams kurti",
-      "link": "https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/",
-      "published_iso": "2026-09-28T02:44:27Z",
-      "published_lt": "2026-09-28 02:44 UTC",
-      "summary": "„Google Research“ pristatė AI vaizdo įrašų režisierę, skirtą ilgos formos vaizdo įrašams kurti. 4 agentų rėmų rinkinys trumpus klipus paverčia nuosekliomis, minučių trukmės istorijomis. Jis skirtas tapatybės dreifui ir pakopinėms klaidoms – 2 gedimams, dėl kurių šiandien suardoma daugumą AI vaizdo vamzdžių.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-29-10-google-research-pristato-dirbtinio-intelekto-vaizdo-iras.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google Research“ pristatė AI vaizdo įrašų režisierę, skirtą ilgos formos vaizdo įrašams kurti.",
-        "4 agentų rėmų rinkinys trumpus klipus paverčia nuosekliomis, minučių trukmės istorijomis.",
-        "Jis skirtas tapatybės dreifui ir pakopinėms klaidoms – 2 gedimams, dėl kurių šiandien suardoma daugumą AI vaizdo vamzdžių."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/",
-        "try_url": "https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/"
-      }
-    },
-    {
-      "title": "AI kodavimo agentai įmonėms: IP kompensacija, duomenų rezidencija ir 500 vietų kaina, palyginti",
-      "link": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/",
-      "published_iso": "2026-09-27T05:57:51Z",
-      "published_lt": "2026-09-27 05:57 UTC",
-      "summary": "Perskaitėme „GitHub Copilot“, „AWS Kiro“, „Cursor“, „Devin“ ir „Windsurf“ sutartis. Copilot ir Kiro siūlo neribotą kompensaciją už sugeneruotą kodą. Pažinimo standartinės sąlygos visiškai neapima išvesties.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-09-29-11-ai-kodavimo-agentai-imonems-ip-kompensacija-duomenu-rezi.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Perskaitėme „GitHub Copilot“, „AWS Kiro“, „Cursor“, „Devin“ ir „Windsurf“ sutartis.",
-        "Copilot ir Kiro siūlo neribotą kompensaciją už sugeneruotą kodą.",
-        "Pažinimo standartinės sąlygos visiškai neapima išvesties.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/",
-        "try_url": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/"
-      }
-    },
-    {
       "title": "Waifus gaunamas, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, 5 veiksmas, OpenMuse: AI NAUJIENOS",
       "link": "https://www.youtube.com/watch?v=nX0fgBL3sIM",
       "published_iso": "2026-09-27T03:24:32Z",
@@ -308,7 +310,7 @@
       "summary": "DIDELĖS DI NAUJIENOS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 ir kt. Ačiū mūsų rėmėjui Lumai.",
       "source": "AI Search",
       "source_image_url": "https://i3.ytimg.com/vi/nX0fgBL3sIM/hqdefault.jpg",
-      "image_url": "generated-images/2026-09-29-12-waifus-gaunamas-gpt-6-sol-grok-4-7-opus-5-5-mimo-2-6-5-v.svg",
+      "image_url": "generated-images/2026-09-30-12-waifus-gaunamas-gpt-6-sol-grok-4-7-opus-5-5-mimo-2-6-5-v.svg",
       "kind": "video",
       "video_id": "nX0fgBL3sIM",
       "bullets_lt": [
