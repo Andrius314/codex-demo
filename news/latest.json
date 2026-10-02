@@ -1,321 +1,78 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-10-01",
-  "generated_at_utc": "2026-10-01T14:05:07Z",
+  "digest_date": "2026-10-02",
+  "generated_at_utc": "2026-10-02T13:25:57Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "NVIDIA išleidžia „Kumo Tabular“: „Open Tabular Foundation“ modeliai, kurie numato naujas eilutes vienu perėjimu",
-      "link": "https://www.marktechpost.com/2026/09/30/nvidia-releases-kumo-tabular/",
-      "published_iso": "2026-10-01T06:57:50Z",
-      "published_lt": "2026-10-01 06:57 UTC",
-      "summary": "NVIDIA išleido Kumo Tabular, naują lentelių pagrindo modelių (TFM) šeimą klasifikavimui ir regresijai. Jei sekėte TabPFN arba TabICL, sąranka atrodys pažįstama. Modelis naudoja pažymėtas eilutes kaip kontekstą ir numato naujas eilutes vienu žingsniu į priekį.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-01-01-nvidia-isleidzia-kumo-tabular-open-tabular-foundation-mo.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "NVIDIA išleido Kumo Tabular, naują lentelių pagrindo modelių (TFM) šeimą klasifikavimui ir regresijai.",
-        "Jei sekėte TabPFN arba TabICL, sąranka atrodys pažįstama.",
-        "Modelis naudoja pažymėtas eilutes kaip kontekstą ir numato naujas eilutes vienu žingsniu į priekį."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/30/nvidia-releases-kumo-tabular/",
-        "try_url": "https://www.marktechpost.com/2026/09/30/nvidia-releases-kumo-tabular/"
-      }
-    },
-    {
-      "title": "Perplexity išleidžia pplx-embed-v2-context-9b-preview: kontekstinį įterpimo modelį, kuris atrenka atsakymus ir juos patvirtinančius įrodymus",
-      "link": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
-      "published_iso": "2026-10-01T03:23:39Z",
-      "published_lt": "2026-10-01 03:23 UTC",
-      "summary": "„Perplexity Research“ ir „turbopuffer“ išleido „pplx-embed-v2-context-9b-preview“, kontekstinio įterpimo modelį RAG vamzdynams. Kiekviena dalis yra įterpta, kai matomas visas dokumentas. Tikrasis pokytis yra treniruočių signalas.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-01-02-perplexity-isleidzia-pplx-embed-v2-context-9b-preview-ko.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Perplexity Research“ ir „turbopuffer“ išleido „pplx-embed-v2-context-9b-preview“, kontekstinio įterpimo modelį RAG vamzdynams.",
-        "Kiekviena dalis yra įterpta, kai matomas visas dokumentas.",
-        "Tikrasis pokytis yra treniruočių signalas.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "„Perplexity Research“ ir „turbopuffer“ išleido „pplx-embed-v2-context-9b-preview“, kontekstinio įterpimo modelį RAG vamzdynams.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
-        "try_url": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/"
-      }
-    },
-    {
-      "title": "„Google DeepMind“ pristato „Gemini 4 Argon“ su 1 mln. kodavimo, žinių darbo ir kibernetinės gynybos išvesties žetonų",
-      "link": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
-      "published_iso": "2026-09-30T21:30:08Z",
-      "published_lt": "2026-09-30 21:30 UTC",
-      "summary": "Gemini 4 Argon pranoksta GPT-6 Astra ir Claude Opus 5.5 pagal daugumą etalonų, tačiau prieiga prie šiandien lieka ribota. Įrašas „Google DeepMind“ pristato „Gemini 4“ argoną su 1 mln. kodavimo, žinių darbo ir kibernetinės gynybos išvesties žetonų pirmą kartą pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-01-03-google-deepmind-pristato-gemini-4-argon-su-1-mln-kodavim.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Gemini 4 Argon pranoksta GPT-6 Astra ir Claude Opus 5.5 pagal daugumą etalonų, tačiau prieiga prie šiandien lieka ribota.",
-        "Įrašas „Google DeepMind“ pristato „Gemini 4“ argoną su 1 mln.",
-        "kodavimo, žinių darbo ir kibernetinės gynybos išvesties žetonų pirmą kartą pasirodė „MarkTechPost“."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
-        "try_url": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/"
-      }
-    },
-    {
-      "title": "OpenAI išleido GPT-6.1 Sol: beveik Astra kodavimas ir kompiuterio naudojimas už penktadalį Astra tokeno kainos",
-      "link": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
-      "published_iso": "2026-09-30T21:09:24Z",
-      "published_lt": "2026-09-30 21:09 UTC",
-      "summary": "2026 m. rugsėjo 29 d. OpenAI išleido GPT-6.1 Sol – GPT-6 Sol atnaujinimą. Jis pasiekia beveik Astra rezultatus dėl agentinio kodavimo, kompiuterio naudojimo ir profesionalaus darbo už penktadalį Astra žetonų kainų. Tai kainuoja 2 USD įvesties ir 10 USD išvesties už milijoną žetonų, o talpyklos įvestis sumažėja iki 0,10 USD.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-01-04-openai-isleido-gpt-6-1-sol-beveik-astra-kodavimas-ir-kom.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "2026 m.",
-        "rugsėjo 29 d.",
-        "OpenAI išleido GPT-6.1 Sol – GPT-6 Sol atnaujinimą."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
-        "try_url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/"
-      }
-    },
-    {
-      "title": "„Perplexity“ pristato fotoną: rūdžių paėmimo variklį, kuris sumažina p99 delsą nuo 800 ms iki 65 ms",
-      "link": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
-      "published_iso": "2026-09-30T08:26:52Z",
-      "published_lt": "2026-09-30 08:26 UTC",
-      "summary": "„Perplexity“ išleido „Photon“, vidinį paieškos ir reitingavimo variklį, parašytą „Rust“. Jis pakeičia atvirojo kodo variklį, kurį „Perplexity“ sukūrė savo dirbtinio intelekto paieškos rinkiniui. Dabar „Photon“ tvarko viso gamybos srauto nuskaitymą ir reitingavimą.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-01-05-perplexity-pristato-fotona-rudziu-paemimo-varikli-kuris-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Perplexity“ išleido „Photon“, vidinį paieškos ir reitingavimo variklį, parašytą „Rust“.",
-        "Jis pakeičia atvirojo kodo variklį, kurį „Perplexity“ sukūrė savo dirbtinio intelekto paieškos rinkiniui.",
-        "Dabar „Photon“ tvarko viso gamybos srauto nuskaitymą ir reitingavimą."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
-        "try_url": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/"
-      }
-    },
-    {
-      "title": "NVIDIA tyrėjai pristato Physis-Lang: savaime besivystančią fizinę kalbą, kuri pakelia „Cosmos 3“ ankstesnį „Veo 3.1“ fizikos etalonuose",
-      "link": "https://www.marktechpost.com/2026/09/30/nvidia-researchers-introduce-physis-lang-self-evolving-physical-language-that-lifts-cosmos-3-past-veo-3-1-on-physics-benchmarks/",
-      "published_iso": "2026-09-30T07:32:34Z",
-      "published_lt": "2026-09-30 07:32 UTC",
-      "summary": "Vaizdo įrašų pasaulio modeliai gali pateikti įtikinamus klipus, kurie vis dar laužo fiziką. Sviestas tepasi kaip dažai. Kamuoliai praeina per sienas.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-01-06-nvidia-tyrejai-pristato-physis-lang-savaime-besivystanci.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Vaizdo įrašų pasaulio modeliai gali pateikti įtikinamus klipus, kurie vis dar laužo fiziką.",
-        "Sviestas tepasi kaip dažai.",
-        "Kamuoliai praeina per sienas."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/30/nvidia-researchers-introduce-physis-lang-self-evolving-physical-language-that-lifts-cosmos-3-past-veo-3-1-on-physics-benchmarks/",
-        "try_url": "https://www.marktechpost.com/2026/09/30/nvidia-researchers-introduce-physis-lang-self-evolving-physical-language-that-lifts-cosmos-3-past-veo-3-1-on-physics-benchmarks/"
-      }
-    },
-    {
-      "title": "Vienas blogas raginimas nuvertė įmonės „Salesforce“: RSA atstovas Jimas Tayloras dėl agento ID ir 4000 šešėlinių AI agentų, besislepiančių jūsų įmonėje, sutramdymas",
-      "link": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
-      "published_iso": "2026-09-30T01:30:17Z",
-      "published_lt": "2026-09-30 01:30 UTC",
-      "summary": "RSA pristatė Agent ID AI konferencijoje San Franciske. Tai agentinė tapatybės saugumo platforma, skirta finansams, vyriausybei, sveikatos priežiūrai ir kritinei infrastruktūrai. Atraskite randa sankcionuotus ir šešėlinius agentus bei MCP serverius.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/09/eaikrobvfwg.jpg",
-      "image_url": "generated-images/2026-10-01-07-vienas-blogas-raginimas-nuverte-imones-salesforce-rsa-at.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "RSA pristatė Agent ID AI konferencijoje San Franciske.",
-        "Tai agentinė tapatybės saugumo platforma, skirta finansams, vyriausybei, sveikatos priežiūrai ir kritinei infrastruktūrai.",
-        "Atraskite randa sankcionuotus ir šešėlinius agentus bei MCP serverius."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
-        "try_url": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/"
-      }
-    },
-    {
-      "title": "Liquid AI leidimai d1: sprendimo modelis, kuris grąžina kalibruotas tikimybes su nuliniais išvesties žetonais",
-      "link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
-      "published_iso": "2026-09-29T21:47:09Z",
-      "published_lt": "2026-09-29 21:47 UTC",
-      "summary": "Liquid AI išleido d1 – sprendimų modelį, sukurtą struktūriniams pasirinkimams, o ne teksto generavimui. Pateikiate kontekstą ir atspausdintų klausimų rinkinį. Jis grąžina kalibruotas tikimybes fiksuotam rezultatų rinkiniui per vieną skambutį su nuliu sugeneruotų žetonų.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-01-08-liquid-ai-leidimai-d1-sprendimo-modelis-kuris-grazina-ka.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Liquid AI išleido d1 – sprendimų modelį, sukurtą struktūriniams pasirinkimams, o ne teksto generavimui.",
-        "Pateikiate kontekstą ir atspausdintų klausimų rinkinį.",
-        "Jis grąžina kalibruotas tikimybes fiksuotam rezultatų rinkiniui per vieną skambutį su nuliu sugeneruotų žetonų."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
-        "try_url": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/"
-      }
-    },
-    {
-      "title": "Kurkite greičiau naudodami „Ultrafast“.",
-      "link": "https://www.youtube.com/watch?v=sKltfHvsDQM",
-      "published_iso": "2026-09-29T18:47:34Z",
-      "published_lt": "2026-09-29 18:47 UTC",
-      "summary": "„Ultrafast“ yra kol kas greičiausias būdas kurti naudojant „Astra“: „Codex“ jis veikia iki 8 kartų greičiau nei „Astra Standard“ ir 4 kartus greičiau nei „Astra Fast“. Įgyvendinkite savo idėjas taip greitai, kaip galite jas įvesti.",
+      "title": "The dots demo, take two | OpenAI DevDay 2026",
+      "link": "https://www.youtube.com/watch?v=fHEIw5CcN5U",
+      "published_iso": "2026-10-01T17:20:52Z",
+      "published_lt": "2026-10-01 17:20 UTC",
+      "summary": "Meet dots, always-on AI agents that get to know what matters to you and take work off your plate. See dots in action, from planning a trip to making sense of user feedback and catching up on Slack. https://openai.com/index/introducing-dots/",
       "source": "OpenAI",
-      "source_image_url": "https://i4.ytimg.com/vi/sKltfHvsDQM/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-01-09-kurkite-greiciau-naudodami-ultrafast.svg",
+      "source_image_url": "https://i3.ytimg.com/vi/fHEIw5CcN5U/hqdefault.jpg",
+      "image_url": "generated-images/2026-10-02-01-the-dots-demo-take-two-openai-devday-2026.svg",
       "kind": "video",
-      "video_id": "sKltfHvsDQM",
+      "video_id": "fHEIw5CcN5U",
       "bullets_lt": [
-        "„Ultrafast“ yra kol kas greičiausias būdas kurti naudojant „Astra“: „Codex“ jis veikia iki 8 kartų greičiau nei „Astra Standard“ ir 4 kartus greičiau nei „Astra Fast“.",
-        "Įgyvendinkite savo idėjas taip greitai, kaip galite jas įvesti."
+        "Meet dots, always-on AI agents that get to know what matters to you and take work off your plate.",
+        "See dots in action, from planning a trip to making sense of user feedback and catching up on Slack.",
+        "https://openai.com/index/introducing-dots/.",
+        "Kaina: Labiau panasu i mokama sprendima."
       ],
       "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
+        "kaina": "Labiau panasu i mokama sprendima.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Neaptikta siame saltinyje.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=sKltfHvsDQM",
-        "try_url": "https://www.youtube.com/watch?v=sKltfHvsDQM"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=fHEIw5CcN5U",
+        "try_url": "https://www.youtube.com/watch?v=fHEIw5CcN5U"
       }
     },
     {
-      "title": "OpenAI pristato taškus: visada įjungtus GPT-6 Astra agentus, kurie veikia iš savo debesies kompiuterių",
-      "link": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
-      "published_iso": "2026-09-29T18:30:13Z",
-      "published_lt": "2026-09-29 18:30 UTC",
-      "summary": "„OpenAI“ šiandien pristatė taškus savo „DevDay“. Taškai yra nuolatiniai AI agentai, kuriuos maitina GPT-6 Astra. Kiekvienas taškas turi savo debesies kompiuterį ir naršyklę.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-01-10-openai-pristato-taskus-visada-ijungtus-gpt-6-astra-agent.svg",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "published_iso": "2026-09-28T19:00:00Z",
+      "published_lt": "2026-09-28 19:00 UTC",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-10-02-02-watch-the-winning-trailer-from-the-future-vision-xprize-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„OpenAI“ šiandien pristatė taškus savo „DevDay“.",
-        "Taškai yra nuolatiniai AI agentai, kuriuos maitina GPT-6 Astra.",
-        "Kiekvienas taškas turi savo debesies kompiuterį ir naršyklę."
+        "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
-        "try_url": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/"
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719"
       }
     },
     {
-      "title": "Nebiusas atidaro 2026 m. fizinio AI apdovanojimus: penkis 150 000 USD skaičiavimo kredito prizus",
-      "link": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
-      "published_iso": "2026-09-29T17:48:10Z",
-      "published_lt": "2026-09-29 17:48 UTC",
-      "summary": "„Nebius“ ir „NVIDIA“ rengia 2026 m. „Physical AI Awards“ apdovanojimus pradedantiesiems, turintiems produktus šioje srityje. Kiekvienas penkių kategorijų nugalėtojas gauna 150 000 USD skaičiavimo kreditų, bendrą reklamą, vadovų patarimus ir vietas vadovų vakarienėje. Paraiškų teikimas baigiasi spalio 25 d.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/09/image-3-150x150.png",
-      "image_url": "generated-images/2026-10-01-11-nebiusas-atidaro-2026-m-fizinio-ai-apdovanojimus-penkis-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Nebius“ ir „NVIDIA“ rengia 2026 m.",
-        "„Physical AI Awards“ apdovanojimus pradedantiesiems, turintiems produktus šioje srityje.",
-        "Kiekvienas penkių kategorijų nugalėtojas gauna 150 000 USD skaičiavimo kreditų, bendrą reklamą, vadovų patarimus ir vietas vadovų vakarienėje."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
-        "try_url": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/"
-      }
-    },
-    {
-      "title": "Waifus gaunamas, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, 5 veiksmas, OpenMuse: AI NAUJIENOS",
+      "title": "Waifus incoming, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS",
       "link": "https://www.youtube.com/watch?v=nX0fgBL3sIM",
       "published_iso": "2026-09-27T03:24:32Z",
       "published_lt": "2026-09-27 03:24 UTC",
-      "summary": "DIDELĖS DI NAUJIENOS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 ir kt. Ačiū mūsų rėmėjui Lumai.",
+      "summary": "HUGE AI NEWS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 & more. Thanks to our sponsor Luma.",
       "source": "AI Search",
       "source_image_url": "https://i3.ytimg.com/vi/nX0fgBL3sIM/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-01-12-waifus-gaunamas-gpt-6-sol-grok-4-7-opus-5-5-mimo-2-6-5-v.svg",
+      "image_url": "generated-images/2026-10-02-03-waifus-incoming-gpt-6-sol-grok-4-7-opus-5-5-mimo-2-6-ste.svg",
       "kind": "video",
       "video_id": "nX0fgBL3sIM",
       "bullets_lt": [
-        "DIDELĖS DI NAUJIENOS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 ir kt.",
-        "Ačiū mūsų rėmėjui Lumai."
+        "HUGE AI NEWS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 & more.",
+        "Thanks to our sponsor Luma."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -326,6 +83,237 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=nX0fgBL3sIM",
         "try_url": "https://www.youtube.com/watch?v=nX0fgBL3sIM"
+      }
+    },
+    {
+      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "published_iso": "2026-09-24T08:40:55Z",
+      "published_lt": "2026-09-24 08:40 UTC",
+      "summary": "❤️ Peržiūrėkite „Lambda“ čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 Vaikštančių būtybių vaizdo įrašas ir popierius: https://www.youtube.com/watch?v=kQ2bqz3HPJEpa/per.1/sgo/search/per. Medaus vyniojimo vaizdo įrašas ir popierius: https://www.youtu",
+      "source": "Two Minute Papers",
+      "source_image_url": "https://i4.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
+      "image_url": "generated-images/2026-10-02-04-claude-opus-5-5-ai-an-incredible-leap-forward.svg",
+      "kind": "video",
+      "video_id": "SA9kdAX2Zj0",
+      "bullets_lt": [
+        "❤️ Peržiūrėkite „Lambda“ čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 Vaikštančių būtybių vaizdo įrašas ir popierius: https://www.youtube.com/watch?v=kQ2bqz3HPJEpa/per.1/sgo/search/per.",
+        "Medaus vyniojimo vaizdo įrašas ir popierius: https://www.youtu.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+        "try_url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0"
+      }
+    },
+    {
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "published_iso": "2026-09-23T18:00:00Z",
+      "published_lt": "2026-09-23 18:00 UTC",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-10-02-05-google-beam-expands-with-new-regions-partners-and-custom.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719"
+      }
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "published_iso": "2026-09-18T14:00:00Z",
+      "published_lt": "2026-09-18 14:00 UTC",
+      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-10-02-06-new-experts-join-google-s-ai-economy-team.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719"
+      }
+    },
+    {
+      "title": "Co-creating the future of fashion with Google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "published_iso": "2026-09-18T13:00:00Z",
+      "published_lt": "2026-09-18 13:00 UTC",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-10-02-07-co-creating-the-future-of-fashion-with-google.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719"
+      }
+    },
+    {
+      "title": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "published_iso": "2026-09-17T20:00:00Z",
+      "published_lt": "2026-09-17 20:00 UTC",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-10-02-08-making-global-data-easier-to-explore.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719"
+      }
+    },
+    {
+      "title": "AI for Societal Impact",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "published_iso": "2026-09-15T16:00:00Z",
+      "published_lt": "2026-09-15 16:00 UTC",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+      "image_url": "generated-images/2026-10-02-09-ai-for-societal-impact.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719"
+      }
+    },
+    {
+      "title": "Building AI to accelerate science and improve lives",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "published_iso": "2026-09-15T16:00:00Z",
+      "published_lt": "2026-09-15 16:00 UTC",
+      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-10-02-10-building-ai-to-accelerate-science-and-improve-lives.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "The true measure of AI is who it helps.",
+        "Here’s how it’s impacting lives today.",
+        "We're focused on key areas where advanced technology can help make extraordinary progress …."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+        "try_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
+      }
+    },
+    {
+      "title": "AI for everyone in every language",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "published_iso": "2026-09-15T16:00:00Z",
+      "published_lt": "2026-09-15 16:00 UTC",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-10-02-11-ai-for-everyone-in-every-language.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719"
+      }
+    },
+    {
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "published_iso": "2026-09-15T13:00:00Z",
+      "published_lt": "2026-09-15 13:00 UTC",
+      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-10-02-12-new-insights-from-google-s-ai-economy-atlas.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261001-1719"
       }
     }
   ]
