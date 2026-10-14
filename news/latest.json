@@ -1,19 +1,216 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-10-13",
-  "generated_at_utc": "2026-10-13T14:43:24Z",
+  "digest_date": "2026-10-14",
+  "generated_at_utc": "2026-10-14T12:35:16Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "„OpenAI“ ką tik pakeitė matematikos prasmę",
+      "title": "Kaip „Oracle“ naudoja Codex, kad padėtų verslo vartotojams gauti atsakymus",
+      "link": "https://www.youtube.com/shorts/DTcK95TAZ-k",
+      "published_iso": "2026-10-14T09:35:27Z",
+      "published_lt": "2026-10-14 09:35 UTC",
+      "summary": "Richardas Lamas, „Oracle Applications Lab“ grupės viceprezidentas, pasakoja, kaip jo komanda naudoja „Codex“, kad padėtų verslo vartotojams gauti atsakymus iš įmonės duomenų. Aprašydami norimą rezultatą, vartotojai gali gauti analizę, ataskaitą arba programą, o Codex rinks informaciją iš vidinių sistemų.",
+      "source": "OpenAI",
+      "source_image_url": "https://i1.ytimg.com/vi/DTcK95TAZ-k/hqdefault.jpg",
+      "image_url": "generated-images/2026-10-14-01-kaip-oracle-naudoja-codex-kad-padetu-verslo-vartotojams-.svg",
+      "kind": "video",
+      "video_id": "DTcK95TAZ-k",
+      "bullets_lt": [
+        "Richardas Lamas, „Oracle Applications Lab“ grupės viceprezidentas, pasakoja, kaip jo komanda naudoja „Codex“, kad padėtų verslo vartotojams gauti atsakymus iš įmonės duomenų.",
+        "Aprašydami norimą rezultatą, vartotojai gali gauti analizę, ataskaitą arba programą, o Codex rinks informaciją iš vidinių sistemų."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/DTcK95TAZ-k",
+        "try_url": "https://www.youtube.com/shorts/DTcK95TAZ-k"
+      }
+    },
+    {
+      "title": "9 geriausi 2026 m. dirbtinio intelekto vartai: „Bifrost“, „Portkey“, „LiteLLM“, „Kong“ ir dar 5 reitinguoti",
+      "link": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
+      "published_iso": "2026-10-14T08:57:28Z",
+      "published_lt": "2026-10-14 08:57 UTC",
+      "summary": "„Marktechpost“ reitinguoja 9 geriausius 2026 m. AI šliuzus. Pagal delsą, kainodarą, licencijavimą, valdymą ir diegimą palyginame „Bifrost“, „Portkey“, „LiteLLM“, „Kong“, „TrueFoundry“, „Cloudflare“, „Vercel“, „OpenRouter“ ir „Orq.ai“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-14-02-9-geriausi-2026-m-dirbtinio-intelekto-vartai-bifrost-por.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Marktechpost“ reitinguoja 9 geriausius 2026 m.",
+        "AI šliuzus.",
+        "Pagal delsą, kainodarą, licencijavimą, valdymą ir diegimą palyginame „Bifrost“, „Portkey“, „LiteLLM“, „Kong“, „TrueFoundry“, „Cloudflare“, „Vercel“, „OpenRouter“ ir „Orq.ai“.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Liquid AI išleidžia LFM2.5-24B-A2B: 2B aktyvų MoE, skirtą įrenginio agentams",
+      "link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
+      "published_iso": "2026-10-14T07:50:40Z",
+      "published_lt": "2026-10-14 07:50 UTC",
+      "summary": "Liquid AI išleido LFM2.5-24B-A2B, atviro svorio 24B ekspertų mišinio samprotavimo modelį su 2B aktyviais parametrais. Jis skirtas vietiniams agentams, surinkęs 48,09 balo „LiveClaw“ ir iškoduodamas 184 žetonus per „Apple M5 Max“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-14-03-liquid-ai-isleidzia-lfm2-5-24b-a2b-2b-aktyvu-moe-skirta-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Liquid AI išleido LFM2.5-24B-A2B, atviro svorio 24B ekspertų mišinio samprotavimo modelį su 2B aktyviais parametrais.",
+        "Jis skirtas vietiniams agentams, surinkęs 48,09 balo „LiveClaw“ ir iškoduodamas 184 žetonus per „Apple M5 Max“.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Kontekstas išaugo nuo 32 768 iki 131 072 žetonų.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„Google“ išleido „Gemini 4 Argon“ API su 1 mln. žetonų išvesties limitu",
+      "link": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
+      "published_iso": "2026-10-14T05:03:34Z",
+      "published_lt": "2026-10-14 05:03 UTC",
+      "summary": "„Google“ padarė „Gemini 4 Argon“ prieinamą „Gemini API“, „AI Studio“ ir „Gemini“ programoje. Retas MoE modelis įrašo iki 1 mln. išvesties žetonų ir pirmauja Vals indekse 68,90%. Įrašas „Google“ išleido „Gemini 4“ argono API su 1 mln. žetonų išvesties limitu pirmiausia pasirodė „MarkTechPost“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-14-04-google-isleido-gemini-4-argon-api-su-1-mln-zetonu-isvest.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“ padarė „Gemini 4 Argon“ prieinamą „Gemini API“, „AI Studio“ ir „Gemini“ programoje.",
+        "Retas MoE modelis įrašo iki 1 mln.",
+        "išvesties žetonų ir pirmauja Vals indekse 68,90%.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "$2/, $10",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "žetonų išvesties limitu pirmiausia pasirodė „MarkTechPost“.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
+        "try_url": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/"
+      }
+    },
+    {
+      "title": "„Meta“ pristato „Muse Wonder“ ir „Muse Wonder Full“: gairės, kainos ir kaip juo naudotis",
+      "link": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+      "published_iso": "2026-10-13T22:53:44Z",
+      "published_lt": "2026-10-13 22:53 UTC",
+      "summary": "„Meta“ išleido „Muse Wonder“ ir „Muse Wonder Full“, 1 mln. konteksto agentų modelius. „Muse Wonder“ kainuoja 4 USD / 20 USD už milijoną žetonų „Meta Model API“. „Wonder Full“ pagal „Muse Code“ planus vadovauja „DeepSWE“ ir „SWE-Marathon“.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/10/step1-dev-meta-ai-150x150.jpg",
+      "image_url": "generated-images/2026-10-14-05-meta-pristato-muse-wonder-ir-muse-wonder-full-gaires-kai.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Meta“ išleido „Muse Wonder“ ir „Muse Wonder Full“, 1 mln.",
+        "konteksto agentų modelius.",
+        "„Muse Wonder“ kainuoja 4 USD / 20 USD už milijoną žetonų „Meta Model API“.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "„Muse Wonder Full“ galioja tik mokamuose „Muse Code“ planuose.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Kaip naudoti „Meta“ balansavimo priemonę užduočių išdėstymui ir optimizavimui",
+      "link": "https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/",
+      "published_iso": "2026-10-13T22:14:20Z",
+      "published_lt": "2026-10-13 22:14 UTC",
+      "summary": "Šioje išsamioje kodavimo pamokoje mes tyrinėjame Meta Rebalancer priskyrimo sprendimą, naudodami C++ branduolį ir Python sąsajas. Sužinokite, kaip kurti duomenų centrus, tvarkyti užduočių išdėstymą stelažuose, tvarkyti suvaržymus ir tikslų prioritetus ir palyginti vietinę paiešką su tiksliu HiGHS sprendikliu, naudodami paskelbtus etalonus.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-14-06-kaip-naudoti-meta-balansavimo-priemone-uzduociu-isdestym.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Šioje išsamioje kodavimo pamokoje mes tyrinėjame Meta Rebalancer priskyrimo sprendimą, naudodami C++ branduolį ir Python sąsajas.",
+        "Sužinokite, kaip kurti duomenų centrus, tvarkyti užduočių išdėstymą stelažuose, tvarkyti suvaržymus ir tikslų prioritetus ir palyginti vietinę paiešką su tiksliu HiGHS sprendikliu, naudodami paskelbtus etalonus.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "README_TASKS = {f\"užduotis{i}\": 10.0 i diapazone(4)} README_CAPS = {\"host0\": 20.0, \"host1\": 20.0} def readme_model(start, solver_spec): p = new_problem(start)memory p. README_TASKS) p.add_container_dimension(\"atmintis...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Dvyniai 4 Argonas: Sukurtas siekiant išspręsti sunkiausias jūsų problemas",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "published_iso": "2026-10-13T16:00:00Z",
+      "published_lt": "2026-10-13 16:00 UTC",
+      "summary": "Suteikiame kūrėjams, įmonėms, mokslininkams ir vartotojams prieigą prie Gemini 4 Argon, mūsų naujausio pasienio modelio.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-10-14-07-dvyniai-4-argonas-sukurtas-siekiant-isspresti-sunkiausia.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Suteikiame kūrėjams, įmonėms, mokslininkams ir vartotojams prieigą prie Gemini 4 Argon, mūsų naujausio pasienio modelio.",
+        "Kaina: Labiau panasu i mokama sprendima."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+        "try_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      }
+    },
+    {
+      "title": "Naujasis „OpenAI“ AI daro tai, ką mes vos suprantame",
       "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
       "published_iso": "2026-10-13T08:56:12Z",
       "published_lt": "2026-10-13 08:56 UTC",
       "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Dokumentus rasite čia: https://openai.com/index/sharing-ai-progress-in-mathematics/ https://github.com/openai/math",
       "source": "Two Minute Papers",
       "source_image_url": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-13-01-openai-ka-tik-pakeite-matematikos-prasme.svg",
+      "image_url": "generated-images/2026-10-14-08-naujasis-openai-ai-daro-tai-ka-mes-vos-suprantame.svg",
       "kind": "video",
       "video_id": "z_sXLlLVUls",
       "bullets_lt": [
@@ -39,7 +236,7 @@
       "summary": "Z.ai GLM-Legal yra legalus AI modelis, sukurtas naudojant GLM-5.3-Flash. Pagal Harvey's Legal Agent Benchmark, jis pasiekia 19,2 %, tai yra beveik 3 kartus didesnis už bazę, už 0,15 USD už testą. Prieiga yra naudojant programą.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-13-02-z-ai-glm-legal-iveikia-claude-fable-5-ir-kimi-k3-harvey-.svg",
+      "image_url": "generated-images/2026-10-14-09-z-ai-glm-legal-iveikia-claude-fable-5-ir-kimi-k3-harvey-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -69,7 +266,7 @@
       "summary": "„Alibaba“ „Qwen“ komanda pristatė „QwenGyre“ – elastingą mokymosi RL sistemą, skirtą itin ilgo horizonto agentų mokymui. QwenGyre yra internetinė sustiprinimo mokymosi sistema iš Alibaba, kuri moko kodavimo agentus per nemodifikuotus juodosios dėžės diržus.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-13-03-alibaba-qwen-pristato-qwengyre-elastinio-sutvirtinimo-mo.svg",
+      "image_url": "generated-images/2026-10-14-10-alibaba-qwen-pristato-qwengyre-elastinio-sutvirtinimo-mo.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -82,39 +279,11 @@
         "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Tai taikoma išleidimams, kurie trunka valandas ir apdorojami beveik 1 mln. žetonų.",
+        "online_limitai": "Jis skirtas išleidimams, kurie trunka valandas ir apdorojami beveik 1 mln. žetonų.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
         "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Kodo peržiūra nebėra kliūtis",
-      "link": "https://www.youtube.com/watch?v=IZXv6a78NDw",
-      "published_iso": "2026-10-12T16:00:08Z",
-      "published_lt": "2026-10-12 16:00 UTC",
-      "summary": "Kodo peržiūra yra nauja kliūtis. „Codex“ vienoje vietoje pateikia užklausas, atsiliepimus apie peržiūrą ir privačius pokalbius apie jūsų kodą. Sužinokite, kaip rasti apžvalgas įvairiose saugyklose, suprasti pokyčius ir riziką, taikyti komandos peržiūros gaires ir kurti komentarų juodraščius nekeičiant įrankių.",
-      "source": "OpenAI",
-      "source_image_url": "https://i2.ytimg.com/vi/IZXv6a78NDw/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-13-04-kodo-perziura-nebera-kliutis.svg",
-      "kind": "video",
-      "video_id": "IZXv6a78NDw",
-      "bullets_lt": [
-        "Kodo peržiūra yra nauja kliūtis.",
-        "„Codex“ vienoje vietoje pateikia užklausas, atsiliepimus apie peržiūrą ir privačius pokalbius apie jūsų kodą.",
-        "Sužinokite, kaip rasti apžvalgas įvairiose saugyklose, suprasti pokyčius ir riziką, taikyti komandos peržiūros gaires ir kurti komentarų juodraščius nekeičiant įrankių.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=IZXv6a78NDw",
-        "try_url": "https://www.youtube.com/watch?v=IZXv6a78NDw"
       }
     },
     {
@@ -125,23 +294,21 @@
       "summary": "Patikrinome 12 DI tiesioginio vertimo įrankių, įskaitant Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter ir Wordly, pagal oficialius puslapius pagal kalbas, delsą, platformas ir kainas. Įrašas 12 populiariausių AI tiesioginio vertimo įrankių 2026 m.: delsa, kalbos, kainodara pirmiausia pasirodė „MarkTechPost“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-13-05-12-populiariausiu-di-tiesioginio-vertimo-irankiu-2026-m-.svg",
+      "image_url": "generated-images/2026-10-14-11-12-populiariausiu-di-tiesioginio-vertimo-irankiu-2026-m-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "Patikrinome 12 DI tiesioginio vertimo įrankių, įskaitant Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter ir Wordly, pagal oficialius puslapius pagal kalbas, delsą, platformas ir kainas.",
         "Įrašas 12 populiariausių AI tiesioginio vertimo įrankių 2026 m.: delsa, kalbos, kainodara pirmiausia pasirodė „MarkTechPost“.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Prieinama kaip beta/preview."
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$0.04 per, $60 per month",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Jis veikia programėlėje Vertėjas su bet kokiomis ausinėmis ir „Gemini Live“ API peržiūra.",
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
         "try_url": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/"
       }
@@ -154,7 +321,7 @@
       "summary": "TII išleido „Falcon-ASR“ – 1.6B kalbos atpažinimo modelį arabų kalbai su Emyratų akcentu. Ji praneša apie 20,92 % vidutinį WER 6 arabiškų bandymų rinkiniuose, tačiau svoriai ir API dar nepasiekiami. Įrašas TII išleidžia „Falcon-ASR“: 1,6 B arabų kalbos modelis pasiekia 20,92 % WER, pirmą kartą pasirodė MarkTechPost.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-13-06-tii-isleidzia-falcon-asr-1-6b-arabu-kalbos-modelis-pasie.svg",
+      "image_url": "generated-images/2026-10-14-12-tii-isleidzia-falcon-asr-1-6b-arabu-kalbos-modelis-pasie.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -174,174 +341,6 @@
         "prieinamumas": "Panasu, kad jau galima bandyti.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
         "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Susipažinkite su Cloudflare Clef-omni: 30B-A3B daugiarūšio garso, vaizdo, vaizdo ir teksto sprendimų modelis",
-      "link": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
-      "published_iso": "2026-10-11T23:15:52Z",
-      "published_lt": "2026-10-11 23:15 UTC",
-      "summary": "„Cloudflare“ išleido „Clef-omni“, „Apache-2.0“ daugiarūšį sprendimų modelį, sukurtą „Qwen3-Omni-30B-A3B“. Vienu skambučiu jis įvertina tekstą, vaizdus, ​​garsą ir vaizdo įrašą už 0,15 USD už milijoną įvesties žetonų, o „Clef-flash“ sumažėja iki 0,038 USD.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-13-07-susipazinkite-su-cloudflare-clef-omni-30b-a3b-daugiarusi.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Cloudflare“ išleido „Clef-omni“, „Apache-2.0“ daugiarūšį sprendimų modelį, sukurtą „Qwen3-Omni-30B-A3B“.",
-        "Vienu skambučiu jis įvertina tekstą, vaizdus, ​​garsą ir vaizdo įrašą už 0,15 USD už milijoną įvesties žetonų, o „Clef-flash“ sumažėja iki 0,038 USD.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Kas yra Sprendimas 3.0? vLLM semantinio maršrutizatoriaus nauji atvirų sprendimų modeliai",
-      "link": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
-      "published_iso": "2026-10-11T21:43:41Z",
-      "published_lt": "2026-10-11 21:43 UTC",
-      "summary": "vLLM Semantic Router išleido Decision 3.0, 5 Apache-2.0 multimodalinius sprendimų modelius nuo 0.8B iki 27B. Jie atsako pasirenkant, taip/ne ir pateikia klausimus apie tekstą ir vaizdus per vieną skambutį, negeneruodami teksto. Įrašas Kas yra sprendimas 3.0?",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-13-08-kas-yra-sprendimas-3-0-vllm-semantinio-marsrutizatoriaus.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "vLLM Semantic Router išleido Decision 3.0, 5 Apache-2.0 multimodalinius sprendimų modelius nuo 0.8B iki 27B.",
-        "Jie atsako pasirenkant, taip/ne ir pateikia klausimus apie tekstą ir vaizdus per vieną skambutį, negeneruodami teksto.",
-        "Įrašas Kas yra sprendimas 3.0?",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Kūrėjams tai yra greitas būdas klasifikuoti, nukreipti ir nukreipti užklausas neanalizuojant sugeneruoto teksto.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„OrcaRouter“ išleido „OrcaCyber ​​Zero 1.5“ kibernetinio saugumo modelį su 1 mln.",
-      "link": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
-      "published_iso": "2026-10-11T06:20:21Z",
-      "published_lt": "2026-10-11 06:20 UTC",
-      "summary": "„OrcaRouter“ išleido „OrcaCyber ​​Zero 1.5“ – uždarą kibernetinio saugumo modelį su 1M žetono konteksto langu. Ji praneša apie 100% „Cybench“ ir 95,8% apie vertinamą „CVE-Bench“ pogrupį, kurio kaina yra 3,00 USD / 7,50 USD už 1 mln.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-13-09-orcarouter-isleido-orcacyber-zero-1-5-kibernetinio-saugu.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„OrcaRouter“ išleido „OrcaCyber ​​Zero 1.5“ – uždarą kibernetinio saugumo modelį su 1M žetono konteksto langu.",
-        "Ji praneša apie 100% „Cybench“ ir 95,8% apie vertinamą „CVE-Bench“ pogrupį, kurio kaina yra 3,00 USD / 7,50 USD už 1 mln.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
-        "try_url": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/"
-      }
-    },
-    {
-      "title": "Nauji AI fermentai, daugiau nei 700 matematikos laimėjimų, dirbtinis intelektas DNR mutacijoms, kambario temperatūros puslaidininkiai: DI NAUJIENOS",
-      "link": "https://www.youtube.com/watch?v=X0_GDOkLKzQ",
-      "published_iso": "2026-10-11T03:27:53Z",
-      "published_lt": "2026-10-11 03:27 UTC",
-      "summary": "DIDELĖS DI NAUJIENOS: OpenAI matematikos laimėjimai, AlphaProtein Novo, Botanic-1, Iris 3B, Kandinsky 6.0, Mistral Large 4, Haiku 5.5 ir kt. Ačiū mūsų rėmėjui Higgsfield.",
-      "source": "AI Search",
-      "source_image_url": "https://i1.ytimg.com/vi/X0_GDOkLKzQ/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-13-10-nauji-ai-fermentai-daugiau-nei-700-matematikos-laimejimu.svg",
-      "kind": "video",
-      "video_id": "X0_GDOkLKzQ",
-      "bullets_lt": [
-        "DIDELĖS DI NAUJIENOS: OpenAI matematikos laimėjimai, AlphaProtein Novo, Botanic-1, Iris 3B, Kandinsky 6.0, Mistral Large 4, Haiku 5.5 ir kt.",
-        "Ačiū mūsų rėmėjui Higgsfield.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=X0_GDOkLKzQ",
-        "try_url": "https://www.youtube.com/watch?v=X0_GDOkLKzQ"
-      }
-    },
-    {
-      "title": "„Sakana AI“ LLM tarpusavio peržiūros sistema sulaiko 73 % pagrindinių pretenzijų klaidų",
-      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
-      "published_iso": "2026-10-10T22:02:18Z",
-      "published_lt": "2026-10-10 22:02 UTC",
-      "summary": "Sakana AI TMLR dokumente pristatoma daugiasluoksnė apžvalga, 3 agentų Claude'o recenzentas ir 1 164 klaidų prieštaravimo etalonas. MLR užfiksavo 73,43 % pagrindinių reikalavimų klaidų, palyginti su 14,81 % geriausios ankstesnės sistemos atveju.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-13-11-sakana-ai-llm-tarpusavio-perziuros-sistema-sulaiko-73-pa.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Sakana AI TMLR dokumente pristatoma daugiasluoksnė apžvalga, 3 agentų Claude'o recenzentas ir 1 164 klaidų prieštaravimo etalonas.",
-        "MLR užfiksavo 73,43 % pagrindinių reikalavimų klaidų, palyginti su 14,81 % geriausios ankstesnės sistemos atveju."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
-        "try_url": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/"
-      }
-    },
-    {
-      "title": "Kai saugos testas tapo grėsme: mašina, kuri rado savo išeitį",
-      "link": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
-      "published_iso": "2026-10-10T21:30:36Z",
-      "published_lt": "2026-10-10 21:30 UTC",
-      "summary": "2026 m. liepos mėn. pasienio dirbtinio intelekto agentai, patalpinti kibernetinio saugumo bandymų smėlio dėžėje, pavadintoje ExploitGym, aptiko netikėtą tinklo kelią, įsiveržė į atvirą internetą ir savarankiškai sukompromitavo Hugging Face infrastruktūrą per vieną precedento neturinčių AI saugos incidentų istorijoje.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-13-12-kai-saugos-testas-tapo-gresme-masina-kuri-rado-savo-isei.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "2026 m.",
-        "liepos mėn.",
-        "pasienio dirbtinio intelekto agentai, patalpinti kibernetinio saugumo bandymų smėlio dėžėje, pavadintoje ExploitGym, aptiko netikėtą tinklo kelią, įsiveržė į atvirą internetą ir savarankiškai sukompromitavo Hugging Face infrastruktūrą per vieną precedento neturinčių AI saugos incidentų istorijoje.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
-        "try_url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/"
       }
     }
   ]
