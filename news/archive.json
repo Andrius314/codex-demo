@@ -1,7 +1,358 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-10-19T14:14:01Z",
+  "updated_at_utc": "2026-10-20T12:27:42Z",
   "digests": [
+    {
+      "digest_date": "2026-10-20",
+      "generated_at_utc": "2026-10-20T12:27:42Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„Exa 3.0 Search API“ 8 etalonuose yra sudėtingesnis, drąsus ir lygiagretus",
+          "link": "https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/",
+          "published_iso": "2026-10-20T08:12:21Z",
+          "published_lt": "2026-10-20 08:12 UTC",
+          "summary": "„Exa 3.0“ yra „Exa“ paieškos API naujinimas. Pridedamas didesnis įterpimo modelis „Exa Lite“ už 4 USD už 1 000 užklausų ir „Dynamic Highlights“ bei pirmauja 8 etalonuose, kuriuos „Exa“ atliko pati. Įrašas „Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks“ pirmą kartą pasirodė „MarkTechPost“.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-10-20-01-exa-3-0-search-api-8-etalonuose-yra-sudetingesnis-drasus.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Exa 3.0“ yra „Exa“ paieškos API naujinimas.",
+            "Pridedamas didesnis įterpimo modelis „Exa Lite“ už 4 USD už 1 000 užklausų ir „Dynamic Highlights“ bei pirmauja 8 etalonuose, kuriuos „Exa“ atliko pati.",
+            "Įrašas „Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks“ pirmą kartą pasirodė „MarkTechPost“.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "$4 per",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "„Exa 3.0“ paieškos API paleidžiama kartu su „Exa Lite“ už 4 USD už 1 000 užklausų ir veda į 8 savarankiškai praneštus etalonus (AI paieškos API etalonus) Naujienų centro naujienų centro „Premium“ turinys Skaitykite mū...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„Cloudflare“ išleido „Clairic“, „System One“ ištraukimo modelį, skirtą darbuotojų AI",
+          "link": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
+          "published_iso": "2026-10-20T07:45:41Z",
+          "published_lt": "2026-10-20 07:45 UTC",
+          "summary": "„Cloudflare“ peržiūrėjo „Clairic“, „System One“ išskyrimo modelį, skirtą „Workers AI“, kuris grąžina įvestas reikšmes su patikimumo balais vienu perėjimu į priekį. Tai kainuoja 0,10 USD už milijoną įvesties žetonų ir nieko nekainuoja už išvestį.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-10-20-02-cloudflare-isleido-clairic-system-one-istraukimo-modeli-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Cloudflare“ peržiūrėjo „Clairic“, „System One“ išskyrimo modelį, skirtą „Workers AI“, kuris grąžina įvestas reikšmes su patikimumo balais vienu perėjimu į priekį.",
+            "Tai kainuoja 0,10 USD už milijoną įvesties žetonų ir nieko nekainuoja už išvestį.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Ieškoti Pagrindinis Atvirojo kodo / Weights AI agentai Mokymai Balso AI Robotics Naujienlaiškis Bendradarbiaukite su mumis Pagrindinis puslapis Redaktoriai Pasirinkite „Agentic AI“ „Cloudflare“ išleido „Clairic“, „Sys...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Inception išleidžia Mercury 3 Diffusion LLM 1 068 žetonais per sekundę",
+          "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+          "published_iso": "2026-10-20T03:32:43Z",
+          "published_lt": "2026-10-20 03:32 UTC",
+          "summary": "„Inception“ išleido „Mercury 3“, difuzinį LLM, kuris, kaip teigiama, veikia 1 068 žetonų per sekundę greičiu su 1 mln. Ant Inception lentelės jis pirmauja GPT-6 Luna ir Claude Haiku 5.5 8 iš 12 etalonų. Įrašas „Inception“ išleidžia „Mercury 3 Diffusion LLM“ su 1 068 žetonais per sekundę appeared first on MarkTechPost.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-10-20-03-inception-isleidzia-mercury-3-diffusion-llm-1-068-zetona.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Inception“ išleido „Mercury 3“, difuzinį LLM, kuris, kaip teigiama, veikia 1 068 žetonų per sekundę greičiu su 1 mln.",
+            "Ant Inception lentelės jis pirmauja GPT-6 Luna ir Claude Haiku 5.5 8 iš 12 etalonų.",
+            "Įrašas „Inception“ išleidžia „Mercury 3 Diffusion LLM“ su 1 068 žetonais per sekundę appeared first on MarkTechPost.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Inception Mercury 3 difuzijos LLM pasiekia 1068 žetonus per sekundę, siūlo 1M kontekstą ir pirmauja 8 iš 12 etalonų.",
+            "lokalus_reikalavimai": "Aptikta: NVIDIA GPU",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Naujas populiariausias vietinis AI vaizdų generatorius jau čia!",
+          "link": "https://www.youtube.com/watch?v=cUeZMUGCxrw",
+          "published_iso": "2026-10-20T03:24:08Z",
+          "published_lt": "2026-10-20 03:24 UTC",
+          "summary": "MOSS Vaizdo peržiūra ir pamoka. Kaip naudoti MOSS vaizdą ComfyUI. Kaip redaguoti vaizdus naudojant MOSS.",
+          "source": "AI Search",
+          "source_image_url": "https://i4.ytimg.com/vi/cUeZMUGCxrw/hqdefault.jpg",
+          "image_url": "generated-images/2026-10-20-04-naujas-populiariausias-vietinis-ai-vaizdu-generatorius-j.svg",
+          "kind": "video",
+          "video_id": "cUeZMUGCxrw",
+          "bullets_lt": [
+            "MOSS Vaizdo peržiūra ir pamoka.",
+            "Kaip naudoti MOSS vaizdą ComfyUI.",
+            "Kaip redaguoti vaizdus naudojant MOSS."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=cUeZMUGCxrw",
+            "try_url": "https://www.youtube.com/watch?v=cUeZMUGCxrw"
+          }
+        },
+        {
+          "title": "Susipažinkite su Drex Max: Nace AI daugiarūšiu sprendimų modeliu, skirtu kompiuterių naudojimo agentams, kurio balas 67,59",
+          "link": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
+          "published_iso": "2026-10-20T00:03:38Z",
+          "published_lt": "2026-10-20 00:03 UTC",
+          "summary": "„Nace AI“ išleido „Drex Max“ – daugiarūšį sprendimų modelį, kuris skaito tekstą ir ekrano kopijas bei grąžina kalibruotas tikimybes. Nace praneša apie 67,59, kai sprendimų indeksas yra 0,3,2, esant 0,06 USD už 1 mln. įvesties žetonų.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-10-20-05-susipazinkite-su-drex-max-nace-ai-daugiarusiu-sprendimu-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Nace AI“ išleido „Drex Max“ – daugiarūšį sprendimų modelį, kuris skaito tekstą ir ekrano kopijas bei grąžina kalibruotas tikimybes.",
+            "Nace praneša apie 67,59, kai sprendimų indeksas yra 0,3,2, esant 0,06 USD už 1 mln.",
+            "įvesties žetonų.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "$0.06 per",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Nace AI „Drex Max“ daugiarūšis sprendimų modelis surinko 67,59 balo pagal sprendimų indeksą 0,3,2 už 0,06 USD už 1 mln.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Maisto gaminimas naudojant Codex: Ep. 1",
+          "link": "https://www.youtube.com/watch?v=DQHtmW9ZlIs",
+          "published_iso": "2026-10-19T22:55:26Z",
+          "published_lt": "2026-10-19 22:55 UTC",
+          "summary": "Šioje „Cooking with Codex“ serijoje „OpenAI“ taškas padeda planuoti rameno receptą ir organizuoti pasiruošimą „ChatGPT Space“, o GPT-Live vadovauja gaminimo procesui.",
+          "source": "OpenAI",
+          "source_image_url": "https://i1.ytimg.com/vi/DQHtmW9ZlIs/hqdefault.jpg",
+          "image_url": "generated-images/2026-10-20-06-maisto-gaminimas-naudojant-codex-ep-1.svg",
+          "kind": "video",
+          "video_id": "DQHtmW9ZlIs",
+          "bullets_lt": [
+            "Šioje „Cooking with Codex“ serijoje „OpenAI“ taškas padeda planuoti rameno receptą ir organizuoti pasiruošimą „ChatGPT Space“, o GPT-Live vadovauja gaminimo procesui.",
+            "Kaina: Labiau panasu i mokama sprendima."
+          ],
+          "practical": {
+            "kaina": "Labiau panasu i mokama sprendima.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=DQHtmW9ZlIs",
+            "try_url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs"
+          }
+        },
+        {
+          "title": "„MiniMax“ ką tik pristatė M3.1 „Flash“: 428B MoE agento modelis už 0,15 USD/M įvestis",
+          "link": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+          "published_iso": "2026-10-19T12:37:58Z",
+          "published_lt": "2026-10-19 12:37 UTC",
+          "summary": "MiniMax išleido M3.1 Flash, 428B parametrų MoE modelį su maždaug 23B aktyvių parametrų ir 1M žetono kontekstu. API kaina yra 0,15 USD / 0,60 USD už 1 mln. žetonų, o svoriai turi būti sumokėti spalio 23 d. The post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model už 0,15 USD/M įvestis appeared first on MarkTechPost .",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-10-20-07-minimax-ka-tik-pristate-m3-1-flash-428b-moe-agento-model.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "MiniMax išleido M3.1 Flash, 428B parametrų MoE modelį su maždaug 23B aktyvių parametrų ir 1M žetono kontekstu.",
+            "API kaina yra 0,15 USD / 0,60 USD už 1 mln.",
+            "žetonų, o svoriai turi būti sumokėti spalio 23 d.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "$0.15, $0.15/, $0.15 per",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Ieškoti Pagrindinis Atvirojo kodo / Svoriai AI agentai Mokymai Balso AI Robotikos naujienlaiškis Bendradarbiaukite su mumis Pagrindinis puslapis Redaktoriai Pasirinkite ką tik paleistą „Agentic AI MiniMax“ M3.1 Flash:...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Dvyniai 4 Argonas nėra tai, ko tikėjausi",
+          "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+          "published_iso": "2026-10-19T08:49:21Z",
+          "published_lt": "2026-10-19 08:49 UTC",
+          "summary": "❤️ Patikrinkite „Lambda“ čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 „Gemini 4 Argon +“ ataskaitą galite rasti čia: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/deepmind-media_re_Sources.pdfafeminity https://x.com/thebuggeddev/status/211024199",
+          "source": "Two Minute Papers",
+          "source_image_url": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
+          "image_url": "generated-images/2026-10-20-08-dvyniai-4-argonas-nera-tai-ko-tikejausi.svg",
+          "kind": "video",
+          "video_id": "LWxX6vvHfrc",
+          "bullets_lt": [
+            "❤️ Patikrinkite „Lambda“ čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 „Gemini 4 Argon +“ ataskaitą galite rasti čia: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/deepmind-media_re_Sources.pdfafeminity https://x.com/thebuggeddev/status/211024199.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=LWxX6vvHfrc",
+            "try_url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
+          }
+        },
+        {
+          "title": "NVIDIA Open Sources Run:ai Under Apache 2.0, skirta Kubernetes GPU orkestracijai",
+          "link": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
+          "published_iso": "2026-10-19T03:19:18Z",
+          "published_lt": "2026-10-19 03:19 UTC",
+          "summary": "NVIDIA išleido visą Run:ai GPU orkestravimo platformą kaip atvirą kodą pagal Apache 2.0. Leidimas apima KAI planuoklį, CUDA 13.4 GPU skaidymą, kvotų valdymą ir vietinę Kind dev aplinką.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-10-20-09-nvidia-open-sources-run-ai-under-apache-2-0-skirta-kuber.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "NVIDIA išleido visą Run:ai GPU orkestravimo platformą kaip atvirą kodą pagal Apache 2.0.",
+            "Leidimas apima KAI planuoklį, CUDA 13.4 GPU skaidymą, kvotų valdymą ir vietinę Kind dev aplinką.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "NVIDIA Run:ai atvirasis šaltinis suteikia gamybos GPU planavimą, kvotas ir darbo krūvio valdymą kūrėjams.",
+            "lokalus_reikalavimai": "Aptikta: CUDA, NVIDIA GPU",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„Mistral AI“ išleido „Timestral“: 209 mln. prognozuojamų modelių šeimą, kuri lenkia „Google TimesFM-3“",
+          "link": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
+          "published_iso": "2026-10-19T01:18:17Z",
+          "published_lt": "2026-10-19 01:18 UTC",
+          "summary": "„Mistral“ išleido „Timestral“, laiko eilučių pagrindų modelių šeimą nuo 5 iki 209 mln. 209M modelis pirmauja tarp GIFT-Eval, TIME ir fev-bench tarp zero-shot modelių ir veikia su CPU.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-10-20-10-mistral-ai-isleido-timestral-209-mln-prognozuojamu-model.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Mistral“ išleido „Timestral“, laiko eilučių pagrindų modelių šeimą nuo 5 iki 209 mln.",
+            "209M modelis pirmauja tarp GIFT-Eval, TIME ir fev-bench tarp zero-shot modelių ir veikia su CPU.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„TinyFish“ padaro paiešką nemokama: kiek iš tikrųjų kainuoja dirbtinio intelekto agentui skaityti žiniatinklį",
+          "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+          "published_iso": "2026-10-18T18:20:28Z",
+          "published_lt": "2026-10-18 18:20 UTC",
+          "summary": "AI agentas, skaitantis žiniatinklį, moka dviejų rūšių išlaidas. Pirmasis yra gavimo mokestis: kokia yra paieška ar gavimo API sąskaitos už užklausą. Antrasis yra modelio apdorojimas: turinys, perduodamas iš gautų puslapių į AI modelį, sunaudoja žetonus, o samprotavimas ir sugeneruoti atsakymai padidina papildomų išlaidų.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-10-20-11-tinyfish-padaro-paieska-nemokama-kiek-is-tikruju-kainuoj.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "AI agentas, skaitantis žiniatinklį, moka dviejų rūšių išlaidas.",
+            "Pirmasis yra gavimo mokestis: kokia yra paieška ar gavimo API sąskaitos už užklausą.",
+            "Antrasis yra modelio apdorojimas: turinys, perduodamas iš gautų puslapių į AI modelį, sunaudoja žetonus, o samprotavimas ir sugeneruoti atsakymai padidina papildomų išlaidų.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Išskaidome AI agento prieigos rakto išlaidas, konteksto ribas ir etaloninius rezultatus.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„Google Open-Sources Harness2“, rekursinio agento panaudojimo sistema",
+          "link": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+          "published_iso": "2026-10-18T08:15:04Z",
+          "published_lt": "2026-10-18 08:15 UTC",
+          "summary": "„Google Research“ išleido „Harness2“, „Apache-2.0“ sistemą, kuri bandymo metu perrašo agento diržus. Vienas tobulinimo žingsnis padidino GLM-5 11,5 taško „WorkBuddy-Bench“ be svorio atnaujinimų. Įrašas Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on MarkTechPost .",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-10-20-12-google-open-sources-harness2-rekursinio-agento-panaudoji.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google Research“ išleido „Harness2“, „Apache-2.0“ sistemą, kuri bandymo metu perrašo agento diržus.",
+            "Vienas tobulinimo žingsnis padidino GLM-5 11,5 taško „WorkBuddy-Bench“ be svorio atnaujinimų.",
+            "Įrašas Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on MarkTechPost .",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-10-19",
       "generated_at_utc": "2026-10-19T14:14:01Z",
@@ -38814,331 +39165,6 @@
             "prieinamumas": "Neaptikta siame saltinyje.",
             "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260609-1635",
             "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260609-1635"
-          }
-        }
-      ]
-    },
-    {
-      "digest_date": "2026-06-22",
-      "generated_at_utc": "2026-06-22T12:44:34Z",
-      "item_count": 12,
-      "items": [
-        {
-          "title": "„L'Oréal“ pristato „Maybelline“ virtualų išbandymą „ChatGPT“.",
-          "link": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
-          "published_iso": "2026-06-22T10:00:00Z",
-          "published_lt": "2026-06-22 10:00 UTC",
-          "summary": "„L'Oréal“ paskelbė apie bendradarbiavimą su „OpenAI“, kuris į „ChatGPT“ įtrauks „Maybelline New York“ virtualaus makiažo bandymo funkciją. Pranešimas buvo paskelbtas VivaTech 2026. Partnerystė apima pirkėjams skirtus apsipirkimo įrankius, produktų atradimą, reklamos bandomuosius projektus, tyrimus ir vidinio turinio kūrimą.",
-          "source": "AI News",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-06-22-01-l-or-al-pristato-maybelline-virtualu-isbandyma-chatgpt.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„L'Oréal“ paskelbė apie bendradarbiavimą su „OpenAI“, kuris į „ChatGPT“ įtrauks „Maybelline New York“ virtualaus makiažo bandymo funkciją.",
-            "Pranešimas buvo paskelbtas VivaTech 2026.",
-            "Partnerystė apima pirkėjams skirtus apsipirkimo įrankius, produktų atradimą, reklamos bandomuosius projektus, tyrimus ir vidinio turinio kūrimą.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
-            "try_url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/"
-          }
-        },
-        {
-          "title": "MoonMath AI atvirojo kodo HIP dėmesio branduolys, skirtas AMD MI300X, kuris lenkia AITER v3 bet kokia forma ir apvalinimo režimu",
-          "link": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
-          "published_iso": "2026-06-22T07:13:49Z",
-          "published_lt": "2026-06-22 07:13 UTC",
-          "summary": "HIP branduolys naudoja vienos instrukcijos asm įvynioklius ir aštuonių bangų vamzdyną, kad būtų pranašesnis už AMD AITER v3 MI300X. Įrašas „MoonMath AI Open-Source“ sukuria HIP dėmesio branduolį, skirtą AMD MI300X, kuris įveikia AITER v3 kiekvienoje formoje ir apvalinimo režimu, pirmasis pasirodė „MarkTechPost“.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-06-22-02-moonmath-ai-atvirojo-kodo-hip-demesio-branduolys-skirtas.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "HIP branduolys naudoja vienos instrukcijos asm įvynioklius ir aštuonių bangų vamzdyną, kad būtų pranašesnis už AMD AITER v3 MI300X.",
-            "Įrašas „MoonMath AI Open-Source“ sukuria HIP dėmesio branduolį, skirtą AMD MI300X, kuris įveikia AITER v3 kiekvienoje formoje ir apvalinimo režimu, pirmasis pasirodė „MarkTechPost“.",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
-            "try_url": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/"
-          }
-        },
-        {
-          "title": "Kaip sukurti „Python-First“ interaktyvias informacijos suvestines su surenkamais reaktyviais vartotojo sąsajos komponentais ir statiniu HTML eksportu",
-          "link": "https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/",
-          "published_iso": "2026-06-22T00:13:29Z",
-          "published_lt": "2026-06-22 00:13 UTC",
-          "summary": "Šiame vadove kuriame surenkamąją programą, kuri kuria interaktyvias informacijos suvestines vien tik Python. Kuriame operacijų prietaisų skydelį su reaktyvia būsena, diagramomis, lentelėmis, filtrais, formomis, skirtukais ir metrika. Generuojame sintetinius dujotiekio stebėjimo duomenis ir prijungiame juos prie tiesioginių vartotojo sąsajos valdiklių.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-06-22-03-kaip-sukurti-python-first-interaktyvias-informacijos-suv.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Šiame vadove kuriame surenkamąją programą, kuri kuria interaktyvias informacijos suvestines vien tik Python.",
-            "Kuriame operacijų prietaisų skydelį su reaktyvia būsena, diagramomis, lentelėmis, filtrais, formomis, skirtukais ir metrika.",
-            "Generuojame sintetinius dujotiekio stebėjimo duomenis ir prijungiame juos prie tiesioginių vartotojo sąsajos valdiklių."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/",
-            "try_url": "https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/"
-          }
-        },
-        {
-          "title": "7 agentų atminties tipai: techninis vadovas dirbtinio intelekto inžinieriams",
-          "link": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
-          "published_iso": "2026-06-21T23:12:31Z",
-          "published_lt": "2026-06-21 23:12 UTC",
-          "summary": "Pagal numatytuosius nustatymus LLM yra be pilietybės. Šiame vadove išskaidyti visi 7 tipai – darbinis, semantinis, epizodinis, procedūrinis, paieškos, parametrinis ir perspektyvinis. Tai apima, ką kiekvienas saugo, kur jis gyvena ir kada jį statyti.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-06-22-04-7-agentu-atminties-tipai-techninis-vadovas-dirbtinio-int.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Pagal numatytuosius nustatymus LLM yra be pilietybės.",
-            "Šiame vadove išskaidyti visi 7 tipai – darbinis, semantinis, epizodinis, procedūrinis, paieškos, parametrinis ir perspektyvinis.",
-            "Tai apima, ką kiekvienas saugo, kur jis gyvena ir kada jį statyti.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
-            "try_url": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/"
-          }
-        },
-        {
-          "title": "„Crawlee for Python“: sukurkite žiniatinklio tikrinimo vamzdyną su robotų tvarkymu, nuorodų grafikais ir RAG gabalų eksportu",
-          "link": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
-          "published_iso": "2026-06-21T06:52:10Z",
-          "published_lt": "2026-06-21 06:52 UTC",
-          "summary": "Šiame vadove mes sukuriame visą „Crawlee for Python“ darbo eigą nuo sąrankos iki AI paruoštos išvesties. Sugeneruojame vietinę demonstracinę svetainę, tada tikriname ją naudodami BeautifulSoupCrawler, ParselCrawler ir PlaywrightCrawler.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-06-22-05-crawlee-for-python-sukurkite-ziniatinklio-tikrinimo-vamz.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Šiame vadove mes sukuriame visą „Crawlee for Python“ darbo eigą nuo sąrankos iki AI paruoštos išvesties.",
-            "Sugeneruojame vietinę demonstracinę svetainę, tada tikriname ją naudodami BeautifulSoupCrawler, ParselCrawler ir PlaywrightCrawler."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
-            "try_url": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/"
-          }
-        },
-        {
-          "title": "Naujas robotas, GLM 5.2 pamišimas, AI SPA, nauji pasaulio modeliai, nauji mokslo agentai: AI NAUJIENOS",
-          "link": "https://www.youtube.com/watch?v=kkLlzQqa7MY",
-          "published_iso": "2026-06-21T03:27:43Z",
-          "published_lt": "2026-06-21 03:27 UTC",
-          "summary": "DIDELĖS AI NAUJIENOS: „Boogu Image“, GLM 5.2, „LTX2 Trainer“, „Midjourney Medical“. Ačiū mūsų rėmėjui Higgsfield.",
-          "source": "AI Search",
-          "source_image_url": "https://i4.ytimg.com/vi/kkLlzQqa7MY/hqdefault.jpg",
-          "image_url": "generated-images/2026-06-22-06-naujas-robotas-glm-5-2-pamisimas-ai-spa-nauji-pasaulio-m.svg",
-          "kind": "video",
-          "video_id": "kkLlzQqa7MY",
-          "bullets_lt": [
-            "DIDELĖS AI NAUJIENOS: „Boogu Image“, GLM 5.2, „LTX2 Trainer“, „Midjourney Medical“.",
-            "Ačiū mūsų rėmėjui Higgsfield."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=kkLlzQqa7MY",
-            "try_url": "https://www.youtube.com/watch?v=kkLlzQqa7MY"
-          }
-        },
-        {
-          "title": "„Cisco AI“ pristato FAPO: operatyvų optimizavimą su vamzdynu, naudojant žingsnio lygio nesėkmių priskyrimą ir Claude Code orkestravimą",
-          "link": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
-          "published_iso": "2026-06-20T23:04:55Z",
-          "published_lt": "2026-06-20 23:04 UTC",
-          "summary": "„Cisco Foundation AI“ turi atvirojo kodo FAPO (visiškai automatizuotas raginimų optimizavimas) – Claude Code valdomą sistemą, kuri savarankiškai optimizuoja kelių etapų LLM vamzdynus nuo pradinių raginimų iki tikslinio tikslumo.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-06-22-07-cisco-ai-pristato-fapo-operatyvu-optimizavima-su-vamzdyn.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Cisco Foundation AI“ turi atvirojo kodo FAPO (visiškai automatizuotas raginimų optimizavimas) – Claude Code valdomą sistemą, kuri savarankiškai optimizuoja kelių etapų LLM vamzdynus nuo pradinių raginimų iki tikslinio tikslumo."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
-            "try_url": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/"
-          }
-        },
-        {
-          "title": "„Nous Research“ atnaujina „Hermes“ agentą naudodami tuščio šiferio režimą, kuris prisega įrankių rinkinius per platform_toolsets.cli ir invalid_toolsets",
-          "link": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
-          "published_iso": "2026-06-20T21:50:11Z",
-          "published_lt": "2026-06-20 21:50 UTC",
-          "summary": "„Nous Research“ į savo atvirojo kodo „Hermes Agent“ pridėjo „Blank Slate“ sąrankos režimą. Jis paleidžia agentą, kai viskas išjungta, išskyrus teikėją, modelį, failų operacijas ir terminalą.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-06-22-08-nous-research-atnaujina-hermes-agenta-naudodami-tuscio-s.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Nous Research“ į savo atvirojo kodo „Hermes Agent“ pridėjo „Blank Slate“ sąrankos režimą.",
-            "Jis paleidžia agentą, kai viskas išjungta, išskyrus teikėją, modelį, failų operacijas ir terminalą."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
-            "try_url": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/"
-          }
-        },
-        {
-          "title": "„Yandex“ atvirojo kodo „YaFF“: „Protobuf“ nulinės kopijos laido formatas su beveik struktūros skaitymo greičiu",
-          "link": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
-          "published_iso": "2026-06-20T09:23:59Z",
-          "published_lt": "2026-06-20 09:23 UTC",
-          "summary": "Šiame straipsnyje apžvelgsime YaFF, „Yandex“ atvirojo kodo nulinės kopijos laido formatą, skirtą Protobuf ekosistemai. Mes laikome .proto failą kaip vienintelį tiesos šaltinį, keičiame tik tai, kaip duomenys saugomi atmintyje.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-06-22-09-yandex-atvirojo-kodo-yaff-protobuf-nulines-kopijos-laido.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Šiame straipsnyje apžvelgsime YaFF, „Yandex“ atvirojo kodo nulinės kopijos laido formatą, skirtą Protobuf ekosistemai.",
-            "Mes laikome .proto failą kaip vienintelį tiesos šaltinį, keičiame tik tai, kaip duomenys saugomi atmintyje."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
-            "try_url": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/"
-          }
-        },
-        {
-          "title": "Kaip sukurti prognozavimo vamzdyną naudojant TimeCopilot naudojant pamatų modelius ir automatinį anomalijų aptikimą",
-          "link": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
-          "published_iso": "2026-06-20T09:05:23Z",
-          "published_lt": "2026-06-20 09:05 UTC",
-          "summary": "Su „TimeCopilot“ sukuriame visapusišką prognozavimo darbo eigą iš tikrųjų oro linijų keleivių duomenų skydelyje ir sintetinėse sezoninėse serijose su įterptomis anomalijomis. Vertiname statistinius, pagrindinius ir pasirenkamus GPU pagrįstus modelius naudodami nuolatinį kryžminį patvirtinimą ir kelių klaidų metriką.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-06-22-10-kaip-sukurti-prognozavimo-vamzdyna-naudojant-timecopilot.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Su „TimeCopilot“ sukuriame visapusišką prognozavimo darbo eigą iš tikrųjų oro linijų keleivių duomenų skydelyje ir sintetinėse sezoninėse serijose su įterptomis anomalijomis.",
-            "Vertiname statistinius, pagrindinius ir pasirenkamus GPU pagrįstus modelius naudodami nuolatinį kryžminį patvirtinimą ir kelių klaidų metriką.",
-            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
-            "try_url": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/"
-          }
-        },
-        {
-          "title": "Ką Codex atrakina NTT duomenims",
-          "link": "https://www.youtube.com/watch?v=0JIbgZ544wU",
-          "published_iso": "2026-06-19T22:57:58Z",
-          "published_lt": "2026-06-19 22:57 UTC",
-          "summary": "Pristačius Codex, jis išaugo iki daugiau nei 10 000 aktyvių vartotojų ir vos per kelis mėnesius tapo viena didžiausių vidinių bendruomenių.\" Kalbėjomės su Hiroaki Sato, NTT DATA AI CoE vadovu, kuris suteikė mums įžvalgos apie visus naujus būdus, kaip jo techninės ir netechninės komandos naudoja Codex.",
-          "source": "OpenAI",
-          "source_image_url": "https://i1.ytimg.com/vi/0JIbgZ544wU/hqdefault.jpg",
-          "image_url": "generated-images/2026-06-22-11-ka-codex-atrakina-ntt-duomenims.svg",
-          "kind": "video",
-          "video_id": "0JIbgZ544wU",
-          "bullets_lt": [
-            "Pristačius Codex, jis išaugo iki daugiau nei 10 000 aktyvių vartotojų ir vos per kelis mėnesius tapo viena didžiausių vidinių bendruomenių.\" Kalbėjomės su Hiroaki Sato, NTT DATA AI CoE vadovu, kuris suteikė mums įžvalgos apie visus naujus būdus, kaip jo techninės ir netechninės komandos naudoja Codex.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=0JIbgZ544wU",
-            "try_url": "https://www.youtube.com/watch?v=0JIbgZ544wU"
-          }
-        },
-        {
-          "title": "NVIDIA AI pristato „SpatialClaw“: nemokamą agentą, kuris kodą traktuoja kaip erdvinio samprotavimo veiksmų sąsają",
-          "link": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
-          "published_iso": "2026-06-19T22:51:59Z",
-          "published_lt": "2026-06-19 22:51 UTC",
-          "summary": "SpatialClaw yra netreniruojamas agentas, kuris įrašo Python nuolatiniame branduolyje, kurdamas suvokimo įrankius 3D erdviniam samprotavimui The post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent that Treats Code as the Action Interface for Spatial Reasoning appeared first on MarkTechPost .",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-3.49.19-PM-1-150x150.png",
-          "image_url": "generated-images/2026-06-22-12-nvidia-ai-pristato-spatialclaw-nemokama-agenta-kuris-kod.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "SpatialClaw yra netreniruojamas agentas, kuris įrašo Python nuolatiniame branduolyje, kurdamas suvokimo įrankius 3D erdviniam samprotavimui The post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent that Treats Code as the Action Interface for Spatial Reasoning appeared first on MarkTechPost .",
-            "Kaina: Paminetas nemokamas arba atviro kodo variantas."
-          ],
-          "practical": {
-            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
-            "try_url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/"
           }
         }
       ]
