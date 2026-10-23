@@ -1,10 +1,266 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-10-22",
-  "generated_at_utc": "2026-10-22T12:42:05Z",
+  "digest_date": "2026-10-23",
+  "generated_at_utc": "2026-10-23T12:19:34Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "„TinyFish“ suardo agentų paieškos architektūrą gamybiniams AI agentams",
+      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+      "published_iso": "2026-10-23T08:58:47Z",
+      "published_lt": "2026-10-23 08:58 UTC",
+      "summary": "TinyFish paskelbė du inžinerinių tyrimų straipsnius apie agentinę paiešką. Vienas apibrėžia 7 etapų gamybos architektūrą su įrodymų sutartimis ir ribotais pakartotiniais bandymais. Kitas paaiškina, kodėl jos giliųjų tyrimų sistema atsisakė atskiro planuotojo ir užklausos antrinių agentų.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-23-01-tinyfish-suardo-agentu-paieskos-architektura-gamybiniams.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "TinyFish paskelbė du inžinerinių tyrimų straipsnius apie agentinę paiešką.",
+        "Vienas apibrėžia 7 etapų gamybos architektūrą su įrodymų sutartimis ir ribotais pakartotiniais bandymais.",
+        "Kitas paaiškina, kodėl jos giliųjų tyrimų sistema atsisakė atskiro planuotojo ir užklausos antrinių agentų.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$0.05",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Ieškoti Pagrindinis Atvirojo kodo / Svoriai AI agentai Mokymai Balso AI Robotikos naujienlaiškis Reklamuokite kartu su mumis Pagrindinis puslapis Redaktoriai Pasirinkite Agentišką AI TinyFish suardo Agentišką paieškos...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„Google Cloud“ paleidžia „Agent Compute Engine“: „MicroVM“ vienam AI agentui",
+      "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+      "published_iso": "2026-10-23T06:05:10Z",
+      "published_lt": "2026-10-23 06:05 UTC",
+      "summary": "„Google Cloud“ paskelbė apie „Agent Compute Engine“ – skaičiavimo paslaugą, kuri kiekvienam AI agentui suteikia savo aparatinės įrangos izoliuotą „microVM“ be jokių kredencialų. Jame jau veikia „Gemini“ agentai ir ateinančiais mėnesiais jis bus peržiūrėtas.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-23-02-google-cloud-paleidzia-agent-compute-engine-microvm-vien.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google Cloud“ paskelbė apie „Agent Compute Engine“ – skaičiavimo paslaugą, kuri kiekvienam AI agentui suteikia savo aparatinės įrangos izoliuotą „microVM“ be jokių kredencialų.",
+        "Jame jau veikia „Gemini“ agentai ir ateinančiais mėnesiais jis bus peržiūrėtas.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "„Google Agent Compute Engine“ suteikia dirbtinio intelekto agentams nuo aparatinės įrangos izoliuotus „microVM“ su nuliniais kredencialais, kuriuos bus galima peržiūrėti per ateinančius mėnesius.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "You.com pristato išvadų maršruto parinktuvą: 12 atviro svorio modelių su 99,9 % veikimo laiko SLA",
+      "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+      "published_iso": "2026-10-23T05:28:21Z",
+      "published_lt": "2026-10-23 05:28 UTC",
+      "summary": "You.com pristatė Inference Router, su OpenAI suderinamą API, skirtą 12 atviro svorio modelių su 99,9 % veiksnumo SLA, nuliniu duomenų išsaugojimu, 100 % JAV priegloba, serverio žiniatinklio paieška ir be platformos mokesčio. Įrašas You.com pristato išvadų maršrutizatorių: 12 atviro svorio modelių su 99,9 % veikimo laiko SLA appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-23-03-you-com-pristato-isvadu-marsruto-parinktuva-12-atviro-sv.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "You.com pristatė Inference Router, su OpenAI suderinamą API, skirtą 12 atviro svorio modelių su 99,9 % veiksnumo SLA, nuliniu duomenų išsaugojimu, 100 % JAV priegloba, serverio žiniatinklio paieška ir be platformos mokesčio.",
+        "Įrašas You.com pristato išvadų maršrutizatorių: 12 atviro svorio modelių su 99,9 % veikimo laiko SLA appeared first on MarkTechPost .",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Dar neissleista arba arteja."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "You.com Inference Router yra su OpenAI suderinama paslauga, kuri nukreipia užklausas per 12 tiesioginių modelių.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Dar neissleista arba arteja.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Deepseek vėl smogia",
+      "link": "https://www.youtube.com/watch?v=1Aqhg0FVm-w",
+      "published_iso": "2026-10-23T03:29:27Z",
+      "published_lt": "2026-10-23 03:29 UTC",
+      "summary": "„Deepseek V4.1 Flash 1017“ ir „DeepInfer“ apžvalga. Ačiū mūsų rėmėjui Higgsfield.",
+      "source": "AI Search",
+      "source_image_url": "https://i2.ytimg.com/vi/1Aqhg0FVm-w/hqdefault.jpg",
+      "image_url": "generated-images/2026-10-23-04-deepseek-vel-smogia.svg",
+      "kind": "video",
+      "video_id": "1Aqhg0FVm-w",
+      "bullets_lt": [
+        "„Deepseek V4.1 Flash 1017“ ir „DeepInfer“ apžvalga.",
+        "Ačiū mūsų rėmėjui Higgsfield."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=1Aqhg0FVm-w",
+        "try_url": "https://www.youtube.com/watch?v=1Aqhg0FVm-w"
+      }
+    },
+    {
+      "title": "Messi prašo ChatGPT išmokyti jį atidaryti šachmatų",
+      "link": "https://www.youtube.com/shorts/RLQR5_5fJDA",
+      "published_iso": "2026-10-22T21:58:00Z",
+      "published_lt": "2026-10-22 21:58 UTC",
+      "summary": "Messi paprašė ChatGPT išmokyti jį šachmatų atidarymo, kuris atitiktų jo stilių. 🐐🤘 Išbandykite ChatGPT intelektualiąją vartotojo sąsają patys: „Remdamiesi tuo, ką žinote apie mane, išmokykite mane kažko naujo.",
+      "source": "OpenAI",
+      "source_image_url": "https://i3.ytimg.com/vi/RLQR5_5fJDA/hqdefault.jpg",
+      "image_url": "generated-images/2026-10-23-05-messi-praso-chatgpt-ismokyti-ji-atidaryti-sachmatu.svg",
+      "kind": "video",
+      "video_id": "RLQR5_5fJDA",
+      "bullets_lt": [
+        "Messi paprašė ChatGPT išmokyti jį šachmatų atidarymo, kuris atitiktų jo stilių.",
+        "🐐🤘 Išbandykite ChatGPT intelektualiąją vartotojo sąsają patys: „Remdamiesi tuo, ką žinote apie mane, išmokykite mane kažko naujo.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/RLQR5_5fJDA",
+        "try_url": "https://www.youtube.com/shorts/RLQR5_5fJDA"
+      }
+    },
+    {
+      "title": "Liquid AI paleidžia RIPL, realaus laiko išvadų variklį, skirtą iki 50 ms LFM",
+      "link": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
+      "published_iso": "2026-10-22T17:33:25Z",
+      "published_lt": "2026-10-22 17:33 UTC",
+      "summary": "Liquid AI išleido RIPL, realaus laiko išvadų variklį savo LFM modeliams. Viename B200 LFM2.5-1.2B naudojant RIPL parodė 14,4–28,4 karto mažesnį p95 delsą nei Qwen3.5-0.8B vLLM. The post Skystas AI paleidžia RIPL, realaus laiko išvadų variklį, skirtą mažesniems nei 50 ms LFM, appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-23-06-liquid-ai-paleidzia-ripl-realaus-laiko-isvadu-varikli-sk.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Liquid AI išleido RIPL, realaus laiko išvadų variklį savo LFM modeliams.",
+        "Viename B200 LFM2.5-1.2B naudojant RIPL parodė 14,4–28,4 karto mažesnį p95 delsą nei Qwen3.5-0.8B vLLM.",
+        "The post Skystas AI paleidžia RIPL, realaus laiko išvadų variklį, skirtą mažesniems nei 50 ms LFM, appeared first on MarkTechPost .",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Aptikta: NVIDIA GPU",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„Gradium“ atvirojo kodo „Phonon“, 31 mln. parametrų įrenginyje esantis TTS modelis, veikiantis „Apache 2.0“",
+      "link": "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/",
+      "published_iso": "2026-10-22T16:56:12Z",
+      "published_lt": "2026-10-22 16:56 UTC",
+      "summary": "„Gradium“ turi atvirojo šaltinio „Phonon“ – įrenginyje esančių teksto į kalbą modelių šeimą. Angliškas Phonon 31m pristatomas naudojant Apache 2.0, telpa 64,5 MB ir pradeda kalbėti maždaug per 7 ms nešiojamojo kompiuterio CPU. Įrašas „Gradium Open-Sources Phonon“, 31 mln. parametrų įrenginyje esantis TTS modelis pagal „Apache 2.0“, pirmą kartą pasirodė „MarkTechPost“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-23-07-gradium-atvirojo-kodo-phonon-31-mln-parametru-irenginyje.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Gradium“ turi atvirojo šaltinio „Phonon“ – įrenginyje esančių teksto į kalbą modelių šeimą.",
+        "Angliškas Phonon 31m pristatomas naudojant Apache 2.0, telpa 64,5 MB ir pradeda kalbėti maždaug per 7 ms nešiojamojo kompiuterio CPU.",
+        "Įrašas „Gradium Open-Sources Phonon“, 31 mln.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Aptikta: CUDA",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/",
+        "try_url": "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/"
+      }
+    },
+    {
+      "title": "„Cohere“ išleidžia 5 pervertinimą, sutelkiant dėmesį į kontekstą ir sukalibruotus balus",
+      "link": "https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/",
+      "published_iso": "2026-10-22T16:31:31Z",
+      "published_lt": "2026-10-22 16:31 UTC",
+      "summary": "„Cohere Rerank 5“ pristatomas kaip „Pro“ ir „Fast“ pakopos su 32 tūkst. konteksto langu, „Context Focus“ fragmentų ištraukimu ir kalibruotais aktualumo balais. „Pro“ surinko 82,2 balo naudodami BRIGHT ir kainuoja 0,05 USD už 1 mln. žetonų. Įrašas „Cohere Releases“ pakeičiamas 5 reitingu, sutelkiant dėmesį į kontekstą ir sukalibruotus balus, pirmiausia pasirodė „MarkTechPost“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-23-08-cohere-isleidzia-5-pervertinima-sutelkiant-demesi-i-kont.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Cohere Rerank 5“ pristatomas kaip „Pro“ ir „Fast“ pakopos su 32 tūkst.",
+        "konteksto langu, „Context Focus“ fragmentų ištraukimu ir kalibruotais aktualumo balais.",
+        "„Pro“ surinko 82,2 balo naudodami BRIGHT ir kainuoja 0,05 USD už 1 mln.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Siųskite mažiau, geresnių žetonų LLM.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„OmniParseBench“ kūrėjo vadovas: pirmaujančiųjų lentelės gairės ir OCR testavimas",
+      "link": "https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/",
+      "published_iso": "2026-10-22T16:11:52Z",
+      "published_lt": "2026-10-22 16:11 UTC",
+      "summary": "Sužinokite, kaip patikrinti ir atkurti „Datalab“ „OmniParseBench“, patikrinti analizatoriaus reitingavimo tikrumą naudojant dokumento lygio įkrovos funkciją ir įvertinti „Tesseract“ ir „Indra“ OCR našumą pagal pasirinktinį pavyzdį. Įrašas „OmniParseBench“ kūrėjo vadovas: lyderių lentelės etalonai ir OCR testavimas pirmiausia pasirodė „MarkTechPost“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-23-09-omniparsebench-kurejo-vadovas-pirmaujanciuju-lenteles-ga.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Sužinokite, kaip patikrinti ir atkurti „Datalab“ „OmniParseBench“, patikrinti analizatoriaus reitingavimo tikrumą naudojant dokumento lygio įkrovos funkciją ir įvertinti „Tesseract“ ir „Indra“ OCR našumą pagal pasirinktinį pavyzdį.",
+        "Įrašas „OmniParseBench“ kūrėjo vadovas: lyderių lentelės etalonai ir OCR testavimas pirmiausia pasirodė „MarkTechPost“.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "importuoti OS importuoti iš naujo importuoti sys importuoti json importavimo laiką importuoti html importuoti shutil importo platformą importuoti sekimą importuoti antrinį procesą importuoti rinkinius importuoti urlli...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/",
+        "try_url": "https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/"
+      }
+    },
     {
       "title": "IBM AI išleido „Granite Speech 5.0 2B“, skirtą daugiakalbei transkripcijai ir vertimui",
       "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
@@ -13,7 +269,7 @@
       "summary": "IBM išleido Granite Speech 5.0 2B, Apache 2.0 kalbos atpažinimo ir vertimo modelį. Jis užima 2 vietą „Open ASR Leaderboard“ su 5,68 % vidutiniu anglų WER, kartu su atnaujintais „Turbo CTC“ ir 4,1 2B Plus modeliais.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-22-01-ibm-ai-isleido-granite-speech-5-0-2b-skirta-daugiakalbei.svg",
+      "image_url": "generated-images/2026-10-23-10-ibm-ai-isleido-granite-speech-5-0-2b-skirta-daugiakalbei.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -39,15 +295,15 @@
       "link": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
       "published_iso": "2026-10-22T04:56:31Z",
       "published_lt": "2026-10-22 04:56 UTC",
-      "summary": "„Perplexity“ ir „NVIDIA“ pristatė JOLT – metodą po mokymo, kuris apmoko vieną modelį ir kaip mokytoją, ir kaip mokinį. MATH sistemoje jis atitiko GRPO tikslumą ir 6,5 karto mažiau apdorotų mokymo žetonų.",
+      "summary": "„Perplexity“ ir „NVIDIA“ pristatė JOLT – metodą po mokymo, kuris apmoko vieną modelį ir kaip mokytoją, ir kaip mokinį. Matematikos programoje jis atitiko GRPO tikslumą ir 6,5 karto mažiau apdorotų mokymo žetonų.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-22-02-perplexity-ir-nvidia-tyrejai-pristato-jolt-bendra-mokyto.svg",
+      "image_url": "generated-images/2026-10-23-11-perplexity-ir-nvidia-tyrejai-pristato-jolt-bendra-mokyto.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "„Perplexity“ ir „NVIDIA“ pristatė JOLT – metodą po mokymo, kuris apmoko vieną modelį ir kaip mokytoją, ir kaip mokinį.",
-        "MATH sistemoje jis atitiko GRPO tikslumą ir 6,5 karto mažiau apdorotų mokymo žetonų.",
+        "Matematikos programoje jis atitiko GRPO tikslumą ir 6,5 karto mažiau apdorotų mokymo žetonų.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas."
       ],
       "practical": {
@@ -62,287 +318,31 @@
       }
     },
     {
-      "title": "Kaktuso švilpuko kodavimo vadovas: ar 16,9 MB kalbos modelis atlaiko šnabždesio pagrindą? Žodžio klaidų dažnis, greitis, srautas, laiko žymos, raktiniai žodžiai ir kalbos iškvietimai į įrankį procesoriaus",
+      "title": "Kaktuso švilpuko kodavimo vadovas: ar 16,9 MB kalbos modelis atlaiko šnabždesio pagrindą? Žodžių klaidų dažnis, greitis, srautas, laiko žymos, raktiniai žodžiai ir kalbos iškvietimai į įrankį procesoriaus",
       "link": "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/",
       "published_iso": "2026-10-22T04:17:37Z",
       "published_lt": "2026-10-22 04:17 UTC",
       "summary": "Ištirkite išsamų kodavimo vadovą, skirtą „Cactus Compute“ 16,9 MB kalbos modeliui palyginti su „Whisper“ baze. Sužinokite apie žodžių klaidų dažnį, procesoriaus greitį, srautinio perdavimo delsą ir kalbos integravimą į įrankį. Įrašas Kaktuso švilpuko kodavimo vadovas: ar 16,9 MB kalbos modelis atlaiko šnabždesio pagrindą?",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-22-03-kaktuso-svilpuko-kodavimo-vadovas-ar-16-9-mb-kalbos-mode.svg",
+      "image_url": "generated-images/2026-10-23-12-kaktuso-svilpuko-kodavimo-vadovas-ar-16-9-mb-kalbos-mode.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "Ištirkite išsamų kodavimo vadovą, skirtą „Cactus Compute“ 16,9 MB kalbos modeliui palyginti su „Whisper“ baze.",
         "Sužinokite apie žodžių klaidų dažnį, procesoriaus greitį, srautinio perdavimo delsą ir kalbos integravimą į įrankį.",
         "Įrašas Kaktuso švilpuko kodavimo vadovas: ar 16,9 MB kalbos modelis atlaiko šnabždesio pagrindą?",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "importuoti OS importuoti io importuoti iš naujo importuoti sys importuoti json importuoti matematikos importo laiką importuoti atsitiktinį importą hashlib importuoti shutil importuoti zip failą importuoti platformą im...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://huggingface.co/Cactus-Compute/whistle",
-        "try_url": "https://huggingface.co/Cactus-Compute/whistle"
-      }
-    },
-    {
-      "title": "NVIDIA Nsight Python pamoka: kaip profiliuoti GPU branduolius",
-      "link": "https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/",
-      "published_iso": "2026-10-22T03:59:12Z",
-      "published_lt": "2026-10-22 03:59 UTC",
-      "summary": "Atraskite NVIDIA Nsight Python – atvirojo kodo sąsają, leidžiančią kūrėjams profiliuoti GPU branduolius, analizuoti aparatinės įrangos metrikas, įvertinti talpyklos ir laikrodžio valdiklius bei matuoti branduolio suliejimą tiesiai iš Python kodo. Įrašas „NVIDIA Nsight Python Tutorial“: kaip profiliuoti GPU branduolius pirmiausia pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-22-04-nvidia-nsight-python-pamoka-kaip-profiliuoti-gpu-branduo.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Atraskite NVIDIA Nsight Python – atvirojo kodo sąsają, leidžiančią kūrėjams profiliuoti GPU branduolius, analizuoti aparatinės įrangos metrikas, įvertinti talpyklos ir laikrodžio valdiklius bei matuoti branduolio suliejimą tiesiai iš Python kodo.",
-        "Įrašas „NVIDIA Nsight Python Tutorial“: kaip profiliuoti GPU branduolius pirmiausia pasirodė „MarkTechPost“.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Dar neissleista arba arteja."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "importuoti OS importuoti sys importuoti glob importuoti json importavimo laiką importuoti shutil importuoti teksto įvyniojimą importuoti sekimą importuoti subprocesą REZULTATAI = {} def banner(title): print(\"\\n\" + \"=\"...",
-        "lokalus_reikalavimai": "Aptikta: NVIDIA GPU, CUDA",
-        "prieinamumas": "Dar neissleista arba arteja.",
-        "kur_isbandyti": "Galima tikrinti cia: https://github.com/NVIDIA/nsight-python",
-        "try_url": "https://github.com/NVIDIA/nsight-python"
-      }
-    },
-    {
-      "title": "Rekursyvūs leidimai Flint, atviro svorio 40B MoE vietinio kodavimo modelis agentams su 2,5B aktyviaisiais parametrais",
-      "link": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
-      "published_iso": "2026-10-21T22:39:41Z",
-      "published_lt": "2026-10-21 22:39 UTC",
-      "summary": "„Recursive“ išleido „Flint“, „Apache 2.0“ vietinio kodavimo modelį su 40B iš viso ir 2,5B aktyvių parametrų. Jis praneša apie 74,2% SWE-bench Verified ir 125+ žetonų per sekundę M4 Pro MacBook Pro.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-22-05-rekursyvus-leidimai-flint-atviro-svorio-40b-moe-vietinio.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Recursive“ išleido „Flint“, „Apache 2.0“ vietinio kodavimo modelį su 40B iš viso ir 2,5B aktyvių parametrų.",
-        "Jis praneša apie 74,2% SWE-bench Verified ir 125+ žetonų per sekundę M4 Pro MacBook Pro.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Vercel atviro kodo patvarus diržas, skirtas smūgiams atspariems kodavimo agentams",
-      "link": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
-      "published_iso": "2026-10-21T22:15:39Z",
-      "published_lt": "2026-10-21 22:15 UTC",
-      "summary": "„Vercel“ išleido patvarius diržus – atvirojo kodo paketą, kuris registruoja kiekvieną modelio ir įrankių iškvietimą, kad „Pi“, „OpenCode“, „Claude Code“ ir „Codex“ sesijos būtų atnaujintos po gedimų, skirtojo laiko ir perskirstymo „Vercel“, „Postgres“ ar nešiojamajame kompiuteryje.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-22-06-vercel-atviro-kodo-patvarus-dirzas-skirtas-smugiams-atsp.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Vercel“ išleido patvarius diržus – atvirojo kodo paketą, kuris registruoja kiekvieną modelio ir įrankių iškvietimą, kad „Pi“, „OpenCode“, „Claude Code“ ir „Codex“ sesijos būtų atnaujintos po gedimų, skirtojo laiko ir perskirstymo „Vercel“, „Postgres“ ar nešiojamajame kompiuteryje.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
-        "try_url": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/"
-      }
-    },
-    {
-      "title": "V7 sumažina išlaidas 78 %, o su GPT-5.6 Luna padidina tikslumą",
-      "link": "https://www.youtube.com/watch?v=20IRGgQwPkc",
-      "published_iso": "2026-10-21T22:05:10Z",
-      "published_lt": "2026-10-21 22:05 UTC",
-      "summary": "„V7 Go“ sutvarko įmonės failus į kontekstinį grafiką, kurį agentai gali pateikti, kad patikrintų investicinius sandorius ir palaikytų draudimo pasirašymą. Atliekant sudėtingiausius V7 grafikų užklausų testus tūkstančiuose dokumentų, GPT-6 Astra pasiekė 89 % tikslumą. Visą istoriją skaitykite: https://openai.com/index/v7/",
-      "source": "OpenAI",
-      "source_image_url": "https://i3.ytimg.com/vi/20IRGgQwPkc/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-22-07-v7-sumazina-islaidas-78-o-su-gpt-5-6-luna-padidina-tiksl.svg",
-      "kind": "video",
-      "video_id": "20IRGgQwPkc",
-      "bullets_lt": [
-        "„V7 Go“ sutvarko įmonės failus į kontekstinį grafiką, kurį agentai gali pateikti, kad patikrintų investicinius sandorius ir palaikytų draudimo pasirašymą.",
-        "Atliekant sudėtingiausius V7 grafikų užklausų testus tūkstančiuose dokumentų, GPT-6 Astra pasiekė 89 % tikslumą.",
-        "Visą istoriją skaitykite: https://openai.com/index/v7/."
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=20IRGgQwPkc",
-        "try_url": "https://www.youtube.com/watch?v=20IRGgQwPkc"
-      }
-    },
-    {
-      "title": "„Mistral AI“ išleido „Voxtral 3“: kalbos į tekstą, TTS ir balso agento SDK",
-      "link": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
-      "published_iso": "2026-10-21T06:03:12Z",
-      "published_lt": "2026-10-21 06:03 UTC",
-      "summary": "„Mistral AI“ išleido „Voxtral 3“, 3 transkripcijos modelių šeimą, 1 teksto į kalbą modelį ir „LiveKit“ pagrįstą balso agento SDK. „Voxtral Small Transcribe 3“ įvertino 2,1 % AA-WER, pagal dirbtinę analizę užima 3 vietą.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-22-08-mistral-ai-isleido-voxtral-3-kalbos-i-teksta-tts-ir-bals.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Mistral AI“ išleido „Voxtral 3“, 3 transkripcijos modelių šeimą, 1 teksto į kalbą modelį ir „LiveKit“ pagrįstą balso agento SDK.",
-        "„Voxtral Small Transcribe 3“ įvertino 2,1 % AA-WER, pagal dirbtinę analizę užima 3 vietą.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$0.00",
         "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Visi 4 modeliai yra viešoje „Mistral“ API peržiūroje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„Google Cloud“ pristato llm-d 1.0 su talpyklą žinančiu maršruto parinkimu TPU ir GPU parkams",
-      "link": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
-      "published_iso": "2026-10-21T04:33:40Z",
-      "published_lt": "2026-10-21 04:33 UTC",
-      "summary": "„Google“, „Red Hat“ ir IBM išleido „llm-d 1.0“, atvirojo kodo „Kubernetes“ savąją rinkinį, skirtą paskirstytoms LLM išvadoms. Tai prideda kelių nuomininkų srauto valdymą, atnaujinimus be prastovų ir agentų žinomą maršrutą per vLLM, SGLang, TPU ir GPU.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-22-09-google-cloud-pristato-llm-d-1-0-su-talpykla-zinanciu-mar.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google“, „Red Hat“ ir IBM išleido „llm-d 1.0“, atvirojo kodo „Kubernetes“ savąją rinkinį, skirtą paskirstytoms LLM išvadoms.",
-        "Tai prideda kelių nuomininkų srauto valdymą, atnaujinimus be prastovų ir agentų žinomą maršrutą per vLLM, SGLang, TPU ir GPU.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Pietryčių Azijos skaitmeninė ekonomika pasieks 368 mlrd",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "published_iso": "2026-10-21T04:00:00Z",
-      "published_lt": "2026-10-21 04:00 UTC",
-      "summary": "Plačiai paplitęs dirbtinio intelekto pritaikymas skatina Pietryčių Azijos skaitmeninę ekonomiką iki 368 mlrd. USD 2026 m. ir 1 trilijoną USD iki 2035 m.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-10-22-10-pietryciu-azijos-skaitmenine-ekonomika-pasieks-368-mlrd.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Plačiai paplitęs dirbtinio intelekto pritaikymas skatina Pietryčių Azijos skaitmeninę ekonomiką iki 368 mlrd.",
-        "USD 2026 m.",
-        "ir 1 trilijoną USD iki 2035 m.",
-        "Kaina: Labiau panasu i mokama sprendima."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "USD 2026 m., $1",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-        "try_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
-      }
-    },
-    {
-      "title": "„Google Open-Sources TorchTPU“, „PyTorch“ vidinė programa, skirta debesies TPU",
-      "link": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/",
-      "published_iso": "2026-10-20T15:22:03Z",
-      "published_lt": "2026-10-20 15:22 UTC",
-      "summary": "„Google“ ir „Meta“ atvirojo kodo „TorchTPU“, vietinis „PyTorch“ užpakalinis įrenginys, skirtas debesies TPU. Pagal numatytuosius nustatymus jis nekantriai veikia, kompiliuojamas naudojant torch.compile ir XLA ir pakeičia PyTorch/XLA naujiems darbo krūviams. Įrašas „Google Open-Source TorchTPU“, vietinė „PyTorch Backend“, skirta debesies TPU, pirmiausia pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-22-11-google-open-sources-torchtpu-pytorch-vidine-programa-ski.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google“ ir „Meta“ atvirojo kodo „TorchTPU“, vietinis „PyTorch“ užpakalinis įrenginys, skirtas debesies TPU.",
-        "Pagal numatytuosius nustatymus jis nekantriai veikia, kompiliuojamas naudojant torch.compile ir XLA ir pakeičia PyTorch/XLA naujiems darbo krūviams.",
-        "Įrašas „Google Open-Source TorchTPU“, vietinė „PyTorch Backend“, skirta debesies TPU, pirmiausia pasirodė „MarkTechPost“.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/",
-        "try_url": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/"
-      }
-    },
-    {
-      "title": "Naujas populiariausias vietinis AI vaizdų generatorius jau čia!",
-      "link": "https://www.youtube.com/watch?v=cUeZMUGCxrw",
-      "published_iso": "2026-10-20T03:24:08Z",
-      "published_lt": "2026-10-20 03:24 UTC",
-      "summary": "MOSS Vaizdo peržiūra ir pamoka. Kaip naudoti MOSS vaizdą ComfyUI. Kaip redaguoti vaizdus naudojant MOSS.",
-      "source": "AI Search",
-      "source_image_url": "https://i4.ytimg.com/vi/cUeZMUGCxrw/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-22-12-naujas-populiariausias-vietinis-ai-vaizdu-generatorius-j.svg",
-      "kind": "video",
-      "video_id": "cUeZMUGCxrw",
-      "bullets_lt": [
-        "MOSS Vaizdo peržiūra ir pamoka.",
-        "Kaip naudoti MOSS vaizdą ComfyUI.",
-        "Kaip redaguoti vaizdus naudojant MOSS."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=cUeZMUGCxrw",
-        "try_url": "https://www.youtube.com/watch?v=cUeZMUGCxrw"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/",
+        "try_url": "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/"
       }
     }
   ]
