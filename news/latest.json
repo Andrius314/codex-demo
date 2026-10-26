@@ -1,10 +1,123 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-10-25",
-  "generated_at_utc": "2026-10-25T12:15:38Z",
+  "digest_date": "2026-10-26",
+  "generated_at_utc": "2026-10-26T13:46:40Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Tsinghua AI atvirojo kodo AKV, talpyklos inžinerijos serveris, skirtas LLM agentams SGLang",
+      "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
+      "published_iso": "2026-10-26T07:56:45Z",
+      "published_lt": "2026-10-26 07:56 UTC",
+      "summary": "Tsinghua mokslininkai išleido AKV, SGLang pagrindu veikiančią talpyklos inžinerijos aptarnavimo sistemą. LLM agentai išmeta ir perkelia KV talpyklą, užuot apibendrinę istoriją, sumažindami vidutines išlaidas 27,7 % pagal 4 agentų etalonus.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-26-01-tsinghua-ai-atvirojo-kodo-akv-talpyklos-inzinerijos-serv.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Tsinghua mokslininkai išleido AKV, SGLang pagrindu veikiančią talpyklos inžinerijos aptarnavimo sistemą.",
+        "LLM agentai išmeta ir perkelia KV talpyklą, užuot apibendrinę istoriją, sumažindami vidutines išlaidas 27,7 % pagal 4 agentų etalonus.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Jie vis tiek gali nešti informaciją iš numestų pranešimų.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„Nanbeige“ išleido „Nanbeige4.3-33B“, 33B atvirojo agento kodavimo modelį",
+      "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+      "published_iso": "2026-10-25T21:15:21Z",
+      "published_lt": "2026-10-25 21:15 UTC",
+      "summary": "Nanbeige LLM Lab išleido Nanbeige4.3-33B, 33B tankų Apache 2.0 modelį su 512K kontekstu. Jis praneša apie 80.9 „Terminal-Bench 2.1“ ir mokys būsimą „Nanbeige4.3-3B“. Įrašas „Nanbeige“ išleidžia „Nanbeige4.3-33B“, 33B atvirojo agento kodavimo modelį, pirmą kartą pasirodė „MarkTechPost“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-26-02-nanbeige-isleido-nanbeige4-3-33b-33b-atvirojo-agento-kod.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Nanbeige LLM Lab išleido Nanbeige4.3-33B, 33B tankų Apache 2.0 modelį su 512K kontekstu.",
+        "Jis praneša apie 80.9 „Terminal-Bench 2.1“ ir mokys būsimą „Nanbeige4.3-3B“.",
+        "Įrašas „Nanbeige“ išleidžia „Nanbeige4.3-33B“, 33B atvirojo agento kodavimo modelį, pirmą kartą pasirodė „MarkTechPost“.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Apkabinęs veidą išleidžia Carbon-X – 14B atviros DNR kalbos modelį, kuris pirmą kartą sujungia DNR ir natūralią kalbą",
+      "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+      "published_iso": "2026-10-25T16:53:40Z",
+      "published_lt": "2026-10-25 16:53 UTC",
+      "summary": "Hugging Face išleido Carbon-X, atvirą 14.8B DNR kalbos modelį, sukurtą Qwen3-14B pagrindu. Jis skaito neapdorotą DNR pokalbyje, atsako anglų kalba ir vidutiniškai 66,7 % iš 5 DNR etalonų pagal Apache 2.0.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-26-03-apkabines-veida-isleidzia-carbon-x-14b-atviros-dnr-kalbo.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Hugging Face išleido Carbon-X, atvirą 14.8B DNR kalbos modelį, sukurtą Qwen3-14B pagrindu.",
+        "Jis skaito neapdorotą DNR pokalbyje, atsako anglų kalba ir vidutiniškai 66,7 % iš 5 DNR etalonų pagal Apache 2.0.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Jis saugo Qwen3 BPE teksto žodyną ir prideda 5515 DNR žetonų.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Tyrėjai iš Stanfordo ir UC Berkeley pristato „TokenGate“: „Token-Gated Attention“ padidina ilgo konteksto išankstinį užpildymą iki 11,3 karto greičiau",
+      "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+      "published_iso": "2026-10-25T12:12:18Z",
+      "published_lt": "2026-10-25 12:12 UTC",
+      "summary": "Stanfordo ir UC Berkeley mokslininkai išleido „TokenGate“ – išmoktą žetonų genėjimo modulį, skirtą LLM. Tai sumažina ilgo konteksto išankstinio užpildymo laiką iki pirmojo prieigos rakto 1,4–11,3 karto, o didžiausią atmintį – 1,5–3,4 karto neprarandant tikslumo.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-26-04-tyrejai-is-stanfordo-ir-uc-berkeley-pristato-tokengate-t.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Stanfordo ir UC Berkeley mokslininkai išleido „TokenGate“ – išmoktą žetonų genėjimo modulį, skirtą LLM.",
+        "Tai sumažina ilgo konteksto išankstinio užpildymo laiką iki pirmojo prieigos rakto 1,4–11,3 karto, o didžiausią atmintį – 1,5–3,4 karto neprarandant tikslumo."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+        "try_url": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/"
+      }
+    },
     {
       "title": "Anthropic pristato nemokamą AI pažeidžiamumo skaitytuvą OSS Scanner",
       "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
@@ -13,7 +126,7 @@
       "summary": "Anthropic išleido OSS Scanner – nemokamą pasirenkamą pažeidžiamumo skaitytuvą, skirtą svarbiems atvirojo kodo projektams. Antropinis OSS skaitytuvas paleidžia stipriausius bendrovės modelius, įskaitant Claude'ą Mythosą, prieš įtrauktas kodų bazes. Ataskaitos siunčiamos tiesiai prižiūrėtojams be žmogaus peržiūros.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-25-01-anthropic-pristato-nemokama-ai-pazeidziamumo-skaitytuva-.svg",
+      "image_url": "generated-images/2026-10-26-05-anthropic-pristato-nemokama-ai-pazeidziamumo-skaitytuva-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -42,33 +155,34 @@
       "summary": "„Microsoft Research“ atvirojo kodo „Agensh“ – kelių agentų rinkinys be centrinio orkestro. Savarankiškai besiorganizuojantys darbuotojai dalijasi „Git“ atpirkimo sandoriu, pokalbiais ir išvadų lenta, padidindami nuo 1 iki 1 024 agentų „ProgramBench“ programoje pagal 6 valandų biudžetą.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-25-02-microsoft-open-source-agensh-keliu-agentu-rinkinys-skirt.svg",
+      "image_url": "generated-images/2026-10-26-06-microsoft-open-source-agensh-keliu-agentu-rinkinys-skirt.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "„Microsoft Research“ atvirojo kodo „Agensh“ – kelių agentų rinkinys be centrinio orkestro.",
-        "Savarankiškai besiorganizuojantys darbuotojai dalijasi „Git“ atpirkimo sandoriu, pokalbiais ir išvadų lenta, padidindami nuo 1 iki 1 024 agentų „ProgramBench“ programoje pagal 6 valandų biudžetą."
+        "Savarankiškai besiorganizuojantys darbuotojai dalijasi „Git“ atpirkimo sandoriu, pokalbiais ir išvadų lenta, padidindami nuo 1 iki 1 024 agentų „ProgramBench“ programoje pagal 6 valandų biudžetą.",
+        "Kaina: Yra nemokamas ir mokamas variantas."
       ],
       "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
+        "kaina": "Yra nemokamas ir mokamas variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
+        "online_limitai": "Mattermost turi komandos kanalą ir tiesioginius pranešimus apie skubius susidūrimus.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
-        "try_url": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
     },
     {
-      "title": "Kibernetinio saugumo chaosas, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NAUJIENOS",
+      "title": "Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS",
       "link": "https://www.youtube.com/watch?v=EfyQOAJjx1A",
       "published_iso": "2026-10-25T03:29:04Z",
       "published_lt": "2026-10-25 03:29 UTC",
       "summary": "DIDELĖS DI NAUJIENOS: AI kibernetinės atakos, Kimi K3.1, Minimax M3.1, Hi3D, Dessa balsas. Ačiū mūsų rėmėjui Lumai.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/EfyQOAJjx1A/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-25-03-kibernetinio-saugumo-chaosas-ai-for-dna-kimi-k3-1-claude.svg",
+      "image_url": "generated-images/2026-10-26-07-cybersecurity-chaos-ai-for-dna-kimi-k3-1-claude-duet-des.svg",
       "kind": "video",
       "video_id": "EfyQOAJjx1A",
       "bullets_lt": [
@@ -87,14 +201,14 @@
       }
     },
     {
-      "title": "Atvirojo kodo pažinimas suteikia agento papildinį, kuris padeda apsaugoti sistemas nuo naujausių kibernetinio saugumo grėsmių",
+      "title": "Atvirojo kodo pažinimas sukuria agento papildinį, kuris padeda apsaugoti sistemas nuo naujausių kibernetinio saugumo grėsmių",
       "link": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
       "published_iso": "2026-10-25T02:59:08Z",
       "published_lt": "2026-10-25 02:59 UTC",
       "summary": "„Cognition“ išleido „Devin Vulnerability Fixes“ papildinį, 3 MIT licencijuotus agento įgūdžius, kurie inventorizuoja, pataiso ir išbando PHP, Node.js ir savarankiškai valdomus „GitLab“ diegimus, kuriuos paveikė šios savaitės kritiniai RCE trūkumai, tada atidaro 1 PR už atpirkimą.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-25-04-atvirojo-kodo-pazinimas-suteikia-agento-papildini-kuris-.svg",
+      "image_url": "generated-images/2026-10-26-08-atvirojo-kodo-pazinimas-sukuria-agento-papildini-kuris-p.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -120,23 +234,21 @@
       "summary": "Naršykite visą kodavimo vadovą, kuriame palyginamas Underdog Saluki 27B su ISTA GSQ-RCO kvantavimu, nagrinėjamas GGUF antraštės, atminties naudojimas ir BFCL įrankių iškvietimo našumas sandėlyje llama.cpp Įrašas Kaip paleisti Underdog Saluki 27B: 2 bitų QBPost3.8-Cal27ch vadovas pasirodė pirmasis.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-25-05-kaip-paleisti-underdog-saluki-27b-2-bitu-qwen3-8-27b-ira.svg",
+      "image_url": "generated-images/2026-10-26-09-kaip-paleisti-underdog-saluki-27b-2-bitu-qwen3-8-27b-ira.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Naršykite visą kodavimo vadovą, kuriame palyginamas Underdog Saluki 27B su ISTA GSQ-RCO kvantavimu, nagrinėjamas GGUF antraštės, atminties naudojimas ir BFCL įrankių iškvietimo našumas sandėlyje llama.cpp Įrašas Kaip paleisti Underdog Saluki 27B: 2 bitų QBPost3.8-Cal27ch vadovas pasirodė pirmasis.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+        "Naršykite visą kodavimo vadovą, kuriame palyginamas Underdog Saluki 27B su ISTA GSQ-RCO kvantavimu, nagrinėjamas GGUF antraštės, atminties naudojimas ir BFCL įrankių iškvietimo našumas sandėlyje llama.cpp Įrašas Kaip paleisti Underdog Saluki 27B: 2 bitų QBPost3.8-Cal27ch vadovas pasirodė pirmasis."
       ],
       "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "import os import re import ast import sys import json import math import kopija import enum import glob importo laikas importo tipai import atsitiktinis importas shutil import struct import hashlib import tarfile impo...",
-        "lokalus_reikalavimai": "Aptikta: CUDA, NVIDIA GPU",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
-        "try_url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+        "try_url": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/"
       }
     },
     {
@@ -144,25 +256,27 @@
       "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
       "published_iso": "2026-10-24T11:12:27Z",
       "published_lt": "2026-10-24 11:12 UTC",
-      "summary": "Antropinė smėlio dėžės vykdymo laikas (srt) yra atvirojo kodo, OS lygio smėlio dėžė už Claude Code. Jis riboja agentų, MCP serverių ir CLI įrankių prieigą prie failų ir tinklo su „Seatbelt“ sistemoje „MacOS“ ir „Bubblewrap“ sistemoje „Linux“, nereikia konteinerių.",
+      "summary": "Antropinis smėlio dėžės vykdymo laikas (srt) yra atvirojo kodo OS lygio smėlio dėžė, esanti už Claude Code. Jis riboja agentų, MCP serverių ir CLI įrankių prieigą prie failų ir tinklo su „Seatbelt“ sistemoje „MacOS“ ir „Bubblewrap“ sistemoje „Linux“, nereikia konteinerių.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-25-06-susipazinkite-su-anthropic-smelio-dezes-vykdymo-laiku-os.svg",
+      "image_url": "generated-images/2026-10-26-10-susipazinkite-su-anthropic-smelio-dezes-vykdymo-laiku-os.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Antropinė smėlio dėžės vykdymo laikas (srt) yra atvirojo kodo, OS lygio smėlio dėžė už Claude Code.",
-        "Jis riboja agentų, MCP serverių ir CLI įrankių prieigą prie failų ir tinklo su „Seatbelt“ sistemoje „MacOS“ ir „Bubblewrap“ sistemoje „Linux“, nereikia konteinerių."
+        "Antropinis smėlio dėžės vykdymo laikas (srt) yra atvirojo kodo OS lygio smėlio dėžė, esanti už Claude Code.",
+        "Jis riboja agentų, MCP serverių ir CLI įrankių prieigą prie failų ir tinklo su „Seatbelt“ sistemoje „MacOS“ ir „Bubblewrap“ sistemoje „Linux“, nereikia konteinerių.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
       ],
       "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Antropinės smėlio dėžės vykdymo laikas riboja, kuriuos failus procesas gali liesti ir kokius pagrindinius kompiuterius gali pasiekti.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
-        "try_url": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
     },
     {
@@ -170,105 +284,27 @@
       "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
       "published_iso": "2026-10-24T10:29:31Z",
       "published_lt": "2026-10-24 10:29 UTC",
-      "summary": "Atraskite, kaip išplėsti agentinę atmintį ne tik paprastais raginimais, sukurdami būsenos inžinerinį antrąjį pilotą su Letta. Šiame išsamiame vadove aprašoma apžiūrima pagrindinė atmintis, archyvinis vektorių gavimas, kelių agentų bendrinama būsena, pasirinktiniai įrankiai ir nešiojamos darbo eigos.",
+      "summary": "Sužinokite, kaip išplėsti agentinę atmintį ne tik paprastais raginimais, sukurdami būsenos inžinerinį antrąjį pilotą su „Letta“. Šiame išsamiame vadove aprašoma apžiūrima pagrindinė atmintis, archyvinis vektorių gavimas, kelių agentų bendrinama būsena, pasirinktiniai įrankiai ir nešiojamos darbo eigos.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-25-07-valstybiniai-agentu-inzinerijos-antrieji-pilotai-su-lett.svg",
+      "image_url": "generated-images/2026-10-26-11-valstybiniai-agentu-inzinerijos-antrieji-pilotai-su-lett.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Atraskite, kaip išplėsti agentinę atmintį ne tik paprastais raginimais, sukurdami būsenos inžinerinį antrąjį pilotą su Letta.",
-        "Šiame išsamiame vadove aprašoma apžiūrima pagrindinė atmintis, archyvinis vektorių gavimas, kelių agentų bendrinama būsena, pasirinktiniai įrankiai ir nešiojamos darbo eigos."
+        "Sužinokite, kaip išplėsti agentinę atmintį ne tik paprastais raginimais, sukurdami būsenos inžinerinį antrąjį pilotą su „Letta“.",
+        "Šiame išsamiame vadove aprašoma apžiūrima pagrindinė atmintis, archyvinis vektorių gavimas, kelių agentų bendrinama būsena, pasirinktiniai įrankiai ir nešiojamos darbo eigos.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "importuoti subprocesą, sys subprocess.run([sys.vykdomasis failas, \"-m\", \"pip\", \"install\", \"-q\", \"-U\", \"letta-client\"], check=True) importuoti OS, json, laikas, teksto įvyniojimas iš getpass importuoti getpass iš letta...",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
-        "try_url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/"
-      }
-    },
-    {
-      "title": "NVIDIA išleido Nemotron 3.5 Bolt E4B 4GB: atvirą mažos kalbos modelį vietiniams balso agentams, žaidimų veikėjams ir robotams",
-      "link": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/",
-      "published_iso": "2026-10-24T03:56:29Z",
-      "published_lt": "2026-10-24 03:56 UTC",
-      "summary": "NVIDIA išleido „Nemotron 3.5 Bolt E4B 4GB“ – atvirą mažos kalbos modelį, paruoštą iš „Gemma 4 E4B“, skirtą vietiniams balso padėjėjams, žaidimų personažams ir robotams, skirta maždaug 4 GB VRAM RTX ir Jetson.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-25-08-nvidia-isleido-nemotron-3-5-bolt-e4b-4gb-atvira-mazos-ka.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "NVIDIA išleido „Nemotron 3.5 Bolt E4B 4GB“ – atvirą mažos kalbos modelį, paruoštą iš „Gemma 4 E4B“, skirtą vietiniams balso padėjėjams, žaidimų personažams ir robotams, skirta maždaug 4 GB VRAM RTX ir Jetson.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Aptikta: 4 GB VRAM",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/",
-        "try_url": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/"
-      }
-    },
-    {
-      "title": "Kyutai CADRE: Vaizdo įrašų automatiniai kodavimo įrenginiai, kurie sumažina pasaulio modelio atsilikimą žemiau 230 ms",
-      "link": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
-      "published_iso": "2026-10-23T23:26:53Z",
-      "published_lt": "2026-10-23 23:26 UTC",
-      "summary": "Kyutai išleido CADRE, 7 atviros priežastinės difuzijos vaizdo automatinių kodavimo įrenginių šeimą, skirtą interaktyviems pasaulio modeliams. Pasauliniai modeliai, sukurti naudojant CADRE, veikia 20 kadrų per sekundę greičiu 1 H100 ir reaguoja per mažiau nei 230 ms. The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-25-09-kyutai-cadre-vaizdo-irasu-automatiniai-kodavimo-irengini.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Kyutai išleido CADRE, 7 atviros priežastinės difuzijos vaizdo automatinių kodavimo įrenginių šeimą, skirtą interaktyviems pasaulio modeliams.",
-        "Pasauliniai modeliai, sukurti naudojant CADRE, veikia 20 kadrų per sekundę greičiu 1 H100 ir reaguoja per mažiau nei 230 ms.",
-        "The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
-        "try_url": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/"
-      }
-    },
-    {
-      "title": "„Moonshot AI“ išleido „Kimi K3.1 Pro“: 2,8 T Total / 104B Active Params (MoE) modelį su 1 mln.",
-      "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
-      "published_iso": "2026-10-23T22:52:40Z",
-      "published_lt": "2026-10-23 22:52 UTC",
-      "summary": "Moonshot AI išleido Kimi K3.1 Pro, 2.8T parametrų, 104B aktyvų MoE modelį su 1M žetonu. „Terminal-Bench 4.0“ jis pasiekia 65,7 %, kainuoja 2 USD/10 USD už milijoną žetonų, o atviri svoriai pristatomi iki 2026 m. lapkričio 4 d.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-25-10-moonshot-ai-isleido-kimi-k3-1-pro-2-8-t-total-104b-activ.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Moonshot AI išleido Kimi K3.1 Pro, 2.8T parametrų, 104B aktyvų MoE modelį su 1M žetonu.",
-        "„Terminal-Bench 4.0“ jis pasiekia 65,7 %, kainuoja 2 USD/10 USD už milijoną žetonų, o atviri svoriai pristatomi iki 2026 m.",
-        "lapkričio 4 d."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
-        "try_url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/"
+        "kur_isbandyti": "Galima tikrinti cia: https://github.com/letta-ai/letta",
+        "try_url": "https://github.com/letta-ai/letta"
       }
     },
     {
@@ -276,14 +312,14 @@
       "link": "https://www.youtube.com/watch?v=6f7ojkd4_Wc",
       "published_iso": "2026-10-23T22:05:37Z",
       "published_lt": "2026-10-23 22:05 UTC",
-      "summary": "Mes naudojame taškus, kad sukurtume geresnius taškus. Rennie Song, OpenAI inžinierius, naudoja savo tašką, kad surinktų atsiliepimus iš socialinės žiniasklaidos ir vartotojų ataskaitų, atnaujintų tiesioginį stebėjimo priemonę „ChatGPT Space“ ir tirtų bei ištaisytų „Codex“ klaidas. Pradėkite nuo taškų jau šiandien: https://learn.chatgpt.com/docs/dots",
+      "summary": "Naudojame taškus, kad sukurtume geresnius taškus. Rennie Song, OpenAI inžinierius, naudoja savo tašką, kad surinktų atsiliepimus iš socialinės žiniasklaidos ir vartotojų ataskaitų, atnaujintų tiesioginį stebėjimo priemonę „ChatGPT Space“ ir tirtų bei ištaisytų „Codex“ klaidas. Pradėkite nuo taškų jau šiandien: https://learn.chatgpt.com/docs/dots",
       "source": "OpenAI",
       "source_image_url": "https://i3.ytimg.com/vi/6f7ojkd4_Wc/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-25-11-medziok-klaidas-savo-tasku.svg",
+      "image_url": "generated-images/2026-10-26-12-medziok-klaidas-savo-tasku.svg",
       "kind": "video",
       "video_id": "6f7ojkd4_Wc",
       "bullets_lt": [
-        "Mes naudojame taškus, kad sukurtume geresnius taškus.",
+        "Naudojame taškus, kad sukurtume geresnius taškus.",
         "Rennie Song, OpenAI inžinierius, naudoja savo tašką, kad surinktų atsiliepimus iš socialinės žiniasklaidos ir vartotojų ataskaitų, atnaujintų tiesioginį stebėjimo priemonę „ChatGPT Space“ ir tirtų bei ištaisytų „Codex“ klaidas.",
         "Pradėkite nuo taškų jau šiandien: https://learn.chatgpt.com/docs/dots."
       ],
@@ -296,35 +332,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=6f7ojkd4_Wc",
         "try_url": "https://www.youtube.com/watch?v=6f7ojkd4_Wc"
-      }
-    },
-    {
-      "title": "„TinyFish“ suardo agentų paieškos architektūrą gamybiniams dirbtinio intelekto agentams",
-      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
-      "published_iso": "2026-10-23T08:58:47Z",
-      "published_lt": "2026-10-23 08:58 UTC",
-      "summary": "TinyFish paskelbė du inžinerinių tyrimų straipsnius apie agentinę paiešką. Vienas apibrėžia 7 etapų gamybos architektūrą su įrodymų sutartimis ir ribotais pakartotiniais bandymais. Kitas paaiškina, kodėl jos giliųjų tyrimų sistema atsisakė atskiro planuotojo ir kiekvienos užklausos subagentų.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-25-12-tinyfish-suardo-agentu-paieskos-architektura-gamybiniams.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "TinyFish paskelbė du inžinerinių tyrimų straipsnius apie agentinę paiešką.",
-        "Vienas apibrėžia 7 etapų gamybos architektūrą su įrodymų sutartimis ir ribotais pakartotiniais bandymais.",
-        "Kitas paaiškina, kodėl jos giliųjų tyrimų sistema atsisakė atskiro planuotojo ir kiekvienos užklausos subagentų.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$0.05",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Ieškoti Pagrindinis Atvirojo kodo / Svoriai AI agentai Mokymai Balso AI Robotikos naujienlaiškis Reklamuokite kartu su mumis Pagrindinis puslapis Redaktoriai Pasirinkite Agentišką AI TinyFish suardo Agentišką paieškos...",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
     }
   ]
