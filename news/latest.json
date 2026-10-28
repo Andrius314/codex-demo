@@ -1,25 +1,25 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-10-27",
-  "generated_at_utc": "2026-10-27T12:54:02Z",
+  "digest_date": "2026-10-28",
+  "generated_at_utc": "2026-10-28T13:42:25Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "Kodėl kibernetiniam saugumui reikia dirbtinio intelekto | Cisco Jeetu Patel",
-      "link": "https://www.youtube.com/watch?v=0qb0FQo3M5c",
-      "published_iso": "2026-10-27T12:45:06Z",
-      "published_lt": "2026-10-27 12:45 UTC",
-      "summary": "„Tai yra būtina sąlyga, kad išliktumėte saugūs, kad turite naudoti AI. Užpuolikai gali judėti mašinos greičiu. Gynėjams reikia saugumo kontrolės priemonių, kurios gali prisitaikyti taip pat greitai. Jeetu Patel, Cisco prezidentas, paaiškina, kodėl OpenAI tampa pagrindiniu šio darbo pagrindu.",
+      "title": "Sujungti generalinį direktorių Shensi Dingą: DI sklandumas prasideda viršuje",
+      "link": "https://www.youtube.com/shorts/kP26OlW5PBk",
+      "published_iso": "2026-10-28T11:51:11Z",
+      "published_lt": "2026-10-28 11:51 UTC",
+      "summary": "„Jei esate vykdomasis asmuo, jūs esate lubos, leidžiančios sklandžiai dirbti dirbtinį intelektą savo organizacijoje. Merge vienas iš įkūrėjų ir generalinis direktorius Shensi Ding valdo su MTEP nesusijusią verslo pusę. Naudodama Codex, ji paprašė padėti perkurti funkciją, naudojant esamą produkto projektavimo sistemą.",
       "source": "OpenAI",
-      "source_image_url": "https://i1.ytimg.com/vi/0qb0FQo3M5c/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-27-01-kodel-kibernetiniam-saugumui-reikia-dirbtinio-intelekto-.svg",
+      "source_image_url": "https://i4.ytimg.com/vi/kP26OlW5PBk/hqdefault.jpg",
+      "image_url": "generated-images/2026-10-28-01-sujungti-generalini-direktoriu-shensi-dinga-di-sklanduma.svg",
       "kind": "video",
-      "video_id": "0qb0FQo3M5c",
+      "video_id": "kP26OlW5PBk",
       "bullets_lt": [
-        "„Tai yra būtina sąlyga, kad išliktumėte saugūs, kad turite naudoti AI.",
-        "Užpuolikai gali judėti mašinos greičiu.",
-        "Gynėjams reikia saugumo kontrolės priemonių, kurios gali prisitaikyti taip pat greitai."
+        "„Jei esate vykdomasis asmuo, jūs esate lubos, leidžiančios sklandžiai dirbti dirbtinį intelektą savo organizacijoje.",
+        "Merge vienas iš įkūrėjų ir generalinis direktorius Shensi Ding valdo su MTEP nesusijusią verslo pusę.",
+        "Naudodama Codex, ji paprašė padėti perkurti funkciją, naudojant esamą produkto projektavimo sistemą."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -28,8 +28,152 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=0qb0FQo3M5c",
-        "try_url": "https://www.youtube.com/watch?v=0qb0FQo3M5c"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/kP26OlW5PBk",
+        "try_url": "https://www.youtube.com/shorts/kP26OlW5PBk"
+      }
+    },
+    {
+      "title": "„Polymathic AI“ ir „Prinstono“ tyrėjai išleido „Flow Map“ – srauto žemėlapio juodraštį, skirtą 6,14 karto greitesniam LLM dekodavimui",
+      "link": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
+      "published_iso": "2026-10-28T08:18:03Z",
+      "published_lt": "2026-10-28 08:18 UTC",
+      "summary": "„FlashMap“ yra „Polymathic AI“, Prinstono ir USC ISI tyrėjų spekuliatyvus dekodavimo rengėjas. Jis vienu metu nubraižo 16 žetonų ir pasiekia iki 6,14 karto be nuostolių pagreitį Qwen3-8B.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-28-02-polymathic-ai-ir-prinstono-tyrejai-isleido-flow-map-srau.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„FlashMap“ yra „Polymathic AI“, Prinstono ir USC ISI tyrėjų spekuliatyvus dekodavimo rengėjas.",
+        "Jis vienu metu nubraižo 16 žetonų ir pasiekia iki 6,14 karto be nuostolių pagreitį Qwen3-8B.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Žetonai šiame bloke išlieka nuoseklūs.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Susipažinkite su „Google DeepMind“ Genie 4: realaus laiko pasaulio modeliu su vietiniu garsu",
+      "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
+      "published_iso": "2026-10-28T07:34:58Z",
+      "published_lt": "2026-10-28 07:34 UTC",
+      "summary": "„Google DeepMind“ išleido „Genie 4“ kaip tyrimo peržiūrą. Realaus laiko pasaulio modelis prideda savąjį garsą, tiesioginį dialogą ir teksto valdymą, o „Gemini 3.8 Flash“ planavimo įvykius modeliavimo kilpoje. Įrašas Susipažinkite su „Google DeepMind's Genie 4: Real-Time World Model with Native Audio“ pirmą kartą pasirodė „MarkTechPost“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-28-03-susipazinkite-su-google-deepmind-genie-4-realaus-laiko-p.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google DeepMind“ išleido „Genie 4“ kaip tyrimo peržiūrą.",
+        "Realaus laiko pasaulio modelis prideda savąjį garsą, tiesioginį dialogą ir teksto valdymą, o „Gemini 3.8 Flash“ planavimo įvykius modeliavimo kilpoje.",
+        "Įrašas Susipažinkite su „Google DeepMind's Genie 4: Real-Time World Model with Native Audio“ pirmą kartą pasirodė „MarkTechPost“.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Ieškoti Pagrindinis Atvirojo kodo / Weights AI agentai Mokymai Balso AI Robotikos informacinis biuletenis Reklamuokite kartu su mumis Pagrindinis puslapis Redaktoriai Pasirinkite Agentišką AI Susipažinkite su Google D...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Susipažinkite su LEANN: atvirojo kodo vektoriniu indeksu, kuris sumažina 60 mln. RAG indeksą nuo 201 GB iki 6 GB",
+      "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+      "published_iso": "2026-10-27T21:54:37Z",
+      "published_lt": "2026-10-27 21:54 UTC",
+      "summary": "UC Berkeley LEANN vektoriniame indekse saugomas apkarpytas grafikas ir iš naujo apskaičiuojamas įterpimas užklausos metu. Jis atitinka HNSW tikslumą esant 90 % atšaukimui, naudojant 4 GB, o ne 188 GB, už sekundžių lygio paiešką.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-28-04-susipazinkite-su-leann-atvirojo-kodo-vektoriniu-indeksu-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "UC Berkeley LEANN vektoriniame indekse saugomas apkarpytas grafikas ir iš naujo apskaičiuojamas įterpimas užklausos metu.",
+        "Jis atitinka HNSW tikslumą esant 90 % atšaukimui, naudojant 4 GB, o ne 188 GB, už sekundžių lygio paiešką.",
+        "Kaina: Yra nemokamas ir mokamas variantas."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+        "try_url": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/"
+      }
+    },
+    {
+      "title": "Liquid AI leidimai LFM3: 6 atviro svorio 2B klasės multimodaliniai modeliai",
+      "link": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+      "published_iso": "2026-10-27T21:08:02Z",
+      "published_lt": "2026-10-27 21:08 UTC",
+      "summary": "Liquid AI išleido LFM3, 6 atviro svorio 2B klasės modelius, skirtus tekstui, regėjimui, garsui, omni ir sprendimams. LFM3-1.7B naudoja trijų hibridų pagrindą, 256K konteksto langą ir telpa apie 1 GB 4 bitų. Įrašas Skystas AI leidimai LFM3: 6 atviro svorio 2B klasės daugiarūšiai modeliai appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-28-05-liquid-ai-leidimai-lfm3-6-atviro-svorio-2b-klases-multim.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Liquid AI išleido LFM3, 6 atviro svorio 2B klasės modelius, skirtus tekstui, regėjimui, garsui, omni ir sprendimams.",
+        "LFM3-1.7B naudoja trijų hibridų pagrindą, 256K konteksto langą ir telpa apie 1 GB 4 bitų.",
+        "Įrašas Skystas AI leidimai LFM3: 6 atviro svorio 2B klasės daugiarūšiai modeliai appeared first on MarkTechPost .",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "SWA lange yra 256 žetonai.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+        "try_url": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/"
+      }
+    },
+    {
+      "title": "„Mirendil“ pristato pirmąjį „Fern 0.1“ modelį su 10 mln. žetonų kontekstu",
+      "link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
+      "published_iso": "2026-10-27T12:57:46Z",
+      "published_lt": "2026-10-27 12:57 UTC",
+      "summary": "„Mirendil“ išleido „Fern 0.1“, pirmąjį savo modelį, iš anksto apmokytą nuo nulio su 10 mln. žetonų konteksto langu. Jis skirtas agentiniam AI MTTP darbui, 100 % balų naudojant RULER vieną adatą, esant 10 mln., tačiau seka ribinius modelius naudojant agentinį kodavimą.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-28-06-mirendil-pristato-pirmaji-fern-0-1-modeli-su-10-mln-zeto.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Mirendil“ išleido „Fern 0.1“, pirmąjį savo modelį, iš anksto apmokytą nuo nulio su 10 mln.",
+        "žetonų konteksto langu.",
+        "Jis skirtas agentiniam AI MTTP darbui, 100 % balų naudojant RULER vieną adatą, esant 10 mln., tačiau seka ribinius modelius naudojant agentinį kodavimą.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$10",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "„Mirendil Fern“ yra nuo nulio kodavimo modelis, kurio kontekstinis langas yra iki 10 mln. žetonų.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
     },
     {
@@ -40,7 +184,7 @@
       "summary": "vLLM Semantic Router išleido d3-ultra, 27B atviro svorio daugiarūšio sprendimo modelį. Jis vieną kartą perskaito tekstą, vaizdus ir vaizdo įrašą, tada pateikia kiekvieno atsakymo tikimybę, komandos SR-teksto teste surinkdamas 87,2 balo.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-27-02-vllm-semantinis-marsrutizatorius-isleido-d3-ultra-27b-at.svg",
+      "image_url": "generated-images/2026-10-28-07-vllm-semantinis-marsrutizatorius-isleido-d3-ultra-27b-at.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -68,7 +212,7 @@
       "summary": "„Baidu“ išleido „Unlimited OCR 2“ – MIT licencijuotą 3B OCR modelį, kuris viena užklausa analizuoja šimto puslapių dokumentus.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-27-03-baidu-atvirojo-kodo-neribotas-ocr-2-simto-puslapiu-dokum.svg",
+      "image_url": "generated-images/2026-10-28-08-baidu-atvirojo-kodo-neribotas-ocr-2-simto-puslapiu-dokum.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -96,7 +240,7 @@
       "summary": "OpenAI išleido GPT-6.1 Terra, greito kompiuterio naudojimo ir regėjimo modelį, kurio kaina yra 1 USD / 5 USD už milijoną žetonų. Jis atitinka GPT-6 Astra vidutinių pastangų agentų paskutinio egzamino balą – 0,29 USD už užduotį, palyginti su 4,82 USD. Įrašas „OpenAI“ pristato GPT-6.1 Terra, perpus sumažindamas GPT-6.1 Sol API kainą agento darbui appeared first on MarkTechPost.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-27-04-openai-pristato-gpt-6-1-terra-perpus-sumazindama-gpt-6-1.svg",
+      "image_url": "generated-images/2026-10-28-09-openai-pristato-gpt-6-1-terra-perpus-sumazindama-gpt-6-1.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -126,7 +270,7 @@
       "summary": "„Nace AI“ išleido „Drex for Search“, įtraukdama savo „Drex“ sprendimų modelius į AI agentų paiešką. Nace praneša apie 92,05 % BrowseComp-Plus su 12,6 paieškos skambučiais ir mažiau agento įjungimų OfficeQA Pro.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-27-05-nace-ai-isleido-drex-skirta-ai-agentu-paieskai-92-05-bro.svg",
+      "image_url": "generated-images/2026-10-28-10-nace-ai-isleido-drex-skirta-ai-agentu-paieskai-92-05-bro.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -155,7 +299,7 @@
       "summary": "Išmokite dirbtinio intelekto raštingumo per naujausią „Google“ AI Quests pamoką apie neuromokslą „Polar Peaks“.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-10-27-06-musu-naujausias-ai-quest-zmogaus-smegenu-kartografavimas.svg",
+      "image_url": "generated-images/2026-10-28-11-musu-naujausias-ai-quest-zmogaus-smegenu-kartografavimas.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -174,149 +318,6 @@
       }
     },
     {
-      "title": "Tsinghua AI atvirojo kodo AKV, talpyklos inžinerijos serveris, skirtas LLM agentams SGLang",
-      "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
-      "published_iso": "2026-10-26T07:56:45Z",
-      "published_lt": "2026-10-26 07:56 UTC",
-      "summary": "Tsinghua mokslininkai išleido AKV, SGLang pagrindu veikiančią talpyklos inžinerijos aptarnavimo sistemą. LLM agentai išmeta ir perkelia KV talpyklą, užuot apibendrinę istoriją, sumažindami vidutines išlaidas 27,7 % pagal 4 agentų etalonus.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-27-07-tsinghua-ai-atvirojo-kodo-akv-talpyklos-inzinerijos-serv.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Tsinghua mokslininkai išleido AKV, SGLang pagrindu veikiančią talpyklos inžinerijos aptarnavimo sistemą.",
-        "LLM agentai išmeta ir perkelia KV talpyklą, užuot apibendrinę istoriją, sumažindami vidutines išlaidas 27,7 % pagal 4 agentų etalonus.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
-        "try_url": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/"
-      }
-    },
-    {
-      "title": "„Nanbeige“ išleido „Nanbeige4.3-33B“, 33B atvirojo agento kodavimo modelį",
-      "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-      "published_iso": "2026-10-25T21:15:21Z",
-      "published_lt": "2026-10-25 21:15 UTC",
-      "summary": "Nanbeige LLM Lab išleido Nanbeige4.3-33B, 33B tankų Apache 2.0 modelį su 512K kontekstu. Jis praneša apie 80.9 „Terminal-Bench 2.1“ ir mokys būsimą „Nanbeige4.3-3B“. Įrašas „Nanbeige“ išleidžia „Nanbeige4.3-33B“, 33B atvirojo agento kodavimo modelį, pirmą kartą pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-27-08-nanbeige-isleido-nanbeige4-3-33b-33b-atvirojo-agento-kod.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Nanbeige LLM Lab išleido Nanbeige4.3-33B, 33B tankų Apache 2.0 modelį su 512K kontekstu.",
-        "Jis praneša apie 80.9 „Terminal-Bench 2.1“ ir mokys būsimą „Nanbeige4.3-3B“.",
-        "Įrašas „Nanbeige“ išleidžia „Nanbeige4.3-33B“, 33B atvirojo agento kodavimo modelį, pirmą kartą pasirodė „MarkTechPost“.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Apkabinęs veidą išleidžia Carbon-X – 14B atviros DNR kalbos modelį, kuris pirmą kartą sujungia DNR ir natūralią kalbą",
-      "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
-      "published_iso": "2026-10-25T16:53:40Z",
-      "published_lt": "2026-10-25 16:53 UTC",
-      "summary": "Hugging Face išleido Carbon-X, atvirą 14.8B DNR kalbos modelį, sukurtą Qwen3-14B pagrindu. Jis skaito neapdorotą DNR pokalbyje, atsako anglų kalba ir vidutiniškai 66,7 % iš 5 DNR etalonų pagal Apache 2.0.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-27-09-apkabines-veida-isleidzia-carbon-x-14b-atviros-dnr-kalbo.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Hugging Face išleido Carbon-X, atvirą 14.8B DNR kalbos modelį, sukurtą Qwen3-14B pagrindu.",
-        "Jis skaito neapdorotą DNR pokalbyje, atsako anglų kalba ir vidutiniškai 66,7 % iš 5 DNR etalonų pagal Apache 2.0.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Jis saugo Qwen3 BPE teksto žodyną ir prideda 5515 DNR žetonų.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Tyrėjai iš Stanfordo ir UC Berkeley pristato „TokenGate“: „Token-Gated Attention“ padidina ilgo konteksto išankstinį užpildymą iki 11,3 karto greičiau",
-      "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
-      "published_iso": "2026-10-25T12:12:18Z",
-      "published_lt": "2026-10-25 12:12 UTC",
-      "summary": "Stanfordo ir UC Berkeley mokslininkai išleido „TokenGate“ – išmoktą žetonų genėjimo modulį, skirtą LLM. Tai sumažina ilgo konteksto išankstinio užpildymo laiką iki pirmojo prieigos rakto 1,4–11,3 karto, o didžiausią atmintį – 1,5–3,4 karto neprarandant tikslumo.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-27-10-tyrejai-is-stanfordo-ir-uc-berkeley-pristato-tokengate-t.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Stanfordo ir UC Berkeley mokslininkai išleido „TokenGate“ – išmoktą žetonų genėjimo modulį, skirtą LLM.",
-        "Tai sumažina ilgo konteksto išankstinio užpildymo laiką iki pirmojo prieigos rakto 1,4–11,3 karto, o didžiausią atmintį – 1,5–3,4 karto neprarandant tikslumo.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Visiškai apdorojami tik svarbūs žetonai.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Anthropic pristato nemokamą AI pažeidžiamumo skaitytuvą OSS Scanner",
-      "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
-      "published_iso": "2026-10-25T11:32:29Z",
-      "published_lt": "2026-10-25 11:32 UTC",
-      "summary": "Anthropic išleido OSS Scanner – nemokamą pasirenkamą pažeidžiamumo skaitytuvą, skirtą svarbiems atvirojo kodo projektams. Antropinis OSS skaitytuvas paleidžia stipriausius bendrovės modelius, įskaitant Claude'ą Mythosą, prieš įtrauktas kodų bazes. Ataskaitos siunčiamos tiesiai prižiūrėtojams be žmogaus peržiūros.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-27-11-anthropic-pristato-nemokama-ai-pazeidziamumo-skaitytuva-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Anthropic išleido OSS Scanner – nemokamą pasirenkamą pažeidžiamumo skaitytuvą, skirtą svarbiems atvirojo kodo projektams.",
-        "Antropinis OSS skaitytuvas paleidžia stipriausius bendrovės modelius, įskaitant Claude'ą Mythosą, prieš įtrauktas kodų bazes.",
-        "Ataskaitos siunčiamos tiesiai prižiūrėtojams be žmogaus peržiūros.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
       "title": "Kibernetinio saugumo chaosas, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NAUJIENOS",
       "link": "https://www.youtube.com/watch?v=EfyQOAJjx1A",
       "published_iso": "2026-10-25T03:29:04Z",
@@ -324,7 +325,7 @@
       "summary": "DIDELĖS DI NAUJIENOS: AI kibernetinės atakos, Kimi K3.1, Minimax M3.1, Hi3D, Dessa balsas. Ačiū mūsų rėmėjui Lumai.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/EfyQOAJjx1A/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-27-12-kibernetinio-saugumo-chaosas-ai-for-dna-kimi-k3-1-claude.svg",
+      "image_url": "generated-images/2026-10-28-12-kibernetinio-saugumo-chaosas-ai-for-dna-kimi-k3-1-claude.svg",
       "kind": "video",
       "video_id": "EfyQOAJjx1A",
       "bullets_lt": [
