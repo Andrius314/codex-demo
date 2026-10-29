@@ -1,35 +1,233 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-10-28",
-  "generated_at_utc": "2026-10-28T13:42:25Z",
+  "digest_date": "2026-10-29",
+  "generated_at_utc": "2026-10-29T13:52:22Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "Sujungti generalinį direktorių Shensi Dingą: DI sklandumas prasideda viršuje",
-      "link": "https://www.youtube.com/shorts/kP26OlW5PBk",
-      "published_iso": "2026-10-28T11:51:11Z",
-      "published_lt": "2026-10-28 11:51 UTC",
-      "summary": "„Jei esate vykdomasis asmuo, jūs esate lubos, leidžiančios sklandžiai dirbti dirbtinį intelektą savo organizacijoje. Merge vienas iš įkūrėjų ir generalinis direktorius Shensi Ding valdo su MTEP nesusijusią verslo pusę. Naudodama Codex, ji paprašė padėti perkurti funkciją, naudojant esamą produkto projektavimo sistemą.",
-      "source": "OpenAI",
-      "source_image_url": "https://i4.ytimg.com/vi/kP26OlW5PBk/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-28-01-sujungti-generalini-direktoriu-shensi-dinga-di-sklanduma.svg",
-      "kind": "video",
-      "video_id": "kP26OlW5PBk",
+      "title": "„Infini-AI-Lab“ išleido „Hermit“, atvirojo kodo diržų adapterių sistemą, skirtą AI agentams",
+      "link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+      "published_iso": "2026-10-29T08:24:52Z",
+      "published_lt": "2026-10-29 08:24 UTC",
+      "summary": "„Infini-AI-Lab“ išleido „Hermit“, „Apache-2.0“ laidų adapterio sistemą, kuri apmoko išorinį instrukcijų, įgūdžių, atminties ir įrankių sluoksnį, remdamasi užduočių atsiliepimais, palikdama agento modelį ir diržus nepakeistus.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-29-01-infini-ai-lab-isleido-hermit-atvirojo-kodo-dirzu-adapter.svg",
+      "kind": "article",
+      "video_id": "",
       "bullets_lt": [
-        "„Jei esate vykdomasis asmuo, jūs esate lubos, leidžiančios sklandžiai dirbti dirbtinį intelektą savo organizacijoje.",
-        "Merge vienas iš įkūrėjų ir generalinis direktorius Shensi Ding valdo su MTEP nesusijusią verslo pusę.",
-        "Naudodama Codex, ji paprašė padėti perkurti funkciją, naudojant esamą produkto projektavimo sistemą."
+        "„Infini-AI-Lab“ išleido „Hermit“, „Apache-2.0“ laidų adapterio sistemą, kuri apmoko išorinį instrukcijų, įgūdžių, atminties ir įrankių sluoksnį, remdamasi užduočių atsiliepimais, palikdama agento modelį ir diržus nepakeistus.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
       ],
       "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Neaptikta siame saltinyje.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„Block“ pristato „Dessa“ – pilno dvipusio kalbėjimo modelį, išmokytą tik kalbėti",
+      "link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+      "published_iso": "2026-10-29T07:50:39Z",
+      "published_lt": "2026-10-29 07:50 UTC",
+      "summary": "„Block“ dirbtinio intelekto laboratorija išleido „Dessa“ – dvipusį kalbos pakeitimo į kalbą modelį, apmokytą tik naudojant žmonių pokalbių garsą. Jis veikia vietoje „MacBook Pro M4 Max“, tačiau „Block“ nepaskelbė dydžio, etalonų ar svorio. Įrašas „Block“ pristato „Dessą“, visiškai dvipusį kalbos modelį, treniruojamą tik kalbai, pirmasis pasirodė „MarkTechPost“.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-29-02-block-pristato-dessa-pilno-dvipusio-kalbejimo-modeli-ism.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Block“ dirbtinio intelekto laboratorija išleido „Dessa“ – dvipusį kalbos pakeitimo į kalbą modelį, apmokytą tik naudojant žmonių pokalbių garsą.",
+        "Jis veikia vietoje „MacBook Pro M4 Max“, tačiau „Block“ nepaskelbė dydžio, etalonų ar svorio.",
+        "Įrašas „Block“ pristato „Dessą“, visiškai dvipusį kalbos modelį, treniruojamą tik kalbai, pirmasis pasirodė „MarkTechPost“.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Blockas paskelbė apie tai 2026 m. spalio 23 d. kaip tyrimo peržiūrą.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+        "try_url": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/"
+      }
+    },
+    {
+      "title": "„AssemblyAI“ pristato „AssemblyAI-TTS-1“: 15 USD už 1 mln. simbolių teksto į kalbą API, skirta balso agentams",
+      "link": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/",
+      "published_iso": "2026-10-29T07:28:36Z",
+      "published_lt": "2026-10-29 07:28 UTC",
+      "summary": "„AssemblyAI“ išleido „AssemblyAI-TTS-1“ – pirmąjį balso agentams skirtą teksto į kalbą modelį. Jis kainuoja 15 USD už 1 mln. simbolių, siūlo neribotą lygiagretumą be sutarties ir paleidžiant palaiko 6 kalbas.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-29-03-assemblyai-pristato-assemblyai-tts-1-15-usd-uz-1-mln-sim.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„AssemblyAI“ išleido „AssemblyAI-TTS-1“ – pirmąjį balso agentams skirtą teksto į kalbą modelį.",
+        "Jis kainuoja 15 USD už 1 mln.",
+        "simbolių, siūlo neribotą lygiagretumą be sutarties ir paleidžiant palaiko 6 kalbas.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$15 per, $15",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "AssemblyAI-TTS-1 yra srautinio teksto į kalbą API, skirta balso agentams, kainuojanti 15 USD už 1 mln. simbolių su neribotu lygiagrečiu laiku.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "NVIDIA išleido Nemotron 3.5 transkripciją: atvirą 30B MoE modelį, skirtą 40 kalbų transkripcijai su ~ 4B aktyviais parametrais",
+      "link": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+      "published_iso": "2026-10-29T04:41:24Z",
+      "published_lt": "2026-10-29 04:41 UTC",
+      "summary": "NVIDIA išleido „Nemotron 3.5 Transcribe“ – atvirą kalbos LLM su 4.3B aktyviais parametrais. Ji transkribuoja 40 kalbų, prideda garsiakalbių etikečių ir žodžių laiko žymes bei skelbia 4,71 % vidutinį WER anglų atvirojo ASR lyderių lentelėje.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-29-04-nvidia-isleido-nemotron-3-5-transkripcija-atvira-30b-moe.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "NVIDIA išleido „Nemotron 3.5 Transcribe“ – atvirą kalbos LLM su 4.3B aktyviais parametrais.",
+        "Ji transkribuoja 40 kalbų, prideda garsiakalbių etikečių ir žodžių laiko žymes bei skelbia 4,71 % vidutinį WER anglų atvirojo ASR lyderių lentelėje.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "API kreditai, dabar „ChatGPT Pro“ ir verslo planuose",
+      "link": "https://www.youtube.com/watch?v=ujmyzWSj8IU",
+      "published_iso": "2026-10-28T23:45:26Z",
+      "published_lt": "2026-10-28 23:45 UTC",
+      "summary": "Nuo šiandien tinkami ChatGPT Pro ir Business prenumeratoriai gali pretenduoti į iki 500 USD per mėnesį API kreditų programoms ir agentams kurti. Kredito sumos priklauso nuo plano. Pro planai gauna 100, 200 arba 500 USD per mėnesį pagal pakopą.",
+      "source": "OpenAI",
+      "source_image_url": "https://i2.ytimg.com/vi/ujmyzWSj8IU/hqdefault.jpg",
+      "image_url": "generated-images/2026-10-29-05-api-kreditai-dabar-chatgpt-pro-ir-verslo-planuose.svg",
+      "kind": "video",
+      "video_id": "ujmyzWSj8IU",
+      "bullets_lt": [
+        "Nuo šiandien tinkami ChatGPT Pro ir Business prenumeratoriai gali pretenduoti į iki 500 USD per mėnesį API kreditų programoms ir agentams kurti.",
+        "Kredito sumos priklauso nuo plano.",
+        "Pro planai gauna 100, 200 arba 500 USD per mėnesį pagal pakopą.",
+        "Kaina: Labiau panasu i mokama sprendima.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/kP26OlW5PBk",
-        "try_url": "https://www.youtube.com/shorts/kP26OlW5PBk"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=ujmyzWSj8IU",
+        "try_url": "https://www.youtube.com/watch?v=ujmyzWSj8IU"
+      }
+    },
+    {
+      "title": "„Google DeepMind“ pristato „Gemini 4 Carbon“ – geriausią kibernetinės gynybos ir kodavimo modelį",
+      "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+      "published_iso": "2026-10-28T17:48:38Z",
+      "published_lt": "2026-10-28 17:48 UTC",
+      "summary": "„Google DeepMind“ pristatė „Gemini 4 Carbon“ – pažangų modelį, kuris pagal dirbtinės analizės intelekto indeksą surinko 59 balus, o „SEC-bench Pro“ – 88,2 proc. Prieiga prasideda nuo patikrintų kibernetinių gynėjų, kurių kaina yra 2 USD/10 USD už milijoną žetonų.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-29-06-google-deepmind-pristato-gemini-4-carbon-geriausia-kiber.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google DeepMind“ pristatė „Gemini 4 Carbon“ – pažangų modelį, kuris pagal dirbtinės analizės intelekto indeksą surinko 59 balus, o „SEC-bench Pro“ – 88,2 proc.",
+        "Prieiga prasideda nuo patikrintų kibernetinių gynėjų, kurių kaina yra 2 USD/10 USD už milijoną žetonų.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$16,48",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Naujasis „DeepSeek“ AI yra absoliutus monstras",
+      "link": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "published_iso": "2026-10-28T17:32:40Z",
+      "published_lt": "2026-10-28 17:32 UTC",
+      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 galima rasti čia: https://api-docs.deepseek.com/news/news261017/ Šaltiniai: https://x.com/marcthecreatorr/status/2111427716142571554/video/1 https://x.com/olezhavich/status/2112897791022264814/video/1 https://x.",
+      "source": "Two Minute Papers",
+      "source_image_url": "https://i1.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+      "image_url": "generated-images/2026-10-29-07-naujasis-deepseek-ai-yra-absoliutus-monstras.svg",
+      "kind": "video",
+      "video_id": "pryCaGv8wuo",
+      "bullets_lt": [
+        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 galima rasti čia: https://api-docs.deepseek.com/news/news261017/ Šaltiniai: https://x.com/marcthecreatorr/status/2111427716142571554/video/1 https://x.com/olezhavich/status/2112897791022264814/video/1 https://x.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=pryCaGv8wuo",
+        "try_url": "https://www.youtube.com/watch?v=pryCaGv8wuo"
+      }
+    },
+    {
+      "title": "MiniMax atvirojo kodo MCode Stack: 15 agento įgūdžių, kuriuos jos kodavimo komanda naudoja kasdien",
+      "link": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+      "published_iso": "2026-10-28T17:20:29Z",
+      "published_lt": "2026-10-28 17:20 UTC",
+      "summary": "„MiniMax“ turi atvirojo kodo „MCode Stack“, MIT licencijuotą 17 SKILL.md įgūdžių atpirkimą ir 5 kontrolinius sąrašus, kuriuos „MiniMax Code“ komanda kasdien naudoja kodo peržiūrai, subagentų padalijimui, konteksto biudžetams ir ilgai veikiančioms komandoms.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-10-29-08-minimax-atvirojo-kodo-mcode-stack-15-agento-igudziu-kuri.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„MiniMax“ turi atvirojo kodo „MCode Stack“, MIT licencijuotą 17 SKILL.md įgūdžių atpirkimą ir 5 kontrolinius sąrašus, kuriuos „MiniMax Code“ komanda kasdien naudoja kodo peržiūrai, subagentų padalijimui, konteksto biudžetams ir ilgai veikiančioms komandoms.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Prieinamumas: Dar neissleista arba arteja."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Dar neissleista arba arteja.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
     },
     {
@@ -40,7 +238,7 @@
       "summary": "„FlashMap“ yra „Polymathic AI“, Prinstono ir USC ISI tyrėjų spekuliatyvus dekodavimo rengėjas. Jis vienu metu nubraižo 16 žetonų ir pasiekia iki 6,14 karto be nuostolių pagreitį Qwen3-8B.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-28-02-polymathic-ai-ir-prinstono-tyrejai-isleido-flow-map-srau.svg",
+      "image_url": "generated-images/2026-10-29-09-polymathic-ai-ir-prinstono-tyrejai-isleido-flow-map-srau.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -68,7 +266,7 @@
       "summary": "„Google DeepMind“ išleido „Genie 4“ kaip tyrimo peržiūrą. Realaus laiko pasaulio modelis prideda savąjį garsą, tiesioginį dialogą ir teksto valdymą, o „Gemini 3.8 Flash“ planavimo įvykius modeliavimo kilpoje. Įrašas Susipažinkite su „Google DeepMind's Genie 4: Real-Time World Model with Native Audio“ pirmą kartą pasirodė „MarkTechPost“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-28-03-susipazinkite-su-google-deepmind-genie-4-realaus-laiko-p.svg",
+      "image_url": "generated-images/2026-10-29-10-susipazinkite-su-google-deepmind-genie-4-realaus-laiko-p.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -97,7 +295,7 @@
       "summary": "UC Berkeley LEANN vektoriniame indekse saugomas apkarpytas grafikas ir iš naujo apskaičiuojamas įterpimas užklausos metu. Jis atitinka HNSW tikslumą esant 90 % atšaukimui, naudojant 4 GB, o ne 188 GB, už sekundžių lygio paiešką.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-28-04-susipazinkite-su-leann-atvirojo-kodo-vektoriniu-indeksu-.svg",
+      "image_url": "generated-images/2026-10-29-11-susipazinkite-su-leann-atvirojo-kodo-vektoriniu-indeksu-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -124,7 +322,7 @@
       "summary": "Liquid AI išleido LFM3, 6 atviro svorio 2B klasės modelius, skirtus tekstui, regėjimui, garsui, omni ir sprendimams. LFM3-1.7B naudoja trijų hibridų pagrindą, 256K konteksto langą ir telpa apie 1 GB 4 bitų. Įrašas Skystas AI leidimai LFM3: 6 atviro svorio 2B klasės daugiarūšiai modeliai appeared first on MarkTechPost .",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-28-05-liquid-ai-leidimai-lfm3-6-atviro-svorio-2b-klases-multim.svg",
+      "image_url": "generated-images/2026-10-29-12-liquid-ai-leidimai-lfm3-6-atviro-svorio-2b-klases-multim.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -144,203 +342,6 @@
         "prieinamumas": "Panasu, kad jau galima bandyti.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
         "try_url": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/"
-      }
-    },
-    {
-      "title": "„Mirendil“ pristato pirmąjį „Fern 0.1“ modelį su 10 mln. žetonų kontekstu",
-      "link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
-      "published_iso": "2026-10-27T12:57:46Z",
-      "published_lt": "2026-10-27 12:57 UTC",
-      "summary": "„Mirendil“ išleido „Fern 0.1“, pirmąjį savo modelį, iš anksto apmokytą nuo nulio su 10 mln. žetonų konteksto langu. Jis skirtas agentiniam AI MTTP darbui, 100 % balų naudojant RULER vieną adatą, esant 10 mln., tačiau seka ribinius modelius naudojant agentinį kodavimą.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-28-06-mirendil-pristato-pirmaji-fern-0-1-modeli-su-10-mln-zeto.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Mirendil“ išleido „Fern 0.1“, pirmąjį savo modelį, iš anksto apmokytą nuo nulio su 10 mln.",
-        "žetonų konteksto langu.",
-        "Jis skirtas agentiniam AI MTTP darbui, 100 % balų naudojant RULER vieną adatą, esant 10 mln., tačiau seka ribinius modelius naudojant agentinį kodavimą.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$10",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "„Mirendil Fern“ yra nuo nulio kodavimo modelis, kurio kontekstinis langas yra iki 10 mln. žetonų.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "vLLM semantinis maršrutizatorius išleido d3-ultra: 27B atviro daugiarūšio sprendimo modelį",
-      "link": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
-      "published_iso": "2026-10-27T05:50:57Z",
-      "published_lt": "2026-10-27 05:50 UTC",
-      "summary": "vLLM Semantic Router išleido d3-ultra, 27B atviro svorio daugiarūšio sprendimo modelį. Jis vieną kartą perskaito tekstą, vaizdus ir vaizdo įrašą, tada pateikia kiekvieno atsakymo tikimybę, komandos SR-teksto teste surinkdamas 87,2 balo.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-28-07-vllm-semantinis-marsrutizatorius-isleido-d3-ultra-27b-at.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "vLLM Semantic Router išleido d3-ultra, 27B atviro svorio daugiarūšio sprendimo modelį.",
-        "Jis vieną kartą perskaito tekstą, vaizdus ir vaizdo įrašą, tada pateikia kiekvieno atsakymo tikimybę, komandos SR-teksto teste surinkdamas 87,2 balo.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Baidu atvirojo kodo neribotas OCR 2 šimto puslapių dokumentų analizei",
-      "link": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
-      "published_iso": "2026-10-27T05:26:36Z",
-      "published_lt": "2026-10-27 05:26 UTC",
-      "summary": "„Baidu“ išleido „Unlimited OCR 2“ – MIT licencijuotą 3B OCR modelį, kuris viena užklausa analizuoja šimto puslapių dokumentus.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-28-08-baidu-atvirojo-kodo-neribotas-ocr-2-simto-puslapiu-dokum.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Baidu“ išleido „Unlimited OCR 2“ – MIT licencijuotą 3B OCR modelį, kuris viena užklausa analizuoja šimto puslapių dokumentus.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "„Baidu“ išleido „Unlimited OCR 2“ – MIT licencijuotą 3B OCR modelį, kuris viena užklausa analizuoja šimto puslapių dokumentus.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "OpenAI pristato GPT-6.1 Terra, perpus sumažindama GPT-6.1 Sol API kainą už agento darbą",
-      "link": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
-      "published_iso": "2026-10-27T02:45:27Z",
-      "published_lt": "2026-10-27 02:45 UTC",
-      "summary": "OpenAI išleido GPT-6.1 Terra, greito kompiuterio naudojimo ir regėjimo modelį, kurio kaina yra 1 USD / 5 USD už milijoną žetonų. Jis atitinka GPT-6 Astra vidutinių pastangų agentų paskutinio egzamino balą – 0,29 USD už užduotį, palyginti su 4,82 USD. Įrašas „OpenAI“ pristato GPT-6.1 Terra, perpus sumažindamas GPT-6.1 Sol API kainą agento darbui appeared first on MarkTechPost.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-28-09-openai-pristato-gpt-6-1-terra-perpus-sumazindama-gpt-6-1.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "OpenAI išleido GPT-6.1 Terra, greito kompiuterio naudojimo ir regėjimo modelį, kurio kaina yra 1 USD / 5 USD už milijoną žetonų.",
-        "Jis atitinka GPT-6 Astra vidutinių pastangų agentų paskutinio egzamino balą – 0,29 USD už užduotį, palyginti su 4,82 USD.",
-        "Įrašas „OpenAI“ pristato GPT-6.1 Terra, perpus sumažindamas GPT-6.1 Sol API kainą agento darbui appeared first on MarkTechPost.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$1/, $5 per, $1 per, $0.29 per",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "„OpenAI GPT-6.1 Terra“ leidžia greitai naudotis kompiuteriu – 1/5 USD už milijoną žetonų, o paskutiniame agentų egzamine surinkta 60,0 proc.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„Nace AI“ išleido „Drex“, skirtą AI agentų paieškai: 92,05 % „BrowseComp-Plus“ su 12,6 versijos paieškos skambučiais",
-      "link": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
-      "published_iso": "2026-10-26T16:46:09Z",
-      "published_lt": "2026-10-26 16:46 UTC",
-      "summary": "„Nace AI“ išleido „Drex for Search“, įtraukdama savo „Drex“ sprendimų modelius į AI agentų paiešką. Nace praneša apie 92,05 % BrowseComp-Plus su 12,6 paieškos skambučiais ir mažiau agento įjungimų OfficeQA Pro.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-28-10-nace-ai-isleido-drex-skirta-ai-agentu-paieskai-92-05-bro.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Nace AI“ išleido „Drex for Search“, įtraukdama savo „Drex“ sprendimų modelius į AI agentų paiešką.",
-        "Nace praneša apie 92,05 % BrowseComp-Plus su 12,6 paieškos skambučiais ir mažiau agento įjungimų OfficeQA Pro.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Pagrindiniai akcentai: 6 % daugiau teisingų atsakymų, 62 % mažiau žingsnių, 56 % mažiau žetonų ir 2,3 karto greičiau.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Mūsų naujausias AI Quest: žmogaus smegenų kartografavimas",
-      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "published_iso": "2026-10-26T16:00:00Z",
-      "published_lt": "2026-10-26 16:00 UTC",
-      "summary": "Išmokite dirbtinio intelekto raštingumo per naujausią „Google“ AI Quests pamoką apie neuromokslą „Polar Peaks“.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-10-28-11-musu-naujausias-ai-quest-zmogaus-smegenu-kartografavimas.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Išmokite dirbtinio intelekto raštingumo per naujausią „Google“ AI Quests pamoką apie neuromokslą „Polar Peaks“.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-        "try_url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
-      }
-    },
-    {
-      "title": "Kibernetinio saugumo chaosas, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NAUJIENOS",
-      "link": "https://www.youtube.com/watch?v=EfyQOAJjx1A",
-      "published_iso": "2026-10-25T03:29:04Z",
-      "published_lt": "2026-10-25 03:29 UTC",
-      "summary": "DIDELĖS DI NAUJIENOS: AI kibernetinės atakos, Kimi K3.1, Minimax M3.1, Hi3D, Dessa balsas. Ačiū mūsų rėmėjui Lumai.",
-      "source": "AI Search",
-      "source_image_url": "https://i2.ytimg.com/vi/EfyQOAJjx1A/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-28-12-kibernetinio-saugumo-chaosas-ai-for-dna-kimi-k3-1-claude.svg",
-      "kind": "video",
-      "video_id": "EfyQOAJjx1A",
-      "bullets_lt": [
-        "DIDELĖS DI NAUJIENOS: AI kibernetinės atakos, Kimi K3.1, Minimax M3.1, Hi3D, Dessa balsas.",
-        "Ačiū mūsų rėmėjui Lumai."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=EfyQOAJjx1A",
-        "try_url": "https://www.youtube.com/watch?v=EfyQOAJjx1A"
       }
     }
   ]
