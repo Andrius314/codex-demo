@@ -1,19 +1,104 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-10-31",
-  "generated_at_utc": "2026-10-31T13:13:53Z",
+  "digest_date": "2026-11-01",
+  "generated_at_utc": "2026-11-01T13:57:20Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "Susipažinkite su gamyklos Droid 1.0: nuo modelio nepriklausomas kodavimo agentas, sukurtas scenarijaus režimu",
+      "title": "Nace AI atvirojo kodo Drex Max v1: 27B sprendimų modelis, veikiantis vietoje Apple Silicon",
+      "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+      "published_iso": "2026-11-01T08:10:07Z",
+      "published_lt": "2026-11-01 08:10 UTC",
+      "summary": "Nace AI atvirojo kodo Drex Max v1, 27B multimodalinis sprendimų modelis, kurio balas 67,52 ir veikia Apple Silicon. Įrašas Nace AI atvirojo kodo Drex Max v1: 27B sprendimų modelis, kuris veikia vietoje Apple Silicon, pirmą kartą pasirodė MarkTechPost.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-01-01-nace-ai-atvirojo-kodo-drex-max-v1-27b-sprendimu-modelis-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Nace AI atvirojo kodo Drex Max v1, 27B multimodalinis sprendimų modelis, kurio balas 67,52 ir veikia Apple Silicon.",
+        "Įrašas Nace AI atvirojo kodo Drex Max v1: 27B sprendimų modelis, kuris veikia vietoje Apple Silicon, pirmą kartą pasirodė MarkTechPost.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "DeepSeek atvirojo kodo dsh-superagent, maršrutizatoriaus darbuotojo kodavimo agentas",
+      "link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+      "published_iso": "2026-11-01T07:47:17Z",
+      "published_lt": "2026-11-01 07:47 UTC",
+      "summary": "„DeepSeek“ išleido „dsh-superagent“, MIT licencijuotą tyrimų prototipą, kuris „GitHub“ ir „Feishu“ užklausas paverčia lygiagrečiomis darbuotojų sesijomis. „DeepSeek“ modeliavime p95 užduoties atlikimas sumažėjo iki 15,7 minutės nuo 29,5 minutės.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-01-02-deepseek-atvirojo-kodo-dsh-superagent-marsrutizatoriaus-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„DeepSeek“ išleido „dsh-superagent“, MIT licencijuotą tyrimų prototipą, kuris „GitHub“ ir „Feishu“ užklausas paverčia lygiagrečiomis darbuotojų sesijomis.",
+        "„DeepSeek“ modeliavime p95 užduoties atlikimas sumažėjo iki 15,7 minutės nuo 29,5 minutės.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Leidžiamas užklausas paverčia lygiagrečiais darbo elementais, kurių kiekvienas yra savo agento sesijoje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "AI pagaliau užmiega, Gemini 4 Carbon, ETH nulaužtas, energija pagrįsti modeliai, antropinis IPO: AI NAUJIENOS",
+      "link": "https://www.youtube.com/watch?v=IGICYFyP_EI",
+      "published_iso": "2026-11-01T03:27:10Z",
+      "published_lt": "2026-11-01 03:27 UTC",
+      "summary": "DIDELĖS DI NAUJIENOS: OpenAI matematikos laimėjimai, AlphaProtein Novo, Botanic-1, Iris 3B, Kandinsky 6.0, Mistral Large 4, Haiku 5.5 ir kt. Ačiū mūsų rėmėjui Lumai.",
+      "source": "AI Search",
+      "source_image_url": "https://i2.ytimg.com/vi/IGICYFyP_EI/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-01-03-ai-pagaliau-uzmiega-gemini-4-carbon-eth-nulauztas-energi.svg",
+      "kind": "video",
+      "video_id": "IGICYFyP_EI",
+      "bullets_lt": [
+        "DIDELĖS DI NAUJIENOS: OpenAI matematikos laimėjimai, AlphaProtein Novo, Botanic-1, Iris 3B, Kandinsky 6.0, Mistral Large 4, Haiku 5.5 ir kt.",
+        "Ačiū mūsų rėmėjui Lumai.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=IGICYFyP_EI",
+        "try_url": "https://www.youtube.com/watch?v=IGICYFyP_EI"
+      }
+    },
+    {
+      "title": "Susipažinkite su Factory Droid 1.0: nuo modelio nepriklausomas kodavimo agentas, sukurtas scenarijaus režimu",
       "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
       "published_iso": "2026-10-31T10:38:14Z",
       "published_lt": "2026-10-31 10:38 UTC",
       "summary": "Gamykloje išleista „Droid 1.0“ – nuo ​​modelio nepriklausomas kodavimo agentas, dėl kurio programinio įrankio iškvietimas yra numatytasis. Pačios gamyklos „Terminal-Bench 4“ operacinėje sistemoje „Droid“ surinko 65,2%, o Claude Opus 5,5 už 4,73 USD už atliktą užduotį.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-31-01-susipazinkite-su-gamyklos-droid-1-0-nuo-modelio-neprikla.svg",
+      "image_url": "generated-images/2026-11-01-04-susipazinkite-su-factory-droid-1-0-nuo-modelio-nepriklau.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -41,7 +126,7 @@
       "summary": "„Vercel Labs“ išleido agento darbalaukį, „Apache-2.0 Rust CLI“, leidžiantį bet kuriam AI agento kompiuteriui naudoti „MacOS“, „Windows“ ir „Linux“, nuskaitant OS pritaikymo neįgaliesiems medžius ir veikiant pagal stabilias nuorodas, o ne pikselius. Įrašas „Vercel Labs Open-Source“ agento darbalaukis, skirtas agento kompiuteriui, pirmą kartą pasirodė „MarkTechPost“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-31-02-vercel-labs-atvirojo-kodo-agento-darbalaukis-skirtas-age.svg",
+      "image_url": "generated-images/2026-11-01-05-vercel-labs-atvirojo-kodo-agento-darbalaukis-skirtas-age.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -70,7 +155,7 @@
       "summary": "Santrauka nepateikta saltinyje.",
       "source": "OpenAI",
       "source_image_url": "https://i4.ytimg.com/vi/o4D1J1YWjhg/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-31-03-yra-daug-ateities-kuria-norite-statyti.svg",
+      "image_url": "generated-images/2026-11-01-06-yra-daug-ateities-kuria-norite-statyti.svg",
       "kind": "video",
       "video_id": "o4D1J1YWjhg",
       "bullets_lt": [
@@ -95,7 +180,7 @@
       "summary": "„Microsoft Research“ ir „UC Berkeley“ išleido „TokenEconomizer“ – atvirojo kodo įskiepį, kuris mokosi iš ankstesnių seansų, kad sumažintų kodavimo agento prieigos rakto sąnaudas 18,4% iki 30,9% „SWE-Bench“, nekeičiant agento.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-31-04-susipazinkite-su-tokeneconomizer-microsoft-papildiniu-ku.svg",
+      "image_url": "generated-images/2026-11-01-07-susipazinkite-su-tokeneconomizer-microsoft-papildiniu-ku.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -115,14 +200,14 @@
       }
     },
     {
-      "title": "Palyginti dirbtinio intelekto agentai: Claude, Codex, Mantis, Cloudflare",
+      "title": "Palyginti AI saugumo agentai: Claude, Codex, Mantis, Cloudflare",
       "link": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
       "published_iso": "2026-10-30T17:34:15Z",
       "published_lt": "2026-10-30 17:34 UTC",
       "summary": "„Anthropic“, „OpenAI“, „Cloudflare“ ir „Google“ išleido AI agentą, kuris ieško šaltinio kodo saugos klaidų. Visi 4 naudoja tą patį radimą, paneigimą, tada pataiso kilpą. Štai kaip jie skiriasi ir dar 12 įrankių.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-31-05-palyginti-dirbtinio-intelekto-agentai-claude-codex-manti.svg",
+      "image_url": "generated-images/2026-11-01-08-palyginti-ai-saugumo-agentai-claude-codex-mantis-cloudfl.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -151,7 +236,7 @@
       "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 OpenAI dokumentą rasite čia: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-Hypothesis-is-False-October-Hypothesis-is-False-October-25-25-25pdf sekimo modeliavimas 0:17 https://users.cg.tu",
       "source": "Two Minute Papers",
       "source_image_url": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "image_url": "generated-images/2026-10-31-06-openai-tvirtina-kad-tai-tiesiog-padare-neimanoma.svg",
+      "image_url": "generated-images/2026-11-01-09-openai-tvirtina-kad-tai-tiesiog-padare-neimanoma.svg",
       "kind": "video",
       "video_id": "CWdTBLsbaQs",
       "bullets_lt": [
@@ -177,7 +262,7 @@
       "summary": "„Samaya AI's Sterling“ yra „Nemotron 3.5 Lightning“ modelis, skirtas finansiniams tyrimams. „FrontierFinance“ surinko 58,9% už 0,61 USD už klausimą, o Claude'o Fable 5.1 55,9% – 6,89 USD.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-31-07-samaya-ai-isleidzia-sterling-3b-aktyvaus-finansu-tyrimu-.svg",
+      "image_url": "generated-images/2026-11-01-10-samaya-ai-isleidzia-sterling-3b-aktyvaus-finansu-tyrimu-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -203,16 +288,16 @@
       "link": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
       "published_iso": "2026-10-30T05:02:52Z",
       "published_lt": "2026-10-30 05:02 UTC",
-      "summary": "„Edge0“ išleido „Audio8-TTS-Realistic“, 0,6 B atviro svorio nulinio balso klonavimo TTS modelį pagal Apache 2.0. Jis palaiko 23 kalbas ir prideda galutinį GRPO etapą, kurį veda išmokęs realizmo kritikas. Įrašas „Edge0“ išleido „Audio8-TTS-Realistic“, 0,6 B balso klonavimo TTS modelį, pirmą kartą pasirodė „MarkTechPost“.",
+      "summary": "„Edge0“ išleido „Audio8-TTS-Realistic“, 0,6 B atviro svorio nulinio balso klonavimo TTS modelį pagal Apache 2.0. Jis palaiko 23 kalbas ir prideda galutinį GRPO etapą, kurį veda išmokęs realizmo kritikas. Įrašas „Edge0“ išleidžia „Audio8-TTS-Realistic“, 0.6B balso klonavimo TTS modelį, pirmą kartą pasirodė „MarkTechPost“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-31-08-edge0-isleido-audio8-tts-realistic-0-6-b-balso-klonavimo.svg",
+      "image_url": "generated-images/2026-11-01-11-edge0-isleido-audio8-tts-realistic-0-6-b-balso-klonavimo.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "„Edge0“ išleido „Audio8-TTS-Realistic“, 0,6 B atviro svorio nulinio balso klonavimo TTS modelį pagal Apache 2.0.",
         "Jis palaiko 23 kalbas ir prideda galutinį GRPO etapą, kurį veda išmokęs realizmo kritikas.",
-        "Įrašas „Edge0“ išleido „Audio8-TTS-Realistic“, 0,6 B balso klonavimo TTS modelį, pirmą kartą pasirodė „MarkTechPost“.",
+        "Įrašas „Edge0“ išleidžia „Audio8-TTS-Realistic“, 0.6B balso klonavimo TTS modelį, pirmą kartą pasirodė „MarkTechPost“.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
         "Prieinamumas: Prieinama kaip beta/preview."
       ],
@@ -232,16 +317,16 @@
       "link": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
       "published_iso": "2026-10-29T21:20:29Z",
       "published_lt": "2026-10-29 21:20 UTC",
-      "summary": "Baseten išleido joey-1, 2B atvirojo svorio sprendimo modelį, kuris vietoj teksto pateikia kalibruotas tikimybes. Jis veikia esant 20 ms P50 delsai ir kainuoja 0,01 USD už milijoną įvesties žetonų. Įrašas Basetenas išleidžia joey-1, 2B sprendimų modelį, kainuojantį 0,01 USD už 1 mln. žetonų, pirmą kartą pasirodė „MarkTechPost“.",
+      "summary": "Baseten išleido joey-1, 2B atvirojo svorio sprendimo modelį, kuris vietoj teksto pateikia kalibruotas tikimybes. Jis veikia esant 20 ms P50 delsai ir kainuoja 0,01 USD už milijoną įvesties žetonų. Įrašas Basetenas išleidžia joey-1, 2B sprendimų modelį už 0,01 USD už 1 mln. žetonų, pirmą kartą pasirodė „MarkTechPost“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-10-31-09-baseten-isleidzia-joey-1-2b-sprendimu-modeli-uz-0-01-usd.svg",
+      "image_url": "generated-images/2026-11-01-12-baseten-isleidzia-joey-1-2b-sprendimu-modeli-uz-0-01-usd.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "Baseten išleido joey-1, 2B atvirojo svorio sprendimo modelį, kuris vietoj teksto pateikia kalibruotas tikimybes.",
         "Jis veikia esant 20 ms P50 delsai ir kainuoja 0,01 USD už milijoną įvesties žetonų.",
-        "Įrašas Basetenas išleidžia joey-1, 2B sprendimų modelį, kainuojantį 0,01 USD už 1 mln.",
+        "Įrašas Basetenas išleidžia joey-1, 2B sprendimų modelį už 0,01 USD už 1 mln.",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
         "Prieinamumas: Panasu, kad jau galima bandyti."
@@ -255,91 +340,6 @@
         "prieinamumas": "Panasu, kad jau galima bandyti.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
         "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„Prime Intellect“ išleido „Prime Mega MoE“: treniruojamas sulietas MoE branduolys, 3,11 karto greitesnis leidimas pirmyn",
-      "link": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
-      "published_iso": "2026-10-29T18:28:57Z",
-      "published_lt": "2026-10-29 18:28 UTC",
-      "summary": "„Prime Intellect“ išleido „Prime Mega MoE“, atgalinį leidimą „DeepSeek“ sujungtam „Mega MoE“ branduoliui. Tai leidžia treniruoti branduolį ir pagreitina Qwen3 MoE mokymo žingsnius iki 34 % prime-rl.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-31-10-prime-intellect-isleido-prime-mega-moe-treniruojamas-sul.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Prime Intellect“ išleido „Prime Mega MoE“, atgalinį leidimą „DeepSeek“ sujungtam „Mega MoE“ branduoliui.",
-        "Tai leidžia treniruoti branduolį ir pagreitina Qwen3 MoE mokymo žingsnius iki 34 % prime-rl.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Taigi kiekvienas sluoksnis siunčia žetonus, atlieka ekspertų matematiką ir siunčia rezultatus atgal.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„Infini-AI-Lab“ išleido „Hermit“, atvirojo kodo diržų adapterių sistemą, skirtą AI agentams",
-      "link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
-      "published_iso": "2026-10-29T08:24:52Z",
-      "published_lt": "2026-10-29 08:24 UTC",
-      "summary": "„Infini-AI-Lab“ išleido „Hermit“, „Apache-2.0“ laidų adapterio sistemą, kuri apmoko išorinį instrukcijų, įgūdžių, atminties ir įrankių sluoksnį, remdamasi užduočių atsiliepimais, palikdama agento modelį ir diržus nepakeistus.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-31-11-infini-ai-lab-isleido-hermit-atvirojo-kodo-dirzu-adapter.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Infini-AI-Lab“ išleido „Hermit“, „Apache-2.0“ laidų adapterio sistemą, kuri apmoko išorinį instrukcijų, įgūdžių, atminties ir įrankių sluoksnį, remdamasi užduočių atsiliepimais, palikdama agento modelį ir diržus nepakeistus.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„Block“ pristato „Dessa“ – pilno dvipusio kalbėjimo modelį, išmokytą tik kalbėti",
-      "link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
-      "published_iso": "2026-10-29T07:50:39Z",
-      "published_lt": "2026-10-29 07:50 UTC",
-      "summary": "„Block“ dirbtinio intelekto laboratorija išleido „Dessa“ – dvipusį kalbos pakeitimo į kalbą modelį, apmokytą tik naudojant žmonių pokalbių garsą. Jis veikia vietoje „MacBook Pro M4 Max“, tačiau „Block“ nepaskelbė dydžio, etalonų ar svorio. Įrašas „Block“ pristato „Dessą“, visiškai dvipusį kalbos modelį, treniruojamą tik kalbai, pirmasis pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-10-31-12-block-pristato-dessa-pilno-dvipusio-kalbejimo-modeli-ism.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Block“ dirbtinio intelekto laboratorija išleido „Dessa“ – dvipusį kalbos pakeitimo į kalbą modelį, apmokytą tik naudojant žmonių pokalbių garsą.",
-        "Jis veikia vietoje „MacBook Pro M4 Max“, tačiau „Block“ nepaskelbė dydžio, etalonų ar svorio.",
-        "Įrašas „Block“ pristato „Dessą“, visiškai dvipusį kalbos modelį, treniruojamą tik kalbai, pirmasis pasirodė „MarkTechPost“.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Blockas paskelbė apie tai 2026 m. spalio 23 d. kaip tyrimo peržiūrą.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
-        "try_url": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/"
       }
     }
   ]
