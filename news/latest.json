@@ -1,10 +1,69 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-11-01",
-  "generated_at_utc": "2026-11-01T13:57:20Z",
+  "digest_date": "2026-11-02",
+  "generated_at_utc": "2026-11-02T16:43:52Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "NVIDIA išleido automatinę ontologiją: atvirą semantinį sluoksnį, pagrindžiantį AI agento SQL",
+      "link": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
+      "published_iso": "2026-11-02T07:47:12Z",
+      "published_lt": "2026-11-02 07:47 UTC",
+      "summary": "NVIDIA išleido „Auto Ontology“, „Apache 2.0“ biblioteką, kuri generuoja semantinį sluoksnį iš įmonės metaduomenų. Jis pagrindžia agento SQL sertifikuotomis apibrėžtimis ir aptarnauja kontekstą per MCP, CLI ir API.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-02-01-nvidia-isleido-automatine-ontologija-atvira-semantini-sl.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "NVIDIA išleido „Auto Ontology“, „Apache 2.0“ biblioteką, kuri generuoja semantinį sluoksnį iš įmonės metaduomenų.",
+        "Jis pagrindžia agento SQL sertifikuotomis apibrėžtimis ir aptarnauja kontekstą per MCP, CLI ir API.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Susipažinkite su qwenGPU: Qwen3.5-2B su 45 sudarytais GPU sluoksniais, kuriuose veikia CUDA",
+      "link": "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/",
+      "published_iso": "2026-11-02T07:28:29Z",
+      "published_lt": "2026-11-02 07:28 UTC",
+      "summary": "qwenGPU sukompiliuoja 4 juostų SIMT GPU į Qwen3.5-2B kaip 45 neapmokytus sluoksnius. Modelis pats įrašo kiekvieną tikrojo CUDA paleidimo žingsnį, naudodamas „Gated DeltaNet“ būseną kaip registrus ir atmintį. Įrašas Susipažinkite su qwenGPU: Qwen3.5-2B su 45 sudarytais GPU sluoksniais, kuriuose veikia CUDA, pirmasis pasirodė MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-02-02-susipazinkite-su-qwengpu-qwen3-5-2b-su-45-sudarytais-gpu.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "qwenGPU sukompiliuoja 4 juostų SIMT GPU į Qwen3.5-2B kaip 45 neapmokytus sluoksnius.",
+        "Modelis pats įrašo kiekvieną tikrojo CUDA paleidimo žingsnį, naudodamas „Gated DeltaNet“ būseną kaip registrus ir atmintį.",
+        "Įrašas Susipažinkite su qwenGPU: Qwen3.5-2B su 45 sudarytais GPU sluoksniais, kuriuose veikia CUDA, pirmasis pasirodė MarkTechPost .",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Aptikta: CUDA",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/",
+        "try_url": "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/"
+      }
+    },
     {
       "title": "Nace AI atvirojo kodo Drex Max v1: 27B sprendimų modelis, veikiantis vietoje Apple Silicon",
       "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
@@ -13,7 +72,7 @@
       "summary": "Nace AI atvirojo kodo Drex Max v1, 27B multimodalinis sprendimų modelis, kurio balas 67,52 ir veikia Apple Silicon. Įrašas Nace AI atvirojo kodo Drex Max v1: 27B sprendimų modelis, kuris veikia vietoje Apple Silicon, pirmą kartą pasirodė MarkTechPost.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-01-01-nace-ai-atvirojo-kodo-drex-max-v1-27b-sprendimu-modelis-.svg",
+      "image_url": "generated-images/2026-11-02-03-nace-ai-atvirojo-kodo-drex-max-v1-27b-sprendimu-modelis-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -42,7 +101,7 @@
       "summary": "„DeepSeek“ išleido „dsh-superagent“, MIT licencijuotą tyrimų prototipą, kuris „GitHub“ ir „Feishu“ užklausas paverčia lygiagrečiomis darbuotojų sesijomis. „DeepSeek“ modeliavime p95 užduoties atlikimas sumažėjo iki 15,7 minutės nuo 29,5 minutės.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-01-02-deepseek-atvirojo-kodo-dsh-superagent-marsrutizatoriaus-.svg",
+      "image_url": "generated-images/2026-11-02-04-deepseek-atvirojo-kodo-dsh-superagent-marsrutizatoriaus-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -64,14 +123,14 @@
       }
     },
     {
-      "title": "AI pagaliau užmiega, Gemini 4 Carbon, ETH nulaužtas, energija pagrįsti modeliai, antropinis IPO: AI NAUJIENOS",
+      "title": "AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS",
       "link": "https://www.youtube.com/watch?v=IGICYFyP_EI",
       "published_iso": "2026-11-01T03:27:10Z",
       "published_lt": "2026-11-01 03:27 UTC",
       "summary": "DIDELĖS DI NAUJIENOS: OpenAI matematikos laimėjimai, AlphaProtein Novo, Botanic-1, Iris 3B, Kandinsky 6.0, Mistral Large 4, Haiku 5.5 ir kt. Ačiū mūsų rėmėjui Lumai.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/IGICYFyP_EI/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-01-03-ai-pagaliau-uzmiega-gemini-4-carbon-eth-nulauztas-energi.svg",
+      "image_url": "generated-images/2026-11-02-05-ai-finally-sleeps-gemini-4-carbon-eth-cracked-energy-bas.svg",
       "kind": "video",
       "video_id": "IGICYFyP_EI",
       "bullets_lt": [
@@ -91,14 +150,14 @@
       }
     },
     {
-      "title": "Susipažinkite su Factory Droid 1.0: nuo modelio nepriklausomas kodavimo agentas, sukurtas scenarijaus režimu",
+      "title": "Susipažinkite su gamyklos Droid 1.0: nuo modelio nepriklausomas kodavimo agentas, sukurtas scenarijaus režimu",
       "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
       "published_iso": "2026-10-31T10:38:14Z",
       "published_lt": "2026-10-31 10:38 UTC",
       "summary": "Gamykloje išleista „Droid 1.0“ – nuo ​​modelio nepriklausomas kodavimo agentas, dėl kurio programinio įrankio iškvietimas yra numatytasis. Pačios gamyklos „Terminal-Bench 4“ operacinėje sistemoje „Droid“ surinko 65,2%, o Claude Opus 5,5 už 4,73 USD už atliktą užduotį.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-01-04-susipazinkite-su-factory-droid-1-0-nuo-modelio-nepriklau.svg",
+      "image_url": "generated-images/2026-11-02-06-susipazinkite-su-gamyklos-droid-1-0-nuo-modelio-neprikla.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -126,7 +185,7 @@
       "summary": "„Vercel Labs“ išleido agento darbalaukį, „Apache-2.0 Rust CLI“, leidžiantį bet kuriam AI agento kompiuteriui naudoti „MacOS“, „Windows“ ir „Linux“, nuskaitant OS pritaikymo neįgaliesiems medžius ir veikiant pagal stabilias nuorodas, o ne pikselius. Įrašas „Vercel Labs Open-Source“ agento darbalaukis, skirtas agento kompiuteriui, pirmą kartą pasirodė „MarkTechPost“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-01-05-vercel-labs-atvirojo-kodo-agento-darbalaukis-skirtas-age.svg",
+      "image_url": "generated-images/2026-11-02-07-vercel-labs-atvirojo-kodo-agento-darbalaukis-skirtas-age.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -155,7 +214,7 @@
       "summary": "Santrauka nepateikta saltinyje.",
       "source": "OpenAI",
       "source_image_url": "https://i4.ytimg.com/vi/o4D1J1YWjhg/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-01-06-yra-daug-ateities-kuria-norite-statyti.svg",
+      "image_url": "generated-images/2026-11-02-08-yra-daug-ateities-kuria-norite-statyti.svg",
       "kind": "video",
       "video_id": "o4D1J1YWjhg",
       "bullets_lt": [
@@ -173,25 +232,26 @@
       }
     },
     {
-      "title": "Susipažinkite su TokenEconomizer: „Microsoft“ papildiniu, kuris sumažina kodavimo agento išlaidas iki 30,9%",
+      "title": "Susipažinkite su „TokenEconomizer“: „Microsoft“ papildiniu, kuris sumažina kodavimo agento išlaidas iki 30,9%",
       "link": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
       "published_iso": "2026-10-30T17:53:37Z",
       "published_lt": "2026-10-30 17:53 UTC",
-      "summary": "„Microsoft Research“ ir „UC Berkeley“ išleido „TokenEconomizer“ – atvirojo kodo įskiepį, kuris mokosi iš ankstesnių seansų, kad sumažintų kodavimo agento prieigos rakto sąnaudas 18,4% iki 30,9% „SWE-Bench“, nekeičiant agento.",
+      "summary": "„Microsoft Research“ ir „UC Berkeley“ išleido „TokenEconomizer“ – atvirojo kodo papildinį, kuris mokosi iš ankstesnių seansų, kad sumažintų kodavimo agento prieigos rakto sąnaudas 18,4% iki 30,9% „SWE-Bench“, nekeičiant agento.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-01-07-susipazinkite-su-tokeneconomizer-microsoft-papildiniu-ku.svg",
+      "image_url": "generated-images/2026-11-02-09-susipazinkite-su-tokeneconomizer-microsoft-papildiniu-ku.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Microsoft Research“ ir „UC Berkeley“ išleido „TokenEconomizer“ – atvirojo kodo įskiepį, kuris mokosi iš ankstesnių seansų, kad sumažintų kodavimo agento prieigos rakto sąnaudas 18,4% iki 30,9% „SWE-Bench“, nekeičiant agento.",
+        "„Microsoft Research“ ir „UC Berkeley“ išleido „TokenEconomizer“ – atvirojo kodo papildinį, kuris mokosi iš ankstesnių seansų, kad sumažintų kodavimo agento prieigos rakto sąnaudas 18,4% iki 30,9% „SWE-Bench“, nekeičiant agento.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
         "Prieinamumas: Panasu, kad jau galima bandyti."
       ],
       "practical": {
         "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Django su Claude Code pirmoji užklausa dėl 2 užduoties sumažėjo nuo 43 351 iki 16 295 raginimo žetonų.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Panasu, kad jau galima bandyti.",
@@ -207,7 +267,7 @@
       "summary": "„Anthropic“, „OpenAI“, „Cloudflare“ ir „Google“ išleido AI agentą, kuris ieško šaltinio kodo saugos klaidų. Visi 4 naudoja tą patį radimą, paneigimą, tada pataiso kilpą. Štai kaip jie skiriasi ir dar 12 įrankių.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-01-08-palyginti-ai-saugumo-agentai-claude-codex-mantis-cloudfl.svg",
+      "image_url": "generated-images/2026-11-02-10-palyginti-ai-saugumo-agentai-claude-codex-mantis-cloudfl.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -236,7 +296,7 @@
       "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 OpenAI dokumentą rasite čia: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-Hypothesis-is-False-October-Hypothesis-is-False-October-25-25-25pdf sekimo modeliavimas 0:17 https://users.cg.tu",
       "source": "Two Minute Papers",
       "source_image_url": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-01-09-openai-tvirtina-kad-tai-tiesiog-padare-neimanoma.svg",
+      "image_url": "generated-images/2026-11-02-11-openai-tvirtina-kad-tai-tiesiog-padare-neimanoma.svg",
       "kind": "video",
       "video_id": "CWdTBLsbaQs",
       "bullets_lt": [
@@ -262,7 +322,7 @@
       "summary": "„Samaya AI's Sterling“ yra „Nemotron 3.5 Lightning“ modelis, skirtas finansiniams tyrimams. „FrontierFinance“ surinko 58,9% už 0,61 USD už klausimą, o Claude'o Fable 5.1 55,9% – 6,89 USD.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-01-10-samaya-ai-isleidzia-sterling-3b-aktyvaus-finansu-tyrimu-.svg",
+      "image_url": "generated-images/2026-11-02-12-samaya-ai-isleidzia-sterling-3b-aktyvaus-finansu-tyrimu-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -277,65 +337,6 @@
         "kainos_detales": "$0.61, $6.89, $1.81",
         "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„Edge0“ išleido „Audio8-TTS-Realistic“, 0,6 B balso klonavimo TTS modelį",
-      "link": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
-      "published_iso": "2026-10-30T05:02:52Z",
-      "published_lt": "2026-10-30 05:02 UTC",
-      "summary": "„Edge0“ išleido „Audio8-TTS-Realistic“, 0,6 B atviro svorio nulinio balso klonavimo TTS modelį pagal Apache 2.0. Jis palaiko 23 kalbas ir prideda galutinį GRPO etapą, kurį veda išmokęs realizmo kritikas. Įrašas „Edge0“ išleidžia „Audio8-TTS-Realistic“, 0.6B balso klonavimo TTS modelį, pirmą kartą pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-01-11-edge0-isleido-audio8-tts-realistic-0-6-b-balso-klonavimo.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Edge0“ išleido „Audio8-TTS-Realistic“, 0,6 B atviro svorio nulinio balso klonavimo TTS modelį pagal Apache 2.0.",
-        "Jis palaiko 23 kalbas ir prideda galutinį GRPO etapą, kurį veda išmokęs realizmo kritikas.",
-        "Įrašas „Edge0“ išleidžia „Audio8-TTS-Realistic“, 0.6B balso klonavimo TTS modelį, pirmą kartą pasirodė „MarkTechPost“.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Jis pagrįstas Audio8-TTS-Preview-0.6b ir išlaiko tą pačią Transformatorių išvadų sąsają.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Baseten išleidžia joey-1, 2B sprendimų modelį už 0,01 USD už 1 mln.",
-      "link": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
-      "published_iso": "2026-10-29T21:20:29Z",
-      "published_lt": "2026-10-29 21:20 UTC",
-      "summary": "Baseten išleido joey-1, 2B atvirojo svorio sprendimo modelį, kuris vietoj teksto pateikia kalibruotas tikimybes. Jis veikia esant 20 ms P50 delsai ir kainuoja 0,01 USD už milijoną įvesties žetonų. Įrašas Basetenas išleidžia joey-1, 2B sprendimų modelį už 0,01 USD už 1 mln. žetonų, pirmą kartą pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-01-12-baseten-isleidzia-joey-1-2b-sprendimu-modeli-uz-0-01-usd.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Baseten išleido joey-1, 2B atvirojo svorio sprendimo modelį, kuris vietoj teksto pateikia kalibruotas tikimybes.",
-        "Jis veikia esant 20 ms P50 delsai ir kainuoja 0,01 USD už milijoną įvesties žetonų.",
-        "Įrašas Basetenas išleidžia joey-1, 2B sprendimų modelį už 0,01 USD už 1 mln.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$0.01 per",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Baseten joey-1 sprendimų modelis yra 2B atvirojo svorio modelis, grąžinantis kalibruotus atsakymus po 0,01 USD už milijoną įvesties žetonų.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Panasu, kad jau galima bandyti.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
