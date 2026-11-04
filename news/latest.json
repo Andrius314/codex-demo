@@ -1,10 +1,153 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-11-03",
-  "generated_at_utc": "2026-11-03T14:47:20Z",
+  "digest_date": "2026-11-04",
+  "generated_at_utc": "2026-11-04T14:59:23Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Tencent WeVisOne-VL suvienija aptikimą, OCR, segmentavimą ir matavimą",
+      "link": "https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/",
+      "published_iso": "2026-11-04T04:39:27Z",
+      "published_lt": "2026-11-04 04:39 UTC",
+      "summary": "Tencent WeChat Vision komanda išleido WeVisOne-VL, Apache 2.0 vizijos kalbos modelį 2B ir 4B dydžiais. Jis tvarko aptikimą, OCR, skaičiavimą, segmentavimą ir alfa matavimą viename modelyje su 9,6 M parametrų pikselių dekoderiu.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-04-01-tencent-wevisone-vl-suvienija-aptikima-ocr-segmentavima-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Tencent WeChat Vision komanda išleido WeVisOne-VL, Apache 2.0 vizijos kalbos modelį 2B ir 4B dydžiais.",
+        "Jis tvarko aptikimą, OCR, skaičiavimą, segmentavimą ir alfa matavimą viename modelyje su 9,6 M parametrų pikselių dekoderiu.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Modelis prideda koordinačių žetonus normalizuotiems laukams ir taškams.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Antropiniai leidiniai „FlashProve“: kriptografiniai įrodymai, kad atsakymas atėjo iš įsipareigojimų",
+      "link": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+      "published_iso": "2026-11-03T22:08:22Z",
+      "published_lt": "2026-11-03 22:08 UTC",
+      "summary": "Anthropic išleido FlashProve, Apache 2.0 zkSNARK prototipą, kuris įrodo, kad atsakymas gautas iš įsipareigojusio modelio, neatskleidžiant svorio. Tai įrodo, kad Llama 4 Maverick yra 110 žetonų per sekundę 1 H100, su 19 MB įrodymais.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-04-02-antropiniai-leidiniai-flashprove-kriptografiniai-irodyma.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Anthropic išleido FlashProve, Apache 2.0 zkSNARK prototipą, kuris įrodo, kad atsakymas gautas iš įsipareigojusio modelio, neatskleidžiant svorio.",
+        "Tai įrodo, kad Llama 4 Maverick yra 110 žetonų per sekundę 1 H100, su 19 MB įrodymais.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Anthropic FlashProve generuoja nulinių žinių įrodymus 400B Llama 4 Maverick išvadai 110 žetonų per sekundę 1 H100 GPU.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "NVIDIA rodo 3 būdus, kaip pagreitinti MoE išvadas dėl DGX Spark, pakeliančio Ling-3.0 blykstės našumą 42,5 %",
+      "link": "https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/",
+      "published_iso": "2026-11-03T20:28:22Z",
+      "published_lt": "2026-11-03 20:28 UTC",
+      "summary": "NVIDIA parodo, kaip 3 sukrauti optimizavimai pagreitina MoE išvadas apie vieną DGX Spark. Ant Group inclusionAI 124B Ling-3.0 blykstės GSM8K dekodavimo pralaidumas padidėjo 42,5%, o tikslumas nepakito.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-04-03-nvidia-rodo-3-budus-kaip-pagreitinti-moe-isvadas-del-dgx.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "NVIDIA parodo, kaip 3 sukrauti optimizavimai pagreitina MoE išvadas apie vieną DGX Spark.",
+        "Ant Group inclusionAI 124B Ling-3.0 blykstės GSM8K dekodavimo pralaidumas padidėjo 42,5%, o tikslumas nepakito.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "NVIDIA rezultatai rodo, kad 124B MoE greičiau aptarnauja vieno vartotojo užklausas toje stalo pusėje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Soniox STT v6 prideda agento teksto įvestį ir aido filtravimą balso agentams",
+      "link": "https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/",
+      "published_iso": "2026-11-03T20:18:22Z",
+      "published_lt": "2026-11-03 20:18 UTC",
+      "summary": "„Soniox“ išleido „Soniox STT v6“, naujausios kartos kalbos į tekstą API. „Soniox STT v6“ yra kalbos pakeitimo tekstu modelis, nuskaitantis, ką sako balso agentas, girdėdamas skambinantįjį. Jis naudoja tą tekstą trumpiems atsakymams atpažinti ir paties agento balsui nuleisti.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-04-04-soniox-stt-v6-prideda-agento-teksto-ivesti-ir-aido-filtr.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Soniox“ išleido „Soniox STT v6“, naujausios kartos kalbos į tekstą API.",
+        "„Soniox STT v6“ yra kalbos pakeitimo tekstu modelis, nuskaitantis, ką sako balso agentas, girdėdamas skambinantįjį.",
+        "Jis naudoja tą tekstą trumpiems atsakymams atpažinti ir paties agento balsui nuleisti.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$0.12/",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/",
+        "try_url": "https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/"
+      }
+    },
+    {
+      "title": "Teisingas GPT",
+      "link": "https://www.youtube.com/watch?v=NCxD-qsQcN0",
+      "published_iso": "2026-11-03T18:30:30Z",
+      "published_lt": "2026-11-03 18:30 UTC",
+      "summary": "Nereikia būti inžinieriumi, kad padarytumėte techninę įrangą. Norite padaryti ką nors fizinio? Tegul GPT-6 Astra padės jums jį atgaivinti.",
+      "source": "OpenAI",
+      "source_image_url": "https://i3.ytimg.com/vi/NCxD-qsQcN0/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-04-05-teisingas-gpt.svg",
+      "kind": "video",
+      "video_id": "NCxD-qsQcN0",
+      "bullets_lt": [
+        "Nereikia būti inžinieriumi, kad padarytumėte techninę įrangą.",
+        "Norite padaryti ką nors fizinio?",
+        "Tegul GPT-6 Astra padės jums jį atgaivinti."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=NCxD-qsQcN0",
+        "try_url": "https://www.youtube.com/watch?v=NCxD-qsQcN0"
+      }
+    },
     {
       "title": "„OpenAI“ pristato „Pando“: „Git Backend“, kuris sumažina vidutinį stūmimo delsą ~80 %",
       "link": "https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/",
@@ -13,7 +156,7 @@
       "summary": "„OpenAI“ sukūrė „Pando“, su „Git“ suderinamą pagrindinę programą, skirtą savo monorepo. Jis savarankiškai tvarko šakas, pakartotinai naudoja saugomus paketų failus, beveik 80 % sumažina vidutinį siuntimo delsą ir dabar pateikia beveik petabaitą Git duomenų per dieną.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-03-01-openai-pristato-pando-git-backend-kuris-sumazina-vidutin.svg",
+      "image_url": "generated-images/2026-11-04-06-openai-pristato-pando-git-backend-kuris-sumazina-vidutin.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -40,7 +183,7 @@
       "summary": "„Zyphra Hierarchical Attention“ (ZHA) yra medžiais indeksuojamas negausaus dėmesio metodas, kuriuo sušaldyti LLM modifikuojami 4B distiliavimo žetonai, atitinkantys didelį dėmesį samprotavimams ir 256 000 atkūrimo etalonus.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-03-02-zyphra-ai-pristato-zyphra-hierarchini-demesi-zha-kelias-.svg",
+      "image_url": "generated-images/2026-11-04-07-zyphra-ai-pristato-zyphra-hierarchini-demesi-zha-kelias-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -67,7 +210,7 @@
       "summary": "„Letter“ išleido „Letterpress-1“, koduojančio agento, diržų ir IDE, skirtą augimo inžinerijai, beta versiją. Jis nuskaito „git“ pagrįstą svetainę ir jos rinką, tada atidaro SEO, GEO ir konversijos darbų ištraukimo užklausas.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-03-03-letter-company-isleido-letterpress-1-kodavimo-agenta-suk.svg",
+      "image_url": "generated-images/2026-11-04-08-letter-company-isleido-letterpress-1-kodavimo-agenta-suk.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -89,33 +232,6 @@
       }
     },
     {
-      "title": "Coinbase naudojant „OpenAI Private Intelligence“.",
-      "link": "https://www.youtube.com/shorts/NbDF90z-g6w",
-      "published_iso": "2026-11-02T22:44:26Z",
-      "published_lt": "2026-11-02 22:44 UTC",
-      "summary": "„Coinbase“ technologijų vadovas Robas Witoffas paaiškina, kodėl naudojant OpenAI svarbu saugumas, apsauginiai turėklai ir nulinis duomenų saugojimas. Sužinokite daugiau apie OpenAI Private Intelligence: https://openai.com/business/private-intelligence/",
-      "source": "OpenAI",
-      "source_image_url": "https://i3.ytimg.com/vi/NbDF90z-g6w/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-03-04-coinbase-naudojant-openai-private-intelligence.svg",
-      "kind": "video",
-      "video_id": "NbDF90z-g6w",
-      "bullets_lt": [
-        "„Coinbase“ technologijų vadovas Robas Witoffas paaiškina, kodėl naudojant OpenAI svarbu saugumas, apsauginiai turėklai ir nulinis duomenų saugojimas.",
-        "Sužinokite daugiau apie OpenAI Private Intelligence: https://openai.com/business/private-intelligence/.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/NbDF90z-g6w",
-        "try_url": "https://www.youtube.com/shorts/NbDF90z-g6w"
-      }
-    },
-    {
       "title": "Deep Principle išleidžia vandenilį-1.0: 753B atvirojo svorio modelis moksliniams atradimams",
       "link": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
       "published_iso": "2026-11-02T18:41:41Z",
@@ -123,7 +239,7 @@
       "summary": "„Deep Principle“ išleido „Hydrogen-1.0“ – atvirą mokslinį modelį, skirtą chemijai, medžiagų mokslui ir gyvosios gamtos mokslams. Jis sukurtas po apmokymo Z.ai GLM-5.3 apie domeno duomenis, laboratorinius įrašus ir agento atradimo trajektorijas.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-03-05-deep-principle-isleidzia-vandenili-1-0-753b-atvirojo-svo.svg",
+      "image_url": "generated-images/2026-11-04-09-deep-principle-isleidzia-vandenili-1-0-753b-atvirojo-svo.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -152,7 +268,7 @@
       "summary": "Štai naujausi „Google“ AI naujinimai nuo 2026 m. spalio mėn",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-11-03-06-paskutines-ai-naujienos-kurias-paskelbeme-2026-m-spalio-.svg",
+      "image_url": "generated-images/2026-11-04-10-paskutines-ai-naujienos-kurias-paskelbeme-2026-m-spalio-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -180,7 +296,7 @@
       "summary": "NVIDIA išleido „Auto Ontology“, „Apache 2.0“ biblioteką, kuri generuoja semantinį sluoksnį iš įmonės metaduomenų. Jis pagrindžia agento SQL sertifikuotomis apibrėžtimis ir aptarnauja kontekstą per MCP, CLI ir API.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-03-07-nvidia-isleido-automatine-ontologija-atvira-semantini-sl.svg",
+      "image_url": "generated-images/2026-11-04-11-nvidia-isleido-automatine-ontologija-atvira-semantini-sl.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -202,107 +318,19 @@
       }
     },
     {
-      "title": "Susipažinkite su qwenGPU: Qwen3.5-2B su 45 sudarytais GPU sluoksniais, kuriuose veikia CUDA",
-      "link": "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/",
-      "published_iso": "2026-11-02T07:28:29Z",
-      "published_lt": "2026-11-02 07:28 UTC",
-      "summary": "qwenGPU sukompiliuoja 4 juostų SIMT GPU į Qwen3.5-2B kaip 45 neapmokytus sluoksnius. Modelis pats įrašo kiekvieną tikrojo CUDA paleidimo žingsnį, naudodamas „Gated DeltaNet“ būseną kaip registrus ir atmintį. Įrašas Susipažinkite su qwenGPU: Qwen3.5-2B su 45 sudarytais GPU sluoksniais, kuriuose veikia CUDA, pirmasis pasirodė MarkTechPost .",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-03-08-susipazinkite-su-qwengpu-qwen3-5-2b-su-45-sudarytais-gpu.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "qwenGPU sukompiliuoja 4 juostų SIMT GPU į Qwen3.5-2B kaip 45 neapmokytus sluoksnius.",
-        "Modelis pats įrašo kiekvieną tikrojo CUDA paleidimo žingsnį, naudodamas „Gated DeltaNet“ būseną kaip registrus ir atmintį.",
-        "Įrašas Susipažinkite su qwenGPU: Qwen3.5-2B su 45 sudarytais GPU sluoksniais, kuriuose veikia CUDA, pirmasis pasirodė MarkTechPost .",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Aptikta: CUDA",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/",
-        "try_url": "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/"
-      }
-    },
-    {
-      "title": "Nace AI atvirojo kodo Drex Max v1: 27B sprendimų modelis, veikiantis vietoje Apple Silicon",
-      "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
-      "published_iso": "2026-11-01T08:10:07Z",
-      "published_lt": "2026-11-01 08:10 UTC",
-      "summary": "Nace AI atvirojo kodo Drex Max v1, 27B multimodalinis sprendimų modelis, kurio balas 67,52 ir veikia Apple Silicon. Įrašas Nace AI atvirojo kodo Drex Max v1: 27B sprendimų modelis, kuris veikia vietoje Apple Silicon, pirmą kartą pasirodė MarkTechPost.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-03-09-nace-ai-atvirojo-kodo-drex-max-v1-27b-sprendimu-modelis-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Nace AI atvirojo kodo Drex Max v1, 27B multimodalinis sprendimų modelis, kurio balas 67,52 ir veikia Apple Silicon.",
-        "Įrašas Nace AI atvirojo kodo Drex Max v1: 27B sprendimų modelis, kuris veikia vietoje Apple Silicon, pirmą kartą pasirodė MarkTechPost.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "DeepSeek atvirojo kodo dsh-superagent, maršrutizatoriaus darbuotojo kodavimo agentas",
-      "link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
-      "published_iso": "2026-11-01T07:47:17Z",
-      "published_lt": "2026-11-01 07:47 UTC",
-      "summary": "„DeepSeek“ išleido „dsh-superagent“, MIT licencijuotą tyrimų prototipą, kuris „GitHub“ ir „Feishu“ užklausas paverčia lygiagrečiomis darbuotojų sesijomis. „DeepSeek“ modeliavime p95 užduoties atlikimas sumažėjo iki 15,7 minutės nuo 29,5 minutės.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-03-10-deepseek-atvirojo-kodo-dsh-superagent-marsrutizatoriaus-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„DeepSeek“ išleido „dsh-superagent“, MIT licencijuotą tyrimų prototipą, kuris „GitHub“ ir „Feishu“ užklausas paverčia lygiagrečiomis darbuotojų sesijomis.",
-        "„DeepSeek“ modeliavime p95 užduoties atlikimas sumažėjo iki 15,7 minutės nuo 29,5 minutės.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Leidžiamas užklausas paverčia lygiagrečiais darbo elementais, kurių kiekvienas yra savo agento sesijoje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
       "title": "AI pagaliau užmiega, Gemini 4 Carbon, ETH nulaužtas, energija pagrįsti modeliai, antropinis IPO: AI NAUJIENOS",
       "link": "https://www.youtube.com/watch?v=IGICYFyP_EI",
       "published_iso": "2026-11-01T03:27:10Z",
       "published_lt": "2026-11-01 03:27 UTC",
-      "summary": "DIDELĖS DI NAUJIENOS: Gemini 4 Carbon, Genie 4, GPT 6.1 Terra, Nanbeige 4.3, Anthropic IPO, MotionBricks ir kt. Thanks to our sponsor Luma.",
+      "summary": "DIDELĖS DI NAUJIENOS: Gemini 4 Carbon, Genie 4, GPT 6.1 Terra, Nanbeige 4.3, Anthropic IPO, MotionBricks ir kt. Ačiū mūsų rėmėjui Lumai.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/IGICYFyP_EI/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-03-11-ai-pagaliau-uzmiega-gemini-4-carbon-eth-nulauztas-energi.svg",
+      "image_url": "generated-images/2026-11-04-12-ai-pagaliau-uzmiega-gemini-4-carbon-eth-nulauztas-energi.svg",
       "kind": "video",
       "video_id": "IGICYFyP_EI",
       "bullets_lt": [
         "DIDELĖS DI NAUJIENOS: Gemini 4 Carbon, Genie 4, GPT 6.1 Terra, Nanbeige 4.3, Anthropic IPO, MotionBricks ir kt.",
-        "Thanks to our sponsor Luma."
+        "Ačiū mūsų rėmėjui Lumai."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -313,34 +341,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=IGICYFyP_EI",
         "try_url": "https://www.youtube.com/watch?v=IGICYFyP_EI"
-      }
-    },
-    {
-      "title": "Susipažinkite su gamyklos Droid 1.0: nuo modelio nepriklausomas kodavimo agentas, sukurtas scenarijaus režimu",
-      "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
-      "published_iso": "2026-10-31T10:38:14Z",
-      "published_lt": "2026-10-31 10:38 UTC",
-      "summary": "Gamykloje išleista „Droid 1.0“ – nuo ​​modelio nepriklausomas kodavimo agentas, dėl kurio programinio įrankio iškvietimas yra numatytasis. Pačios gamyklos „Terminal-Bench 4“ operacinėje sistemoje „Droid“ surinko 65,2%, o Claude Opus 5,5 už 4,73 USD už atliktą užduotį.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-03-12-susipazinkite-su-gamyklos-droid-1-0-nuo-modelio-neprikla.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Gamykloje išleista „Droid 1.0“ – nuo ​​modelio nepriklausomas kodavimo agentas, dėl kurio programinio įrankio iškvietimas yra numatytasis.",
-        "Pačios gamyklos „Terminal-Bench 4“ operacinėje sistemoje „Droid“ surinko 65,2%, o Claude Opus 5,5 už 4,73 USD už atliktą užduotį.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
     }
   ]
