@@ -1,10 +1,93 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-11-06",
-  "generated_at_utc": "2026-11-06T14:43:41Z",
+  "digest_date": "2026-11-07",
+  "generated_at_utc": "2026-11-07T13:41:07Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Buoyant Releases Kinference: atvirojo kodo išvadų valdymo plokštuma, skirta Kubernetes ir vLLM",
+      "link": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
+      "published_iso": "2026-11-07T08:16:33Z",
+      "published_lt": "2026-11-07 08:16 UTC",
+      "summary": "„Buoyant“ išleido „Kinference“, „Apache 2.0“ išvadų valdymo plokštumą, skirtą vLLM „Kubernetes“. Tai prideda deklaratyvią maršruto parinkimo politiką, KV talpyklą suvokiantį apkrovos balansavimą ir nuomininko metriką, o TTFT mediana sumažinama 95 % pagal paties „Buoyant“ etaloną.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-07-01-buoyant-releases-kinference-atvirojo-kodo-isvadu-valdymo.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Buoyant“ išleido „Kinference“, „Apache 2.0“ išvadų valdymo plokštumą, skirtą vLLM „Kubernetes“.",
+        "Tai prideda deklaratyvią maršruto parinkimo politiką, KV talpyklą suvokiantį apkrovos balansavimą ir nuomininko metriką, o TTFT mediana sumažinama 95 % pagal paties „Buoyant“ etaloną.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Viename lygyje taiko maršruto parinkimo strategijas, prieigos raktų dažnio ribas, KV talpyklos apkrovos balansavimą ir nuomininko metriką.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "LifeVal: AI pažangos matavimas atliekant kasdieniame gyvenime svarbias užduotis.",
+      "link": "https://www.youtube.com/watch?v=hJOwOkLHRN0",
+      "published_iso": "2026-11-06T21:11:34Z",
+      "published_lt": "2026-11-06 21:11 UTC",
+      "summary": "Kad AGI būtų naudinga visai žmonijai, ji turėtų padėti žmonėms atlikti jiems svarbiausias kasdienes užduotis.",
+      "source": "OpenAI",
+      "source_image_url": "https://i1.ytimg.com/vi/hJOwOkLHRN0/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-07-02-lifeval-ai-pazangos-matavimas-atliekant-kasdieniame-gyve.svg",
+      "kind": "video",
+      "video_id": "hJOwOkLHRN0",
+      "bullets_lt": [
+        "Kad AGI būtų naudinga visai žmonijai, ji turėtų padėti žmonėms atlikti jiems svarbiausias kasdienes užduotis."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=hJOwOkLHRN0",
+        "try_url": "https://www.youtube.com/watch?v=hJOwOkLHRN0"
+      }
+    },
+    {
+      "title": "Zyphra ZYFA: FP8 FlashAttention, skirtas AMD MI355X, iki 1,76 karto greitesnis",
+      "link": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+      "published_iso": "2026-11-06T17:28:04Z",
+      "published_lt": "2026-11-06 17:28 UTC",
+      "summary": "Zyphra išleido ZYFA, atvirojo kodo FP8 ir BF16 išankstinio užpildymo dėmesio branduolius, skirtus AMD Instinct MI355X. Realiai suaktyvinus modelį, jo FP8 branduoliai veikia 1,16–1,76 karto greičiau nei AMD AITER, o paklaida yra 62–78 % mažesnė, kai galvutės matmuo yra 128.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-07-03-zyphra-zyfa-fp8-flashattention-skirtas-amd-mi355x-iki-1-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Zyphra išleido ZYFA, atvirojo kodo FP8 ir BF16 išankstinio užpildymo dėmesio branduolius, skirtus AMD Instinct MI355X.",
+        "Realiai suaktyvinus modelį, jo FP8 branduoliai veikia 1,16–1,76 karto greičiau nei AMD AITER, o paklaida yra 62–78 % mažesnė, kai galvutės matmuo yra 128.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
     {
       "title": "AI ateitis yra visiškai neįtikėtina (Spencer Huang)",
       "link": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
@@ -13,7 +96,7 @@
       "summary": "❤️ Peržiūrėkite „Lambda“ čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers Skyriai: 00:00 Įvadas 02:40 Kodėl robotams sunku 29:35 Robotai taip pat susižeidžia 31:28 100 metų per sekundes 35:",
       "source": "Two Minute Papers",
       "source_image_url": "https://i1.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-06-01-ai-ateitis-yra-visiskai-neitiketina-spencer-huang.svg",
+      "image_url": "generated-images/2026-11-07-04-ai-ateitis-yra-visiskai-neitiketina-spencer-huang.svg",
       "kind": "video",
       "video_id": "XgC1QTs6A2U",
       "bullets_lt": [
@@ -39,7 +122,7 @@
       "summary": "„Thinking Machines Lab“ išleido „Inkling 2 Small“, 594B parametrų MoE su 17B aktyvių parametrų. Pagal dirbtinės analizės intelekto indeksą jis surinko 31 balą ir veikia naudojant Tinker, o suplanuotas Apache 2.0 svoris.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-06-02-tinking-machines-isleido-inkling-2-small-594b-moe-su-17b.svg",
+      "image_url": "generated-images/2026-11-07-05-tinking-machines-isleido-inkling-2-small-594b-moe-su-17b.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -65,15 +148,15 @@
       "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
       "published_iso": "2026-11-05T22:58:21Z",
       "published_lt": "2026-11-05 22:58 UTC",
-      "summary": "„Google“ išleido „Gemini Omni 1.2 Flash“ – vaizdo įrašų generavimo ir redagavimo modelį su 15 sekundžių trukmės klipais, kelių pokalbių redagavimu ir 30 % sumažinta kaina iki 0,07 USD už 720p vaizdo įrašo sekundę. Įrašas „Google“ išleido „Gemini Omni 1.2 Flash“: 15 sekundžių AI vaizdo įrašas už 0,07 USD per sekundę pirmą kartą pasirodė „MarkTechPost“.",
+      "summary": "„Google“ išleido „Gemini Omni 1.2 Flash“ – vaizdo įrašų generavimo ir redagavimo modelį su 15 sekundžių trukmės klipais, kelių pokalbių redagavimu ir 30 % sumažinta kaina iki 0,07 USD už 720p vaizdo įrašo sekundę. Įrašas „Google“ išleido „Gemini Omni 1.2 Flash“: 15 sekundžių AI vaizdo įrašas už 0,07 USD per sekundę, pirmą kartą pasirodė „MarkTechPost“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-06-03-google-isleidzia-gemini-omni-1-2-flash-15-sekundziu-ai-v.svg",
+      "image_url": "generated-images/2026-11-07-06-google-isleidzia-gemini-omni-1-2-flash-15-sekundziu-ai-v.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "„Google“ išleido „Gemini Omni 1.2 Flash“ – vaizdo įrašų generavimo ir redagavimo modelį su 15 sekundžių trukmės klipais, kelių pokalbių redagavimu ir 30 % sumažinta kaina iki 0,07 USD už 720p vaizdo įrašo sekundę.",
-        "Įrašas „Google“ išleido „Gemini Omni 1.2 Flash“: 15 sekundžių AI vaizdo įrašas už 0,07 USD per sekundę pirmą kartą pasirodė „MarkTechPost“.",
+        "Įrašas „Google“ išleido „Gemini Omni 1.2 Flash“: 15 sekundžių AI vaizdo įrašas už 0,07 USD per sekundę, pirmą kartą pasirodė „MarkTechPost“.",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
         "Prieinamumas: Panasu, kad jau galima bandyti."
@@ -94,15 +177,15 @@
       "link": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
       "published_iso": "2026-11-05T21:33:00Z",
       "published_lt": "2026-11-05 21:33 UTC",
-      "summary": "Baidu išleido ERNIE 5.5 Flash Base, 280B nedidelį MoE bazinį modelį su 14B aktyviais parametrais, apmokytą naudojant 33,5T žetonus ir paskelbtą prieš treniruotę įpusėjus ar po jo. Įrašas „Baidu“ išleido ERNIE 5.5 „Flash Base“: 280B MoE bazinis modelis su 14B aktyviais parametrais appeared first on MarkTechPost .",
+      "summary": "Baidu išleido ERNIE 5.5 Flash Base, 280B nedidelį MoE bazinį modelį su 14B aktyviais parametrais, apmokytą naudojant 33,5T žetonus ir paskelbtą prieš treniruotę ar po jo. Įrašas „Baidu“ išleido ERNIE 5.5 „Flash Base“: 280B MoE bazinis modelis su 14B aktyviaisiais parametrais appeared first on MarkTechPost .",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-06-04-baidu-isleido-ernie-5-5-flash-base-280b-moe-bazini-model.svg",
+      "image_url": "generated-images/2026-11-07-07-baidu-isleido-ernie-5-5-flash-base-280b-moe-bazini-model.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Baidu išleido ERNIE 5.5 Flash Base, 280B nedidelį MoE bazinį modelį su 14B aktyviais parametrais, apmokytą naudojant 33,5T žetonus ir paskelbtą prieš treniruotę įpusėjus ar po jo.",
-        "Įrašas „Baidu“ išleido ERNIE 5.5 „Flash Base“: 280B MoE bazinis modelis su 14B aktyviais parametrais appeared first on MarkTechPost .",
+        "Baidu išleido ERNIE 5.5 Flash Base, 280B nedidelį MoE bazinį modelį su 14B aktyviais parametrais, apmokytą naudojant 33,5T žetonus ir paskelbtą prieš treniruotę ar po jo.",
+        "Įrašas „Baidu“ išleido ERNIE 5.5 „Flash Base“: 280B MoE bazinis modelis su 14B aktyviaisiais parametrais appeared first on MarkTechPost .",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Prieinamumas: Prieinama kaip beta/preview."
       ],
@@ -118,32 +201,6 @@
       }
     },
     {
-      "title": "Kaip „Mozilla“ stiprina „Firefox“ saugumą naudodama GPT-6 Cyber",
-      "link": "https://www.youtube.com/watch?v=pXRZyOxbDL4",
-      "published_iso": "2026-11-05T17:14:11Z",
-      "published_lt": "2026-11-05 17:14 UTC",
-      "summary": "„Mozilla“ naudojo GPT-6 Cyber, kad atskleistų anksčiau nežinotus didelio masto „Firefox“ pažeidžiamumus ir nustatytų architektūrinius patobulinimus. Jos komanda išsiuntė pataisymus milijonams vartotojų, paversdama išvadas žmonių, kurie priklauso nuo programinės įrangos, apsauga.",
-      "source": "OpenAI",
-      "source_image_url": "https://i1.ytimg.com/vi/pXRZyOxbDL4/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-06-05-kaip-mozilla-stiprina-firefox-sauguma-naudodama-gpt-6-cy.svg",
-      "kind": "video",
-      "video_id": "pXRZyOxbDL4",
-      "bullets_lt": [
-        "„Mozilla“ naudojo GPT-6 Cyber, kad atskleistų anksčiau nežinotus didelio masto „Firefox“ pažeidžiamumus ir nustatytų architektūrinius patobulinimus.",
-        "Jos komanda išsiuntė pataisymus milijonams vartotojų, paversdama išvadas žmonių, kurie priklauso nuo programinės įrangos, apsauga."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=pXRZyOxbDL4",
-        "try_url": "https://www.youtube.com/watch?v=pXRZyOxbDL4"
-      }
-    },
-    {
       "title": "Gemini Omni 1.2 Flash: greitas ir ekonomiškas su ilgesniais klipais",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "published_iso": "2026-11-05T17:00:00Z",
@@ -151,7 +208,7 @@
       "summary": "Gemini Omni 1.2 Flash suteikia vietinį 15 sekundžių vaizdo įrašų generavimą ir redagavimą, stipresnį nuoseklumą ir 30 % mažesnę kainą.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-11-06-06-gemini-omni-1-2-flash-greitas-ir-ekonomiskas-su-ilgesnia.svg",
+      "image_url": "generated-images/2026-11-07-08-gemini-omni-1-2-flash-greitas-ir-ekonomiskas-su-ilgesnia.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -179,7 +236,7 @@
       "summary": "„Together AI“ išleido „Together Compiler“ – agentų valdomą kilpą, kuri nuolat iš naujo optimizuoja išvados eigą, kai eismas pasikeičia. Jis įveikė geriausias InferenceX konfigūracijas iki 2,6 karto TPS per mažiau nei 24 valandas vienam modeliui.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-06-07-together-ai-isleido-kartu-kompiliatoriu-agentai-daro-isv.svg",
+      "image_url": "generated-images/2026-11-07-09-together-ai-isleido-kartu-kompiliatoriu-agentai-daro-isv.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -206,7 +263,7 @@
       "summary": "OpenAI išleido 2.6 vaizdus ir GPT-Image-2.6 Flare ir Sunburst API modelius. „Flare“ sukuria vaizdus vos per 6 sekundes ir abu prideda GIF išvestį, SVG eksportą, žymėjimo redagavimus ir sudėtingumo parametrą.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/11/Static_01_animate-gifs-150x150.png",
-      "image_url": "generated-images/2026-11-06-08-openai-pristato-gpt-image-2-6-flare-ir-sunburst-prideda-.svg",
+      "image_url": "generated-images/2026-11-07-10-openai-pristato-gpt-image-2-6-flare-ir-sunburst-prideda-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -231,15 +288,15 @@
       "link": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
       "published_iso": "2026-11-05T05:42:18Z",
       "published_lt": "2026-11-05 05:42 UTC",
-      "summary": "„Google Research“ išleido „Agile Deliberation“ – „žmogaus ciklo“ sistemą, kuri padeda vartotojams apibrėžti subjektyvias vizualines sąvokas naudojant ribinius vaizdus. Per 18 tiesioginių seansų jis 10,5 taško padidino Dvynių klasifikatorių F1.",
+      "summary": "„Google Research“ išleido „Agile Deliberation“ – „žmogaus ciklo“ sistemą, kuri padeda vartotojams apibrėžti subjektyvias vizualines sąvokas naudojant ribinius vaizdus. Per 18 tiesioginių seansų jis pakėlė Dvynių klasifikatorių F1 10,5 taško, palyginti su nuliu.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-06-09-google-ai-research-isleido-agile-deliberation-framework-.svg",
+      "image_url": "generated-images/2026-11-07-11-google-ai-research-isleido-agile-deliberation-framework-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "„Google Research“ išleido „Agile Deliberation“ – „žmogaus ciklo“ sistemą, kuri padeda vartotojams apibrėžti subjektyvias vizualines sąvokas naudojant ribinius vaizdus.",
-        "Per 18 tiesioginių seansų jis 10,5 taško padidino Dvynių klasifikatorių F1.",
+        "Per 18 tiesioginių seansų jis pakėlė Dvynių klasifikatorių F1 10,5 taško, palyginti su nuliu.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
         "Prieinamumas: Panasu, kad jau galima bandyti."
@@ -263,7 +320,7 @@
       "summary": "webAI išleido TwIL-8B, 8.8B samprotavimo modelį, paruoštą iš IBM Granite 4.2 8B. Jis skelbia 98.2 MATH-500 ir 81.6 LiveCodeBench, tačiau panašaus dydžio modelius leidžia žinių etalonuose. Įrašas webAI išleidžia TwIL-8B, 8.8B argumentavimo modelio balą 98.2 MATH-500, pirmą kartą pasirodė MarkTechPost.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-06-10-webai-isleido-twil-8b-8-8b-samprotavimo-modelio-bala-98-.svg",
+      "image_url": "generated-images/2026-11-07-12-webai-isleido-twil-8b-8-8b-samprotavimo-modelio-bala-98-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -281,63 +338,6 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„Ricursive AI“ išleido „Ripple-65B“ peržiūrą: 65B tankaus atvirojo svorio modelio įvertinimas 80,5 2.1 terminalo stende",
-      "link": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
-      "published_iso": "2026-11-04T21:01:06Z",
-      "published_lt": "2026-11-04 21:01 UTC",
-      "summary": "„Ricursive Intelligence“ išleido „Ripple-65B Preview“, 65B tankų atviro svorio LLM pagal „Apache 2.0“. „Terminal-Bench 2.1“ jis surinko 80,5 balo, o tai lenkia JAV atvirus modelius, kurių dydis yra iki 15 kartų didesnis.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-06-11-ricursive-ai-isleido-ripple-65b-perziura-65b-tankaus-atv.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Ricursive Intelligence“ išleido „Ripple-65B Preview“, 65B tankų atviro svorio LLM pagal „Apache 2.0“.",
-        "„Terminal-Bench 2.1“ jis surinko 80,5 balo, o tai lenkia JAV atvirus modelius, kurių dydis yra iki 15 kartų didesnis.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$32",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "„Ricursive Intelligence“ išleido „Ripple-65B Preview“, 65B tankų atviro svorio LLM pagal „Apache 2.0“.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Tencent WeVisOne-VL suvienija aptikimą, OCR, segmentavimą ir matavimą",
-      "link": "https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/",
-      "published_iso": "2026-11-04T04:39:27Z",
-      "published_lt": "2026-11-04 04:39 UTC",
-      "summary": "Tencent WeChat Vision komanda išleido WeVisOne-VL, Apache 2.0 vizijos kalbos modelį 2B ir 4B dydžiais. Jis tvarko aptikimą, OCR, skaičiavimą, segmentavimą ir alfa matavimą viename modelyje su 9,6 M parametrų pikselių dekoderiu.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-06-12-tencent-wevisone-vl-suvienija-aptikima-ocr-segmentavima-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Tencent WeChat Vision komanda išleido WeVisOne-VL, Apache 2.0 vizijos kalbos modelį 2B ir 4B dydžiais.",
-        "Jis tvarko aptikimą, OCR, skaičiavimą, segmentavimą ir alfa matavimą viename modelyje su 9,6 M parametrų pikselių dekoderiu.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Modelis prideda koordinačių žetonus normalizuotiems laukams ir taškams.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
         "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
