@@ -1,10 +1,68 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-11-08",
-  "generated_at_utc": "2026-11-08T13:59:51Z",
+  "digest_date": "2026-11-09",
+  "generated_at_utc": "2026-11-09T17:01:33Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Priežastis Machines Open-Sources Aspen, Git serveris, sukurtas dirbtinio intelekto agentams",
+      "link": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+      "published_iso": "2026-11-09T08:20:20Z",
+      "published_lt": "2026-11-09 08:20 UTC",
+      "summary": "„Reason Machines“ turi atvirojo kodo „Aspen“ – savarankišką „Git“ serverį, skirtą AI agentams. Jis atitinka OpenAI „Pando“ dizainą ir palaiko 567 paspaudimus per sekundę viename 8 branduolių serveryje pačios įmonės bandymo metu. Įrašas Reason Machines Open-Sources Aspen, Git serveris, sukurtas dirbtinio intelekto agentams, pirmiausia pasirodė MarkTechPost.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-09-01-priezastis-machines-open-sources-aspen-git-serveris-suku.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Reason Machines“ turi atvirojo kodo „Aspen“ – savarankišką „Git“ serverį, skirtą AI agentams.",
+        "Jis atitinka OpenAI „Pando“ dizainą ir palaiko 567 paspaudimus per sekundę viename 8 branduolių serveryje pačios įmonės bandymo metu.",
+        "Įrašas Reason Machines Open-Sources Aspen, Git serveris, sukurtas dirbtinio intelekto agentams, pirmiausia pasirodė MarkTechPost.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "0sec Labs Open-Source 0, AI saugos diržas su žiniatinklio vartotojo sąsaja, CLI ir MCP",
+      "link": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
+      "published_iso": "2026-11-09T07:55:18Z",
+      "published_lt": "2026-11-09 07:55 UTC",
+      "summary": "„0sec Labs“ turi atvirojo kodo 0, AI saugos diržą, skirtą kodo peržiūrai, tikrinimui, atvirkštinei inžinerijai ir pataisymams. Jis veikia lokaliai per naršyklės konsolę, be galvos CLI ir MCP serverį su jūsų modelio teikėju.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-09-02-0sec-labs-open-source-0-ai-saugos-dirzas-su-ziniatinklio.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„0sec Labs“ turi atvirojo kodo 0, AI saugos diržą, skirtą kodo peržiūrai, tikrinimui, atvirkštinei inžinerijai ir pataisymams.",
+        "Jis veikia lokaliai per naršyklės konsolę, be galvos CLI ir MCP serverį su jūsų modelio teikėju.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "0sec Labs atvirojo kodo AI saugos diržai yra licencijuoti MIT OR Apache-2.0 ir pristatomi kaip tyrimo peržiūra.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
     {
       "title": "„Google AI“ išleido „Elephant-Goldfish“ modelio papildinį, skirtą pirmajam kodavimui",
       "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
@@ -13,7 +71,7 @@
       "summary": "„Google Elephant-Goldfish Model“ papildinys sukuria kodavimo agentų specifikacijų juodraštį, tada prieš bet kokį kodą atlieka 5 nulinio konteksto peržiūros etapus. Įrašas „Google AI“ išleido „Elephant-Goldfish“ modelio papildinį, skirtą „Spec-First“ kodavimui, pirmiausia pasirodė „MarkTechPost“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-08-01-google-ai-isleido-elephant-goldfish-modelio-papildini-sk.svg",
+      "image_url": "generated-images/2026-11-09-03-google-ai-isleido-elephant-goldfish-modelio-papildini-sk.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -38,14 +96,14 @@
       "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
       "published_iso": "2026-11-08T10:27:27Z",
       "published_lt": "2026-11-08 10:27 UTC",
-      "summary": "Konfigūracijos patikrintas palyginimas, kaip 10 atvirų MoE modeliuoja maršruto žetonus: bendrieji ir aktyvieji parametrai, ekspertų skaičius, aukščiausio lygio k, bendrinami ekspertai, blokavimo funkcijos ir apkrovos balansavimo metodai. Įrašas Kokį maršrutą naudoja kiekvienas Vidaus reikalų ministerijos modelis? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared pirmą kartą pasirodė MarkTechPost .",
+      "summary": "Konfigūracijos patikrintas palyginimas, kaip 10 atvirų MoE modelių nukreipia žetonus: bendrieji ir aktyvieji parametrai, ekspertų skaičius, top-k, bendrinami ekspertai, blokavimo funkcijos ir apkrovos balansavimo metodai. Įrašas Kokį maršrutą naudoja kiekvienas Vidaus reikalų ministerijos modelis? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared pirmą kartą pasirodė MarkTechPost .",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-08-02-koki-marsruta-naudoja-kiekvienas-am-modelis-deepseek-qwe.svg",
+      "image_url": "generated-images/2026-11-09-04-koki-marsruta-naudoja-kiekvienas-am-modelis-deepseek-qwe.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Konfigūracijos patikrintas palyginimas, kaip 10 atvirų MoE modeliuoja maršruto žetonus: bendrieji ir aktyvieji parametrai, ekspertų skaičius, aukščiausio lygio k, bendrinami ekspertai, blokavimo funkcijos ir apkrovos balansavimo metodai.",
+        "Konfigūracijos patikrintas palyginimas, kaip 10 atvirų MoE modelių nukreipia žetonus: bendrieji ir aktyvieji parametrai, ekspertų skaičius, top-k, bendrinami ekspertai, blokavimo funkcijos ir apkrovos balansavimo metodai.",
         "Įrašas Kokį maršrutą naudoja kiekvienas Vidaus reikalų ministerijos modelis?",
         "DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared pirmą kartą pasirodė MarkTechPost .",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas."
@@ -66,14 +124,14 @@
       "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
       "published_iso": "2026-11-08T06:18:33Z",
       "published_lt": "2026-11-08 06:18 UTC",
-      "summary": "Vidaus reikalų ministerijos maršruto strategijos nusprendžia, kurie ekspertai apdoroja kiekvieną prieigos raktą. Šiame vadove paaiškinami 7 metodai, pradedant Mixtral top-2 softmax ir baigiant DeepSeek-V4 maišos maršruto parinkimu, su modeliais, kurie naudoja kiekvieną iš jų.",
+      "summary": "Vidaus reikalų ministerijos maršruto parinkimo strategijos nusprendžia, kurie ekspertai apdoroja kiekvieną prieigos raktą. Šiame vadove paaiškinami 7 metodai, pradedant Mixtral top-2 softmax ir baigiant DeepSeek-V4 maišos maršruto parinkimu, su modeliais, kurie naudoja kiekvieną iš jų.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-16-scaled.png",
-      "image_url": "generated-images/2026-11-08-03-paaiskintos-vidaus-reikalu-ministerijos-marsruto-parinki.svg",
+      "image_url": "generated-images/2026-11-09-05-paaiskintos-vidaus-reikalu-ministerijos-marsruto-parinki.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Vidaus reikalų ministerijos maršruto strategijos nusprendžia, kurie ekspertai apdoroja kiekvieną prieigos raktą.",
+        "Vidaus reikalų ministerijos maršruto parinkimo strategijos nusprendžia, kurie ekspertai apdoroja kiekvieną prieigos raktą.",
         "Šiame vadove paaiškinami 7 metodai, pradedant Mixtral top-2 softmax ir baigiant DeepSeek-V4 maišos maršruto parinkimu, su modeliais, kurie naudoja kiekvieną iš jų.",
         "Kaina: Yra nemokamas ir mokamas variantas."
       ],
@@ -96,7 +154,7 @@
       "summary": "„Nous Research“ išleido „Arete-27B“, „Apache 2.0“ tobulą Qwen3.8-27B derinimą. Nouso 803 eilutės eval, propagandos atsakymų skaičius sumažėjo nuo 22% iki 0,9%, o Hermes Bench išliko 65,60%. Įrašas „Nous Research Releases Arete-27B“, kuris sumažina Qwen3.8-27B propagandą nuo 22 % iki 0,9 % appeared first on MarkTechPost .",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-08-04-nous-research-isleido-arete-27b-kuris-sumazina-qwen3-8-2.svg",
+      "image_url": "generated-images/2026-11-09-06-nous-research-isleido-arete-27b-kuris-sumazina-qwen3-8-2.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -119,14 +177,14 @@
       }
     },
     {
-      "title": "Svorio erdvės programavimas, mokslo agentai, 3D generatoriai, naujas Gemini Omni, naujas GPT vaizdas: AI NAUJIENOS",
+      "title": "Svorio erdvės programavimas, nauji 3D modeliai, Gemini Omni 1.2, GPT vaizdas 2.6: AI NAUJIENOS",
       "link": "https://www.youtube.com/watch?v=9RIK3A24ZxA",
       "published_iso": "2026-11-08T03:27:33Z",
       "published_lt": "2026-11-08 03:27 UTC",
       "summary": "DIDELĖS AI NAUJIENOS: RelayVSR, Kimi K3.1, Hy4, Gemini Omni 1.2, GPT Image 2.6 ir kt. Ačiū mūsų rėmėjui Higgsfield.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/9RIK3A24ZxA/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-08-05-svorio-erdves-programavimas-mokslo-agentai-3d-generatori.svg",
+      "image_url": "generated-images/2026-11-09-07-svorio-erdves-programavimas-nauji-3d-modeliai-gemini-omn.svg",
       "kind": "video",
       "video_id": "9RIK3A24ZxA",
       "bullets_lt": [
@@ -152,7 +210,7 @@
       "summary": "Naršykite išsamų NVIDIA Dory 1.0 4B kilpinės kalbos modelio kodavimo vadovą. Sužinokite, kaip sukurti prisegtą llama.cpp šaką, analizuoti ciklo skaičiavimo išlaidas, išbandyti atminties talpyklą ir vykdyti suporuotus vertinimus.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-08-06-kaip-paleisti-nvidia-dory-4b-su-llama-cpp-ciklas-pagal-c.svg",
+      "image_url": "generated-images/2026-11-09-08-kaip-paleisti-nvidia-dory-4b-su-llama-cpp-ciklas-pagal-c.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -181,7 +239,7 @@
       "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.com/papers 📝 Svorio erdvės programavimo darbus rasite čia: https://rikiyat.github.io/blog/weight-space-programming/ 🙏 Norime padėkoti mūsų dosniems Patreon rėmėjams, kurie leidžia sukurti Two Minute Papers, B: Adamhang Bridgeos, S",
       "source": "Two Minute Papers",
       "source_image_url": "https://i4.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-08-07-openai-astra-ka-tik-atidare-juodaja-ai-deze.svg",
+      "image_url": "generated-images/2026-11-09-09-openai-astra-ka-tik-atidare-juodaja-ai-deze.svg",
       "kind": "video",
       "video_id": "GJ6PMUm5oTA",
       "bullets_lt": [
@@ -207,7 +265,7 @@
       "summary": "„Buoyant“ išleido „Kinference“, „Apache 2.0“ išvadų valdymo plokštumą, skirtą vLLM „Kubernetes“. Tai prideda deklaratyvią maršruto parinkimo politiką, KV talpyklą suvokiantį apkrovos balansavimą ir nuomininko metriką, o TTFT mediana sumažinama 95 % pagal paties „Buoyant“ etaloną.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-08-08-buoyant-releases-kinference-atvirojo-kodo-isvadu-valdymo.svg",
+      "image_url": "generated-images/2026-11-09-10-buoyant-releases-kinference-atvirojo-kodo-isvadu-valdymo.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -236,7 +294,7 @@
       "summary": "Kad AGI būtų naudinga visai žmonijai, ji turėtų padėti žmonėms atlikti jiems svarbiausias kasdienes užduotis.",
       "source": "OpenAI",
       "source_image_url": "https://i1.ytimg.com/vi/hJOwOkLHRN0/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-08-09-lifeval-ai-pazangos-matavimas-atliekant-kasdieniame-gyve.svg",
+      "image_url": "generated-images/2026-11-09-11-lifeval-ai-pazangos-matavimas-atliekant-kasdieniame-gyve.svg",
       "kind": "video",
       "video_id": "hJOwOkLHRN0",
       "bullets_lt": [
@@ -261,7 +319,7 @@
       "summary": "Zyphra išleido ZYFA, atvirojo kodo FP8 ir BF16 išankstinio užpildymo dėmesio branduolius, skirtus AMD Instinct MI355X. Realiai suaktyvinus modelį, jo FP8 branduoliai veikia 1,16–1,76 karto greičiau nei AMD AITER, o paklaida yra 62–78 % mažesnė, kai galvutės matmuo yra 128.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-08-10-zyphra-zyfa-fp8-flashattention-skirtas-amd-mi355x-iki-1-.svg",
+      "image_url": "generated-images/2026-11-09-12-zyphra-zyfa-fp8-flashattention-skirtas-amd-mi355x-iki-1-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -275,64 +333,6 @@
         "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„Tinking Machines“ išleido „Inkling 2 Small“, 594B MoE su 17B Active",
-      "link": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
-      "published_iso": "2026-11-06T04:25:07Z",
-      "published_lt": "2026-11-06 04:25 UTC",
-      "summary": "„Thinking Machines Lab“ išleido „Inkling 2 Small“, 594B parametrų MoE su 17B aktyvių parametrų. Pagal dirbtinės analizės intelekto indeksą jis surinko 31 balą ir veikia naudojant „Tinker“, o suplanuotas „Apache 2.0“ svoris.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-08-11-tinking-machines-isleido-inkling-2-small-594b-moe-su-17b.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Thinking Machines Lab“ išleido „Inkling 2 Small“, 594B parametrų MoE su 17B aktyvių parametrų.",
-        "Pagal dirbtinės analizės intelekto indeksą jis surinko 31 balą ir veikia naudojant „Tinker“, o suplanuotas „Apache 2.0“ svoris.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Vaizdo pataisos yra susipynusios su teksto žetonais.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„Google“ išleidžia „Gemini Omni 1.2 Flash“: 15 sekundžių AI vaizdo įrašą už 0,07 USD per sekundę",
-      "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-      "published_iso": "2026-11-05T22:58:21Z",
-      "published_lt": "2026-11-05 22:58 UTC",
-      "summary": "„Google“ išleido „Gemini Omni 1.2 Flash“ – vaizdo įrašų generavimo ir redagavimo modelį su 15 sekundžių trukmės klipais, kelių pokalbių redagavimu ir 30 % sumažinta kaina iki 0,07 USD už 720p vaizdo įrašo sekundę. Įrašas „Google“ išleido „Gemini Omni 1.2 Flash“: 15 sekundžių AI vaizdo įrašas už 0,07 USD per sekundę, pirmą kartą pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-08-12-google-isleidzia-gemini-omni-1-2-flash-15-sekundziu-ai-v.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Google“ išleido „Gemini Omni 1.2 Flash“ – vaizdo įrašų generavimo ir redagavimo modelį su 15 sekundžių trukmės klipais, kelių pokalbių redagavimu ir 30 % sumažinta kaina iki 0,07 USD už 720p vaizdo įrašo sekundę.",
-        "Įrašas „Google“ išleido „Gemini Omni 1.2 Flash“: 15 sekundžių AI vaizdo įrašas už 0,07 USD per sekundę, pirmą kartą pasirodė „MarkTechPost“.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$0.07 per, $0.10 per, $1.05",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Panasu, kad jau galima bandyti.",
