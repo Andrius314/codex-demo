@@ -1,25 +1,218 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-11-09",
-  "generated_at_utc": "2026-11-09T17:01:33Z",
+  "digest_date": "2026-11-10",
+  "generated_at_utc": "2026-11-10T15:20:54Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "Priežastis Machines Open-Sources Aspen, Git serveris, sukurtas dirbtinio intelekto agentams",
-      "link": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
-      "published_iso": "2026-11-09T08:20:20Z",
-      "published_lt": "2026-11-09 08:20 UTC",
-      "summary": "„Reason Machines“ turi atvirojo kodo „Aspen“ – savarankišką „Git“ serverį, skirtą AI agentams. Jis atitinka OpenAI „Pando“ dizainą ir palaiko 567 paspaudimus per sekundę viename 8 branduolių serveryje pačios įmonės bandymo metu. Įrašas Reason Machines Open-Sources Aspen, Git serveris, sukurtas dirbtinio intelekto agentams, pirmiausia pasirodė MarkTechPost.",
+      "title": "Anthropic pristato Claude Fable 5.2 ir Mythos 5.2: tas pats modelis, skirtingos apsaugos priemonės",
+      "link": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
+      "published_iso": "2026-11-10T14:59:09Z",
+      "published_lt": "2026-11-10 14:59 UTC",
+      "summary": "Anthropic išleido Claude Fable 5.2 ir Claude Mythos 5.2, vieną modelį su dviem apsaugos lygiais. „Fable 5.2“ turi 49,1 % „FrontierCode 2.0“, kainuoja 8 USD/40 USD už milijoną žetonų ir pristatomas su 1 mln. žetonų konteksto langu.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-09-01-priezastis-machines-open-sources-aspen-git-serveris-suku.svg",
+      "image_url": "generated-images/2026-11-10-01-anthropic-pristato-claude-fable-5-2-ir-mythos-5-2-tas-pa.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Reason Machines“ turi atvirojo kodo „Aspen“ – savarankišką „Git“ serverį, skirtą AI agentams.",
-        "Jis atitinka OpenAI „Pando“ dizainą ir palaiko 567 paspaudimus per sekundę viename 8 branduolių serveryje pačios įmonės bandymo metu.",
-        "Įrašas Reason Machines Open-Sources Aspen, Git serveris, sukurtas dirbtinio intelekto agentams, pirmiausia pasirodė MarkTechPost.",
+        "Anthropic išleido Claude Fable 5.2 ir Claude Mythos 5.2, vieną modelį su dviem apsaugos lygiais.",
+        "„Fable 5.2“ turi 49,1 % „FrontierCode 2.0“, kainuoja 8 USD/40 USD už milijoną žetonų ir pristatomas su 1 mln.",
+        "žetonų konteksto langu.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$8/, $40 per",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Meta aprašymas (18 žodžių): Anthropic's Claude Fable 5.2 ir Mythos 5.2 rezultatas 49,1% FrontierCode 2.0 ir kainuoja 8 USD / 40 USD už milijoną žetonų.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„Adobe“ kūrybinius ir produktyvumo įrankius priartiname prie jūsų kasdienių „Google“ programų.",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "published_iso": "2026-11-10T14:00:00Z",
+      "published_lt": "2026-11-10 14:00 UTC",
+      "summary": "„Google“ ir „Adobe“ integruoja kūrybinius ir produktyvumo įrankius. Redaguokite PDF failus Diske ir naudokite „Adobe AI“ programoje Gemini. Sužinokite, kas naujo šioje partnerystėje.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-11-10-02-adobe-kurybinius-ir-produktyvumo-irankius-priartiname-pr.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“ ir „Adobe“ integruoja kūrybinius ir produktyvumo įrankius.",
+        "Redaguokite PDF failus Diske ir naudokite „Adobe AI“ programoje Gemini.",
+        "Sužinokite, kas naujo šioje partnerystėje.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131"
+      }
+    },
+    {
+      "title": "„Google Cloud“ pristato „Gemini“, skirtą sveikatos priežiūrai.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "published_iso": "2026-11-10T13:00:00Z",
+      "published_lt": "2026-11-10 13:00 UTC",
+      "summary": "„Google Cloud“ pristato sveikatos priežiūrai skirtą „Gemini“, kad suvienodintų klinikinius duomenis ir automatizuotų darbo eigą. Sumažinti administracinį perdegimą.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-11-10-03-google-cloud-pristato-gemini-skirta-sveikatos-prieziurai.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google Cloud“ pristato sveikatos priežiūrai skirtą „Gemini“, kad suvienodintų klinikinius duomenis ir automatizuotų darbo eigą.",
+        "Sumažinti administracinį perdegimą.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131"
+      }
+    },
+    {
+      "title": "Ar programinė įranga baigėsi?",
+      "link": "https://www.youtube.com/watch?v=vug73goPJaM",
+      "published_iso": "2026-11-10T10:15:57Z",
+      "published_lt": "2026-11-10 10:15 UTC",
+      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.com/papers 📝 Dokumentus ir šaltinius rasite čia: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.co/udiboy1209/REM:END https://tommasocalo.github.io/papers/26-webui95-chiea.pdf Photocraft: https://github.co",
+      "source": "Two Minute Papers",
+      "source_image_url": "https://i3.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-10-04-ar-programine-iranga-baigesi.svg",
+      "kind": "video",
+      "video_id": "vug73goPJaM",
+      "bullets_lt": [
+        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.com/papers 📝 Dokumentus ir šaltinius rasite čia: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.co/udiboy1209/REM:END https://tommasocalo.github.io/papers/26-webui95-chiea.pdf Photocraft: https://github.co.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=vug73goPJaM",
+        "try_url": "https://www.youtube.com/watch?v=vug73goPJaM"
+      }
+    },
+    {
+      "title": "„Meta“ išleidžia „Muse Ember“, 1 mln. konteksto modelį, skirtą didelės apimties agentų darbui",
+      "link": "https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/",
+      "published_iso": "2026-11-10T06:36:10Z",
+      "published_lt": "2026-11-10 06:36 UTC",
+      "summary": "Meta Muse Ember yra mažiausias Meta modelis, sukurtas įrankių iškvietimui, kodavimo papildomoms užduotims ir dokumentų analizei. Jis susieja su Claude'u Haiku 5.5 pagal dirbtinės analizės intelekto indeksą maždaug trečdaliu vienos užduoties kainos.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-10-05-meta-isleidzia-muse-ember-1-mln-konteksto-modeli-skirta-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Meta Muse Ember yra mažiausias Meta modelis, sukurtas įrankių iškvietimui, kodavimo papildomoms užduotims ir dokumentų analizei.",
+        "Jis susieja su Claude'u Haiku 5.5 pagal dirbtinės analizės intelekto indeksą maždaug trečdaliu vienos užduoties kainos.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$0.14 per",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Output runs up to 512K tokens, 4x the 128K cap on both rivals.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Kuken Industries per kelias minutes ieško 70 metų brėžinių",
+      "link": "https://www.youtube.com/watch?v=FNTz0CdqL6g",
+      "published_iso": "2026-11-10T02:41:23Z",
+      "published_lt": "2026-11-10 02:41 UTC",
+      "summary": "Kuken Industries naudoja OpenAI API, kad padėtų inžinieriams per kelias minutes ieškoti 70 metų brėžinių. Sukurta su Recursive, Japonijos AI startuoliu ir oficialiu OpenAI partneriu, sistema suteikia komandoms daugiau laiko patarti jaunesniems inžinieriams ir imtis sudėtingesnių darbų.",
+      "source": "OpenAI",
+      "source_image_url": "https://i3.ytimg.com/vi/FNTz0CdqL6g/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-10-06-kuken-industries-per-kelias-minutes-iesko-70-metu-brezin.svg",
+      "kind": "video",
+      "video_id": "FNTz0CdqL6g",
+      "bullets_lt": [
+        "Kuken Industries naudoja OpenAI API, kad padėtų inžinieriams per kelias minutes ieškoti 70 metų brėžinių.",
+        "Sukurta su Recursive, Japonijos AI startuoliu ir oficialiu OpenAI partneriu, sistema suteikia komandoms daugiau laiko patarti jaunesniems inžinieriams ir imtis sudėtingesnių darbų.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=FNTz0CdqL6g",
+        "try_url": "https://www.youtube.com/watch?v=FNTz0CdqL6g"
+      }
+    },
+    {
+      "title": "„Google“ pristato TPU 8i Max ir TPU 8tx: dviejų lustų TPU ir konfidencialų TPU",
+      "link": "https://www.marktechpost.com/2026/11/09/google-tpu-8i-max-tpu-8tx/",
+      "published_iso": "2026-11-09T17:09:54Z",
+      "published_lt": "2026-11-09 17:09 UTC",
+      "summary": "„Google“ į savo aštuntos kartos TPU seriją įtraukė TPU 8i Max ir TPU 8tx. „TPU 8i Max“ pakuotėje yra 2 TPU 8i lustai ilgo konteksto agentams. TPU 8tx prideda aparatinės įrangos konfidencialią išvadą.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-10-07-google-pristato-tpu-8i-max-ir-tpu-8tx-dvieju-lustu-tpu-i.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“ į savo aštuntos kartos TPU seriją įtraukė TPU 8i Max ir TPU 8tx.",
+        "„TPU 8i Max“ pakuotėje yra 2 TPU 8i lustai ilgo konteksto agentams.",
+        "TPU 8tx prideda aparatinės įrangos konfidencialią išvadą.",
+        "Kaina: Yra nemokamas ir mokamas variantas."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„Baidu“ automatizuota tyrimų sistema „ERNIE Evolve“ pranoksta „NanoChat“ ir „NanoGPT“ įrašus",
+      "link": "https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/",
+      "published_iso": "2026-11-09T16:31:59Z",
+      "published_lt": "2026-11-09 16:31 UTC",
+      "summary": "Baidu ERNIE Evolve yra automatizuota tyrimų sistema, kuri redaguoja kodą, vykdo eksperimentus ir išsaugo tik patikrintus rezultatus. Jis aplenkė geriausius „NanoChat“ ir „NanoGPT Speedrun“ rezultatus ir pagreitino ERNIE-5.5-Flash išvadas.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-10-08-baidu-automatizuota-tyrimu-sistema-ernie-evolve-pranokst.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Baidu ERNIE Evolve yra automatizuota tyrimų sistema, kuri redaguoja kodą, vykdo eksperimentus ir išsaugo tik patikrintus rezultatus.",
+        "Jis aplenkė geriausius „NanoChat“ ir „NanoGPT Speedrun“ rezultatus ir pagreitino ERNIE-5.5-Flash išvadas.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
         "Prieinamumas: Panasu, kad jau galima bandyti."
       ],
@@ -35,6 +228,34 @@
       }
     },
     {
+      "title": "Priežastis Machines Open-Sources Aspen, Git serveris, sukurtas dirbtinio intelekto agentams",
+      "link": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+      "published_iso": "2026-11-09T08:20:20Z",
+      "published_lt": "2026-11-09 08:20 UTC",
+      "summary": "„Reason Machines“ turi atvirojo kodo „Aspen“ – savarankišką „Git“ serverį, skirtą AI agentams. Jis atitinka OpenAI „Pando“ dizainą ir palaiko 567 paspaudimus per sekundę viename 8 branduolių serveryje pačios įmonės bandymo metu. Įrašas Reason Machines Open-Sources Aspen, Git serveris, sukurtas dirbtinio intelekto agentams, pirmiausia pasirodė MarkTechPost.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-10-09-priezastis-machines-open-sources-aspen-git-serveris-suku.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Reason Machines“ turi atvirojo kodo „Aspen“ – savarankišką „Git“ serverį, skirtą AI agentams.",
+        "Jis atitinka OpenAI „Pando“ dizainą ir palaiko 567 paspaudimus per sekundę viename 8 branduolių serveryje pačios įmonės bandymo metu.",
+        "Įrašas Reason Machines Open-Sources Aspen, Git serveris, sukurtas dirbtinio intelekto agentams, pirmiausia pasirodė MarkTechPost.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+        "try_url": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/"
+      }
+    },
+    {
       "title": "0sec Labs Open-Source 0, AI saugos diržas su žiniatinklio vartotojo sąsaja, CLI ir MCP",
       "link": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
       "published_iso": "2026-11-09T07:55:18Z",
@@ -42,7 +263,7 @@
       "summary": "„0sec Labs“ turi atvirojo kodo 0, AI saugos diržą, skirtą kodo peržiūrai, tikrinimui, atvirkštinei inžinerijai ir pataisymams. Jis veikia lokaliai per naršyklės konsolę, be galvos CLI ir MCP serverį su jūsų modelio teikėju.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-09-02-0sec-labs-open-source-0-ai-saugos-dirzas-su-ziniatinklio.svg",
+      "image_url": "generated-images/2026-11-10-10-0sec-labs-open-source-0-ai-saugos-dirzas-su-ziniatinklio.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -71,24 +292,23 @@
       "summary": "„Google Elephant-Goldfish Model“ papildinys sukuria kodavimo agentų specifikacijų juodraštį, tada prieš bet kokį kodą atlieka 5 nulinio konteksto peržiūros etapus. Įrašas „Google AI“ išleido „Elephant-Goldfish“ modelio papildinį, skirtą „Spec-First“ kodavimui, pirmiausia pasirodė „MarkTechPost“.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-09-03-google-ai-isleido-elephant-goldfish-modelio-papildini-sk.svg",
+      "image_url": "generated-images/2026-11-10-11-google-ai-isleido-elephant-goldfish-modelio-papildini-sk.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "„Google Elephant-Goldfish Model“ papildinys sukuria kodavimo agentų specifikacijų juodraštį, tada prieš bet kokį kodą atlieka 5 nulinio konteksto peržiūros etapus.",
         "Įrašas „Google AI“ išleido „Elephant-Goldfish“ modelio papildinį, skirtą „Spec-First“ kodavimui, pirmiausia pasirodė „MarkTechPost“.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kaina": "Neaptikta siame saltinyje.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+        "try_url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/"
       }
     },
     {
@@ -99,7 +319,7 @@
       "summary": "Konfigūracijos patikrintas palyginimas, kaip 10 atvirų MoE modelių nukreipia žetonus: bendrieji ir aktyvieji parametrai, ekspertų skaičius, top-k, bendrinami ekspertai, blokavimo funkcijos ir apkrovos balansavimo metodai. Įrašas Kokį maršrutą naudoja kiekvienas Vidaus reikalų ministerijos modelis? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared pirmą kartą pasirodė MarkTechPost .",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-09-04-koki-marsruta-naudoja-kiekvienas-am-modelis-deepseek-qwe.svg",
+      "image_url": "generated-images/2026-11-10-12-koki-marsruta-naudoja-kiekvienas-am-modelis-deepseek-qwe.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -115,227 +335,6 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Paaiškintos Vidaus reikalų ministerijos maršruto parinkimo strategijos: „Top-K“, „Expert-Choice“, „Sigmoid Gating“ ir „Dynamic Routing“ (2026 m. vadovas)",
-      "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
-      "published_iso": "2026-11-08T06:18:33Z",
-      "published_lt": "2026-11-08 06:18 UTC",
-      "summary": "Vidaus reikalų ministerijos maršruto parinkimo strategijos nusprendžia, kurie ekspertai apdoroja kiekvieną prieigos raktą. Šiame vadove paaiškinami 7 metodai, pradedant Mixtral top-2 softmax ir baigiant DeepSeek-V4 maišos maršruto parinkimu, su modeliais, kurie naudoja kiekvieną iš jų.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-16-scaled.png",
-      "image_url": "generated-images/2026-11-09-05-paaiskintos-vidaus-reikalu-ministerijos-marsruto-parinki.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Vidaus reikalų ministerijos maršruto parinkimo strategijos nusprendžia, kurie ekspertai apdoroja kiekvieną prieigos raktą.",
-        "Šiame vadove paaiškinami 7 metodai, pradedant Mixtral top-2 softmax ir baigiant DeepSeek-V4 maišos maršruto parinkimu, su modeliais, kurie naudoja kiekvieną iš jų.",
-        "Kaina: Yra nemokamas ir mokamas variantas."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Kiekvienas ekspertas gauna fiksuotą buferį: kiekvienos partijos žetonus, padalintus iš ekspertų, padauginus iš talpos koeficiento.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Nous Research išleido Arete-27B, kuris sumažina Qwen3.8-27B propagandą nuo 22% iki 0,9%",
-      "link": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
-      "published_iso": "2026-11-08T04:45:59Z",
-      "published_lt": "2026-11-08 04:45 UTC",
-      "summary": "„Nous Research“ išleido „Arete-27B“, „Apache 2.0“ tobulą Qwen3.8-27B derinimą. Nouso 803 eilutės eval, propagandos atsakymų skaičius sumažėjo nuo 22% iki 0,9%, o Hermes Bench išliko 65,60%. Įrašas „Nous Research Releases Arete-27B“, kuris sumažina Qwen3.8-27B propagandą nuo 22 % iki 0,9 % appeared first on MarkTechPost .",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-09-06-nous-research-isleido-arete-27b-kuris-sumazina-qwen3-8-2.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Nous Research“ išleido „Arete-27B“, „Apache 2.0“ tobulą Qwen3.8-27B derinimą.",
-        "Nouso 803 eilutės eval, propagandos atsakymų skaičius sumažėjo nuo 22% iki 0,9%, o Hermes Bench išliko 65,60%.",
-        "Įrašas „Nous Research Releases Arete-27B“, kuris sumažina Qwen3.8-27B propagandą nuo 22 % iki 0,9 % appeared first on MarkTechPost .",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "„Nous Research“ Arete-27B tiksliai suderina Qwen3.8–27B su 52,8 mln. žetonų, sumažindamas propagandinius atsakymus nuo 22% iki 0,9% pagal 803 raginimus.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Svorio erdvės programavimas, nauji 3D modeliai, Gemini Omni 1.2, GPT vaizdas 2.6: AI NAUJIENOS",
-      "link": "https://www.youtube.com/watch?v=9RIK3A24ZxA",
-      "published_iso": "2026-11-08T03:27:33Z",
-      "published_lt": "2026-11-08 03:27 UTC",
-      "summary": "DIDELĖS AI NAUJIENOS: RelayVSR, Kimi K3.1, Hy4, Gemini Omni 1.2, GPT Image 2.6 ir kt. Ačiū mūsų rėmėjui Higgsfield.",
-      "source": "AI Search",
-      "source_image_url": "https://i2.ytimg.com/vi/9RIK3A24ZxA/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-09-07-svorio-erdves-programavimas-nauji-3d-modeliai-gemini-omn.svg",
-      "kind": "video",
-      "video_id": "9RIK3A24ZxA",
-      "bullets_lt": [
-        "DIDELĖS AI NAUJIENOS: RelayVSR, Kimi K3.1, Hy4, Gemini Omni 1.2, GPT Image 2.6 ir kt.",
-        "Ačiū mūsų rėmėjui Higgsfield."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=9RIK3A24ZxA",
-        "try_url": "https://www.youtube.com/watch?v=9RIK3A24ZxA"
-      }
-    },
-    {
-      "title": "Kaip paleisti NVIDIA Dory 4B su llama.cpp: Ciklas pagal ciklą vadovas",
-      "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
-      "published_iso": "2026-11-07T19:22:44Z",
-      "published_lt": "2026-11-07 19:22 UTC",
-      "summary": "Naršykite išsamų NVIDIA Dory 1.0 4B kilpinės kalbos modelio kodavimo vadovą. Sužinokite, kaip sukurti prisegtą llama.cpp šaką, analizuoti ciklo skaičiavimo išlaidas, išbandyti atminties talpyklą ir vykdyti suporuotus vertinimus.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-09-08-kaip-paleisti-nvidia-dory-4b-su-llama-cpp-ciklas-pagal-c.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Naršykite išsamų NVIDIA Dory 1.0 4B kilpinės kalbos modelio kodavimo vadovą.",
-        "Sužinokite, kaip sukurti prisegtą llama.cpp šaką, analizuoti ciklo skaičiavimo išlaidas, išbandyti atminties talpyklą ir vykdyti suporuotus vertinimus.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "importuoti OS importuoti iš naujo importuoti sys importuoti json importavimo laiką importuoti matematiką importuoti atsitiktinį importavimo signalą importuoti shutil importuoti hashlib importo platformos importavimo s...",
-        "lokalus_reikalavimai": "Aptikta: cuda",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "OpenAI Astra ką tik atidarė juodąją AI dėžę",
-      "link": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-      "published_iso": "2026-11-07T16:24:47Z",
-      "published_lt": "2026-11-07 16:24 UTC",
-      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.com/papers 📝 Svorio erdvės programavimo darbus rasite čia: https://rikiyat.github.io/blog/weight-space-programming/ 🙏 Norime padėkoti mūsų dosniems Patreon rėmėjams, kurie leidžia sukurti Two Minute Papers, B: Adamhang Bridgeos, S",
-      "source": "Two Minute Papers",
-      "source_image_url": "https://i4.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-09-09-openai-astra-ka-tik-atidare-juodaja-ai-deze.svg",
-      "kind": "video",
-      "video_id": "GJ6PMUm5oTA",
-      "bullets_lt": [
-        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.com/papers 📝 Svorio erdvės programavimo darbus rasite čia: https://rikiyat.github.io/blog/weight-space-programming/ 🙏 Norime padėkoti mūsų dosniems Patreon rėmėjams, kurie leidžia sukurti Two Minute Papers, B: Adamhang Bridgeos, S.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-        "try_url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA"
-      }
-    },
-    {
-      "title": "Buoyant Releases Kinference: atvirojo kodo išvadų valdymo plokštuma, skirta Kubernetes ir vLLM",
-      "link": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
-      "published_iso": "2026-11-07T08:16:33Z",
-      "published_lt": "2026-11-07 08:16 UTC",
-      "summary": "„Buoyant“ išleido „Kinference“, „Apache 2.0“ išvadų valdymo plokštumą, skirtą vLLM „Kubernetes“. Tai prideda deklaratyvią maršruto parinkimo politiką, KV talpyklą suvokiantį apkrovos balansavimą ir nuomininko metriką, o TTFT mediana sumažinama 95 % pagal paties „Buoyant“ etaloną.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-09-10-buoyant-releases-kinference-atvirojo-kodo-isvadu-valdymo.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Buoyant“ išleido „Kinference“, „Apache 2.0“ išvadų valdymo plokštumą, skirtą vLLM „Kubernetes“.",
-        "Tai prideda deklaratyvią maršruto parinkimo politiką, KV talpyklą suvokiantį apkrovos balansavimą ir nuomininko metriką, o TTFT mediana sumažinama 95 % pagal paties „Buoyant“ etaloną.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Viename lygyje taiko maršruto parinkimo strategijas, prieigos raktų dažnio ribas, KV talpyklos apkrovos balansavimą ir nuomininko metriką.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "LifeVal: AI pažangos matavimas atliekant kasdieniame gyvenime svarbias užduotis.",
-      "link": "https://www.youtube.com/watch?v=hJOwOkLHRN0",
-      "published_iso": "2026-11-06T21:11:34Z",
-      "published_lt": "2026-11-06 21:11 UTC",
-      "summary": "Kad AGI būtų naudinga visai žmonijai, ji turėtų padėti žmonėms atlikti jiems svarbiausias kasdienes užduotis.",
-      "source": "OpenAI",
-      "source_image_url": "https://i1.ytimg.com/vi/hJOwOkLHRN0/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-09-11-lifeval-ai-pazangos-matavimas-atliekant-kasdieniame-gyve.svg",
-      "kind": "video",
-      "video_id": "hJOwOkLHRN0",
-      "bullets_lt": [
-        "Kad AGI būtų naudinga visai žmonijai, ji turėtų padėti žmonėms atlikti jiems svarbiausias kasdienes užduotis."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=hJOwOkLHRN0",
-        "try_url": "https://www.youtube.com/watch?v=hJOwOkLHRN0"
-      }
-    },
-    {
-      "title": "Zyphra ZYFA: FP8 FlashAttention, skirtas AMD MI355X, iki 1,76 karto greitesnis",
-      "link": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
-      "published_iso": "2026-11-06T17:28:04Z",
-      "published_lt": "2026-11-06 17:28 UTC",
-      "summary": "Zyphra išleido ZYFA, atvirojo kodo FP8 ir BF16 išankstinio užpildymo dėmesio branduolius, skirtus AMD Instinct MI355X. Realiai suaktyvinus modelį, jo FP8 branduoliai veikia 1,16–1,76 karto greičiau nei AMD AITER, o paklaida yra 62–78 % mažesnė, kai galvutės matmuo yra 128.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-09-12-zyphra-zyfa-fp8-flashattention-skirtas-amd-mi355x-iki-1-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Zyphra išleido ZYFA, atvirojo kodo FP8 ir BF16 išankstinio užpildymo dėmesio branduolius, skirtus AMD Instinct MI355X.",
-        "Realiai suaktyvinus modelį, jo FP8 branduoliai veikia 1,16–1,76 karto greičiau nei AMD AITER, o paklaida yra 62–78 % mažesnė, kai galvutės matmuo yra 128.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
         "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
