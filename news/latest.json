@@ -1,10 +1,210 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-11-12",
-  "generated_at_utc": "2026-11-12T15:42:25Z",
+  "digest_date": "2026-11-13",
+  "generated_at_utc": "2026-11-13T15:00:43Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "„Google“ išleido TPU sinchronizavimą: atvirojo kodo KV talpyklos perkėlimas TPU",
+      "link": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+      "published_iso": "2026-11-13T10:32:26Z",
+      "published_lt": "2026-11-13 10:32 UTC",
+      "summary": "„Google“ išleido „TPU Sync“ – atvirojo kodo C++ biblioteką, kuri perkelia KV talpyklas ir svorius per TPU HBM, pagrindinio kompiuterio DRAM, saugyklą ir tinklą. „Google“ praneša apie 90 % mažesnę KV perdavimo delsą 235B–480B MoE modeliuose. Įrašas „Google“ išleido TPU sinchronizavimą: atvirojo kodo KV talpyklos perkėlimas TPU pirmiausia pasirodė MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-13-01-google-isleido-tpu-sinchronizavima-atvirojo-kodo-kv-talp.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“ išleido „TPU Sync“ – atvirojo kodo C++ biblioteką, kuri perkelia KV talpyklas ir svorius per TPU HBM, pagrindinio kompiuterio DRAM, saugyklą ir tinklą.",
+        "„Google“ praneša apie 90 % mažesnę KV perdavimo delsą 235B–480B MoE modeliuose.",
+        "Įrašas „Google“ išleido TPU sinchronizavimą: atvirojo kodo KV talpyklos perkėlimas TPU pirmiausia pasirodė MarkTechPost .",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„Google“ išleido „Gemini 4“ vandenilį: 2,5 karto greitesnis nei „Gemini 3,8 Flash“",
+      "link": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+      "published_iso": "2026-11-13T09:45:48Z",
+      "published_lt": "2026-11-13 09:45 UTC",
+      "summary": "„Google“ išleido „Gemini 4 Hydrogen“ – greitą agentų modelį su 1 mln. žetono langu, 4 mąstymo lygiais ir 1,50 USD/7,50 USD kaina. „Google“ praneša apie 51 dirbtinės analizės balą ir 57 % „Terminal-Bench 4.1“. Įrašas „Google“ išleido „Gemini 4“ vandenilį: 2,5 karto greičiau nei „Gemini 3,8 Flash“ appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-13-02-google-isleido-gemini-4-vandenili-2-5-karto-greitesnis-n.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„Google“ išleido „Gemini 4 Hydrogen“ – greitą agentų modelį su 1 mln.",
+        "žetono langu, 4 mąstymo lygiais ir 1,50 USD/7,50 USD kaina.",
+        "„Google“ praneša apie 51 dirbtinės analizės balą ir 57 % „Terminal-Bench 4.1“.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$1.50 per",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Google AI Gemini 4 Hydrogen yra agentinis modelis su 1M kontekstu, kurio kaina yra 1,50 USD už milijoną įvesties žetonų.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+        "try_url": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/"
+      }
+    },
+    {
+      "title": "Liquid AI išleido LiquidCodec, 74M parametrų srautinio garso kodeką",
+      "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+      "published_iso": "2026-11-12T22:43:26Z",
+      "published_lt": "2026-11-12 22:43 UTC",
+      "summary": "Liquid AI išleido LiquidCodec, ~74M parametrų srautinio garso kodeką, kuris maitina LFM3-Audio-2B ir LFM3-Omni-2B. Jis veikia 12,5 Hz dažniu su 12 kodų knygų ir užkoduoja maždaug 361 kartą greičiau nei realiuoju laiku vienoje procesoriaus gijoje.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-13-03-liquid-ai-isleido-liquidcodec-74m-parametru-srautinio-ga.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Liquid AI išleido LiquidCodec, ~74M parametrų srautinio garso kodeką, kuris maitina LFM3-Audio-2B ir LFM3-Omni-2B.",
+        "Jis veikia 12,5 Hz dažniu su 12 kodų knygų ir užkoduoja maždaug 361 kartą greičiau nei realiuoju laiku vienoje procesoriaus gijoje.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Kalbą paverčia žetonais, kuriuos kalbos modelis gali nuspėti, tada tuos žetonus paverčia atgal į garsą.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„Cyber ​​at the Frontier“.",
+      "link": "https://www.youtube.com/watch?v=YmxpxJZvm4M",
+      "published_iso": "2026-11-12T22:37:14Z",
+      "published_lt": "2026-11-12 22:37 UTC",
+      "summary": "Tiesioginis pagrindinis pranešimas su naujausiais OpenAI kibernetiniais pranešimais.",
+      "source": "OpenAI",
+      "source_image_url": "https://i2.ytimg.com/vi/YmxpxJZvm4M/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-13-04-cyber-at-the-frontier.svg",
+      "kind": "video",
+      "video_id": "YmxpxJZvm4M",
+      "bullets_lt": [
+        "Tiesioginis pagrindinis pranešimas su naujausiais OpenAI kibernetiniais pranešimais."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=YmxpxJZvm4M",
+        "try_url": "https://www.youtube.com/watch?v=YmxpxJZvm4M"
+      }
+    },
+    {
+      "title": "„CopilotKit“ išleido „OpenBot 1.0“: MIT licencijuotas, savarankiškai priglobiamas dirbtinio intelekto bendradarbis su integruotu valdymu",
+      "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+      "published_iso": "2026-11-12T21:45:36Z",
+      "published_lt": "2026-11-12 21:45 UTC",
+      "summary": "„CopilotKit“ išleido „OpenBot 1.0“, MIT licencijuotą, savarankiškai priglobiamą AI bendradarbių darbo sritį. Įmonės atsineša savo agentus, modelius ir infrastruktūrą, o kiekvienas roboto veiksmas praeina politikos patikrinimą ir patenka į audito seką.",
+      "source": "MarkTechPost",
+      "source_image_url": "https://www.marktechpost.com",
+      "image_url": "generated-images/2026-11-13-05-copilotkit-isleido-openbot-1-0-mit-licencijuotas-savaran.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "„CopilotKit“ išleido „OpenBot 1.0“, MIT licencijuotą, savarankiškai priglobiamą AI bendradarbių darbo sritį.",
+        "Įmonės atsineša savo agentus, modelius ir infrastruktūrą, o kiekvienas roboto veiksmas praeina politikos patikrinimą ir patenka į audito seką.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "„Google“ paieška iš esmės atnaujinama naudojant „Gemini 4 Hydrogen“.",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "published_iso": "2026-11-12T18:00:00Z",
+      "published_lt": "2026-11-12 18:00 UTC",
+      "summary": "Siekdami teikti naudingesnius, vaizdingesnius ir intuityvesnius atsakymus, į „Google“ paiešką visame pasaulyje pristatome „Gemini 4 Hydrogen“.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-11-13-06-google-paieska-is-esmes-atnaujinama-naudojant-gemini-4-h.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Siekdami teikti naudingesnius, vaizdingesnius ir intuityvesnius atsakymus, į „Google“ paiešką visame pasaulyje pristatome „Gemini 4 Hydrogen“.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131"
+      }
+    },
+    {
+      "title": "AWS išleido AWS emuliatorių: vietinę 200 ir daugiau AWS paslaugų, sukurtų AI agentų, kopiją",
+      "link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
+      "published_iso": "2026-11-12T17:26:08Z",
+      "published_lt": "2026-11-12 17:26 UTC",
+      "summary": "AWS išleido AWS emuliatorių – nemokamą, CC0 licencijuotą vietinį AWS API emuliatorių, sukurtą iš 438 API modelių. Autonominiai agentai parašė visą jos kodą. Paleidimo metu jis išlaiko 56,6 % iš 42 857 paskelbtų patikimumo testų.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-13-07-aws-isleido-aws-emuliatoriu-vietine-200-ir-daugiau-aws-p.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "AWS išleido AWS emuliatorių – nemokamą, CC0 licencijuotą vietinį AWS API emuliatorių, sukurtą iš 438 API modelių.",
+        "Autonominiai agentai parašė visą jos kodą.",
+        "Paleidimo metu jis išlaiko 56,6 % iš 42 857 paskelbtų patikimumo testų.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
+        "try_url": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/"
+      }
+    },
     {
       "title": "„DeepMind“ AI tiesiog padarė neįmanomą",
       "link": "https://www.youtube.com/watch?v=gPNiuyYirfw",
@@ -13,7 +213,7 @@
       "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.com/papers 📝 DeepMind popierinį AlphaProof kodą rasite čia: https://deepmind.google/blog/introducing-alphaproof-code/ https://deepmind.google/documents/36/Formal_Verification_of.pdf Norėtume padėkoti. Patreon sup",
       "source": "Two Minute Papers",
       "source_image_url": "https://i4.ytimg.com/vi/gPNiuyYirfw/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-12-01-deepmind-ai-tiesiog-padare-neimanoma.svg",
+      "image_url": "generated-images/2026-11-13-08-deepmind-ai-tiesiog-padare-neimanoma.svg",
       "kind": "video",
       "video_id": "gPNiuyYirfw",
       "bullets_lt": [
@@ -34,19 +234,19 @@
       }
     },
     {
-      "title": "Ką Codex atrakina atostogų priedai",
-      "link": "https://www.youtube.com/watch?v=vu3YlUMkvyg",
-      "published_iso": "2026-11-12T09:45:17Z",
-      "published_lt": "2026-11-12 09:45 UTC",
-      "summary": "Kas nutinka, kai žmonės, kurie supranta jūsų klientus, gali sukurti programinę įrangą, kuri jiems padėtų? „Holiday Extras“ „Codex“ padeda paversti šį siekį realybe – nuo ​​pagrindinės programos atkūrimo per dvi savaites iki greitesnio atsakymo į klientų atsiliepimus.",
-      "source": "OpenAI",
-      "source_image_url": "https://i3.ytimg.com/vi/vu3YlUMkvyg/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-12-02-ka-codex-atrakina-atostogu-priedai.svg",
-      "kind": "video",
-      "video_id": "vu3YlUMkvyg",
+      "title": "IBM paskelbia IBM Quantum Nighthawk r3: naują procesorių, palaikantį 10 000 kvantinių operacijų 520 programuojamų kubitų",
+      "link": "https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/",
+      "published_iso": "2026-11-12T08:42:21Z",
+      "published_lt": "2026-11-12 08:42 UTC",
+      "summary": "IBM paskelbė Quantum Nighthawk r3 – 520 kubitų procesorių, skirtą 10 000 kvantinių operacijų. 2 r3 lustai bus sujungti į 1 040 kubitų sistemą 2027 m., o Nighthawk r2 jau paskelbia iki 19 kartų didesnį greitį nei Heron.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-13-09-ibm-paskelbia-ibm-quantum-nighthawk-r3-nauja-procesoriu-.svg",
+      "kind": "article",
+      "video_id": "",
       "bullets_lt": [
-        "Kas nutinka, kai žmonės, kurie supranta jūsų klientus, gali sukurti programinę įrangą, kuri jiems padėtų?",
-        "„Holiday Extras“ „Codex“ padeda paversti šį siekį realybe – nuo ​​pagrindinės programos atkūrimo per dvi savaites iki greitesnio atsakymo į klientų atsiliepimus."
+        "IBM paskelbė Quantum Nighthawk r3 – 520 kubitų procesorių, skirtą 10 000 kvantinių operacijų.",
+        "2 r3 lustai bus sujungti į 1 040 kubitų sistemą 2027 m., o Nighthawk r2 jau paskelbia iki 19 kartų didesnį greitį nei Heron."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -55,36 +255,8 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=vu3YlUMkvyg",
-        "try_url": "https://www.youtube.com/watch?v=vu3YlUMkvyg"
-      }
-    },
-    {
-      "title": "IBM paskelbia IBM Quantum Nighthawk r3: naują procesorių, palaikantį 10 000 kvantinių operacijų 520 programuojamų kubitų",
-      "link": "https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/",
-      "published_iso": "2026-11-12T08:42:21Z",
-      "published_lt": "2026-11-12 08:42 UTC",
-      "summary": "IBM paskelbė Quantum Nighthawk r3 – 520 kubitų procesorių, skirtą 10 000 kvantinių operacijų. 2 r3 lustai bus sujungti į 1 040 kubitų sistemą 2027 m., o Nighthawk r2 jau paskelbia iki 19 kartų didesnį greitį nei Heron.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-12-03-ibm-paskelbia-ibm-quantum-nighthawk-r3-nauja-procesoriu-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "IBM paskelbė Quantum Nighthawk r3 – 520 kubitų procesorių, skirtą 10 000 kvantinių operacijų.",
-        "2 r3 lustai bus sujungti į 1 040 kubitų sistemą 2027 m., o Nighthawk r2 jau paskelbia iki 19 kartų didesnį greitį nei Heron.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/",
+        "try_url": "https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/"
       }
     },
     {
@@ -95,7 +267,7 @@
       "summary": "Minimax H3 vaizdo apžvalga ir pamoka. Kaip naudoti „Minimax“ vaizdą „ComfyUI“. Ačiū mūsų rėmėjui Higgsfield.",
       "source": "AI Search",
       "source_image_url": "https://i2.ytimg.com/vi/Er0740eVIEw/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-12-04-naujas-populiariausias-vietinis-ai-vaizdo-redaktorius-yr.svg",
+      "image_url": "generated-images/2026-11-13-10-naujas-populiariausias-vietinis-ai-vaizdo-redaktorius-yr.svg",
       "kind": "video",
       "video_id": "Er0740eVIEw",
       "bullets_lt": [
@@ -122,7 +294,7 @@
       "summary": "„Google“ pristatė „Gemini Decisions“ API, kurią palaiko „Gemini Decision 1“. Ji pateikia iki 1 000 taip/ne, pasirinkimo ir rubrikos klausimų, susijusių su tekstu, vaizdais, garso įrašais, vaizdo įrašais ir PDF failais, kalibruotas tikimybes, už 0,10 USD už 1 mln. įvesties prieigos raktų.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-12-05-google-pristato-gemini-decisions-api-su-gemini-decision-.svg",
+      "image_url": "generated-images/2026-11-13-11-google-pristato-gemini-decisions-api-su-gemini-decision-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -152,7 +324,7 @@
       "summary": "„Google DeepMind“ išleido „AlphaGenome 2“ – sąlyginį DNR sekos modelį, kuris numato reguliavimo veiklą ir variantų poveikį kiekvienam ląstelių tipui. Jis pasiekiamas per AlphaGenome API nekomerciniams tyrimams.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-12-06-google-deepmind-isleido-alphagenome-2-skirta-lasteliu-ti.svg",
+      "image_url": "generated-images/2026-11-13-12-google-deepmind-isleido-alphagenome-2-skirta-lasteliu-ti.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -171,170 +343,6 @@
         "prieinamumas": "Prieinama kaip beta/preview.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
         "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Gemini Decisions API: greiti, sukalibruoti daugiarūšiai sprendimai",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "published_iso": "2026-11-11T18:00:00Z",
-      "published_lt": "2026-11-11 18:00 UTC",
-      "summary": "Susipažinkite su „Gemini Decisions“ API, kurią palaiko mūsų moderniausias modelis „Gemini Decision“, kad galėtumėte priimti greitus, kalibruotus daugiarūšio transporto sprendimus.",
-      "source": "AI",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-12-07-gemini-decisions-api-greiti-sukalibruoti-daugiarusiai-sp.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Susipažinkite su „Gemini Decisions“ API, kurią palaiko mūsų moderniausias modelis „Gemini Decision“, kad galėtumėte priimti greitus, kalibruotus daugiarūšio transporto sprendimus.",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "$0.10 per",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Galite perduoti vieną daugiarūšį tekstą, vaizdus, ​​garso įrašą, vaizdo įrašus ir PDF failus (iki 256 tūkst. prieigos raktų) kartu su iki 1 000 nepriklausomų klausimų.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131"
-      }
-    },
-    {
-      "title": "Išbandykite stalviršį: tinkinamos, bendradarbiaujančios erdvės, skirtos grupėms planuoti, žaisti ir daryti daugiau kartu.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "published_iso": "2026-11-11T16:00:00Z",
-      "published_lt": "2026-11-11 16:00 UTC",
-      "summary": "„Tabletop“ yra naujas „Google Labs“ eksperimentas, skirtas grupės bendradarbiavimui. Su savo komanda kurkite interaktyvius maršrutus, apklausas ir skliaustus.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-11-12-08-isbandykite-stalvirsi-tinkinamos-bendradarbiaujancios-er.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Tabletop“ yra naujas „Google Labs“ eksperimentas, skirtas grupės bendradarbiavimui.",
-        "Su savo komanda kurkite interaktyvius maršrutus, apklausas ir skliaustus.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Reikia prieigos (waitlist/invite)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Prisijunk prie laukiančiųjų sąrašo.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Reikia prieigos (waitlist/invite).",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131"
-      }
-    },
-    {
-      "title": "Marktechpost AI pristato GPU lyderių lentelę ir „Deploy It Chrome“ plėtinį",
-      "link": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
-      "published_iso": "2026-11-11T15:51:14Z",
-      "published_lt": "2026-11-11 15:51 UTC",
-      "summary": "Marktechpost pristato GPU lyderių lentelę ir „Deploy It Chrome“ plėtinį Įrašas „Martechpost AI“ pristato GPU lyderių lentelę ir „Deploy It Chrome“ plėtinį pirmiausia pasirodė „MarkTechPost“.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-12-09-marktechpost-ai-pristato-gpu-lyderiu-lentele-ir-deploy-i.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Marktechpost pristato GPU lyderių lentelę ir „Deploy It Chrome“ plėtinį Įrašas „Martechpost AI“ pristato GPU lyderių lentelę ir „Deploy It Chrome“ plėtinį pirmiausia pasirodė „MarkTechPost“.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$967.68, $1.68 per, $1,71, $3,54",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Patirkite daktarės Esther Mahlangu meną ir palikimą",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "published_iso": "2026-11-11T09:00:00Z",
-      "published_lt": "2026-11-11 09:00 UTC",
-      "summary": "Naujas internetinis Esther Mahlangu gyvenimo ir meno archyvas dabar yra „Google Arts & Culture“.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-11-12-10-patirkite-daktares-esther-mahlangu-mena-ir-palikima.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Naujas internetinis Esther Mahlangu gyvenimo ir meno archyvas dabar yra „Google Arts & Culture“.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131",
-        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131"
-      }
-    },
-    {
-      "title": "MBZUAI IFM išleido PAN 2, atvirą 29B pasaulio fizinio AI modelį",
-      "link": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
-      "published_iso": "2026-11-11T07:38:57Z",
-      "published_lt": "2026-11-11 07:38 UTC",
-      "summary": "MBZUAI Fondo modelių institutas išleido PAN 2, Apache 2.0 pasaulio modelį, kuris sujungia LLM planuotoją su 29B difuzijos transformatoriumi, kad imituotų iki 20 sekundžių veiksmo rezultatus kaip vaizdo įrašą. Įrašas MBZUAI IFM išleido PAN 2, atvirą 29B pasaulio fizinio AI modelį, pirmą kartą pasirodė MarkTechPost.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-12-11-mbzuai-ifm-isleido-pan-2-atvira-29b-pasaulio-fizinio-ai-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "MBZUAI Fondo modelių institutas išleido PAN 2, Apache 2.0 pasaulio modelį, kuris sujungia LLM planuotoją su 29B difuzijos transformatoriumi, kad imituotų iki 20 sekundžių veiksmo rezultatus kaip vaizdo įrašą.",
-        "Įrašas MBZUAI IFM išleido PAN 2, atvirą 29B pasaulio fizinio AI modelį, pirmą kartą pasirodė MarkTechPost.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
-        "try_url": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/"
-      }
-    },
-    {
-      "title": "„Fish Audio“ išleidžia „Live 3“, pilno dvipusio balso modelį, kuris reaguoja per 186 ms",
-      "link": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
-      "published_iso": "2026-11-11T04:43:53Z",
-      "published_lt": "2026-11-11 04:43 UTC",
-      "summary": "„Fish Audio“ išleido „Live 3“, pilno dvipusio balso modelį, skirtą balso agentams. Jis klauso kalbėdamas, atskiria „mm-hmm“ nuo tikrų pertrūkių ir gali sureaguoti vos per 186 ms.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-12-12-fish-audio-isleidzia-live-3-pilno-dvipusio-balso-modeli-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Fish Audio“ išleido „Live 3“, pilno dvipusio balso modelį, skirtą balso agentams.",
-        "Jis klauso kalbėdamas, atskiria „mm-hmm“ nuo tikrų pertrūkių ir gali sureaguoti vos per 186 ms."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
-        "try_url": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/"
       }
     }
   ]
