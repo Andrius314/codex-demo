@@ -1,7 +1,353 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-11-15T14:27:04Z",
+  "updated_at_utc": "2026-11-16T16:39:46Z",
   "digests": [
+    {
+      "digest_date": "2026-11-16",
+      "generated_at_utc": "2026-11-16T16:39:46Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "Naujos Ask Maps funkcijos, padėsiančios keliaujant atostogoms ir pasiruošimui",
+          "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+          "published_iso": "2026-11-16T14:00:00Z",
+          "published_lt": "2026-11-16 14:00 UTC",
+          "summary": "Planuokite atostogų keliones, gaukite maršruto patarimų, raskite vietinius susitikimus ir ieškokite išsaugotų sąrašų naudodami naujas „Ask Maps“ funkcijas.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-11-16-01-naujos-ask-maps-funkcijos-padesiancios-keliaujant-atosto.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Planuokite atostogų keliones, gaukite maršruto patarimų, raskite vietinius susitikimus ir ieškokite išsaugotų sąrašų naudodami naujas „Ask Maps“ funkcijas.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261029-2131"
+          }
+        },
+        {
+          "title": "Susipažinkite su Meta JiTTestais: LLM sukurti testai, sukurti taip, kad nepavyktų prieš rizikingo kodo atsiradimą",
+          "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+          "published_iso": "2026-11-16T10:39:41Z",
+          "published_lt": "2026-11-16 10:39 UTC",
+          "summary": "Meta perkėlė Catching JiTTests į gamybą. LLM sistema rašo bandymus, skirtus nesėkmingam rizikingam skirtumui, ir sugavo 74 privatumo SEV prieš nusileisdama 2026 m. pirmąjį pusmetį, o 60 % inžinierių pranešė, kad teigiamas rezultatas.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-16-02-susipazinkite-su-meta-jittestais-llm-sukurti-testai-suku.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Meta perkėlė Catching JiTTests į gamybą.",
+            "LLM sistema rašo bandymus, skirtus nesėkmingam rizikingam skirtumui, ir sugavo 74 privatumo SEV prieš nusileisdama 2026 m.",
+            "pirmąjį pusmetį, o 60 % inžinierių pranešė, kad teigiamas rezultatas."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„Alibaba“ išleidžia „Qwen4-Max“: 2.4T MoE, 71B Active, 1M kontekstas",
+          "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+          "published_iso": "2026-11-16T09:44:17Z",
+          "published_lt": "2026-11-16 09:44 UTC",
+          "summary": "„Alibaba“ išleido „Qwen4-Max“ – patentuotą 2.4T parametro MoE modelį su 71B aktyviais parametrais, natūralia vizija ir 1M žetono kontekstu. Tai kainuoja 1,5 USD/M įvesties žetonų ir 62% sumažina Work360 vienos užduoties kainą. Įrašas „Alibaba“ išleidžia „Qwen4-Max“: 2,4T MoE, 71B aktyvus, 1M kontekstas pirmiausia pasirodė „MarkTechPost“.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-16-03-alibaba-isleidzia-qwen4-max-2-4t-moe-71b-active-1m-konte.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Alibaba“ išleido „Qwen4-Max“ – patentuotą 2.4T parametro MoE modelį su 71B aktyviais parametrais, natūralia vizija ir 1M žetono kontekstu.",
+            "Tai kainuoja 1,5 USD/M įvesties žetonų ir 62% sumažina Work360 vienos užduoties kainą.",
+            "Įrašas „Alibaba“ išleidžia „Qwen4-Max“: 2,4T MoE, 71B aktyvus, 1M kontekstas pirmiausia pasirodė „MarkTechPost“.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "$1.5/",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Tik žetonų plano peržiūra atidaryta tik šį mėnesį .",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„Hark“ išleido „Handoff²“ – 2 kartus greitesnį „Hark Pro“ kompiuterio naudojimo agentą",
+          "link": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
+          "published_iso": "2026-11-16T09:08:37Z",
+          "published_lt": "2026-11-16 09:08 UTC",
+          "summary": "„Hark“ išleido „Handoff²“, kompiuterio naudojimo agentą „Hark Pro“. Jis veikia vidutiniškai 2 kartus greičiau nei v1, atlieka 82 % iš 478 vidinių žiniatinklio užduočių ir išmoko sugrupuoti veiksmus per delsos nubaustą RL. Įrašas „Hark Releases Handoff²“, 2 kartus greitesnis „Hark Pro“ kompiuterio naudojimo agentas appeared first on MarkTechPost .",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-16-04-hark-isleido-handoff-2-kartus-greitesni-hark-pro-kompiut.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Hark“ išleido „Handoff²“, kompiuterio naudojimo agentą „Hark Pro“.",
+            "Jis veikia vidutiniškai 2 kartus greičiau nei v1, atlieka 82 % iš 478 vidinių žiniatinklio užduočių ir išmoko sugrupuoti veiksmus per delsos nubaustą RL.",
+            "Įrašas „Hark Releases Handoff²“, 2 kartus greitesnis „Hark Pro“ kompiuterio naudojimo agentas appeared first on MarkTechPost .",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "$20",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "„Hark“ peržiūrėjo „Handoff“ rugpjūtį ir išsiuntė „Hark Pro“ spalį.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "La Cousinade",
+          "link": "https://www.youtube.com/watch?v=soNLXvgUqNY",
+          "published_iso": "2026-11-16T05:00:26Z",
+          "published_lt": "2026-11-16 05:00 UTC",
+          "summary": "Pusbrolis su 63 pusbroliais. Svetainė sukurta naudojant „ChatGPT“.",
+          "source": "OpenAI",
+          "source_image_url": "https://i4.ytimg.com/vi/soNLXvgUqNY/hqdefault.jpg",
+          "image_url": "generated-images/2026-11-16-05-la-cousinade.svg",
+          "kind": "video",
+          "video_id": "soNLXvgUqNY",
+          "bullets_lt": [
+            "Pusbrolis su 63 pusbroliais.",
+            "Svetainė sukurta naudojant „ChatGPT“."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=soNLXvgUqNY",
+            "try_url": "https://www.youtube.com/watch?v=soNLXvgUqNY"
+          }
+        },
+        {
+          "title": "„Bland“ pristato „Tofu-1“ – visiškai dvipusį „kalbos į kalbą“ modelį, skirtą skambučiams",
+          "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+          "published_iso": "2026-11-15T10:06:21Z",
+          "published_lt": "2026-11-15 10:06 UTC",
+          "summary": "„Bland“ išleido „Tofu-1“ – pilno dvipusio kalbėjimo į kalbą modelį, skirtą triukšmingiems ir daug pinigų reikalaujantiems telefono skambučiams. Tai yra įmonės tyrimų peržiūra, dar nėra paskelbtų etalonų, dydžio ar kainodaros. Įrašas „Bland“ paleidžia „Tofu-1“, visiškai dvipusį iškalbos į kalbą modelį skambučiams, pirmą kartą pasirodė „MarkTechPost“.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-16-06-bland-pristato-tofu-1-visiskai-dvipusi-kalbos-i-kalba-mo.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Bland“ išleido „Tofu-1“ – pilno dvipusio kalbėjimo į kalbą modelį, skirtą triukšmingiems ir daug pinigų reikalaujantiems telefono skambučiams.",
+            "Tai yra įmonės tyrimų peržiūra, dar nėra paskelbtų etalonų, dydžio ar kainodaros.",
+            "Įrašas „Bland“ paleidžia „Tofu-1“, visiškai dvipusį iškalbos į kalbą modelį skambučiams, pirmą kartą pasirodė „MarkTechPost“.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Ieškoti Pagrindinis puslapis Atvirasis šaltinis/svoriai DI agentai Balsas AI Robotika GPU lyderių informacinis biuletenis Reklamuokite kartu su mumis Pagrindinis puslapis Redaktoriai Pasirinkite „Agentic AI Bland“ pri...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Gemini 4 Carbon & Hydrogen, realaus laiko balsai, nauji TTS, 3D modeliai, Seedream 5.5: AI NAUJIENOS",
+          "link": "https://www.youtube.com/watch?v=woWo80dPkVk",
+          "published_iso": "2026-11-15T03:25:24Z",
+          "published_lt": "2026-11-15 03:25 UTC",
+          "summary": "DIDELĖS DI NAUJIENOS: „Gemini 4 Carbon“ apžvalga, „Gemini Hydrogen“, „Muse Ember“, „Ernie 5.5“. Ačiū mūsų rėmėjui BytePlus Seedream 5.5.",
+          "source": "AI Search",
+          "source_image_url": "https://i4.ytimg.com/vi/woWo80dPkVk/hqdefault.jpg",
+          "image_url": "generated-images/2026-11-16-07-gemini-4-carbon-hydrogen-realaus-laiko-balsai-nauji-tts-.svg",
+          "kind": "video",
+          "video_id": "woWo80dPkVk",
+          "bullets_lt": [
+            "DIDELĖS DI NAUJIENOS: „Gemini 4 Carbon“ apžvalga, „Gemini Hydrogen“, „Muse Ember“, „Ernie 5.5“.",
+            "Ačiū mūsų rėmėjui BytePlus Seedream 5.5."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=woWo80dPkVk",
+            "try_url": "https://www.youtube.com/watch?v=woWo80dPkVk"
+          }
+        },
+        {
+          "title": "Cmpnd išleidžia dspy-wsp: „Weight-Space“ programavimas ateina į DSPy",
+          "link": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+          "published_iso": "2026-11-14T16:45:48Z",
+          "published_lt": "2026-11-14 16:45 UTC",
+          "summary": "Cmpnd išleido dspy-wsp, prototipą DSPy optimizavimo priemonė, skirta svorio erdvės programavimui. Pasienio LLM nuskaito nedidelio modelio svorius, redaguoja juos smėlio dėžėje ir išbando kiekvieną pakeitimą be gradientų ir maždaug 5–10 USD už paleidimą.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-16-08-cmpnd-isleidzia-dspy-wsp-weight-space-programavimas-atei.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Cmpnd išleido dspy-wsp, prototipą DSPy optimizavimo priemonė, skirta svorio erdvės programavimui.",
+            "Pasienio LLM nuskaito nedidelio modelio svorius, redaguoja juos smėlio dėžėje ir išbando kiekvieną pakeitimą be gradientų ir maždaug 5–10 USD už paleidimą.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "$5, $10",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„Stanford Research Open-Sources Memorilla“, latentinės atminties modulis, skirtas šaldytiems LLM",
+          "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+          "published_iso": "2026-11-14T10:21:21Z",
+          "published_lt": "2026-11-14 10:21 UTC",
+          "summary": "Stanfordo mokslininkai išleido „Memorilla“ – atvirojo kodo atminties sistemą, kuri suglaudina dokumentų kolekciją į 16 atminties žetonų užšaldytam Qwen3-8B. Jis pasiekia 84,33 % FactKG naudojant 108 kartus mažiau dokumento žetonų nei visas kontekstas.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-16-09-stanford-research-open-sources-memorilla-latentines-atmi.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Stanfordo mokslininkai išleido „Memorilla“ – atvirojo kodo atminties sistemą, kuri suglaudina dokumentų kolekciją į 16 atminties žetonų užšaldytam Qwen3-8B.",
+            "Jis pasiekia 84,33 % FactKG naudojant 108 kartus mažiau dokumento žetonų nei visas kontekstas.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Stanfordo „Memorilla“ atminties sistema tiekia šaldytus Qwen3-8B 16 atminties žetonų, pranokstančių visą „FactKG“ kontekstą: 84,33 % ir 80,43 %.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://github.com/snap-stanford/memorilla",
+            "try_url": "https://github.com/snap-stanford/memorilla"
+          }
+        },
+        {
+          "title": "AI gali padaryti viską, išskyrus tai",
+          "link": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+          "published_iso": "2026-11-14T08:40:55Z",
+          "published_lt": "2026-11-14 08:40 UTC",
+          "summary": "Baigusi šią dainą prireikė 3 mėnesių, kol sukaupiau drąsą atsistoti prieš kamerą ir ją įrašyti. Tikimės, kad jums, kolegos mokslininkai, patiks! Labai ačiū nuostabioms muzikantėms už pagalbą!",
+          "source": "Two Minute Papers",
+          "source_image_url": "https://i1.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg",
+          "image_url": "generated-images/2026-11-16-10-ai-gali-padaryti-viska-isskyrus-tai.svg",
+          "kind": "video",
+          "video_id": "x7iwI6WfWS0",
+          "bullets_lt": [
+            "Baigusi šią dainą prireikė 3 mėnesių, kol sukaupiau drąsą atsistoti prieš kamerą ir ją įrašyti.",
+            "Tikimės, kad jums, kolegos mokslininkai, patiks!",
+            "Labai ačiū nuostabioms muzikantėms už pagalbą!"
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=x7iwI6WfWS0",
+            "try_url": "https://www.youtube.com/watch?v=x7iwI6WfWS0"
+          }
+        },
+        {
+          "title": "„Vercel“ išleido UI SDK: daugiau nei 50 UI kodavimo agentų sąsajų",
+          "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+          "published_iso": "2026-11-14T06:38:14Z",
+          "published_lt": "2026-11-14 06:38 UTC",
+          "summary": "„Vercel Labs“ išleido „Vercel UI SDK“, „Apache-2.0“ beta versijos biblioteką, kurioje yra daugiau nei 50 vartotojo sąsajos funkcijų. Kodavimo agentai sujungia juos į prieinamus „React“, „Vue“, „Svelte“, „Solid“ ir „Web Components“ komponentus su tiltu, skirtu tiesioginiam vartotojo sąsajos valdymui.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-16-11-vercel-isleido-ui-sdk-daugiau-nei-50-ui-kodavimo-agentu-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Vercel Labs“ išleido „Vercel UI SDK“, „Apache-2.0“ beta versijos biblioteką, kurioje yra daugiau nei 50 vartotojo sąsajos funkcijų.",
+            "Kodavimo agentai sujungia juos į prieinamus „React“, „Vue“, „Svelte“, „Solid“ ir „Web Components“ komponentus su tiltu, skirtu tiesioginiam vartotojo sąsajos valdymui.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+            "try_url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/"
+          }
+        },
+        {
+          "title": "Geriausi 2026 m. dirbtinio intelekto vaizdo įrašų generavimo modeliai: „Elo“, „Sekundinė kaina“, „Open Weights“.",
+          "link": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
+          "published_iso": "2026-11-13T17:23:51Z",
+          "published_lt": "2026-11-13 17:23 UTC",
+          "summary": "AI vaizdo lyderių lentelė atrodo visiškai kitaip nei prieš 12 mėnesių. Vietinis garsas dabar yra stalo statymas. O atvirų svorių modelis patenka į 3 geriausių.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-16-12-geriausi-2026-m-dirbtinio-intelekto-vaizdo-irasu-generav.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "AI vaizdo lyderių lentelė atrodo visiškai kitaip nei prieš 12 mėnesių.",
+            "Vietinis garsas dabar yra stalo statymas.",
+            "O atvirų svorių modelis patenka į 3 geriausių.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-11-15",
       "generated_at_utc": "2026-11-15T14:27:04Z",
@@ -39295,329 +39641,6 @@
             "prieinamumas": "Neaptikta siame saltinyje.",
             "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/",
             "try_url": "https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/"
-          }
-        }
-      ]
-    },
-    {
-      "digest_date": "2026-07-19",
-      "generated_at_utc": "2026-07-19T09:01:58Z",
-      "item_count": 12,
-      "items": [
-        {
-          "title": "Perplexity AI išleido WANDR: atvirą etaloną, įvertinantį tyrimų agentus, kurie turi ieškoti plačiai ir giliai",
-          "link": "https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/",
-          "published_iso": "2026-07-19T07:19:14Z",
-          "published_lt": "2026-07-19 07:19 UTC",
-          "summary": "„Perplexity's WANDR“ yra atviras etalonas ir vertinimo sistema, atliekanti 500 įrodymų reikalaujančių užduočių. Jis tikrina, ar tyrimų agentai gali atrasti daug reikalavimus atitinkančių subjektų ir kiekvieną iš jų paremti nurodytais, pakartotinai patikrinamais įrodymais. „Perplexity Search as Code“ veda prie 0,363 „soft F1“ ir 0,133 „hard F1“.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-19-01-perplexity-ai-isleido-wandr-atvira-etalona-ivertinanti-t.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Perplexity's WANDR“ yra atviras etalonas ir vertinimo sistema, atliekanti 500 įrodymų reikalaujančių užduočių.",
-            "Jis tikrina, ar tyrimų agentai gali atrasti daug reikalavimus atitinkančių subjektų ir kiekvieną iš jų paremti nurodytais, pakartotinai patikrinamais įrodymais.",
-            "„Perplexity Search as Code“ veda prie 0,363 „soft F1“ ir 0,133 „hard F1“."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/",
-            "try_url": "https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/"
-          }
-        },
-        {
-          "title": "10 atvirojo kodo AI platformų, skirtų LLM programoms, RAG sistemoms ir AI agentams kurti",
-          "link": "https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/",
-          "published_iso": "2026-07-19T05:53:19Z",
-          "published_lt": "2026-07-19 05:53 UTC",
-          "summary": "Paieškos, agentai ir darbo eigos dabar pristatomi kaip vaizdiniai ir paprastos anglų kalbos įrankiai. Šis apibendrinimas apima 10 atvirojo kodo be kodo ir žemo kodo platformų, skirtų kurti LLM programas, RAG sistemas ir AI agentus, kurių kiekviena turi patvirtintą licenciją, saugyklą ir tinkamiausią naudojimo atvejį.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-19-02-10-atvirojo-kodo-ai-platformu-skirtu-llm-programoms-rag-.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Paieškos, agentai ir darbo eigos dabar pristatomi kaip vaizdiniai ir paprastos anglų kalbos įrankiai.",
-            "Šis apibendrinimas apima 10 atvirojo kodo be kodo ir žemo kodo platformų, skirtų kurti LLM programas, RAG sistemas ir AI agentus, kurių kiekviena turi patvirtintą licenciją, saugyklą ir tinkamiausią naudojimo atvejį.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/",
-            "try_url": "https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/"
-          }
-        },
-        {
-          "title": "Kimi K3, šokantis waifus, robotas UFC, daina MIDI, GPT Red, skraidančios lentos: AI NAUJIENOS",
-          "link": "https://www.youtube.com/watch?v=uQ2Hqg5MZ-8",
-          "published_iso": "2026-07-19T03:32:41Z",
-          "published_lt": "2026-07-19 03:32 UTC",
-          "summary": "DIDELĖS AI NAUJIENOS: Kimi K3, Bonsai 27B, Wan Dancer, GPT Red #ai #ainews #aitools #agi #singularity Ačiū mūsų rėmėjui Higgsfield.",
-          "source": "AI Search",
-          "source_image_url": "https://i2.ytimg.com/vi/uQ2Hqg5MZ-8/hqdefault.jpg",
-          "image_url": "generated-images/2026-07-19-03-kimi-k3-sokantis-waifus-robotas-ufc-daina-midi-gpt-red-s.svg",
-          "kind": "video",
-          "video_id": "uQ2Hqg5MZ-8",
-          "bullets_lt": [
-            "DIDELĖS AI NAUJIENOS: Kimi K3, Bonsai 27B, Wan Dancer, GPT Red #ai #ainews #aitools #agi #singularity Ačiū mūsų rėmėjui Higgsfield."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=uQ2Hqg5MZ-8",
-            "try_url": "https://www.youtube.com/watch?v=uQ2Hqg5MZ-8"
-          }
-        },
-        {
-          "title": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: atviri trilijono masto MoE modeliai, palyginti su etalonais, licencija ir aptarnavimo išlaidomis",
-          "link": "https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/",
-          "published_iso": "2026-07-19T01:41:33Z",
-          "published_lt": "2026-07-19 01:41 UTC",
-          "summary": "Trys atviri MoE flagmanai susiduria su išmatuotu intelektu, MIT ir modifikuotu MIT svoriu ir realiomis aptarnavimo sąnaudomis The Post Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Atviri trilijono masto MoE modeliai, palyginti pagal etalonus, licenciją ir aptarnavimo išlaidas, pirmą kartą pasirodė MarkTechPost.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-19-04-kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-atviri-trilijono-m.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Trys atviri MoE flagmanai susiduria su išmatuotu intelektu, MIT ir modifikuotu MIT svoriu ir realiomis aptarnavimo sąnaudomis The Post Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Atviri trilijono masto MoE modeliai, palyginti pagal etalonus, licenciją ir aptarnavimo išlaidas, pirmą kartą pasirodė MarkTechPost."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/",
-            "try_url": "https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/"
-          }
-        },
-        {
-          "title": "Tikslus Qwen3 derinimas su LoRA naudojant NVIDIA NeMo AutoModel: pilna vieno GPU „Google Colab“ darbo eigos pamoka",
-          "link": "https://www.marktechpost.com/2026/07/18/fine-tuning-qwen3-with-lora-using-nvidia-nemo-automodel-a-complete-single-gpu-google-colab-workflow-tutorial/",
-          "published_iso": "2026-07-19T01:08:52Z",
-          "published_lt": "2026-07-19 01:08 UTC",
-          "summary": "Sukuriame visapusišką NVIDIA NeMo AutoModel darbo eigą sistemoje „Google Colab“, naudodami vieną GPU. Patikriname CUDA aparatinę įrangą ir tikslumo palaikymą, įdiegiame NeMo AutoModel iš šaltinio ir įkeliame oficialų Qwen3-0.6B LoRA receptą.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-19-05-tikslus-qwen3-derinimas-su-lora-naudojant-nvidia-nemo-au.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Sukuriame visapusišką NVIDIA NeMo AutoModel darbo eigą sistemoje „Google Colab“, naudodami vieną GPU.",
-            "Patikriname CUDA aparatinę įrangą ir tikslumo palaikymą, įdiegiame NeMo AutoModel iš šaltinio ir įkeliame oficialų Qwen3-0.6B LoRA receptą.",
-            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Aptikta: CUDA",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/18/fine-tuning-qwen3-with-lora-using-nvidia-nemo-automodel-a-complete-single-gpu-google-colab-workflow-tutorial/",
-            "try_url": "https://www.marktechpost.com/2026/07/18/fine-tuning-qwen3-with-lora-using-nvidia-nemo-automodel-a-complete-single-gpu-google-colab-workflow-tutorial/"
-          }
-        },
-        {
-          "title": "NVIDIA išleido „DeepStream 9.1“: „Agentic AI“ perkėlimas į „Vision AI“ su 13 įgūdžių ir kelių vaizdų 3D stebėjimu",
-          "link": "https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/",
-          "published_iso": "2026-07-18T19:16:22Z",
-          "published_lt": "2026-07-18 19:16 UTC",
-          "summary": "NVIDIA DeepStream 9.1 pristato 13 agentų įgūdžių, kurie leidžia kodavimo agentams, tokiems kaip Claude Code ir Codex, sukurti kelių kamerų vaizdo analizės vamzdynus iš natūralios kalbos raginimų.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-19-06-nvidia-isleido-deepstream-9-1-agentic-ai-perkelimas-i-vi.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "NVIDIA DeepStream 9.1 pristato 13 agentų įgūdžių, kurie leidžia kodavimo agentams, tokiems kaip Claude Code ir Codex, sukurti kelių kamerų vaizdo analizės vamzdynus iš natūralios kalbos raginimų."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/",
-            "try_url": "https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/"
-          }
-        },
-        {
-          "title": "„Google Cloud“ visada įjungtas atminties agentas pakeičia RAG ir įterpimus nuolatiniu LLM konsolidavimu „Gemini 3.1 Flash-Lite“",
-          "link": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
-          "published_iso": "2026-07-18T07:57:51Z",
-          "published_lt": "2026-07-18 07:57 UTC",
-          "summary": "„Google Cloud“ generatyvaus AI saugykla pristato „Always-On Memory Agent“ – nuorodos diegimą, kuris atmintį traktuoja kaip veikiantį procesą. Sukurta naudojant „Google ADK“ ir „Gemini 3.1 Flash-Lite“, ji nenaudoja vektorinės duomenų bazės ir jokių įterpimų.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-19-07-google-cloud-visada-ijungtas-atminties-agentas-pakeicia-.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Google Cloud“ generatyvaus AI saugykla pristato „Always-On Memory Agent“ – nuorodos diegimą, kuris atmintį traktuoja kaip veikiantį procesą.",
-            "Sukurta naudojant „Google ADK“ ir „Gemini 3.1 Flash-Lite“, ji nenaudoja vektorinės duomenų bazės ir jokių įterpimų.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
-            "try_url": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/"
-          }
-        },
-        {
-          "title": "Kaip sukurti plazmidžių inžinerijos darbastalį su apskrito kartografavimu, apribojimų analize, virtualiais geliais ir grunto dizainu",
-          "link": "https://www.marktechpost.com/2026/07/17/how-to-build-plasmid-engineering-workbench-with-circular-mapping-restriction-analysis-virtual-gels-and-primer-design/",
-          "published_iso": "2026-07-18T06:51:05Z",
-          "published_lt": "2026-07-18 06:51 UTC",
-          "summary": "Šioje mokymo programoje mes sukuriame „Google Colab“ plazmidės darbastalį, kuris interaktyvioje nešiojamojo kompiuterio aplinkoje atkuria pagrindines „SpliceCraft“ idėjas.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-19-08-kaip-sukurti-plazmidziu-inzinerijos-darbastali-su-apskri.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Šioje mokymo programoje mes sukuriame „Google Colab“ plazmidės darbastalį, kuris interaktyvioje nešiojamojo kompiuterio aplinkoje atkuria pagrindines „SpliceCraft“ idėjas."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/17/how-to-build-plasmid-engineering-workbench-with-circular-mapping-restriction-analysis-virtual-gels-and-primer-design/",
-            "try_url": "https://www.marktechpost.com/2026/07/17/how-to-build-plasmid-engineering-workbench-with-circular-mapping-restriction-analysis-virtual-gels-and-primer-design/"
-          }
-        },
-        {
-          "title": "„Sakana AI“ klaidų sklaida sukuria „Dale“ reikalavimus atitinkančius dviejų srautų tinklus, pasiekiančius 96,7% MNIST ir 61,7% CIFAR-10 be atgalinio sklaidos",
-          "link": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/",
-          "published_iso": "2026-07-18T06:32:43Z",
-          "published_lt": "2026-07-18 06:32 UTC",
-          "summary": "Atgalinis dauginimas priklauso nuo svorio pernešimo, kurio biologinės grandinės greičiausiai negali įgyvendinti. „Sakana AI“ klaidų sklaida apeina šį apribojimą, treniruodama dviejų srautų sužadinimo / slopinimo tinklus, kurie paklūsta Deilo principui.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-19-09-sakana-ai-klaidu-sklaida-sukuria-dale-reikalavimus-atiti.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Atgalinis dauginimas priklauso nuo svorio pernešimo, kurio biologinės grandinės greičiausiai negali įgyvendinti.",
-            "„Sakana AI“ klaidų sklaida apeina šį apribojimą, treniruodama dviejų srautų sužadinimo / slopinimo tinklus, kurie paklūsta Deilo principui."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/",
-            "try_url": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/"
-          }
-        },
-        {
-          "title": "Sukurkite agento renginių vietos operatorių naudodami „MongoDB Atlas“, „Voyage“ ir „LangGraph“",
-          "link": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/",
-          "published_iso": "2026-07-17T22:12:57Z",
-          "published_lt": "2026-07-17 22:12 UTC",
-          "summary": "Įvadas Ši pamoka prasideda ten, kur sustoja dauguma agento demonstracinių versijų: agentui suteikiama nuolatinė atmintis, veiklos kontekstas ir vieta, kur galima parašyti, kas atsitiko. Renginio operatoriui reikia ne tik agento, kuris galėtų apibendrinti orų ataskaitą arba sudaryti bendrą planą.",
-          "source": "MarkTechPost",
-          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/07/image-150x150.png",
-          "image_url": "generated-images/2026-07-19-10-sukurkite-agento-renginiu-vietos-operatoriu-naudodami-mo.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Įvadas Ši pamoka prasideda ten, kur sustoja dauguma agento demonstracinių versijų: agentui suteikiama nuolatinė atmintis, veiklos kontekstas ir vieta, kur galima parašyti, kas atsitiko.",
-            "Renginio operatoriui reikia ne tik agento, kuris galėtų apibendrinti orų ataskaitą arba sudaryti bendrą planą.",
-            "Kaina: Labiau panasu i mokama sprendima.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Labiau panasu i mokama sprendima.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/",
-            "try_url": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/"
-          }
-        },
-        {
-          "title": "„Zyphra“ išleido ZUNA1.1: „Apache 2.0 EEG Foundation“ modelį su kintamo ilgio įvestimis nuo 0,5 iki 30 sekundžių",
-          "link": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
-          "published_iso": "2026-07-17T21:35:27Z",
-          "published_lt": "2026-07-17 21:35 UTC",
-          "summary": "2026 m. liepos 16 d. „Zyphra“ išleido ZUNA1.1 pagal „Apache 2.0“ licenciją. 380M užmaskuotas difuzijos automatinis kodavimo įrenginys atkuria, panaikina triukšmą ir padidina galvos odos EEG mėginius pagal savavališkus kanalų išdėstymus. Jis priima kintamo ilgio įvestis nuo 0,5 iki 30 sekundžių, palyginti su ZUNA1 fiksuotomis penkiomis sekundėmis.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-19-11-zyphra-isleido-zuna1-1-apache-2-0-eeg-foundation-modeli-.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "2026 m.",
-            "liepos 16 d.",
-            "„Zyphra“ išleido ZUNA1.1 pagal „Apache 2.0“ licenciją."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
-            "try_url": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/"
-          }
-        },
-        {
-          "title": "Kaip „Shopify“ naudoja „ChatGPT“, kad greičiau sukurtų su AI agentais",
-          "link": "https://www.youtube.com/shorts/fnPMkEe6Nik",
-          "published_iso": "2026-07-16T22:19:27Z",
-          "published_lt": "2026-07-16 22:19 UTC",
-          "summary": "„Tai leidžia man greičiau ir mažiau priklausomybių ir daryti tai, ko negalėjau padaryti anksčiau. Chrisas Jonesas, „Shopify“ AI laboratorijos vyresnysis vadovas, padeda komandoms naudoti „ChatGPT Work“ perplanuoti darbo eigą su agentais, pašalinti kliūtis ir kurti įrankius nelaukiant inžinerinių išteklių.",
-          "source": "OpenAI",
-          "source_image_url": "https://i3.ytimg.com/vi/fnPMkEe6Nik/hqdefault.jpg",
-          "image_url": "generated-images/2026-07-19-12-kaip-shopify-naudoja-chatgpt-kad-greiciau-sukurtu-su-ai-.svg",
-          "kind": "video",
-          "video_id": "fnPMkEe6Nik",
-          "bullets_lt": [
-            "„Tai leidžia man greičiau ir mažiau priklausomybių ir daryti tai, ko negalėjau padaryti anksčiau.",
-            "Chrisas Jonesas, „Shopify“ AI laboratorijos vyresnysis vadovas, padeda komandoms naudoti „ChatGPT Work“ perplanuoti darbo eigą su agentais, pašalinti kliūtis ir kurti įrankius nelaukiant inžinerinių išteklių.",
-            "Kaina: Labiau panasu i mokama sprendima."
-          ],
-          "practical": {
-            "kaina": "Labiau panasu i mokama sprendima.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/shorts/fnPMkEe6Nik",
-            "try_url": "https://www.youtube.com/shorts/fnPMkEe6Nik"
           }
         }
       ]
