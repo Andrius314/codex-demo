@@ -1,23 +1,165 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-11-16",
-  "generated_at_utc": "2026-11-16T16:39:46Z",
+  "digest_date": "2026-11-17",
+  "generated_at_utc": "2026-11-17T16:36:41Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "Naujos Ask Maps funkcijos, padėsiančios keliaujant atostogoms ir pasiruošimui",
-      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "published_iso": "2026-11-16T14:00:00Z",
-      "published_lt": "2026-11-16 14:00 UTC",
-      "summary": "Planuokite atostogų keliones, gaukite maršruto patarimų, raskite vietinius susitikimus ir ieškokite išsaugotų sąrašų naudodami naujas „Ask Maps“ funkcijas.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-11-16-01-naujos-ask-maps-funkcijos-padesiancios-keliaujant-atosto.svg",
+      "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+      "link": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+      "published_iso": "2026-11-17T12:46:24Z",
+      "published_lt": "2026-11-17 12:46 UTC",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf https://openai.com/index/building-scientific-understanding-with-academic-communities/ 🙏 We would like to thank our generous Patreon suppor",
+      "source": "Two Minute Papers",
+      "source_image_url": "https://i4.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-17-01-openai-s-new-breakthrough-is-utter-chaos.svg",
+      "kind": "video",
+      "video_id": "gl2U4fGTr6g",
+      "bullets_lt": [
+        "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf https://openai.com/index/building-scientific-understanding-with-academic-communities/ 🙏 We would like to thank our generous Patreon suppor.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=gl2U4fGTr6g",
+        "try_url": "https://www.youtube.com/watch?v=gl2U4fGTr6g"
+      }
+    },
+    {
+      "title": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
+      "link": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
+      "published_iso": "2026-11-17T10:37:11Z",
+      "published_lt": "2026-11-17 10:37 UTC",
+      "summary": "NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers. Both are in public preview.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-17-02-nvidia-open-sources-nvke-and-nvkr-for-managed-kubernetes.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Planuokite atostogų keliones, gaukite maršruto patarimų, raskite vietinius susitikimus ir ieškokite išsaugotų sąrašų naudodami naujas „Ask Maps“ funkcijas.",
+        "NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0.",
+        "Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers.",
+        "Both are in public preview.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Both are in public preview.",
+        "lokalus_reikalavimai": "Aptikta: NVIDIA GPU",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
+      "link": "https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/",
+      "published_iso": "2026-11-17T09:51:18Z",
+      "published_lt": "2026-11-17 09:51 UTC",
+      "summary": "Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API. The post Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-17-03-sarvam-launches-sarvam-token-factory-bringing-india-host.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Sarvam Token Factory is now open to everyone.",
+        "It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API.",
+        "The post Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models appeared first on MarkTechPost .",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Sarvam Token Factory serves 8 models from India via one OpenAI-compatible API, priced from ₹10 per 1M tokens.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "How Revolut’s lean teams take on bigger challenges with OpenAI",
+      "link": "https://www.youtube.com/watch?v=ZIpm-0RczCk",
+      "published_iso": "2026-11-17T09:45:35Z",
+      "published_lt": "2026-11-17 09:45 UTC",
+      "summary": "What can one engineer build when a project looks like it needs a whole team? At Revolut, an engineer used Codex to build an internal code review service himself. Its designers used Codex to turn seven years of design documentation into a format AI could read in a single day.",
+      "source": "OpenAI",
+      "source_image_url": "https://i3.ytimg.com/vi/ZIpm-0RczCk/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-17-04-how-revolut-s-lean-teams-take-on-bigger-challenges-with-.svg",
+      "kind": "video",
+      "video_id": "ZIpm-0RczCk",
+      "bullets_lt": [
+        "What can one engineer build when a project looks like it needs a whole team?",
+        "At Revolut, an engineer used Codex to build an internal code review service himself.",
+        "Its designers used Codex to turn seven years of design documentation into a format AI could read in a single day."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=ZIpm-0RczCk",
+        "try_url": "https://www.youtube.com/watch?v=ZIpm-0RczCk"
+      }
+    },
+    {
+      "title": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
+      "link": "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
+      "published_iso": "2026-11-17T09:20:57Z",
+      "published_lt": "2026-11-17 09:20 UTC",
+      "summary": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-17-05-liquid-ai-releases-d1-2-and-d1-2-ultra-omnimodal-decisio.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens.",
+        "d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "published_iso": "2026-11-16T14:00:00Z",
+      "published_lt": "2026-11-16 14:00 UTC",
+      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-11-17-06-new-ask-maps-features-to-help-with-holiday-travel-and-pr.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Veikia tiek online, tiek lokaliai."
       ],
@@ -33,20 +175,19 @@
       }
     },
     {
-      "title": "Susipažinkite su Meta JiTTestais: LLM sukurti testai, sukurti taip, kad nepavyktų prieš rizikingo kodo atsiradimą",
+      "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
       "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
       "published_iso": "2026-11-16T10:39:41Z",
       "published_lt": "2026-11-16 10:39 UTC",
-      "summary": "Meta perkėlė Catching JiTTests į gamybą. LLM sistema rašo bandymus, skirtus nesėkmingam rizikingam skirtumui, ir sugavo 74 privatumo SEV prieš nusileisdama 2026 m. pirmąjį pusmetį, o 60 % inžinierių pranešė, kad teigiamas rezultatas.",
+      "summary": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-16-02-susipazinkite-su-meta-jittestais-llm-sukurti-testai-suku.svg",
+      "image_url": "generated-images/2026-11-17-07-meet-meta-s-jittests-llm-generated-tests-designed-to-fai.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Meta perkėlė Catching JiTTests į gamybą.",
-        "LLM sistema rašo bandymus, skirtus nesėkmingam rizikingam skirtumui, ir sugavo 74 privatumo SEV prieš nusileisdama 2026 m.",
-        "pirmąjį pusmetį, o 60 % inžinierių pranešė, kad teigiamas rezultatas."
+        "Meta has moved Catching JiTTests into production.",
+        "The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -60,20 +201,20 @@
       }
     },
     {
-      "title": "„Alibaba“ išleidžia „Qwen4-Max“: 2.4T MoE, 71B Active, 1M kontekstas",
+      "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
       "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
       "published_iso": "2026-11-16T09:44:17Z",
       "published_lt": "2026-11-16 09:44 UTC",
-      "summary": "„Alibaba“ išleido „Qwen4-Max“ – patentuotą 2.4T parametro MoE modelį su 71B aktyviais parametrais, natūralia vizija ir 1M žetono kontekstu. Tai kainuoja 1,5 USD/M įvesties žetonų ir 62% sumažina Work360 vienos užduoties kainą. Įrašas „Alibaba“ išleidžia „Qwen4-Max“: 2,4T MoE, 71B aktyvus, 1M kontekstas pirmiausia pasirodė „MarkTechPost“.",
+      "summary": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPost .",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-16-03-alibaba-isleidzia-qwen4-max-2-4t-moe-71b-active-1m-konte.svg",
+      "image_url": "generated-images/2026-11-17-08-alibaba-releases-qwen4-max-2-4t-moe-71b-active-1m-contex.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Alibaba“ išleido „Qwen4-Max“ – patentuotą 2.4T parametro MoE modelį su 71B aktyviais parametrais, natūralia vizija ir 1M žetono kontekstu.",
-        "Tai kainuoja 1,5 USD/M įvesties žetonų ir 62% sumažina Work360 vienos užduoties kainą.",
-        "Įrašas „Alibaba“ išleidžia „Qwen4-Max“: 2,4T MoE, 71B aktyvus, 1M kontekstas pirmiausia pasirodė „MarkTechPost“.",
+        "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context.",
+        "It costs $1.5/M input tokens and cuts Work360 cost per task by 62%.",
+        "The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPost .",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Veikia tiek online, tiek lokaliai.",
         "Prieinamumas: Prieinama kaip beta/preview."
@@ -82,7 +223,7 @@
         "kaina": "Yra nemokamas ir mokamas variantas.",
         "kainos_detales": "$1.5/",
         "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Tik žetonų plano peržiūra atidaryta tik šį mėnesį .",
+        "online_limitai": "It costs $1.5/M input tokens and cuts Work360 cost per task by 62%.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Prieinama kaip beta/preview.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
@@ -90,20 +231,20 @@
       }
     },
     {
-      "title": "„Hark“ išleido „Handoff²“ – 2 kartus greitesnį „Hark Pro“ kompiuterio naudojimo agentą",
+      "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
       "link": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
       "published_iso": "2026-11-16T09:08:37Z",
       "published_lt": "2026-11-16 09:08 UTC",
-      "summary": "„Hark“ išleido „Handoff²“, kompiuterio naudojimo agentą „Hark Pro“. Jis veikia vidutiniškai 2 kartus greičiau nei v1, atlieka 82 % iš 478 vidinių žiniatinklio užduočių ir išmoko sugrupuoti veiksmus per delsos nubaustą RL. Įrašas „Hark Releases Handoff²“, 2 kartus greitesnis „Hark Pro“ kompiuterio naudojimo agentas appeared first on MarkTechPost .",
+      "summary": "Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through latency-penalized RL. The post Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro appeared first on MarkTechPost .",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-16-04-hark-isleido-handoff-2-kartus-greitesni-hark-pro-kompiut.svg",
+      "image_url": "generated-images/2026-11-17-09-hark-releases-handoff-a-2x-faster-computer-use-agent-for.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Hark“ išleido „Handoff²“, kompiuterio naudojimo agentą „Hark Pro“.",
-        "Jis veikia vidutiniškai 2 kartus greičiau nei v1, atlieka 82 % iš 478 vidinių žiniatinklio užduočių ir išmoko sugrupuoti veiksmus per delsos nubaustą RL.",
-        "Įrašas „Hark Releases Handoff²“, 2 kartus greitesnis „Hark Pro“ kompiuterio naudojimo agentas appeared first on MarkTechPost .",
+        "Hark has released Handoff², the computer-use agent inside Hark Pro.",
+        "It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through latency-penalized RL.",
+        "The post Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro appeared first on MarkTechPost .",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Veikia tiek online, tiek lokaliai.",
         "Prieinamumas: Prieinama kaip beta/preview."
@@ -112,7 +253,7 @@
         "kaina": "Yra nemokamas ir mokamas variantas.",
         "kainos_detales": "$20",
         "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "„Hark“ peržiūrėjo „Handoff“ rugpjūtį ir išsiuntė „Hark Pro“ spalį.",
+        "online_limitai": "Hark previewed Handoff in August and shipped it in Hark Pro in October.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Prieinama kaip beta/preview.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
@@ -120,46 +261,20 @@
       }
     },
     {
-      "title": "La Cousinade",
-      "link": "https://www.youtube.com/watch?v=soNLXvgUqNY",
-      "published_iso": "2026-11-16T05:00:26Z",
-      "published_lt": "2026-11-16 05:00 UTC",
-      "summary": "Pusbrolis su 63 pusbroliais. Svetainė sukurta naudojant „ChatGPT“.",
-      "source": "OpenAI",
-      "source_image_url": "https://i4.ytimg.com/vi/soNLXvgUqNY/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-16-05-la-cousinade.svg",
-      "kind": "video",
-      "video_id": "soNLXvgUqNY",
-      "bullets_lt": [
-        "Pusbrolis su 63 pusbroliais.",
-        "Svetainė sukurta naudojant „ChatGPT“."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=soNLXvgUqNY",
-        "try_url": "https://www.youtube.com/watch?v=soNLXvgUqNY"
-      }
-    },
-    {
-      "title": "„Bland“ pristato „Tofu-1“ – visiškai dvipusį „kalbos į kalbą“ modelį, skirtą skambučiams",
+      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
       "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
       "published_iso": "2026-11-15T10:06:21Z",
       "published_lt": "2026-11-15 10:06 UTC",
-      "summary": "„Bland“ išleido „Tofu-1“ – pilno dvipusio kalbėjimo į kalbą modelį, skirtą triukšmingiems ir daug pinigų reikalaujantiems telefono skambučiams. Tai yra įmonės tyrimų peržiūra, dar nėra paskelbtų etalonų, dydžio ar kainodaros. Įrašas „Bland“ paleidžia „Tofu-1“, visiškai dvipusį iškalbos į kalbą modelį skambučiams, pirmą kartą pasirodė „MarkTechPost“.",
+      "summary": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost .",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-16-06-bland-pristato-tofu-1-visiskai-dvipusi-kalbos-i-kalba-mo.svg",
+      "image_url": "generated-images/2026-11-17-10-bland-launches-tofu-1-a-full-duplex-speech-to-speech-mod.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Bland“ išleido „Tofu-1“ – pilno dvipusio kalbėjimo į kalbą modelį, skirtą triukšmingiems ir daug pinigų reikalaujantiems telefono skambučiams.",
-        "Tai yra įmonės tyrimų peržiūra, dar nėra paskelbtų etalonų, dydžio ar kainodaros.",
-        "Įrašas „Bland“ paleidžia „Tofu-1“, visiškai dvipusį iškalbos į kalbą modelį skambučiams, pirmą kartą pasirodė „MarkTechPost“.",
+        "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls.",
+        "It is in enterprise research preview, with no published benchmarks, size or pricing yet.",
+        "The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost .",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
         "Prieinamumas: Prieinama kaip beta/preview."
@@ -168,7 +283,7 @@
         "kaina": "Yra nemokamas ir mokamas variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Ieškoti Pagrindinis puslapis Atvirasis šaltinis/svoriai DI agentai Balsas AI Robotika GPU lyderių informacinis biuletenis Reklamuokite kartu su mumis Pagrindinis puslapis Redaktoriai Pasirinkite „Agentic AI Bland“ pri...",
+        "online_limitai": "It is in enterprise research preview, with no published benchmarks, size or pricing yet.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Prieinama kaip beta/preview.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
@@ -176,19 +291,19 @@
       }
     },
     {
-      "title": "Gemini 4 Carbon & Hydrogen, realaus laiko balsai, nauji TTS, 3D modeliai, Seedream 5.5: AI NAUJIENOS",
+      "title": "Gemini Carbon & Hydrogen, realtime voices, new TTS, new 3D generators: AI NEWS",
       "link": "https://www.youtube.com/watch?v=woWo80dPkVk",
       "published_iso": "2026-11-15T03:25:24Z",
       "published_lt": "2026-11-15 03:25 UTC",
-      "summary": "DIDELĖS DI NAUJIENOS: „Gemini 4 Carbon“ apžvalga, „Gemini Hydrogen“, „Muse Ember“, „Ernie 5.5“. Ačiū mūsų rėmėjui BytePlus Seedream 5.5.",
+      "summary": "HUGE AI NEWS: Gemini 4 Carbon review, Gemini Hydrogen, Minimax Image, Muse Ember, Ernie 5.5. Thanks to our sponsor BytePlus Seedream 5.5.",
       "source": "AI Search",
       "source_image_url": "https://i4.ytimg.com/vi/woWo80dPkVk/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-16-07-gemini-4-carbon-hydrogen-realaus-laiko-balsai-nauji-tts-.svg",
+      "image_url": "generated-images/2026-11-17-11-gemini-carbon-hydrogen-realtime-voices-new-tts-new-3d-ge.svg",
       "kind": "video",
       "video_id": "woWo80dPkVk",
       "bullets_lt": [
-        "DIDELĖS DI NAUJIENOS: „Gemini 4 Carbon“ apžvalga, „Gemini Hydrogen“, „Muse Ember“, „Ernie 5.5“.",
-        "Ačiū mūsų rėmėjui BytePlus Seedream 5.5."
+        "HUGE AI NEWS: Gemini 4 Carbon review, Gemini Hydrogen, Minimax Image, Muse Ember, Ernie 5.5.",
+        "Thanks to our sponsor BytePlus Seedream 5.5."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -202,144 +317,30 @@
       }
     },
     {
-      "title": "Cmpnd išleidžia dspy-wsp: „Weight-Space“ programavimas ateina į DSPy",
+      "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
       "link": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
       "published_iso": "2026-11-14T16:45:48Z",
       "published_lt": "2026-11-14 16:45 UTC",
-      "summary": "Cmpnd išleido dspy-wsp, prototipą DSPy optimizavimo priemonė, skirta svorio erdvės programavimui. Pasienio LLM nuskaito nedidelio modelio svorius, redaguoja juos smėlio dėžėje ir išbando kiekvieną pakeitimą be gradientų ir maždaug 5–10 USD už paleidimą.",
+      "summary": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-16-08-cmpnd-isleidzia-dspy-wsp-weight-space-programavimas-atei.svg",
+      "image_url": "generated-images/2026-11-17-12-cmpnd-releases-dspy-wsp-weight-space-programming-comes-t.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Cmpnd išleido dspy-wsp, prototipą DSPy optimizavimo priemonė, skirta svorio erdvės programavimui.",
-        "Pasienio LLM nuskaito nedidelio modelio svorius, redaguoja juos smėlio dėžėje ir išbando kiekvieną pakeitimą be gradientų ir maždaug 5–10 USD už paleidimą.",
+        "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming.",
+        "A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
         "Prieinamumas: Panasu, kad jau galima bandyti."
       ],
       "practical": {
         "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$5, $10",
+        "kainos_detales": "$5, $10 per, $10",
         "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "„Stanford Research Open-Sources Memorilla“, latentinės atminties modulis, skirtas šaldytiems LLM",
-      "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
-      "published_iso": "2026-11-14T10:21:21Z",
-      "published_lt": "2026-11-14 10:21 UTC",
-      "summary": "Stanfordo mokslininkai išleido „Memorilla“ – atvirojo kodo atminties sistemą, kuri suglaudina dokumentų kolekciją į 16 atminties žetonų užšaldytam Qwen3-8B. Jis pasiekia 84,33 % FactKG naudojant 108 kartus mažiau dokumento žetonų nei visas kontekstas.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-16-09-stanford-research-open-sources-memorilla-latentines-atmi.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Stanfordo mokslininkai išleido „Memorilla“ – atvirojo kodo atminties sistemą, kuri suglaudina dokumentų kolekciją į 16 atminties žetonų užšaldytam Qwen3-8B.",
-        "Jis pasiekia 84,33 % FactKG naudojant 108 kartus mažiau dokumento žetonų nei visas kontekstas.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Stanfordo „Memorilla“ atminties sistema tiekia šaldytus Qwen3-8B 16 atminties žetonų, pranokstančių visą „FactKG“ kontekstą: 84,33 % ir 80,43 %.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://github.com/snap-stanford/memorilla",
-        "try_url": "https://github.com/snap-stanford/memorilla"
-      }
-    },
-    {
-      "title": "AI gali padaryti viską, išskyrus tai",
-      "link": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
-      "published_iso": "2026-11-14T08:40:55Z",
-      "published_lt": "2026-11-14 08:40 UTC",
-      "summary": "Baigusi šią dainą prireikė 3 mėnesių, kol sukaupiau drąsą atsistoti prieš kamerą ir ją įrašyti. Tikimės, kad jums, kolegos mokslininkai, patiks! Labai ačiū nuostabioms muzikantėms už pagalbą!",
-      "source": "Two Minute Papers",
-      "source_image_url": "https://i1.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-16-10-ai-gali-padaryti-viska-isskyrus-tai.svg",
-      "kind": "video",
-      "video_id": "x7iwI6WfWS0",
-      "bullets_lt": [
-        "Baigusi šią dainą prireikė 3 mėnesių, kol sukaupiau drąsą atsistoti prieš kamerą ir ją įrašyti.",
-        "Tikimės, kad jums, kolegos mokslininkai, patiks!",
-        "Labai ačiū nuostabioms muzikantėms už pagalbą!"
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=x7iwI6WfWS0",
-        "try_url": "https://www.youtube.com/watch?v=x7iwI6WfWS0"
-      }
-    },
-    {
-      "title": "„Vercel“ išleido UI SDK: daugiau nei 50 UI kodavimo agentų sąsajų",
-      "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
-      "published_iso": "2026-11-14T06:38:14Z",
-      "published_lt": "2026-11-14 06:38 UTC",
-      "summary": "„Vercel Labs“ išleido „Vercel UI SDK“, „Apache-2.0“ beta versijos biblioteką, kurioje yra daugiau nei 50 vartotojo sąsajos funkcijų. Kodavimo agentai sujungia juos į prieinamus „React“, „Vue“, „Svelte“, „Solid“ ir „Web Components“ komponentus su tiltu, skirtu tiesioginiam vartotojo sąsajos valdymui.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-16-11-vercel-isleido-ui-sdk-daugiau-nei-50-ui-kodavimo-agentu-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Vercel Labs“ išleido „Vercel UI SDK“, „Apache-2.0“ beta versijos biblioteką, kurioje yra daugiau nei 50 vartotojo sąsajos funkcijų.",
-        "Kodavimo agentai sujungia juos į prieinamus „React“, „Vue“, „Svelte“, „Solid“ ir „Web Components“ komponentus su tiltu, skirtu tiesioginiam vartotojo sąsajos valdymui.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
-        "try_url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/"
-      }
-    },
-    {
-      "title": "Geriausi 2026 m. dirbtinio intelekto vaizdo įrašų generavimo modeliai: „Elo“, „Sekundinė kaina“, „Open Weights“.",
-      "link": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
-      "published_iso": "2026-11-13T17:23:51Z",
-      "published_lt": "2026-11-13 17:23 UTC",
-      "summary": "AI vaizdo lyderių lentelė atrodo visiškai kitaip nei prieš 12 mėnesių. Vietinis garsas dabar yra stalo statymas. O atvirų svorių modelis patenka į 3 geriausių.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-16-12-geriausi-2026-m-dirbtinio-intelekto-vaizdo-irasu-generav.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "AI vaizdo lyderių lentelė atrodo visiškai kitaip nei prieš 12 mėnesių.",
-        "Vietinis garsas dabar yra stalo statymas.",
-        "O atvirų svorių modelis patenka į 3 geriausių.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
         "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
