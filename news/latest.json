@@ -1,25 +1,53 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-11-19",
-  "generated_at_utc": "2026-11-19T16:13:12Z",
+  "digest_date": "2026-11-20",
+  "generated_at_utc": "2026-11-20T15:52:02Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "Meet Brian and Beast, the dots at work at Holiday Extras",
-      "link": "https://www.youtube.com/watch?v=ikNf7eW8CHk",
-      "published_iso": "2026-11-19T11:38:57Z",
-      "published_lt": "2026-11-19 11:38 UTC",
-      "summary": "David Lee, Director of Innovation & Growth at Holiday Extras, calls his dot, Brian, on his morning commute. They talk through the meetings ahead, and Brian can have a report ready by the time David gets to his desk. His colleague Liam Thompson, VP of AI Innovation, calls his dot Beast.",
-      "source": "OpenAI",
-      "source_image_url": "https://i2.ytimg.com/vi/ikNf7eW8CHk/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-19-01-meet-brian-and-beast-the-dots-at-work-at-holiday-extras.svg",
-      "kind": "video",
-      "video_id": "ikNf7eW8CHk",
+      "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+      "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+      "published_iso": "2026-11-20T14:44:52Z",
+      "published_lt": "2026-11-20 14:44 UTC",
+      "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-20-01-nvidia-ai-releases-nemotron-labs-sigma-a-continuous-diff.svg",
+      "kind": "article",
+      "video_id": "",
       "bullets_lt": [
-        "David Lee, Director of Innovation & Growth at Holiday Extras, calls his dot, Brian, on his morning commute.",
-        "They talk through the meetings ahead, and Brian can have a report ready by the time David gets to his desk.",
-        "His colleague Liam Thompson, VP of AI Innovation, calls his dot Beast."
+        "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints.",
+        "Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Most diffusion LLMs, such as LLaDA and Dream, work on discrete tokens.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Create and Share a Dashboard in ChatGPT",
+      "link": "https://www.youtube.com/watch?v=OSHSopaYjTw",
+      "published_iso": "2026-11-20T06:07:50Z",
+      "published_lt": "2026-11-20 06:07 UTC",
+      "summary": "Turn your analysis into a dashboard your team can use. Building on the fictional Acme sales example, this walkthrough brings quarterly metrics and customer follow-ups into one view.",
+      "source": "OpenAI",
+      "source_image_url": "https://i4.ytimg.com/vi/OSHSopaYjTw/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-20-02-create-and-share-a-dashboard-in-chatgpt.svg",
+      "kind": "video",
+      "video_id": "OSHSopaYjTw",
+      "bullets_lt": [
+        "Turn your analysis into a dashboard your team can use.",
+        "Building on the fictional Acme sales example, this walkthrough brings quarterly metrics and customer follow-ups into one view."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -28,8 +56,169 @@
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=ikNf7eW8CHk",
-        "try_url": "https://www.youtube.com/watch?v=ikNf7eW8CHk"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=OSHSopaYjTw",
+        "try_url": "https://www.youtube.com/watch?v=OSHSopaYjTw"
+      }
+    },
+    {
+      "title": "Gemini 4 Neon is ON FIRE!",
+      "link": "https://www.youtube.com/watch?v=3FE-hBh1rsY",
+      "published_iso": "2026-11-20T03:26:03Z",
+      "published_lt": "2026-11-20 03:26 UTC",
+      "summary": "#ai #aitools #ainews #llm #agi #singularity. Thanks to our sponsor Luma.",
+      "source": "AI Search",
+      "source_image_url": "https://i4.ytimg.com/vi/3FE-hBh1rsY/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-20-03-gemini-4-neon-is-on-fire.svg",
+      "kind": "video",
+      "video_id": "3FE-hBh1rsY",
+      "bullets_lt": [
+        "#ai #aitools #ainews #llm #agi #singularity.",
+        "Thanks to our sponsor Luma."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=3FE-hBh1rsY",
+        "try_url": "https://www.youtube.com/watch?v=3FE-hBh1rsY"
+      }
+    },
+    {
+      "title": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+      "link": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
+      "published_iso": "2026-11-19T21:46:22Z",
+      "published_lt": "2026-11-19 21:46 UTC",
+      "summary": "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for the best hand-written harness on Continual Learning Bench.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-20-04-meta-fair-self-improving-memory-hits-56-0-on-continual-l.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights.",
+        "Optimized prompts score 56.0 versus 44.6 for the best hand-written harness on Continual Learning Bench.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
+      "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
+      "published_iso": "2026-11-19T18:13:21Z",
+      "published_lt": "2026-11-19 18:13 UTC",
+      "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-20-05-13-best-agent-gateways-in-2026-for-mcp-a2a-and-llm-traff.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.",
+        "Kaina: Labiau panasu i mokama sprendima."
+      ],
+      "practical": {
+        "kaina": "Labiau panasu i mokama sprendima.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
+        "try_url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/"
+      }
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "published_iso": "2026-11-19T18:00:00Z",
+      "published_lt": "2026-11-19 18:00 UTC",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-11-20-06-introducing-tool-retrieval-in-the-gemini-api.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261117-1738",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261117-1738"
+      }
+    },
+    {
+      "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
+      "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
+      "published_iso": "2026-11-19T17:47:00Z",
+      "published_lt": "2026-11-19 17:47 UTC",
+      "summary": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-20-07-perplexity-launches-orchestrator-api-for-failover-and-mo.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Prieinama kaip beta/preview."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each re...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Prieinama kaip beta/preview.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "published_iso": "2026-11-19T17:00:00Z",
+      "published_lt": "2026-11-19 17:00 UTC",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age.",
+      "source": "AI",
+      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
+      "image_url": "generated-images/2026-11-20-08-walter-isaacson-on-curiosity-and-creativity-in-the-ai-ag.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age.",
+        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261117-1738",
+        "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261117-1738"
       }
     },
     {
@@ -40,22 +229,24 @@
       "summary": "AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-19-02-not-if-but-how-responding-to-security-incidents-in-the-a.svg",
+      "image_url": "generated-images/2026-11-20-09-not-if-but-how-responding-to-security-incidents-in-the-a.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "AI-powered attackers are driving more frequent attacks on AI infrastructure.",
-        "This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue."
+        "This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
       ],
       "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
+        "kaina": "Yra nemokamas ir mokamas variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
         "online_limitai": "Neaptikta siame saltinyje.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
-        "try_url": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
     },
     {
@@ -63,14 +254,14 @@
       "link": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
       "published_iso": "2026-11-19T09:26:19Z",
       "published_lt": "2026-11-19 09:26 UTC",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome 2paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Interview with creator Dr.",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Interview with creator Dr.",
       "source": "Two Minute Papers",
       "source_image_url": "https://i4.ytimg.com/vi/Cy7Wz6Z4TWU/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-19-03-deepmind-just-released-the-best-thing-ai-ever-did.svg",
+      "image_url": "generated-images/2026-11-20-10-deepmind-just-released-the-best-thing-ai-ever-did.svg",
       "kind": "video",
       "video_id": "Cy7Wz6Z4TWU",
       "bullets_lt": [
-        "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome 2paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Interview with creator Dr.",
+        "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Interview with creator Dr.",
         "Veikimo budas: Veikia tiek online, tiek lokaliai.",
         "Prieinamumas: Prieinama kaip beta/preview."
       ],
@@ -93,50 +284,26 @@
       "summary": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost .",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-19-04-google-deepmind-releases-gemini-4-neon-1m-context-1-on-a.svg",
+      "image_url": "generated-images/2026-11-20-11-google-deepmind-releases-gemini-4-neon-1m-context-1-on-a.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens.",
         "It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index.",
         "The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost .",
-        "Kaina: Labiau panasu i mokama sprendima.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
         "Prieinamumas: Panasu, kad jau galima bandyti."
       ],
       "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "$3/, $15 per",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$3/, $15 per, $3 per",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
         "online_limitai": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
-        "try_url": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/"
-      }
-    },
-    {
-      "title": "GPT 6.2 Astra is out!",
-      "link": "https://www.youtube.com/watch?v=rYsIpPP6QY4",
-      "published_iso": "2026-11-19T03:26:49Z",
-      "published_lt": "2026-11-19 03:26 UTC",
-      "summary": "#ai #ainews #aitools #llm #agi #singularity Thanks to our sponsor Higgsfield.",
-      "source": "AI Search",
-      "source_image_url": "https://i3.ytimg.com/vi/rYsIpPP6QY4/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-19-05-gpt-6-2-astra-is-out.svg",
-      "kind": "video",
-      "video_id": "rYsIpPP6QY4",
-      "bullets_lt": [
-        "#ai #ainews #aitools #llm #agi #singularity Thanks to our sponsor Higgsfield."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=rYsIpPP6QY4",
-        "try_url": "https://www.youtube.com/watch?v=rYsIpPP6QY4"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
     },
     {
@@ -147,7 +314,7 @@
       "summary": "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code.",
       "source": "MarkTechPost",
       "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/11/image-2-150x150.png",
-      "image_url": "generated-images/2026-11-19-06-nutrient-data-extraction-api-json-matching-your-schema-w.svg",
+      "image_url": "generated-images/2026-11-20-12-nutrient-data-extraction-api-json-matching-your-schema-w.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -164,176 +331,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
         "try_url": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/"
-      }
-    },
-    {
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "published_iso": "2026-11-18T17:00:00Z",
-      "published_lt": "2026-11-18 17:00 UTC",
-      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-11-19-07-the-gemini-app-is-now-available-on-lower-memory-android-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "The Google Gemini app now supports lower-memory Android devices.",
-        "Access Gemini Live and custom image creation on your phone.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-        "try_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
-      }
-    },
-    {
-      "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
-      "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
-      "published_iso": "2026-11-18T16:07:50Z",
-      "published_lt": "2026-11-18 16:07 UTC",
-      "summary": "Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent. It lifts SWE-bench Pro hard-51 pass@1 from 39.2% to 64.7% and Terminal-Bench 2.1 from 39.5% to 55.8%.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-19-08-new-lora-adapter-lifts-qwen3-8-coding-success-from-39-to.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Hugging Face released Qwen3.8-27B-pi-adapted, an Apache-2.0 LoRA adapter trained with reinforcement learning for the pi coding agent.",
-        "It lifts SWE-bench Pro hard-51 pass@1 from 39.2% to 64.7% and Terminal-Bench 2.1 from 39.5% to 55.8%.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
-      "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
-      "published_iso": "2026-11-18T07:10:53Z",
-      "published_lt": "2026-11-18 07:10 UTC",
-      "summary": "SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-19-09-sid-ai-releases-sid-2-agentic-search-model-with-0-720-nd.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "SID AI released SID-2, an agentic search model trained with reinforcement learning.",
-        "A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
-      "link": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
-      "published_iso": "2026-11-18T06:53:28Z",
-      "published_lt": "2026-11-18 06:53 UTC",
-      "summary": "Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-19-10-anthropic-adds-code-mode-to-claude-code-claude-now-chain.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Anthropic has added Code Mode to Claude Code v2.1.323.",
-        "The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
-        "try_url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/"
-      }
-    },
-    {
-      "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
-      "link": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
-      "published_iso": "2026-11-17T22:52:04Z",
-      "published_lt": "2026-11-17 22:52 UTC",
-      "summary": "Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work. The post Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work appeared first on MarkTechPost .",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-19-11-perplexity-computer-adds-multiagent-up-to-16-ai-agents-t.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work.",
-        "The post Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work appeared first on MarkTechPost .",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
-      "link": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
-      "published_iso": "2026-11-17T22:07:30Z",
-      "published_lt": "2026-11-17 22:07 UTC",
-      "summary": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index. The post OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API appeared first on MarkTechPost .",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-19-12-openai-releases-gpt-6-2-astra-and-sol-with-a-20-cheaper-.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026.",
-        "Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index.",
-        "The post OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API appeared first on MarkTechPost .",
-        "Kaina: Labiau panasu i mokama sprendima.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API).",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
-        "kainos_detales": "$8/, $40 per",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
-        "try_url": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/"
       }
     }
   ]
