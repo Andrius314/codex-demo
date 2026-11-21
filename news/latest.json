@@ -1,10 +1,156 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-11-20",
-  "generated_at_utc": "2026-11-20T15:52:02Z",
+  "digest_date": "2026-11-21",
+  "generated_at_utc": "2026-11-21T15:01:23Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
+    {
+      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "published_iso": "2026-11-21T12:13:50Z",
+      "published_lt": "2026-11-21 12:13 UTC",
+      "summary": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-21-01-meet-thinking-machines-inkling-2-mini-26b-looped-moe-run.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters.",
+        "It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified.",
+        "The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTechPost .",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+      "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+      "published_iso": "2026-11-21T11:46:17Z",
+      "published_lt": "2026-11-21 11:46 UTC",
+      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-21-02-openai-ships-gpt-live-1-1-for-voice-agents-cuts-idle-cos.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "OpenAI has released GPT-Live-1.1 in the API.",
+        "The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.",
+        "The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost .",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "$0.02 per, $0.05, $0.02/",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Instructions can run up to 16,384 tokens.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+      "link": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+      "published_iso": "2026-11-21T04:01:04Z",
+      "published_lt": "2026-11-21 04:01 UTC",
+      "summary": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input. The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-21-03-baseten-releases-bison-1-and-groundhog-1-topping-decisio.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4.",
+        "bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input.",
+        "The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPost .",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Both models raise context from 16k to 128k tokens and accept images.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "How to claim your business in ChatGPT with Shopify",
+      "link": "https://www.youtube.com/watch?v=mX7wHNnsghs",
+      "published_iso": "2026-11-20T20:48:27Z",
+      "published_lt": "2026-11-20 20:48 UTC",
+      "summary": "Claim your business in ChatGPT by connecting your Shopify store. This demo shows how to start in Business Hub or the Shopify App Store, then connect your store directly to ChatGPT. After that, you can manage your business information to shape how you show up in ChatGPT.",
+      "source": "OpenAI",
+      "source_image_url": "https://i2.ytimg.com/vi/mX7wHNnsghs/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-21-04-how-to-claim-your-business-in-chatgpt-with-shopify.svg",
+      "kind": "video",
+      "video_id": "mX7wHNnsghs",
+      "bullets_lt": [
+        "Claim your business in ChatGPT by connecting your Shopify store.",
+        "This demo shows how to start in Business Hub or the Shopify App Store, then connect your store directly to ChatGPT.",
+        "After that, you can manage your business information to shape how you show up in ChatGPT."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=mX7wHNnsghs",
+        "try_url": "https://www.youtube.com/watch?v=mX7wHNnsghs"
+      }
+    },
+    {
+      "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+      "link": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+      "published_iso": "2026-11-20T17:42:29Z",
+      "published_lt": "2026-11-20 17:42 UTC",
+      "summary": "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-21-05-radixark-ships-daisyrose-27b-a-27b-agentic-coding-model-.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only.",
+        "It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Each sandbox attempt allows up to 1.5 hours, 100+ tool calls and 256k+ output tokens.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
     {
       "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
       "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
@@ -13,7 +159,7 @@
       "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-20-01-nvidia-ai-releases-nemotron-labs-sigma-a-continuous-diff.svg",
+      "image_url": "generated-images/2026-11-21-06-nvidia-ai-releases-nemotron-labs-sigma-a-continuous-diff.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -35,40 +181,14 @@
       }
     },
     {
-      "title": "Create and Share a Dashboard in ChatGPT",
-      "link": "https://www.youtube.com/watch?v=OSHSopaYjTw",
-      "published_iso": "2026-11-20T06:07:50Z",
-      "published_lt": "2026-11-20 06:07 UTC",
-      "summary": "Turn your analysis into a dashboard your team can use. Building on the fictional Acme sales example, this walkthrough brings quarterly metrics and customer follow-ups into one view.",
-      "source": "OpenAI",
-      "source_image_url": "https://i4.ytimg.com/vi/OSHSopaYjTw/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-20-02-create-and-share-a-dashboard-in-chatgpt.svg",
-      "kind": "video",
-      "video_id": "OSHSopaYjTw",
-      "bullets_lt": [
-        "Turn your analysis into a dashboard your team can use.",
-        "Building on the fictional Acme sales example, this walkthrough brings quarterly metrics and customer follow-ups into one view."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=OSHSopaYjTw",
-        "try_url": "https://www.youtube.com/watch?v=OSHSopaYjTw"
-      }
-    },
-    {
-      "title": "Gemini 4 Neon is ON FIRE!",
+      "title": "Gemini 4 Neon is on fire!",
       "link": "https://www.youtube.com/watch?v=3FE-hBh1rsY",
       "published_iso": "2026-11-20T03:26:03Z",
       "published_lt": "2026-11-20 03:26 UTC",
       "summary": "#ai #aitools #ainews #llm #agi #singularity. Thanks to our sponsor Luma.",
       "source": "AI Search",
       "source_image_url": "https://i4.ytimg.com/vi/3FE-hBh1rsY/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-20-03-gemini-4-neon-is-on-fire.svg",
+      "image_url": "generated-images/2026-11-21-07-gemini-4-neon-is-on-fire.svg",
       "kind": "video",
       "video_id": "3FE-hBh1rsY",
       "bullets_lt": [
@@ -94,7 +214,7 @@
       "summary": "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for the best hand-written harness on Continual Learning Bench.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-20-04-meta-fair-self-improving-memory-hits-56-0-on-continual-l.svg",
+      "image_url": "generated-images/2026-11-21-08-meta-fair-self-improving-memory-hits-56-0-on-continual-l.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -122,22 +242,23 @@
       "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-20-05-13-best-agent-gateways-in-2026-for-mcp-a2a-and-llm-traff.svg",
+      "image_url": "generated-images/2026-11-21-09-13-best-agent-gateways-in-2026-for-mcp-a2a-and-llm-traff.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
         "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.",
-        "Kaina: Labiau panasu i mokama sprendima."
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
       ],
       "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
+        "kaina": "Yra nemokamas ir mokamas variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "A plain LLM gateway only routes model requests.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
-        "try_url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/"
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
     },
     {
@@ -148,7 +269,7 @@
       "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-11-20-06-introducing-tool-retrieval-in-the-gemini-api.svg",
+      "image_url": "generated-images/2026-11-21-10-introducing-tool-retrieval-in-the-gemini-api.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -175,7 +296,7 @@
       "summary": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-20-07-perplexity-launches-orchestrator-api-for-failover-and-mo.svg",
+      "image_url": "generated-images/2026-11-21-11-perplexity-launches-orchestrator-api-for-failover-and-mo.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -203,7 +324,7 @@
       "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-11-20-08-walter-isaacson-on-curiosity-and-creativity-in-the-ai-ag.svg",
+      "image_url": "generated-images/2026-11-21-12-walter-isaacson-on-curiosity-and-creativity-in-the-ai-ag.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
@@ -219,118 +340,6 @@
         "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261117-1738",
         "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261117-1738"
-      }
-    },
-    {
-      "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
-      "link": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
-      "published_iso": "2026-11-19T10:45:57Z",
-      "published_lt": "2026-11-19 10:45 UTC",
-      "summary": "AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-20-09-not-if-but-how-responding-to-security-incidents-in-the-a.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "AI-powered attackers are driving more frequent attacks on AI infrastructure.",
-        "This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "DeepMind Just Released The Best Thing AI Ever Did",
-      "link": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
-      "published_iso": "2026-11-19T09:26:19Z",
-      "published_lt": "2026-11-19 09:26 UTC",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Interview with creator Dr.",
-      "source": "Two Minute Papers",
-      "source_image_url": "https://i4.ytimg.com/vi/Cy7Wz6Z4TWU/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-20-10-deepmind-just-released-the-best-thing-ai-ever-did.svg",
-      "kind": "video",
-      "video_id": "Cy7Wz6Z4TWU",
-      "bullets_lt": [
-        "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Interview with creator Dr.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
-        "Prieinamumas: Prieinama kaip beta/preview."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
-        "try_url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU"
-      }
-    },
-    {
-      "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
-      "link": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
-      "published_iso": "2026-11-19T06:52:26Z",
-      "published_lt": "2026-11-19 06:52 UTC",
-      "summary": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost .",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-20-11-google-deepmind-releases-gemini-4-neon-1m-context-1-on-a.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens.",
-        "It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index.",
-        "The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost .",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
-        "Prieinamumas: Panasu, kad jau galima bandyti."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$3/, $15 per, $3 per",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
-      "link": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
-      "published_iso": "2026-11-19T03:23:50Z",
-      "published_lt": "2026-11-19 03:23 UTC",
-      "summary": "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code.",
-      "source": "MarkTechPost",
-      "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/11/image-2-150x150.png",
-      "image_url": "generated-images/2026-11-20-12-nutrient-data-extraction-api-json-matching-your-schema-w.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema.",
-        "Fields carry page, region and match-label citations, and Studio lets teams test before writing code.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
-        "try_url": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/"
       }
     }
   ]
