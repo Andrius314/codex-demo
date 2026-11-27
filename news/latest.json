@@ -1,24 +1,161 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "digest_date": "2026-11-26",
-  "generated_at_utc": "2026-11-26T17:28:05Z",
+  "digest_date": "2026-11-27",
+  "generated_at_utc": "2026-11-27T17:06:44Z",
   "translate_to_lt": true,
   "image_mode": "generated",
   "items": [
     {
-      "title": "Jūs turėjote mus „Deployed“.",
+      "title": "DeepMind’s New AI Just Changed The AI Race",
+      "link": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+      "published_iso": "2026-11-27T08:42:30Z",
+      "published_lt": "2026-11-27 08:42 UTC",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Sources: - https://x.com/PromptLLM/status/2124894800654504419 - https://x.com/thebuggeddev/status/212317082125",
+      "source": "Two Minute Papers",
+      "source_image_url": "https://i2.ytimg.com/vi/u6UYsl-KEoc/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-27-01-deepmind-s-new-ai-just-changed-the-ai-race.svg",
+      "kind": "video",
+      "video_id": "u6UYsl-KEoc",
+      "bullets_lt": [
+        "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Sources: - https://x.com/PromptLLM/status/2124894800654504419 - https://x.com/thebuggeddev/status/212317082125.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=u6UYsl-KEoc",
+        "try_url": "https://www.youtube.com/watch?v=u6UYsl-KEoc"
+      }
+    },
+    {
+      "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+      "link": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+      "published_iso": "2026-11-27T03:43:35Z",
+      "published_lt": "2026-11-27 03:43 UTC",
+      "summary": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-27-02-nexos-ai-ai-adoption-platform-puts-200-models-behind-one.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost .",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai."
+      ],
+      "practical": {
+        "kaina": "Yra nemokamas ir mokamas variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and go...",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+      "link": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+      "published_iso": "2026-11-27T03:31:30Z",
+      "published_lt": "2026-11-27 03:31 UTC",
+      "summary": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%.",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-27-03-tencent-open-sources-dfly2-speculative-decoding-that-reu.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs.",
+        "Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%.",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Speculative decoding uses a small drafter to propose tokens.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "Google cracks recursive self improvement",
+      "link": "https://www.youtube.com/watch?v=YOsQULgqgNA",
+      "published_iso": "2026-11-27T03:21:08Z",
+      "published_lt": "2026-11-27 03:21 UTC",
+      "summary": "Google’s new breakthrough on continual recursive self improvement. Thanks to our sponsor Higgsfield.",
+      "source": "AI Search",
+      "source_image_url": "https://i2.ytimg.com/vi/YOsQULgqgNA/hqdefault.jpg",
+      "image_url": "generated-images/2026-11-27-04-google-cracks-recursive-self-improvement.svg",
+      "kind": "video",
+      "video_id": "YOsQULgqgNA",
+      "bullets_lt": [
+        "Google’s new breakthrough on continual recursive self improvement.",
+        "Thanks to our sponsor Higgsfield."
+      ],
+      "practical": {
+        "kaina": "Neaptikta siame saltinyje.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Neaptikta siame saltinyje.",
+        "online_limitai": "Neaptikta siame saltinyje.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Neaptikta siame saltinyje.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=YOsQULgqgNA",
+        "try_url": "https://www.youtube.com/watch?v=YOsQULgqgNA"
+      }
+    },
+    {
+      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+      "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+      "published_iso": "2026-11-26T22:06:40Z",
+      "published_lt": "2026-11-26 22:06 UTC",
+      "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .",
+      "source": "MarkTechPost",
+      "source_image_url": "",
+      "image_url": "generated-images/2026-11-27-05-sakana-ai-releases-namazu-small-a-30b-model-built-on-nem.svg",
+      "kind": "article",
+      "video_id": "",
+      "bullets_lt": [
+        "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano.",
+        "It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2.",
+        "The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .",
+        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+        "Veikimo budas: Veikia tiek online, tiek lokaliai.",
+        "Prieinamumas: Panasu, kad jau galima bandyti."
+      ],
+      "practical": {
+        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+        "kainos_detales": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+        "online_limitai": "NVIDIA lists it at 30B total and 3B active parameters , with context up to 1M tokens.",
+        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+        "prieinamumas": "Panasu, kad jau galima bandyti.",
+        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+      }
+    },
+    {
+      "title": "You had us at Deployed",
       "link": "https://www.youtube.com/watch?v=C6DENY3rgqg",
       "published_iso": "2026-11-25T23:50:43Z",
       "published_lt": "2026-11-25 23:50 UTC",
-      "summary": "❤️ Esame dėkingi savo klientams ir viskam, ką kuriame kartu. Dėkojame, kad pasitikite mumis ir dalinatės tuo, ką išmokote.",
+      "summary": "❤️ We’re thankful for our customers and everything we’re building together. Thank you for trusting us and sharing what you’re learning along the way.",
       "source": "OpenAI",
       "source_image_url": "https://i4.ytimg.com/vi/C6DENY3rgqg/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-26-01-jus-turejote-mus-deployed.svg",
+      "image_url": "generated-images/2026-11-27-06-you-had-us-at-deployed.svg",
       "kind": "video",
       "video_id": "C6DENY3rgqg",
       "bullets_lt": [
-        "❤️ Esame dėkingi savo klientams ir viskam, ką kuriame kartu.",
-        "Dėkojame, kad pasitikite mumis ir dalinatės tuo, ką išmokote."
+        "❤️ We’re thankful for our customers and everything we’re building together.",
+        "Thank you for trusting us and sharing what you’re learning along the way."
       ],
       "practical": {
         "kaina": "Neaptikta siame saltinyje.",
@@ -32,45 +169,19 @@
       }
     },
     {
-      "title": "Didžiausias Claude AI matematikos proveržis turi problemų.",
-      "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
-      "published_iso": "2026-11-25T09:54:23Z",
-      "published_lt": "2026-11-25 09:54 UTC",
-      "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.com/papers 📝 Straipsnį rasite čia: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.pdf Suspaudimas ir kūrimas viešai: https://x.com/altryne/status/2124585496013926707 https://x.com/slimer48484/status/",
-      "source": "Two Minute Papers",
-      "source_image_url": "https://i1.ytimg.com/vi/hwWlEuI359w/hqdefault.jpg",
-      "image_url": "generated-images/2026-11-26-02-didziausias-claude-ai-matematikos-proverzis-turi-problem.svg",
-      "kind": "video",
-      "video_id": "hwWlEuI359w",
-      "bullets_lt": [
-        "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.com/papers 📝 Straipsnį rasite čia: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.pdf Suspaudimas ir kūrimas viešai: https://x.com/altryne/status/2124585496013926707 https://x.com/slimer48484/status/.",
-        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=hwWlEuI359w",
-        "try_url": "https://www.youtube.com/watch?v=hwWlEuI359w"
-      }
-    },
-    {
-      "title": "„ByteDance Researchers Open-Sources Laminar“, asinchroninio sustiprinimo mokymosi RL post-training sistema",
+      "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
       "link": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
       "published_iso": "2026-11-25T05:42:05Z",
       "published_lt": "2026-11-25 05:42 UTC",
-      "summary": "„Laminar“ yra atvirojo kodo asinchroninė RL sistema po treniruotės, sukurta HKU ir „ByteDance Seed“ tyrėjų. Jis atsieja treniruočių, treniruočių ir svorio sinchronizavimą ir padidino Qwen3-Coder-30B-A3B iki 52,2 % SWE-bench Verified.",
+      "summary": "Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-26-03-bytedance-researchers-open-sources-laminar-asinchroninio.svg",
+      "image_url": "generated-images/2026-11-27-07-bytedance-researchers-open-sources-laminar-an-async-rein.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Laminar“ yra atvirojo kodo asinchroninė RL sistema po treniruotės, sukurta HKU ir „ByteDance Seed“ tyrėjų.",
-        "Jis atsieja treniruočių, treniruočių ir svorio sinchronizavimą ir padidino Qwen3-Coder-30B-A3B iki 52,2 % SWE-bench Verified.",
+        "Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers.",
+        "It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
         "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
         "Prieinamumas: Panasu, kad jau galima bandyti."
@@ -87,18 +198,18 @@
       }
     },
     {
-      "title": "Susipažinkite su „Facebook“ savo algoritmu: kaip „Meta“ paprastos kalbos nuostatas paverčia reitingu",
+      "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
       "link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
       "published_iso": "2026-11-24T23:06:17Z",
       "published_lt": "2026-11-24 23:06 UTC",
-      "summary": "„Meta“ inžinierių komanda paaiškina, kaip „Facebook“ jūsų algoritmas paprastosios kalbos pomėgius paverčia sklaidos kanalo ir ritinių reitingavimo signalais, naudodamas LLM patvirtinimą, 4 paieškos šaltinius, sluoksniuotą filtravimą ir tiksliai sureguliuotą LLM pervertinimo priemonę.",
+      "summary": "Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-26-04-susipazinkite-su-facebook-savo-algoritmu-kaip-meta-papra.svg",
+      "image_url": "generated-images/2026-11-27-08-meet-facebook-s-your-algorithm-how-meta-turns-plain-lang.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Meta“ inžinierių komanda paaiškina, kaip „Facebook“ jūsų algoritmas paprastosios kalbos pomėgius paverčia sklaidos kanalo ir ritinių reitingavimo signalais, naudodamas LLM patvirtinimą, 4 paieškos šaltinius, sluoksniuotą filtravimą ir tiksliai sureguliuotą LLM pervertinimo priemonę.",
+        "Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker.",
         "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
         "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
       ],
@@ -114,18 +225,18 @@
       }
     },
     {
-      "title": "Kaip Dvyniai keičia žaidimą Golden State organizacijai ir gerbėjams.",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
       "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
       "published_iso": "2026-11-24T16:00:00Z",
       "published_lt": "2026-11-24 16:00 UTC",
-      "summary": "„Google Gemini“ bendradarbiauja su Golden State, kad pagerintų gerbėjų patirtį ir verslo operacijas „Warriors“, „Valkyries“ ir „Chase Center“.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center.",
       "source": "AI",
       "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-11-26-05-kaip-dvyniai-keicia-zaidima-golden-state-organizacijai-i.svg",
+      "image_url": "generated-images/2026-11-27-09-how-gemini-is-changing-the-game-for-golden-state-s-organ.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Google Gemini“ bendradarbiauja su Golden State, kad pagerintų gerbėjų patirtį ir verslo operacijas „Warriors“, „Valkyries“ ir „Chase Center“.",
+        "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center.",
         "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
       ],
       "practical": {
@@ -140,19 +251,19 @@
       }
     },
     {
-      "title": "„OpenAI“ ir „Cisco“ išleidžia „Shirudo“: atvirojo kodo „Linux“ vykdymo laiką, leidžiantį agentams apginti sistemas be prastovos",
+      "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
       "link": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
       "published_iso": "2026-11-24T14:16:53Z",
       "published_lt": "2026-11-24 14:16 UTC",
-      "summary": "„OpenAI“ ir „Cisco“ išleido „Shirudo“, išankstinio leidimo, BSD licencijuotą „eBPF“ vykdymo laiką, skirtą „Linux“. AI agentai rašo pasirašytus „skydus“, kurie blokuoja išnaudojimo kelius veikiančiose sistemose, o komandos išbando ir išleidžia tikrus pataisymus.",
+      "summary": "OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed \"shields\" that block exploit paths on running systems while teams test and roll out real patches.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-26-06-openai-ir-cisco-isleidzia-shirudo-atvirojo-kodo-linux-vy.svg",
+      "image_url": "generated-images/2026-11-27-10-openai-and-cisco-releases-shirudo-an-open-source-linux-r.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„OpenAI“ ir „Cisco“ išleido „Shirudo“, išankstinio leidimo, BSD licencijuotą „eBPF“ vykdymo laiką, skirtą „Linux“.",
-        "AI agentai rašo pasirašytus „skydus“, kurie blokuoja išnaudojimo kelius veikiančiose sistemose, o komandos išbando ir išleidžia tikrus pataisymus.",
+        "OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux.",
+        "AI agents write signed \"shields\" that block exploit paths on running systems while teams test and roll out real patches.",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
         "Prieinamumas: Panasu, kad jau galima bandyti."
@@ -161,7 +272,7 @@
         "kaina": "Yra nemokamas ir mokamas variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-        "online_limitai": "Skydai blokuoja pažeidžiamą elgesį, o teisėtų užklausų srautas tęsiasi.",
+        "online_limitai": "Shields block the vulnerable behavior while legitimate requests keep flowing.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Panasu, kad jau galima bandyti.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
@@ -169,48 +280,49 @@
       }
     },
     {
-      "title": "„Anthropic“ pristato „Claude Ship“, skirtą „GitHub Pull“, užklausa peržiūrėti ir pataisyti",
+      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
       "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
       "published_iso": "2026-11-24T00:02:39Z",
       "published_lt": "2026-11-24 00:02 UTC",
-      "summary": "„Anthropic's Claude Ship“ sujungia „Code Review“, „PR Steward“ ir „Claude“ patvirtinimus, kad peržiūrėtų, pataisytų ir patvirtintų „GitHub“ ištraukimo užklausas. Kodo peržiūra yra GA; kiti 2 agentai yra viešosios beta versijos Team ir Enterprise.",
+      "summary": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise.",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-26-07-anthropic-pristato-claude-ship-skirta-github-pull-uzklau.svg",
+      "image_url": "generated-images/2026-11-27-11-anthropic-launches-claude-ship-for-github-pull-request-r.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "„Anthropic's Claude Ship“ sujungia „Code Review“, „PR Steward“ ir „Claude“ patvirtinimus, kad peržiūrėtų, pataisytų ir patvirtintų „GitHub“ ištraukimo užklausas.",
-        "Kodo peržiūra yra GA; kiti 2 agentai yra viešosios beta versijos Team ir Enterprise.",
-        "Kaina: Labiau panasu i mokama sprendima.",
+        "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests.",
+        "Code Review is GA; the other 2 agents are in public beta for Team and Enterprise.",
+        "Kaina: Yra nemokamas ir mokamas variantas.",
+        "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
         "Prieinamumas: Prieinama kaip beta/preview."
       ],
       "practical": {
-        "kaina": "Labiau panasu i mokama sprendima.",
+        "kaina": "Yra nemokamas ir mokamas variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
+        "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+        "online_limitai": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Prieinama kaip beta/preview.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
-        "try_url": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/"
+        "kur_isbandyti": "Galima tikrinti cia: https://code.claude.com/docs/en/code-review",
+        "try_url": "https://code.claude.com/docs/en/code-review"
       }
     },
     {
-      "title": "Z AI išleidžia GLM-5.4: 750B kilpos transformatorių, kuris du kartus veikia 28 sluoksnius",
+      "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
       "link": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
       "published_iso": "2026-11-23T19:11:40Z",
       "published_lt": "2026-11-23 19:11 UTC",
-      "summary": "Z.ai išleido GLM-5.4, savo pirmąjį „Lop Transformer“ flagmaną. 750B mastelio modelis veikia 28 GLM-5 sluoksniais du kartus, kad būtų galima giliau samprotauti, o API prieiga ir atviri svoriai planuojami po saugos darbų. Įrašas Z AI išleido GLM-5.4: 750B kilpos transformatorių, kuris du kartus veikia 28 sluoksnius, pirmą kartą pasirodė MarkTechPost.",
+      "summary": "Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work. The post Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice appeared first on MarkTechPost .",
       "source": "MarkTechPost",
       "source_image_url": "",
-      "image_url": "generated-images/2026-11-26-08-z-ai-isleidzia-glm-5-4-750b-kilpos-transformatoriu-kuris.svg",
+      "image_url": "generated-images/2026-11-27-12-z-ai-releases-glm-5-4-a-750b-loop-transformer-that-runs-.svg",
       "kind": "article",
       "video_id": "",
       "bullets_lt": [
-        "Z.ai išleido GLM-5.4, savo pirmąjį „Lop Transformer“ flagmaną.",
-        "750B mastelio modelis veikia 28 GLM-5 sluoksniais du kartus, kad būtų galima giliau samprotauti, o API prieiga ir atviri svoriai planuojami po saugos darbų.",
-        "Įrašas Z AI išleido GLM-5.4: 750B kilpos transformatorių, kuris du kartus veikia 28 sluoksnius, pirmą kartą pasirodė MarkTechPost.",
+        "Z.ai released GLM-5.4, its first Loop Transformer flagship.",
+        "The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work.",
+        "The post Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice appeared first on MarkTechPost .",
         "Kaina: Yra nemokamas ir mokamas variantas.",
         "Veikimo budas: Veikia tiek online, tiek lokaliai.",
         "Prieinamumas: Panasu, kad jau galima bandyti."
@@ -219,118 +331,9 @@
         "kaina": "Yra nemokamas ir mokamas variantas.",
         "kainos_detales": "Neaptikta siame saltinyje.",
         "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Ant kietesnių žetonų pirmasis ėjimas rašo agresyviau.",
+        "online_limitai": "On harder tokens, the first pass writes more aggressively.",
         "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
         "prieinamumas": "Panasu, kad jau galima bandyti.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
-        "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
-      }
-    },
-    {
-      "title": "Labiau pritaikyta „Google“ paieška, kuri yra unikali jūsų",
-      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "published_iso": "2026-11-23T17:00:00Z",
-      "published_lt": "2026-11-23 17:00 UTC",
-      "summary": "Gaukite naudingesnių paieškos atsakymų saugiai pasirinkę prijungti „Google“ piniginę, Diską ir „Gemini“ programą prie asmeninio intelekto AI režimu.",
-      "source": "AI",
-      "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
-      "image_url": "generated-images/2026-11-26-09-labiau-pritaikyta-google-paieska-kuri-yra-unikali-jusu.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "Gaukite naudingesnių paieškos atsakymų saugiai pasirinkę prijungti „Google“ piniginę, Diską ir „Gemini“ programą prie asmeninio intelekto AI režimu.",
-        "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-        "try_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
-      }
-    },
-    {
-      "title": "27 kibernetinio saugumo sąlygos, skirtos pasiruošti dirbtinio intelekto amžiui",
-      "link": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
-      "published_iso": "2026-11-23T10:40:16Z",
-      "published_lt": "2026-11-23 10:40 UTC",
-      "summary": "DI dabar yra abiejose saugumo kovos pusėse, todėl žodynas pasikeitė. IBM 2026 m. duomenų pažeidimo išlaidų ataskaitoje nustatyta, kad 1 iš 4 kenkėjiškų pažeidimų buvo įgalintas dirbtinis intelektas, ty 56 % daugiau nei per metus.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-26-10-27-kibernetinio-saugumo-salygos-skirtos-pasiruosti-dirbt.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "DI dabar yra abiejose saugumo kovos pusėse, todėl žodynas pasikeitė.",
-        "IBM 2026 m.",
-        "duomenų pažeidimo išlaidų ataskaitoje nustatyta, kad 1 iš 4 kenkėjiškų pažeidimų buvo įgalintas dirbtinis intelektas, ty 56 % daugiau nei per metus.",
-        "Kaina: Yra nemokamas ir mokamas variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Yra nemokamas ir mokamas variantas.",
-        "kainos_detales": "$6, $1, $4.99",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications/",
-        "try_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications/"
-      }
-    },
-    {
-      "title": "„Architect Labs“ pristato „Frostbite“ – interakcijos tinklo procesorių, kurį sukūrė AI",
-      "link": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
-      "published_iso": "2026-11-23T10:05:47Z",
-      "published_lt": "2026-11-23 10:05 UTC",
-      "summary": "„Architect Labs“ pristatė „Frostbite“ – dirbtinio intelekto sukurtą procesorių, kuris aparatinėje įrangoje valdo sąveikos tinklus. Agentai perėjo nuo teorijos prie 7 nm GDS, o išankstiniai silicio bandymai rodo 4,59 karto didesnį našumą vienam vatui, palyginti su eilės šerdimi.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-26-11-architect-labs-pristato-frostbite-interakcijos-tinklo-pr.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Architect Labs“ pristatė „Frostbite“ – dirbtinio intelekto sukurtą procesorių, kuris aparatinėje įrangoje valdo sąveikos tinklus.",
-        "Agentai perėjo nuo teorijos prie 7 nm GDS, o išankstiniai silicio bandymai rodo 4,59 karto didesnį našumą vienam vatui, palyginti su eilės šerdimi."
-      ],
-      "practical": {
-        "kaina": "Neaptikta siame saltinyje.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Neaptikta siame saltinyje.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-        "prieinamumas": "Neaptikta siame saltinyje.",
-        "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
-        "try_url": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/"
-      }
-    },
-    {
-      "title": "„Meta TLX“ suteikia „Warp-Group GPU“ valdymą „Triton“ Hopper, Blackwell, AMD",
-      "link": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
-      "published_iso": "2026-11-23T08:24:57Z",
-      "published_lt": "2026-11-23 08:24 UTC",
-      "summary": "„Meta“ turi išsamią TLX, savo „Triton“ žemo lygio plėtinius, kurie „Python Triton“ branduoliams prideda deformacijos grupę, barjerą, TMA ir klasterių valdymą. Jis paleidžia „Meta“ skelbimus ir LLM darbo krūvius „Hopper“, „Blackwell“ ir AMD MI350 GPU.",
-      "source": "MarkTechPost",
-      "source_image_url": "",
-      "image_url": "generated-images/2026-11-26-12-meta-tlx-suteikia-warp-group-gpu-valdyma-triton-hopper-b.svg",
-      "kind": "article",
-      "video_id": "",
-      "bullets_lt": [
-        "„Meta“ turi išsamią TLX, savo „Triton“ žemo lygio plėtinius, kurie „Python Triton“ branduoliams prideda deformacijos grupę, barjerą, TMA ir klasterių valdymą.",
-        "Jis paleidžia „Meta“ skelbimus ir LLM darbo krūvius „Hopper“, „Blackwell“ ir AMD MI350 GPU.",
-        "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
-        "Veikimo budas: Veikia tiek online, tiek lokaliai."
-      ],
-      "practical": {
-        "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
-        "kainos_detales": "Neaptikta siame saltinyje.",
-        "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
-        "online_limitai": "Neaptikta siame saltinyje.",
-        "lokalus_reikalavimai": "Aptikta: CUDA",
-        "prieinamumas": "Neaptikta siame saltinyje.",
         "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
         "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
       }
