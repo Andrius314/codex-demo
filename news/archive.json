@@ -1,7 +1,345 @@
 {
   "topic_lt": "Dirbtinis intelektas ir technologijos",
-  "updated_at_utc": "2026-11-27T17:06:44Z",
+  "updated_at_utc": "2026-11-28T15:54:56Z",
   "digests": [
+    {
+      "digest_date": "2026-11-28",
+      "generated_at_utc": "2026-11-28T15:54:56Z",
+      "item_count": 12,
+      "items": [
+        {
+          "title": "„Ant Group“ išleido „LingSante-3.1-flash“: atviro svorio „MoE“ modelį su 560 B iš viso parametrų ir 25 B aktyvinimų kiekvienam žetonui",
+          "link": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+          "published_iso": "2026-11-28T09:45:33Z",
+          "published_lt": "2026-11-28 09:45 UTC",
+          "summary": "Ant Group Afu komanda atviro kodo LingSante-3.1-flash, 560B parametrų MoE medicinos AI modelis su 25B aktyviais parametrais, 1M žetono kontekstu ir MIT licencija. Jis užima pirmąją vietą tarp atvirų modelių InclusionMed.",
+          "source": "MarkTechPost",
+          "source_image_url": "https://www.marktechpost.com/wp-content/uploads/2026/11/image-150x150.jpeg",
+          "image_url": "generated-images/2026-11-28-01-ant-group-isleido-lingsante-3-1-flash-atviro-svorio-moe-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Ant Group Afu komanda atviro kodo LingSante-3.1-flash, 560B parametrų MoE medicinos AI modelis su 25B aktyviais parametrais, 1M žetono kontekstu ir MIT licencija.",
+            "Jis užima pirmąją vietą tarp atvirų modelių InclusionMed.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Naujasis „DeepMind“ AI ką tik pakeitė AI lenktynes",
+          "link": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+          "published_iso": "2026-11-27T08:42:30Z",
+          "published_lt": "2026-11-27 08:42 UTC",
+          "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.com/papers 📝 Saugos ataskaitą rasite čia: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Šaltiniai: - https://x.com/PromptLLM/status/2124894800654504419 – https://x.com/thebuggeddev/status/212317082125",
+          "source": "Two Minute Papers",
+          "source_image_url": "https://i2.ytimg.com/vi/u6UYsl-KEoc/hqdefault.jpg",
+          "image_url": "generated-images/2026-11-28-02-naujasis-deepmind-ai-ka-tik-pakeite-ai-lenktynes.svg",
+          "kind": "video",
+          "video_id": "u6UYsl-KEoc",
+          "bullets_lt": [
+            "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.com/papers 📝 Saugos ataskaitą rasite čia: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Šaltiniai: - https://x.com/PromptLLM/status/2124894800654504419 – https://x.com/thebuggeddev/status/212317082125.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=u6UYsl-KEoc",
+            "try_url": "https://www.youtube.com/watch?v=u6UYsl-KEoc"
+          }
+        },
+        {
+          "title": "Nexos.ai AI pritaikymo platforma suteikia daugiau nei 200 modelių po vienu AI šliuzu su biudžeto apribojimais ir integruotu valdymu",
+          "link": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+          "published_iso": "2026-11-27T03:43:35Z",
+          "published_lt": "2026-11-27 03:43 UTC",
+          "summary": "Nexos.ai AI priėmimo platforma pateikia 200 ir daugiau modelių už vieno AI šliuzo, su biudžeto ribomis ir integruotu valdymu. Post nexos.ai AI pritaikymo platforma suteikia daugiau nei 200 modelių už vieną AI šliuzą su biudžeto apribojimais ir valdymu, pirmą kartą pasirodė MarkTechPost .",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-28-03-nexos-ai-ai-pritaikymo-platforma-suteikia-daugiau-nei-20.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Nexos.ai AI priėmimo platforma pateikia 200 ir daugiau modelių už vieno AI šliuzo, su biudžeto ribomis ir integruotu valdymu.",
+            "Post nexos.ai AI pritaikymo platforma suteikia daugiau nei 200 modelių už vieną AI šliuzą su biudžeto apribojimais ir valdymu, pirmą kartą pasirodė MarkTechPost .",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "Redaktoriai renkasi Agentišką AI Dirbtinio intelekto AI infrastruktūros technologiją AI Shorts Programos Įmonių AI kūrėjams Kalbos modelis Didelių kalbų modelis Mašininis mokymasis Nauji leidimai Reklamuoja remiamus d...",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Tencent atvirojo kodo DFly2: spekuliacinis dekodavimas, kuris pakartotinai naudoja taikinio nedidelę KV talpyklą",
+          "link": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+          "published_iso": "2026-11-27T03:31:30Z",
+          "published_lt": "2026-11-27 03:31 UTC",
+          "summary": "Tencent atvirojo kodo DFly2, spekuliatyvus dekodavimo rengėjas, skirtas mažai dėmesio skiriantiems LLM. Kiekvienas juodraščio sluoksnis pakartotinai naudoja tikslo KV talpyklą ir geriausius k indeksavimo elementus, nepridedamas juodraščio KV atminties ir padidindamas 64K aptarnavimo pralaidumą iki 81%.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-28-04-tencent-atvirojo-kodo-dfly2-spekuliacinis-dekodavimas-ku.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "Tencent atvirojo kodo DFly2, spekuliatyvus dekodavimo rengėjas, skirtas mažai dėmesio skiriantiems LLM.",
+            "Kiekvienas juodraščio sluoksnis pakartotinai naudoja tikslo KV talpyklą ir geriausius k indeksavimo elementus, nepridedamas juodraščio KV atminties ir padidindamas 64K aptarnavimo pralaidumą iki 81%.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Spekuliacinis dekodavimas naudoja nedidelį braižytoją, kad pasiūlytų žetonus.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„Google“ nulaužia rekursinį savęs tobulinimą",
+          "link": "https://www.youtube.com/watch?v=YOsQULgqgNA",
+          "published_iso": "2026-11-27T03:21:08Z",
+          "published_lt": "2026-11-27 03:21 UTC",
+          "summary": "Naujas „Google“ laimėjimas nuolatinio pasikartojančio savęs tobulinimo srityje. Ačiū mūsų rėmėjui Higgsfield.",
+          "source": "AI Search",
+          "source_image_url": "https://i2.ytimg.com/vi/YOsQULgqgNA/hqdefault.jpg",
+          "image_url": "generated-images/2026-11-28-05-google-nulauzia-rekursini-saves-tobulinima.svg",
+          "kind": "video",
+          "video_id": "YOsQULgqgNA",
+          "bullets_lt": [
+            "Naujas „Google“ laimėjimas nuolatinio pasikartojančio savęs tobulinimo srityje.",
+            "Ačiū mūsų rėmėjui Higgsfield."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=YOsQULgqgNA",
+            "try_url": "https://www.youtube.com/watch?v=YOsQULgqgNA"
+          }
+        },
+        {
+          "title": "„Sakana AI“ išleido „Namazu Small“, 30B modelį, pastatytą ant „Nemotron 3 Nano“",
+          "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+          "published_iso": "2026-11-26T22:06:40Z",
+          "published_lt": "2026-11-26 22:06 UTC",
+          "summary": "„Sakana AI“ išleido „Sakana Namazu Small“, 30B-A3B samprotavimo modelį, sukurtą naudojant NVIDIA Nemotron 3 Nano. 25 etalonų vidurkis yra 60,1, o 120B Nemotron 3 Super yra 56,2. Įrašas „Sakana AI“ išleido „Namazu Small“, 30B modelį, pastatytą ant „Nemotron 3 Nano“ appeared first on MarkTechPost.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-28-06-sakana-ai-isleido-namazu-small-30b-modeli-pastatyta-ant-.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Sakana AI“ išleido „Sakana Namazu Small“, 30B-A3B samprotavimo modelį, sukurtą naudojant NVIDIA Nemotron 3 Nano.",
+            "25 etalonų vidurkis yra 60,1, o 120B Nemotron 3 Super yra 56,2.",
+            "Įrašas „Sakana AI“ išleido „Namazu Small“, 30B modelį, pastatytą ant „Nemotron 3 Nano“ appeared first on MarkTechPost.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Veikia tiek online, tiek lokaliai."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Veikia tiek online, tiek lokaliai.",
+            "online_limitai": "NVIDIA pateikia 30 B iš viso ir 3 B aktyvių parametrų, o kontekste yra iki 1 M žetonų.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Jūs turėjote mus „Deployed“.",
+          "link": "https://www.youtube.com/watch?v=C6DENY3rgqg",
+          "published_iso": "2026-11-25T23:50:43Z",
+          "published_lt": "2026-11-25 23:50 UTC",
+          "summary": "❤️ Esame dėkingi savo klientams ir viskam, ką kuriame kartu. Dėkojame, kad pasitikite mumis ir dalinatės tuo, ką išmokote.",
+          "source": "OpenAI",
+          "source_image_url": "https://i4.ytimg.com/vi/C6DENY3rgqg/hqdefault.jpg",
+          "image_url": "generated-images/2026-11-28-07-jus-turejote-mus-deployed.svg",
+          "kind": "video",
+          "video_id": "C6DENY3rgqg",
+          "bullets_lt": [
+            "❤️ Esame dėkingi savo klientams ir viskam, ką kuriame kartu.",
+            "Dėkojame, kad pasitikite mumis ir dalinatės tuo, ką išmokote."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Neaptikta siame saltinyje.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=C6DENY3rgqg",
+            "try_url": "https://www.youtube.com/watch?v=C6DENY3rgqg"
+          }
+        },
+        {
+          "title": "„ByteDance Researchers“ atvirojo kodo laminatas, asinchroninio sustiprinimo mokymosi RL pomokymo sistema",
+          "link": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+          "published_iso": "2026-11-25T05:42:05Z",
+          "published_lt": "2026-11-25 05:42 UTC",
+          "summary": "„Laminar“ yra atvirojo kodo asinchroninė RL sistema po treniruotės, sukurta HKU ir „ByteDance Seed“ tyrėjų. Jis atsieja treniruočių, treniruočių ir svorio sinchronizavimą ir padidino Qwen3-Coder-30B-A3B iki 52,2 % SWE-bench Verified.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-28-08-bytedance-researchers-atvirojo-kodo-laminatas-asinchroni.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Laminar“ yra atvirojo kodo asinchroninė RL sistema po treniruotės, sukurta HKU ir „ByteDance Seed“ tyrėjų.",
+            "Jis atsieja treniruočių, treniruočių ir svorio sinchronizavimą ir padidino Qwen3-Coder-30B-A3B iki 52,2 % SWE-bench Verified.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "Susipažinkite su „Facebook“ savo algoritmu: kaip „Meta“ paprastos kalbos nuostatas paverčia reitingu",
+          "link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+          "published_iso": "2026-11-24T23:06:17Z",
+          "published_lt": "2026-11-24 23:06 UTC",
+          "summary": "„Meta“ inžinierių komanda paaiškina, kaip „Facebook“ jūsų algoritmas paprastosios kalbos pomėgius paverčia sklaidos kanalo ir ritinių reitingavimo signalais, naudodamas LLM patvirtinimą, 4 paieškos šaltinius, sluoksniuotą filtravimą ir tiksliai sureguliuotą LLM pervertinimo priemonę.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-28-09-susipazinkite-su-facebook-savo-algoritmu-kaip-meta-papra.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Meta“ inžinierių komanda paaiškina, kaip „Facebook“ jūsų algoritmas paprastosios kalbos pomėgius paverčia sklaidos kanalo ir ritinių reitingavimo signalais, naudodamas LLM patvirtinimą, 4 paieškos šaltinius, sluoksniuotą filtravimą ir tiksliai sureguliuotą LLM pervertinimo priemonę.",
+            "Kaina: Paminetas nemokamas arba atviro kodo variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
+          ],
+          "practical": {
+            "kaina": "Paminetas nemokamas arba atviro kodo variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+            "try_url": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/"
+          }
+        },
+        {
+          "title": "Kaip Dvyniai keičia žaidimą Golden State organizacijai ir gerbėjams.",
+          "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+          "published_iso": "2026-11-24T16:00:00Z",
+          "published_lt": "2026-11-24 16:00 UTC",
+          "summary": "„Google Gemini“ bendradarbiauja su Golden State, kad pagerintų gerbėjų patirtį ir verslo operacijas „Warriors“, „Valkyries“ ir „Chase Center“.",
+          "source": "AI",
+          "source_image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp",
+          "image_url": "generated-images/2026-11-28-10-kaip-dvyniai-keicia-zaidima-golden-state-organizacijai-i.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Google Gemini“ bendradarbiauja su Golden State, kad pagerintų gerbėjų patirtį ir verslo operacijas „Warriors“, „Valkyries“ ir „Chase Center“.",
+            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
+          ],
+          "practical": {
+            "kaina": "Neaptikta siame saltinyje.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
+            "online_limitai": "Neaptikta siame saltinyje.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Neaptikta siame saltinyje.",
+            "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261117-1738",
+            "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261117-1738"
+          }
+        },
+        {
+          "title": "„OpenAI“ ir „Cisco“ išleidžia „Shirudo“: atvirojo kodo „Linux“ vykdymo laiką, leidžiantį agentams apginti sistemas be prastovos",
+          "link": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
+          "published_iso": "2026-11-24T14:16:53Z",
+          "published_lt": "2026-11-24 14:16 UTC",
+          "summary": "„OpenAI“ ir „Cisco“ išleido „Shirudo“, išankstinio leidimo, BSD licencijuotą „eBPF“ vykdymo laiką, skirtą „Linux“. AI agentai rašo pasirašytus „skydus“, kurie blokuoja išnaudojimo kelius veikiančiose sistemose, o komandos išbando ir išleidžia tikrus pataisymus.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-28-11-openai-ir-cisco-isleidzia-shirudo-atvirojo-kodo-linux-vy.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„OpenAI“ ir „Cisco“ išleido „Shirudo“, išankstinio leidimo, BSD licencijuotą „eBPF“ vykdymo laiką, skirtą „Linux“.",
+            "AI agentai rašo pasirašytus „skydus“, kurie blokuoja išnaudojimo kelius veikiančiose sistemose, o komandos išbando ir išleidžia tikrus pataisymus.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Panasu, kad jau galima bandyti."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "Skydai blokuoja pažeidžiamą elgesį, o teisėtų užklausų srautas tęsiasi.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Panasu, kad jau galima bandyti.",
+            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/category/technology/artificial-intelligence/applications/",
+            "try_url": "https://www.marktechpost.com/category/technology/artificial-intelligence/applications/"
+          }
+        },
+        {
+          "title": "„Anthropic“ pristato „Claude Ship“, skirtą „GitHub Pull“, užklausa peržiūrėti ir pataisyti",
+          "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+          "published_iso": "2026-11-24T00:02:39Z",
+          "published_lt": "2026-11-24 00:02 UTC",
+          "summary": "„Anthropic's Claude Ship“ sujungia „Code Review“, „PR Steward“ ir „Claude“ patvirtinimus, kad peržiūrėtų, pataisytų ir patvirtintų „GitHub“ ištraukimo užklausas. Kodo peržiūra yra GA; kiti 2 agentai yra viešosios beta versijos Team ir Enterprise.",
+          "source": "MarkTechPost",
+          "source_image_url": "",
+          "image_url": "generated-images/2026-11-28-12-anthropic-pristato-claude-ship-skirta-github-pull-uzklau.svg",
+          "kind": "article",
+          "video_id": "",
+          "bullets_lt": [
+            "„Anthropic's Claude Ship“ sujungia „Code Review“, „PR Steward“ ir „Claude“ patvirtinimus, kad peržiūrėtų, pataisytų ir patvirtintų „GitHub“ ištraukimo užklausas.",
+            "Kodo peržiūra yra GA; kiti 2 agentai yra viešosios beta versijos Team ir Enterprise.",
+            "Kaina: Yra nemokamas ir mokamas variantas.",
+            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui.",
+            "Prieinamumas: Prieinama kaip beta/preview."
+          ],
+          "practical": {
+            "kaina": "Yra nemokamas ir mokamas variantas.",
+            "kainos_detales": "Neaptikta siame saltinyje.",
+            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
+            "online_limitai": "„Anthropic's Claude Ship“ prideda 3 agentus, kurie peržiūri, taiso ir patvirtina „GitHub“ ištraukimo užklausas „Team“ ir „Enterprise“.",
+            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
+            "prieinamumas": "Prieinama kaip beta/preview.",
+            "kur_isbandyti": "Galima tikrinti cia: https://code.claude.com/docs/en/code-review",
+            "try_url": "https://code.claude.com/docs/en/code-review"
+          }
+        }
+      ]
+    },
     {
       "digest_date": "2026-11-27",
       "generated_at_utc": "2026-11-27T17:06:44Z",
@@ -39510,326 +39848,6 @@
             "prieinamumas": "Panasu, kad jau galima bandyti.",
             "kur_isbandyti": "Galima tikrinti cia: https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260729-1718",
             "try_url": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260729-1718"
-          }
-        }
-      ]
-    },
-    {
-      "digest_date": "2026-07-31",
-      "generated_at_utc": "2026-07-31T09:38:06Z",
-      "item_count": 12,
-      "items": [
-        {
-          "title": "„Nous Research“ pristato tris „Hermes Agent“ ir „Buzz“ integracijos kelius, „Block“ atvirojo kodo „Nostr“ darbo sritį žmonėms ir agentams",
-          "link": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
-          "published_iso": "2026-07-31T09:08:13Z",
-          "published_lt": "2026-07-31 09:08 UTC",
-          "summary": "„Nous Research“ išleido „Hermes Agent“ palaikymą „Buzz“, „Block“ atvirojo kodo, savarankiškai veikiančiai „Nostr“ darbo vietai, kurioje žmonės ir dirbtinio intelekto agentai naudojasi tais pačiais kanalais. Trys integravimo keliai apima darbalaukio vykdymo laiką, perdavimo tiltą ir vietinę šliuzo platformą, kuri išsaugo „Hermes“ atmintį, įgūdžius, patvirtinimus ir cron pristatymą.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-31-01-nous-research-pristato-tris-hermes-agent-ir-buzz-integra.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Nous Research“ išleido „Hermes Agent“ palaikymą „Buzz“, „Block“ atvirojo kodo, savarankiškai veikiančiai „Nostr“ darbo vietai, kurioje žmonės ir dirbtinio intelekto agentai naudojasi tais pačiais kanalais.",
-            "Trys integravimo keliai apima darbalaukio vykdymo laiką, perdavimo tiltą ir vietinę šliuzo platformą, kuri išsaugo „Hermes“ atmintį, įgūdžius, patvirtinimus ir cron pristatymą.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
-            "try_url": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/"
-          }
-        },
-        {
-          "title": "„PolyAI“ išleido „Dialog-RSN-1“: garsinį dialogo modelį, kuris sujungia posūkį, kalbos atpažinimą, funkcinį skambutį ir atsaką",
-          "link": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
-          "published_iso": "2026-07-31T05:06:43Z",
-          "published_lt": "2026-07-31 05:06 UTC",
-          "summary": "„PolyAI“ pristatė „Dialog-RSN-1“ – dialogo modelį, kuris tiesiogiai suvokia skambinančiojo garsą, o ne nuskaito ASR nuorašą.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-31-02-polyai-isleido-dialog-rsn-1-garsini-dialogo-modeli-kuris.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„PolyAI“ pristatė „Dialog-RSN-1“ – dialogo modelį, kuris tiesiogiai suvokia skambinančiojo garsą, o ne nuskaito ASR nuorašą."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
-            "try_url": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/"
-          }
-        },
-        {
-          "title": "Sukurkite politikos valdomų kelių agentų finansinių tyrimų darbo eigą naudodami „Omnigent“.",
-          "link": "https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/",
-          "published_iso": "2026-07-31T04:44:12Z",
-          "published_lt": "2026-07-31 04:44 UTC",
-          "summary": "Šioje pamokoje parodome, kaip sukurti ir vykdyti kelių agentų darbo eigą naudojant „Omnigent“ saugioje, izoliuotoje „Python“ aplinkoje.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-31-03-sukurkite-politikos-valdomu-keliu-agentu-finansiniu-tyri.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Šioje pamokoje parodome, kaip sukurti ir vykdyti kelių agentų darbo eigą naudojant „Omnigent“ saugioje, izoliuotoje „Python“ aplinkoje."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/",
-            "try_url": "https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/"
-          }
-        },
-        {
-          "title": "„Google DeepMind“ pristato tris fizinius AI modelius, skirtus viso kūno kontrolei, miklumui ir kelių robotų bendradarbiavimui",
-          "link": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
-          "published_iso": "2026-07-30T17:20:50Z",
-          "published_lt": "2026-07-30 17:20 UTC",
-          "summary": "„Google DeepMind“ išleido „Gemini Robotics 2“ – naujos kartos robotų žvalgybos sluoksnį.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-31-04-google-deepmind-pristato-tris-fizinius-ai-modelius-skirt.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Google DeepMind“ išleido „Gemini Robotics 2“ – naujos kartos robotų žvalgybos sluoksnį."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
-            "try_url": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/"
-          }
-        },
-        {
-          "title": "Zuckerbergas išsamiai aprašo asmeninę Meta AI superintelekto strategiją",
-          "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
-          "published_iso": "2026-07-30T11:12:11Z",
-          "published_lt": "2026-07-30 11:12 UTC",
-          "summary": "Markas Zuckerbergas paskelbė WSJ darbą, kuriame teigiama, kad superintelektas turi pasiekti asmenis, o ne tik kelias institucijas. „Meta“ vadovas paskelbė kūrinį kaip įmonės filosofijos pareiškimą, o ne produkto pranešimą. Jame nėra išleidimo datų, etaloninių skaičių ar įvardintų modelių.",
-          "source": "AI News",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-31-05-zuckerbergas-issamiai-apraso-asmenine-meta-ai-superintel.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Markas Zuckerbergas paskelbė WSJ darbą, kuriame teigiama, kad superintelektas turi pasiekti asmenis, o ne tik kelias institucijas.",
-            "„Meta“ vadovas paskelbė kūrinį kaip įmonės filosofijos pareiškimą, o ne produkto pranešimą.",
-            "Jame nėra išleidimo datų, etaloninių skaičių ar įvardintų modelių."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
-            "try_url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/"
-          }
-        },
-        {
-          "title": "Kaip AI keičia „Linux VPS“ saugumą įmonėms",
-          "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
-          "published_iso": "2026-07-30T10:41:02Z",
-          "published_lt": "2026-07-30 10:41 UTC",
-          "summary": "Kibernetinis saugumas iš tikrųjų nebuvo kažkas, dėl ko mažos ir vidutinio dydžio įmonės per daug nerimavo prieš kelerius metus. Kai tik jūsų klientų duomenys, programos ir vidiniai įrankiai patenka į tinklą, už jų esančio serverio apsauga nustoja būti neprivaloma.",
-          "source": "AI News",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-31-06-kaip-ai-keicia-linux-vps-sauguma-imonems.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Kibernetinis saugumas iš tikrųjų nebuvo kažkas, dėl ko mažos ir vidutinio dydžio įmonės per daug nerimavo prieš kelerius metus.",
-            "Kai tik jūsų klientų duomenys, programos ir vidiniai įrankiai patenka į tinklą, už jų esančio serverio apsauga nustoja būti neprivaloma."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
-            "try_url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/"
-          }
-        },
-        {
-          "title": "Tencent atvirojo kodo AngelSpec: vieninga mokymo sistema, skirta MTP ir blokinio lygiagrečiojo spekuliacinio dekodavimo Hy3 modeliuose",
-          "link": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/",
-          "published_iso": "2026-07-30T10:08:18Z",
-          "published_lt": "2026-07-30 10:08 UTC",
-          "summary": "„Tencent“ išleido „AngelSpec“ – atvirojo kodo žibintuvėlio sistemą, skirtą treniruoti spekuliacinio dekodavimo juodraščius šešiose architektūrose.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-31-07-tencent-atvirojo-kodo-angelspec-vieninga-mokymo-sistema-.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Tencent“ išleido „AngelSpec“ – atvirojo kodo žibintuvėlio sistemą, skirtą treniruoti spekuliacinio dekodavimo juodraščius šešiose architektūrose."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/",
-            "try_url": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/"
-          }
-        },
-        {
-          "title": "Susipažinkite su Token Saver: atvirojo kodo MCP plėtinys, naudojant vietinį hibridinį RAG, kad sumažintų Claude PDF žetonų išlaidas 90–99 %",
-          "link": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/",
-          "published_iso": "2026-07-30T07:43:29Z",
-          "published_lt": "2026-07-30 07:43 UTC",
-          "summary": "„Marktechpost AI“ išleido „Token Saver“ – atvirojo kodo MCP plėtinį, skirtą „Claude Desktop“, kuris naudoja vietinį hibridinį RAG, kad sumažintų PDF prieigos raktų naudojimą iki 99%, tuo pačiu užtikrinant absoliutų dokumentų privatumą.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-31-08-susipazinkite-su-token-saver-atvirojo-kodo-mcp-pletinys-.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Marktechpost AI“ išleido „Token Saver“ – atvirojo kodo MCP plėtinį, skirtą „Claude Desktop“, kuris naudoja vietinį hibridinį RAG, kad sumažintų PDF prieigos raktų naudojimą iki 99%, tuo pačiu užtikrinant absoliutų dokumentų privatumą."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/",
-            "try_url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/"
-          }
-        },
-        {
-          "title": "Greita inžinerija vs ciklo inžinerija vs grafikų inžinerija: kas keičiasi kiekviename sluoksnyje",
-          "link": "https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/",
-          "published_iso": "2026-07-30T05:45:53Z",
-          "published_lt": "2026-07-30 05:45 UTC",
-          "summary": "Trys kadencijos dabar konkuruoja dėl tos pačios eilutės AI inžinierių pareigybių aprašymuose. Greita inžinerija yra nustatyta. Ciklų inžinerija į AI žodyną pateko 2025 m. pabaigoje ir dominavo kūrėjų diskusijose iki 2026 m. birželio mėn.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-31-09-greita-inzinerija-vs-ciklo-inzinerija-vs-grafiku-inziner.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "Trys kadencijos dabar konkuruoja dėl tos pačios eilutės AI inžinierių pareigybių aprašymuose.",
-            "Greita inžinerija yra nustatyta.",
-            "Ciklų inžinerija į AI žodyną pateko 2025 m."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/",
-            "try_url": "https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/"
-          }
-        },
-        {
-          "title": "Moonshot AI atvirojo kodo MoonEP: puikiai subalansuota ekspertų paralelizmo biblioteka, skirta Vidaus reikalų ministerijai",
-          "link": "https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/",
-          "published_iso": "2026-07-30T05:28:39Z",
-          "published_lt": "2026-07-30 05:28 UTC",
-          "summary": "„Moonshot AI“ turi atvirojo kodo „MoonEP“, „Expert Parallelism“ (EP) komunikacijos biblioteką, skirtą paskirstytam ekspertų mišinio (MoE) darbo krūviui. Komanda paskelbė apie leidimą kaip biblioteką, sukurtą tam, kad ekspertų lygiagretus bendravimas būtų efektyvesnis. Jis siunčiamas pagal MIT licenciją.",
-          "source": "MarkTechPost",
-          "source_image_url": "",
-          "image_url": "generated-images/2026-07-31-10-moonshot-ai-atvirojo-kodo-moonep-puikiai-subalansuota-ek.svg",
-          "kind": "article",
-          "video_id": "",
-          "bullets_lt": [
-            "„Moonshot AI“ turi atvirojo kodo „MoonEP“, „Expert Parallelism“ (EP) komunikacijos biblioteką, skirtą paskirstytam ekspertų mišinio (MoE) darbo krūviui.",
-            "Komanda paskelbė apie leidimą kaip biblioteką, sukurtą tam, kad ekspertų lygiagretus bendravimas būtų efektyvesnis.",
-            "Jis siunčiamas pagal MIT licenciją.",
-            "Veikimo budas: Panasu, kad veikia online (naršyklė/API)."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad veikia online (naršyklė/API).",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/",
-            "try_url": "https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/"
-          }
-        },
-        {
-          "title": "Balso naudojimas ChatGPT darbe",
-          "link": "https://www.youtube.com/watch?v=_Gd9yzAc-WI",
-          "published_iso": "2026-07-29T22:37:43Z",
-          "published_lt": "2026-07-29 22:37 UTC",
-          "summary": "Kalbėkite dirbdami naudodami „ChatGPT Voice“, kai jis mato jūsų ekraną, veikia prijungtose programose ir atlieka užduotis fone. Sužinokite, kaip balsas padeda sugalvoti „DevDay“ aktyvinimą, koordinuoti veiklą ne svetainėje, pasiruošti kelionei ir dalytis baigtais darbais nepažeidžiant naudotojo srauto.",
-          "source": "OpenAI",
-          "source_image_url": "https://i4.ytimg.com/vi/_Gd9yzAc-WI/hqdefault.jpg",
-          "image_url": "generated-images/2026-07-31-11-balso-naudojimas-chatgpt-darbe.svg",
-          "kind": "video",
-          "video_id": "_Gd9yzAc-WI",
-          "bullets_lt": [
-            "Kalbėkite dirbdami naudodami „ChatGPT Voice“, kai jis mato jūsų ekraną, veikia prijungtose programose ir atlieka užduotis fone.",
-            "Sužinokite, kaip balsas padeda sugalvoti „DevDay“ aktyvinimą, koordinuoti veiklą ne svetainėje, pasiruošti kelionei ir dalytis baigtais darbais nepažeidžiant naudotojo srauto."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Neaptikta siame saltinyje.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=_Gd9yzAc-WI",
-            "try_url": "https://www.youtube.com/watch?v=_Gd9yzAc-WI"
-          }
-        },
-        {
-          "title": "Kimi K3 tiesiog sulaužė AI ekonomiką",
-          "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-          "published_iso": "2026-07-29T12:37:50Z",
-          "published_lt": "2026-07-29 12:37 UTC",
-          "summary": "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Popierius rasite čia: https://arxiv.org/abs/2607.24653 Išbandykite Kimi K3 (jei yra): https://www.kimi.com/ Nuorodos: https://macos27.kimi. https://x.com/mweinbach/status/2077878247920951400 https://x.com/intheworldofa",
-          "source": "Two Minute Papers",
-          "source_image_url": "https://i1.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
-          "image_url": "generated-images/2026-07-31-12-kimi-k3-tiesiog-sulauze-ai-ekonomika.svg",
-          "kind": "video",
-          "video_id": "Xj-QdEUxJkE",
-          "bullets_lt": [
-            "❤️ Patikrinkite Lambda čia ir prisiregistruokite prie jų GPU debesies: https://lambda.ai/papers 📝 Popierius rasite čia: https://arxiv.org/abs/2607.24653 Išbandykite Kimi K3 (jei yra): https://www.kimi.com/ Nuorodos: https://macos27.kimi.",
-            "https://x.com/mweinbach/status/2077878247920951400 https://x.com/intheworldofa.",
-            "Veikimo budas: Panasu, kad skirta lokaliam paleidimui."
-          ],
-          "practical": {
-            "kaina": "Neaptikta siame saltinyje.",
-            "kainos_detales": "Neaptikta siame saltinyje.",
-            "veikimo_budas": "Panasu, kad skirta lokaliam paleidimui.",
-            "online_limitai": "Neaptikta siame saltinyje.",
-            "lokalus_reikalavimai": "Neaptikta siame saltinyje.",
-            "prieinamumas": "Neaptikta siame saltinyje.",
-            "kur_isbandyti": "Galima tikrinti cia: https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-            "try_url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE"
           }
         }
       ]
